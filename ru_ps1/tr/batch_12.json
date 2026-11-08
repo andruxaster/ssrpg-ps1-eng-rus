@@ -1,0 +1,3125 @@
+[
+{
+"id": 2376,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Y-you can really do that, kekeh?"
+],
+"jp": "そ・・・そんなことが できるのケケ？",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2377,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Of course... But there is a price..."
+],
+"jp": "無論・・・ ただし、代償はいる・・・",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Именно!"
+}
+]
+},
+{
+"id": 2378,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Wh-what is it, keh? My family's heirloom bones?"
+],
+"jp": "な、何だケ？ 家宝の骨だケか？",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Именно!"
+}
+]
+},
+{
+"id": 2379,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Your... toward me...",
+"...absolute loyalty."
+],
+"jp": "お前の・・・我に対する・・・ / ・・・絶対の忠誠",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Именно!"
+}
+]
+},
+{
+"id": 2380,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Loyalty?",
+"Cheap at the price, keh! So you're my new boss, keh?"
+],
+"jp": "忠誠？ / お安いもんだケ あんたがワシの大将だケな？",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Именно!"
+}
+]
+},
+{
+"id": 2381,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"(Talk is cheap, keh.) So, what do I have to do, keh?"
+],
+"jp": "（言うだけならタダだケ） んで、何をすれば良いのケ？",
+"choice": null,
+"context": [
+{
+"ru": "Именно!"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 2382,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Souls.",
+"More souls... sent to me in the demon realm..."
+],
+"jp": "魂を / より多くの魂を魔界の・・・ 我の元へ・・・",
+"choice": null,
+"context": [
+{
+"ru": "Именно!"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 2383,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"So that I may remain myself...",
+"Send me strong souls as sacrifices."
+],
+"jp": "我が我自身でいられるように / 生け贄となる強い魂を 我の元へ送りとどけよ",
+"choice": null,
+"context": [
+{
+"ru": "Именно!"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 2384,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Kekeke! In other words, keh!",
+"I just need to drag more warriors than ever down into darkness, keh?"
+],
+"jp": "ケケケ！ 要するにケ！ / これまで以上に、多くの戦士を 魔道に堕としてやればいいだケ？",
+"choice": null,
+"context": [
+{
+"ru": "Именно!"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 2385,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Easy as pie, keh! Just what I wanted, keh!"
+],
+"jp": "か～んたんだケ 望むところだケ",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2386,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Then the pact is sealed..."
+],
+"jp": "契約は成立した・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2387,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Gen'an... offer me more souls..."
+],
+"jp": "幻庵よ・・・ より多くの魂を我に捧げよ・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2388,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Nkekeke! Rejoice, Azami!"
+],
+"jp": "ンケケケッ！ 喜べ、あざみ！",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Ура-а-а-а!"
+}
+]
+},
+{
+"id": 2389,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Nkekeke! Azami, I'm back, keh!"
+],
+"jp": "ンケケケ！ あざみ、帰ってきたケ！",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Ура-а-а-а!"
+}
+]
+},
+{
+"id": 2390,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"D-dear! You're safe... you're really safe..."
+],
+"jp": "あ・・・あなたっ！ よくぞ、よくぞご無事で・・・",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Ура-а-а-а!"
+}
+]
+},
+{
+"id": 2391,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Yay! He's back! Papa, Papa!"
+],
+"jp": "わーい！帰ってきた！ お父チャ、お父チャ！",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Ура-а-а-а!"
+}
+]
+},
+{
+"id": 2392,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Sorry I worried you, keh..."
+],
+"jp": "心配かけたケ・・・",
+"choice": null,
+"context": [
+{
+"ru": "Ура-а-а-а!"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 2393,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Gen'an, destroyed by his own arrogance,",
+"thus returned from the demon realm."
+],
+"jp": "慢心から おのが身を滅ぼした幻庵は / こうして魔界からの復活を 果たした",
+"choice": null,
+"context": [
+{
+"ru": "Ура-а-а-а!"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 2394,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Crueler and more savage than ever before,",
+"Gen'an was reborn."
+],
+"jp": "さらに残酷に さらに凶暴さを増して / 復活した幻庵",
+"choice": null,
+"context": [
+{
+"ru": "Ура-а-а-а!"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 2395,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Gen'an marches on,",
+"straight down the path of darkness he believes in..."
+],
+"jp": "幻庵は進む / おのが信じる魔道の道を 一直線に・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2396,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Kekeke... Now then, who shall I drag into darkness next, keh..."
+],
+"jp": "ケケケ・・・さあて、今度は 誰を魔道に堕としてやるケな・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2397,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"The one true king of darkness is..."
+],
+"jp": "真の魔道の王は・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2398,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"None other than Shiranui Gen'an, keh!"
+],
+"jp": "この不知火幻庵ただ一人ケ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2399,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"What the hell, what the hell!"
+],
+"jp": "何でぇ何でぇ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2400,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"You want us to pay money for this lousy food?",
+"Hey, old man!"
+],
+"jp": "こんなまずい料理に 銭を出せっつーのかい？ / オッサン！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2401,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Th-that's terrible! You're customers, yes?"
+],
+"jp": "ひ・・・ひどいアルよ！ お客さん！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2402,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Burp... Man, that was awful."
+],
+"jp": "げっぷ・・・ あー、まずかった",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2403,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"We oughta get a medal just for eating every last bite!"
+],
+"jp": "全部残さず食ったっつーだけでも 感謝状が出るよな、まったく",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2404,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Seriously, we should be the ones sending YOU a bill!"
+],
+"jp": "ほんと、逆にこっちから 請求書を出したいくらいだぜぃ",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2405,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"You can't do this, customers!"
+],
+"jp": "困るアルよ、お客さん！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2406,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"You ordered plate after plate and gobbled it all up happily...",
+"You can't say that, you see!"
+],
+"jp": "どんどこ注文して おいしそうにたいらげといて / それはないアル！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2407,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"You idiot! Can't you tell we were being nice?",
+"If we ate lookin' disgusted, we'd hurt your feelings!"
+],
+"jp": "ぶぅわか野郎！ 気ィ使ってるのわかんねーのか！ / まずそうに食ってたら おめーがかわいそうじゃねぇか！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2408,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"We kept orderin' plate after plate",
+"outta pity, hopin' something edible would show up!"
+],
+"jp": "どんどこ注文したのはなぁ / いつかは食える料理が出るだろうと 思ってのお情けなのよ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2409,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"And you let us down anyway..."
+],
+"jp": "それなのに期待を 裏切りやがって・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2410,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"B-but... that's 20 servings, eaten for free, yes?"
+],
+"jp": "そ・・・そんなぁ・・・ ２０人前ただ食いアルか・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2411,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Hey, don't make it sound so bad!"
+],
+"jp": "人聞きの悪いこと 言うなよなぁ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2412,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Hey, hey! This ain't a show! Beat it!"
+],
+"jp": "オラオラ！ 見せ物じゃねぇぞ！　散れ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2413,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"See ya, old man! Work on your cooking a little, huh?"
+],
+"jp": "じゃあな、オッサン！ もう少し料理の腕を磨いておけよ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2414,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"W-wait, you!"
+],
+"jp": "ま・・・待つアルよ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2415,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Eating without paying, then insulting my cooking too...",
+"Lou, best chef in Peking, can't take this, you see!"
+],
+"jp": "無銭飲食の上に料理の味にまで ケチを付けられては / 北京一の料理人・周さん 立場ないアルよ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2416,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Hey, old man, what're you doin'?!"
+],
+"jp": "オッサン、何すんだよ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2417,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Heh heh heh... You're gonna pay for this."
+],
+"jp": "へへへ・・・ こりゃあ高くつくぜぇ",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2418,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Hey, old man!"
+],
+"jp": "おいオッサン！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2419,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Don't you know who we are?!",
+"We're the one and only Earthquake Gang!"
+],
+"jp": "知らねーのか！ / オレたちゃ天下の アースクェイク一味だぜぃ・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2420,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Eeeeeek!"
+],
+"jp": "ひぇぇぇぇ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2421,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Ah! It's the Wan-Fu dojo!"
+],
+"jp": "あっ！　王虎道場の！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2422,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"It's Lord Wan-Fu's students!"
+],
+"jp": "王虎様の お弟子さんたちだ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2423,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Stop this, in the middle of the street!"
+],
+"jp": "やめんか、天下の往来で！",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Вы в порядке, старейшина?!"
+}
+]
+},
+{
+"id": 2424,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"The Wan-Fu dojo won't allow such violence in Peking!"
+],
+"jp": "北京での乱暴は 王虎道場が許さぬぞ！",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Вы в порядке, старейшина?!"
+}
+]
+},
+{
+"id": 2425,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"What's this... some weirdos showed up."
+],
+"jp": "何だぁ・・・ 変なのがやってきたぜ",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Вы в порядке, старейшина?!"
+}
+]
+},
+{
+"id": 2426,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Got a problem with us?! Huh?!"
+],
+"jp": "何か文句あっかぁ！ あん！",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Вы в порядке, старейшина?!"
+},
+{
+"ru": "...Ясно."
+}
+]
+},
+{
+"id": 2427,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"I'm all right, you see..."
+],
+"jp": "私は大丈夫アル・・・",
+"choice": null,
+"context": [
+{
+"ru": "Вы в порядке, старейшина?!"
+},
+{
+"self": true
+},
+{
+"ru": "...Ясно."
+}
+]
+},
+{
+"id": 2428,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Those men ate at the Peking Restaurant without paying!",
+"Unforgivable, yes!"
+],
+"jp": "あいつら 北京菜館で無銭飲食したアル！ / 許せないアル！",
+"choice": null,
+"context": [
+{
+"ru": "Вы в порядке, старейшина?!"
+},
+{
+"self": true
+},
+{
+"ru": "...Ясно."
+}
+]
+},
+{
+"id": 2429,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"You there! Apologize and pay up now, and we'll let it go!"
+],
+"jp": "貴様たち、今なら謝って 代金を払えば許してやるぞ！",
+"choice": null,
+"context": [
+{
+"ru": "Вы в порядке, старейшина?!"
+},
+{
+"ru": "...Ясно."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 2430,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Heh! If you want the money, take it by force!"
+],
+"jp": "へへん、代金が欲しけりゃ 力ずくで取りな！",
+"choice": null,
+"context": [
+{
+"ru": "...Ясно."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 2431,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Ow, ouch! Ow ow ow..."
+],
+"jp": "あいてっ、いてっ いててっ・・・",
+"choice": null,
+"context": [
+{
+"ru": "...Ясно."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 2432,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Eek, eeek... M-mercy, have mercy!"
+],
+"jp": "ひい、ひいい・・・ か、勘弁っ、勘弁しちくりぃ！",
+"choice": null,
+"context": [
+{
+"ru": "...Ясно."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 2433,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Learned your lesson?! Now leave the money and go!"
+],
+"jp": "思い知ったか！ さあ、代金を置いて行けい！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2434,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"D-damn it..."
+],
+"jp": "ち、ちきしょう・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2435,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"You'll pay for this! Ow ow ow..."
+],
+"jp": "覚えてやがれぃ！ いててて・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2436,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"There, Lou... What a terrible ordeal for you..."
+],
+"jp": "さあ周大人 とんだ災難でしたね・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2437,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Ah, you saved me, yes..."
+],
+"jp": "いやあ、助かったアル・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2438,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Just what I'd expect from Lord Wan-Fu's students!"
+],
+"jp": "さすがは王虎殿の お弟子さんたちアルな",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2439,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"No... Lord Wan-Fu left the dojo in our unworthy hands",
+"and set off on a journey."
+],
+"jp": "いえ・・・王虎様は留守を 我々未熟者に託して / 旅に出られました",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2440,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"We are only following Lord Wan-Fu's orders."
+],
+"jp": "我々は王虎様のご命令を 守っているだけです",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2441,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Lord Wan-Fu's students are truly something, you see!"
+],
+"jp": "さすがは王虎様の お弟子さんたちアルよ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2442,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Lord Wan-Fu is a friend to us common folk, yes!"
+],
+"jp": "王虎様は 我々平民の味方アルな！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2443,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Long live Lord Wan-Fu!"
+],
+"jp": "王虎様、万歳！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2444,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Long live the Wan-Fu dojo!"
+],
+"jp": "王虎道場、万歳！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2445,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"What's all this commotion before Tiananmen?"
+],
+"jp": "なんじゃ・・・ 天安門の前でこの騒ぎは・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2446,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Ohh... It's Lord Wan-Long, you see!"
+],
+"jp": "おおっ・・・王竜様アルよ",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2447,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Lord Wan-Long has returned to Peking!"
+],
+"jp": "王竜様が 北京にお帰りになられたアルよ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2448,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Ah... Wan-Fu's men... What happened here?"
+],
+"jp": "おお・・・王虎のところの・・・ 何があったのじゃ？",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2449,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Some ruffians were causing trouble,",
+"so we taught them a lesson in Lord Wan-Fu's place."
+],
+"jp": "乱暴を働いた無法者を / 王虎様の代わりに 少々懲らしめてやったのです",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2450,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"I see... Good work, then."
+],
+"jp": "そうか・・・ それはご苦労じゃったの",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2451,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"However, report such matters to the authorities first.",
+"Even a just fight, without proper channels, is mere brawling."
+],
+"jp": "しかし、そういうことは お上にまず報告するように / 義戦もしかるべき筋を通さねば ただの私闘である",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2452,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Since it is you, I will overlook it this time..."
+],
+"jp": "お主らであるから 見逃してやるが・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2453,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"...Yes, sir."
+],
+"jp": "・・・・はっ",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2454,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Come on, come on! Clear the way!"
+],
+"jp": "ほれほれ！ 道をあけぬか、道を！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2455,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Lord Wan-Long returns in triumph from crushing a rebellion!",
+"He is in a hurry!"
+],
+"jp": "王竜様は反乱を鎮定されての 凱旋報告じゃ！ / 急いでおるのだ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2456,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Lord Wan-Long has another victory, yes?"
+],
+"jp": "王竜様はまたお手柄アルね",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2457,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Every time he goes to war he comes back a hero, you see..."
+],
+"jp": "出陣するたびに 武功をあげてくるアルな・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2458,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Lord Wan-Fu still hasn't come back..."
+],
+"jp": "王虎様は まだお帰りになられぬか・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2459,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Is it because he doesn't get along with Lord Wan-Long?"
+],
+"jp": "王竜様との不仲が 原因アルか・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2460,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"No, no.",
+"Lord Wan-Fu wouldn't leave the capital over that, you see..."
+],
+"jp": "いやいや / そのような理由で都を出られる 王虎様ではないアルよ・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2461,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"I hear he's gone on a journey to find a true man."
+],
+"jp": "なんでも真の漢をさがす旅に 出られたとか",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2462,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"A true man, you say..."
+],
+"jp": "真の漢・・・アルか",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2463,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"This is the place, boss!"
+],
+"jp": "ここですぜ！　親分！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2464,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Damn it! We'll pay you back for the other day!"
+],
+"jp": "ちくしょう！　こないだの借りを 返してやるからな！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2465,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Heh heh heh, so this is that dojo-whatever, huh?"
+],
+"jp": "ＧＦＦＦ、ここかぁ なんとかドージョーってのはよぉ",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2466,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Hey! The Earth Gang, feared by all, is here to return the favor!"
+],
+"jp": "おらぁ！　泣く子も黙るアース団が 先日のお礼参りにやってきたぜぇ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2467,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Don't you ignore us!"
+],
+"jp": "シカトしてんじゃねーよ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2468,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Come out quick, or we'll torch your precious dojo!"
+],
+"jp": "早く出てこねーと 大事な道場に、火ぃつけっぞ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2469,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"I'm so hungry..."
+],
+"jp": "腹減ったァ・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2470,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Boooss... I wanted to eat for free too..."
+],
+"jp": "親分～ん おいらもタダ食いしたかったよぉ",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2471,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Heh heh heh, Kinzo... just hang on a little longer..."
+],
+"jp": "ＧＦＦＦ、キン三よ もう少し我慢しなぁ・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2472,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"We'll get a little pocket money from these guys,",
+"and then you can eat your fill... Heh!"
+],
+"jp": "ここの連中からちいとばかり こづかい銭をもらって / たらふく食わしてやるぜェ ・・・ＧＦ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2473,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Yaaay! That's our boss!"
+],
+"jp": "わ～いぃ！さっすがは親分だぁ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2474,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Then let's hurry up and smash 'em!"
+],
+"jp": "そうと決まったら、早ぇえとこ ぶっ片づけちまおうぜい！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2475,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Come on! Where'd all that attitude from last time go?!"
+],
+"jp": "オラオラァ！ こないだの威勢はどうしたぁ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2476,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"...Aaaagh!"
+],
+"jp": "・・・ぎゃああ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2477,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Well, if it isn't those freeloaders from before!"
+],
+"jp": "誰かと思えば この間の無銭飲食か！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2478,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Looks like the beating we gave you wasn't enough..."
+],
+"jp": "あれだけ性根を打ちすえてやっても まだ足りんようだな・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2479,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"This time, you're the ones learnin' a lesson!"
+],
+"jp": "今度はおめーらが 思い知るんだよ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2480,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Get 'em!"
+],
+"jp": "やっちまえ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2481,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"How's that?! Taste the fists of the Wan-Fu style!"
+],
+"jp": "どうだ！ 王虎流の拳の味は！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2482,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Now, villains, get out of Peking!"
+],
+"jp": "さあ 悪党は北京から出て行け！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2483,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"D-damn it! B-boss!"
+],
+"jp": "く・・・くそぅ！ お、親分ン～っ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2484,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Heh heh heh heh... Can't be helped..."
+],
+"jp": "ＧＦＦＦＦ・・・・ しょうがねぇなぁ・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2485,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"So you're the ringleader of these crooks!"
+],
+"jp": "お前が悪者の親玉かっ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2486,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"We'll punish you in Lord Wan-Fu's stead!"
+],
+"jp": "王虎様に代わって 成敗してくれる！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2487,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Well now, guess I'll play with ya a bit... Heh."
+],
+"jp": "どおれ、いっちょ 相手してやっかな・・・ＧＦ",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Мои силы не действуют...? Нет...!"
+}
+]
+},
+{
+"id": 2488,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Hyah!"
+],
+"jp": "せいやっ！",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Мои силы не действуют...? Нет...!"
+}
+]
+},
+{
+"id": 2489,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Ngh... What is this guy?!"
+],
+"jp": "むむ・・・なんてやつだ！",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Мои силы не действуют...? Нет...!"
+}
+]
+},
+{
+"id": 2490,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"What, that's it?"
+],
+"jp": "なんでえ、この程度か・・・",
+"choice": null,
+"context": [
+{
+"ru": "Мои силы не действуют...? Нет...!"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 2491,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"All right, now it's my turn!"
+],
+"jp": "んじゃあ 今度はこっちから行くぜぇ！",
+"choice": null,
+"context": [
+{
+"ru": "Мои силы не действуют...? Нет...!"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 2492,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Heh heh heh, too easy, too easy!"
+],
+"jp": "ＧＦＦＦ、楽勝、楽勝！",
+"choice": null,
+"context": [
+{
+"ru": "Мои силы не действуют...? Нет...!"
+},
+{
+"self": true
+},
+{
+"ru": "Про... проклятье..."
+}
+]
+},
+{
+"id": 2493,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"All right, boys, have at 'em!"
+],
+"jp": "ようし、野郎ども 存分にやっちまいな！",
+"choice": null,
+"context": [
+{
+"ru": "Мои силы не действуют...? Нет...!"
+},
+{
+"self": true
+},
+{
+"ru": "Про... проклятье..."
+}
+]
+},
+{
+"id": 2494,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Heh heh heh... That's our boss!"
+],
+"jp": "へっへっへ・・・ さすがは親分！",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Про... проклятье..."
+}
+]
+},
+{
+"id": 2495,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Cross the Earth Family and see what happens!",
+"We'll teach ya with our fists!"
+],
+"jp": "アース一家に逆らったら どういうことになるか / 体で教えてやるぜい！",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Про... проклятье..."
+}
+]
+},
+{
+"id": 2496,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Stop this at once!"
+],
+"jp": "おやめなさいっ！",
+"choice": null,
+"context": [
+{
+"ru": "Про... проклятье..."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 2497,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"M-my lady..."
+],
+"jp": "お・・・奥様っ・・・",
+"choice": null,
+"context": [
+{
+"ru": "Про... проклятье..."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 2498,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Whoa there...",
+"Now ain't this a real pretty lady showin' up... Heh heh."
+],
+"jp": "おっとぉ・・・ / こりゃあドえらいべっぴんさんの ご登場だねぇ・・・ＧＦＦ",
+"choice": null,
+"context": [
+{
+"ru": "Про... проклятье..."
+},
+{
+"self": true
+},
+{
+"ru": "Йе!!"
+}
+]
+},
+{
+"id": 2499,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"You will not lay a hand on these men!"
+],
+"jp": "このものたちに 手出しはなりません！",
+"choice": null,
+"context": [
+{
+"ru": "Про... проклятье..."
+},
+{
+"self": true
+},
+{
+"ru": "Йе!!"
+}
+]
+},
+{
+"id": 2500,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Even so..."
+],
+"jp": "そうは言ってもよう・・・",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Йе!!"
+}
+]
+},
+{
+"id": 2501,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"For the mental and physical pain my boys suffered,",
+"we're gonna need some proper apology money..."
+],
+"jp": "オレ様の子分たちが受けた 精神的肉体的苦痛に対して / わび代はきっちりと 払ってもらわなくちゃあなぁ～",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Йе!!"
+},
+{
+"ru": "Ладно... тогда в другой раз."
+}
+]
+},
+{
+"id": 2502,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Apology money! Apology money!"
+],
+"jp": "わび代、わび代！",
+"choice": null,
+"context": [
+{
+"ru": "Йе!!"
+},
+{
+"self": true
+},
+{
+"ru": "Ладно... тогда в другой раз."
+}
+]
+},
+{
+"id": 2503,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"I have no money to give thugs like you!"
+],
+"jp": "あなた達のようなやくざものに 支払う金はありません！",
+"choice": null,
+"context": [
+{
+"ru": "Йе!!"
+},
+{
+"self": true
+},
+{
+"ru": "Ладно... тогда в другой раз."
+}
+]
+},
+{
+"id": 2504,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Guess we'll just have 'em pay with their bodies, then..."
+],
+"jp": "やっぱ、こいつらの体で 払ってもらうことにすっかな・・・",
+"choice": null,
+"context": [
+{
+"ru": "Йе!!"
+},
+{
+"ru": "Ладно... тогда в другой раз."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 2505,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Hey, fold these guys up!"
+],
+"jp": "おう、こいつらを たたんじまいな！",
+"choice": null,
+"context": [
+{
+"ru": "Ладно... тогда в другой раз."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 2506,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"You got it, boss!"
+],
+"jp": "へい、待ってました！",
+"choice": null,
+"context": [
+{
+"ru": "Ладно... тогда в другой раз."
+},
+{
+"self": true
+},
+{
+"ru": "Как ты мог...?"
+}
+]
+},
+{
+"id": 2507,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Relax, we ain't gonna kill ya!"
+],
+"jp": "安心しな、命まで取ろうとは 言わねえぜ！",
+"choice": null,
+"context": [
+{
+"ru": "Ладно... тогда в другой раз."
+},
+{
+"self": true
+},
+{
+"ru": "Как ты мог...?"
+}
+]
+},
+{
+"id": 2508,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Just hold still a bit and it'll be over quick... Heh heh."
+],
+"jp": "ちょいとがまんしてれば すぐに済むからよぉ・・・えへへ",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Как ты мог...?"
+}
+]
+},
+{
+"id": 2509,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"D-damn it... Do it, then!"
+],
+"jp": "く・・・くそっ やるならやれい！",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Как ты мог...?"
+}
+]
+},
+{
+"id": 2510,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Uh-oh! Scram!"
+],
+"jp": "やべぇ！　ずらかれ！",
+"choice": null,
+"context": [
+{
+"ru": "Как ты мог...?"
+},
+{
+"self": true
+},
+{
+"ru": "Огромное вам спасибо...!"
+}
+]
+},
+{
+"id": 2511,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Eeek! What the...",
+"One, two, three... No way!"
+],
+"jp": "ひぇぇ！　なんだこりゃ・・・ / ひぃ、ふぅ、みぃ・・・ マジかよぉ！",
+"choice": null,
+"context": [
+{
+"ru": "Как ты мог...?"
+},
+{
+"self": true
+},
+{
+"ru": "Огромное вам спасибо...!"
+}
+]
+},
+{
+"id": 2512,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"There's 100 of 'em! Damn it, you'll pay for this!"
+],
+"jp": "１００人はいるぜ！ くそっ、おぼえてやがれぇ！",
+"choice": null,
+"context": [
+{
+"ru": "Как ты мог...?"
+},
+{
+"self": true
+},
+{
+"ru": "Огромное вам спасибо...!"
+}
+]
+},
+{
+"id": 2513,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"It seems I made it in time..."
+],
+"jp": "どうやら 間に合ったようだな・・・",
+"choice": null,
+"context": [
+{
+"ru": "Как ты мог...?"
+},
+{
+"self": true
+},
+{
+"ru": "Огромное вам спасибо...!"
+}
+]
+},
+{
+"id": 2514,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Wan-Fu can't even protect a single dojo, yet he goes looking for a true man? Laughable..."
+],
+"jp": "王虎め、道場の一つも守れずして 漢探しとは片腹痛い・・・",
+"choice": null,
+"context": [
+{
+"ru": "Огромное вам спасибо...!"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 2515,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"W-we have no excuse..."
+],
+"jp": "め・・・面目次第も ございませぬ",
+"choice": null,
+"context": [
+{
+"ru": "Огромное вам спасибо...!"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 2516,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"It is all due to our weakness."
+],
+"jp": "我らがふがいないばかりに",
+"choice": null,
+"context": [
+{
+"ru": "Огромное вам спасибо...!"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 2517,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Hmph... I do recognize your abilities."
+],
+"jp": "ふん・・・貴様らの力量は ワシも認めておるわ",
+"choice": null,
+"context": [
+{
+"ru": "Огромное вам спасибо...!"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 2518,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"What I blame is Wan-Fu,",
+"whose small mind can only use men like you",
+"as mere servants!"
+],
+"jp": "お主らほどの男を / 使用人のようにしか使えぬ 王虎の器を / ワシは責めておるのよ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2519,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Truly, as his brother, I am ashamed!"
+],
+"jp": "まったく、兄として 恥ずかしい限りじゃわい！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2520,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Lord Wan-Long... that is not so."
+],
+"jp": "王竜様・・・それは違います",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2521,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Lord Wan-Fu's character may not surpass yours,",
+"but it is by no means inferior."
+],
+"jp": "王虎様の御器量は あなた様に勝れども / 決して劣るものではございません",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2522,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"I am grateful for your help, but...",
+"you drove off those ruffians with the power of an army.",
+"Wan-Fu would have his own way of doing things."
+],
+"jp": "助けてもらって何ですが / あなたは悪漢を追い払うのに 軍隊の力を持って行われました / 王虎にはまた 別のやり方がありましょう",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2523,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Hmph... Ming Ming, you are only a woman after all."
+],
+"jp": "ふん・・・眠眠よ しょせんはそなたもおなごよの",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2524,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"It is best to crush evil with even greater force...",
+"It is quick and leaves no trouble... especially with scum like that."
+],
+"jp": "悪はそれ以上の力を持って 打ち砕いてしまうのが一番じゃ・・・ / 早いし、後腐れもない・・・ あのようなクズどもは特にな・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2525,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"...Lord Wan-Long."
+],
+"jp": "・・・王竜様",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Боюсь, что нет... Простите..."
+}
+]
+},
+{
+"id": 2526,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"...Never mind. You would never understand."
+],
+"jp": "・・・まあよい そなたには分かってもらえまい",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Боюсь, что нет... Простите..."
+}
+]
+},
+{
+"id": 2527,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"...If you had understood, by now... No..."
+],
+"jp": "・・・分かってくれていれば 今頃は・・・いや・・・",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Боюсь, что нет... Простите..."
+}
+]
+},
+{
+"id": 2528,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"We're leaving!"
+],
+"jp": "引き上げるぞ！",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Боюсь, что нет... Простите..."
+}
+]
+},
+{
+"id": 2529,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Because our training was lacking,",
+"we have brought shame upon Lord Wan-Fu."
+],
+"jp": "我々の修行が足りぬばかりに / ・・・王虎様のお顔に 泥をぬってしまいました",
+"choice": null,
+"context": [
+{
+"ru": "Боюсь, что нет... Простите..."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 2530,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"It's all right...",
+"You protected the dojo.",
+"You have nothing to be ashamed of."
+],
+"jp": "よいのですよ・・・ / お前たちは道場を 守ってくれたのです / 何の恥じることもありません",
+"choice": null,
+"context": [
+{
+"ru": "Боюсь, что нет... Простите..."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 2531,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"...My lady."
+],
+"jp": "・・・奥様",
+"choice": null,
+"context": [
+{
+"ru": "Боюсь, что нет... Простите..."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 2532,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"(Dear... please come home soon.)"
+],
+"jp": "（あなた・・・早く帰ってらして）",
+"choice": null,
+"context": [
+{
+"ru": "Боюсь, что нет... Простите..."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 2533,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Damn it, just for a couple of thieves,",
+"they bring out 100 soldiers?!",
+"What kinda place is this Peking, anyway?!"
+],
+"jp": "ちくしょう、たかが盗人に / １００人からの兵隊を 持ち出してくるたぁ / 北京ってのはなんつーとこだい 全くよぉ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2534,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"If you ask me,",
+"that guy's just a yellow-bellied chicken!"
+],
+"jp": "あっしが思うに / あの野郎は臆病者の チキン野郎なんですぜ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2535,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Hmph! Throwin' your weight around with numbers? Not cool!"
+],
+"jp": "けっ！人数を頼んでの空威張りたぁ 感心しないねぇ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2536,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Yeah, yeah!",
+"Those cocky kung fu punks had more guts than him!"
+],
+"jp": "そうそう！ / あの小生意気な拳法野郎どもの方が いくらかは男、入ってたでやんす！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2537,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"I ain't gonna rest till we pay 'em back!",
+"...My pride's been totally wrecked!"
+],
+"jp": "こうなったらお返しを してやらなければ気がすまねぇ / ・・・オレ様のプライドは がッたがたに傷ついたぜ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2538,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Gahahaha! You're in quite a foul mood!"
+],
+"jp": "がっはっはっは ずいぶんご機嫌ナナメじゃのう",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2539,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"What the?! Who the hell are you?!",
+"If you got no business here, go drink in a corner",
+"for your own good!"
+],
+"jp": "なんでぇ！　てめーはよう！ / 用がねぇんなら すみっこで飲んでいた方が / 身のためだぜぇ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2540,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Y-yeah! The boss may not look it, but...",
+"he's s-s-s-sensitive!"
+],
+"jp": "そ・・・そうだぞ！ 親分はこう見えてもなぁ！ / な、な、な、ナイーブなんだぞぅ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2541,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Now, now..."
+],
+"jp": "まあまあ・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2542,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Hey, you!",
+"10 orders of pork buns for these fellows!",
+"And more sake!"
+],
+"jp": "んどらっ！ / この方たちに 豚まん１０人前じゃい！ / それと、追加の酒じゃあ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2543,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Well now...",
+"If you don't mind me, I'd like to hear your story..."
+],
+"jp": "どうれ・・・ / ワシで良ければ 話を聞かせてもらうが・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2544,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Hmph! Those guys from some dojo",
+"picked a fight with my boys!"
+],
+"jp": "け！　オレ様の子分どもがよう / なんとか道場の連中にインネンを 付けられたからよう！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2545,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"So we go to complain, and they bring soldiers!"
+],
+"jp": "抗議に行ったらなんとまあ 兵隊を連れてきやがったのよ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2546,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Mmph... Soldiers at some dojo, eh..."
+],
+"jp": "むふう・・・ なんとか道場に兵隊のぅ・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2547,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"I mean, come on,",
+"they didn't show any peaceful attitude",
+"about talkin' it out at all..."
+],
+"jp": "まったくよぉ / 話し合いで解決しようってぇ 平和的な態度が全く / 感じられねぇんだからよぅ・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2548,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Of course, of course...",
+"That town of Peking is nothing but a stew of barbarians!"
+],
+"jp": "そうじゃろう、そうじゃろう・・・ / まったく、あの北京って町は 野蛮人の豚汁ばッかりじゃわ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2549,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Hey!",
+"More dumplings too! 50 servings, and make it snappy!"
+],
+"jp": "だらっ！ / ギョーザも追加じゃあああ！ ５０人分ぶわっとな！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2550,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Heh... You're easier to talk to than I thought...",
+"I kinda like you."
+],
+"jp": "ＧＦ・・・ あんた、意外と話せるねぇ・・・ / なんか、気に入ったぜ",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2551,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Gahahaha!",
+"To tell the truth, I like you too!"
+],
+"jp": "がははは！ / 実を言うとワシもあンたが 気に入ってな！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2552,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"How about it, I've got a juicy tip just for you..."
+],
+"jp": "どうじゃい、あンただけに 耳寄りな話を・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2553,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"No, but still..."
+],
+"jp": "いや、でものゥ・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2554,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Wh-what? Don't leave me hangin'... Hey..."
+],
+"jp": "な・・・なんだよぉ・・・ じらすなよ・・・おい・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2555,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Hmm, I wouldn't want to cause you any trouble..."
+],
+"jp": "うーん、あンたに迷惑がかかると いかんしのゥ・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2556,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"I-it's fine!",
+"We're pals, you and me... right, right?"
+],
+"jp": "い、いいってことよ / オレとあんたの仲じゃねえか ・・・な、な？",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2557,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"...Interested in the Peking Emperor's treasure?"
+],
+"jp": "・・・北京皇帝の宝物に 興味はないか？",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2558,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Whoa, yeah, yeah! You bet!",
+"We got a real weakness for treasure... Heh heh."
+],
+"jp": "うおお、あるある！ あるぜぇ！ / おれたちゃあお宝に 目がなくてよぉ・・・ＧＦＦ",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2559,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Yay! Treasure, treasure!"
+],
+"jp": "わーい、お宝、お宝！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2560,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Well, you see...",
+"there's hardly any treasure worth a thing left in Peking,",
+"believe it or not!"
+],
+"jp": "実はじゃなぁ・・・ / 北京のめぼしいお宝は ほとんど残っとらんのじゃわ / これが！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2561,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Just between us, the last emperor",
+"blew it all in grand style..."
+],
+"jp": "ここだけの話じゃが 前の皇帝がぶわーっと / 派手に使ってしもうてな・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2562,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Whaaat?! For real?!"
+],
+"jp": "ええ～っ、ホントかよぉ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2563,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"If you want to strike it rich, go west..."
+],
+"jp": "ぐわッと稼ぐなら西の方・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2564,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Ah yes, Paris was a big, wonderful city...",
+"They say it's called the City of Flowers!"
+],
+"jp": "そうそう、パリという街は大きくて エエところじゃった・・・ / 何でも「花の都」と 呼ばれているそうじゃぞ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2565,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"The City of Flowers... Paris, huh..."
+],
+"jp": "花の都・・・パリかぁ・・・",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "А, Лу!"
+}
+]
+},
+{
+"id": 2566,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Paris, huh..."
+],
+"jp": "パリかぁ・・・",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "А, Лу!"
+},
+{
+"ru": "Э-э... Па... Париж очень красивый, правда?"
+}
+]
+},
+{
+"id": 2567,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Has a nice ring to it, don't it?"
+],
+"jp": "い～い響きでやんすねぇ",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "А, Лу!"
+},
+{
+"ru": "Э-э... Па... Париж очень красивый, правда?"
+}
+]
+},
+{
+"id": 2568,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"All right, boys! So long to this lousy town!",
+"Our goal is the City of Flowers, Paris!"
+],
+"jp": "ようし！野郎ども！ あんなシケた街とはおさらばだ！ / オレたちの目標は 花の都、パリだぜぃ！",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "А, Лу!"
+},
+{
+"ru": "Э-э... Па... Париж очень красивый, правда?"
+}
+]
+},
+{
+"id": 2569,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Thanks for the tip! See ya, old man!"
+],
+"jp": "良いこと聞いたぜ！ んじゃな！オッサン！",
+"choice": null,
+"context": [
+{
+"ru": "А, Лу!"
+},
+{
+"ru": "Э-э... Па... Париж очень красивый, правда?"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 2570,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"See ya!"
+],
+"jp": "んじゃな！",
+"choice": null,
+"context": [
+{
+"ru": "А, Лу!"
+},
+{
+"ru": "Э-э... Па... Париж очень красивый, правда?"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 2571,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Lord Wan-Fu... those people,",
+"I think they're a notorious gang of crooks in Peking."
+],
+"jp": "王虎様・・・あの人たち / 北京で評判の 悪党一味だと思うんですけど",
+"choice": null,
+"context": [
+{
+"ru": "А, Лу!"
+},
+{
+"ru": "Э-э... Па... Париж очень красивый, правда?"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 2572,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Gahahaha... So it seems!"
+],
+"jp": "がははは・・・ そのようじゃのゥ",
+"choice": null,
+"context": [
+{
+"ru": "Э-э... Па... Париж очень красивый, правда?"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 2573,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"I wish you'd taught them a lesson, Lord Wan-Fu..."
+],
+"jp": "王虎様が、こらしめて 下さればよかったのに・・・",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "... Хмф..."
+}
+]
+}
+]

@@ -1,0 +1,1239 @@
+{
+ "396": {
+  "pages": [
+   "Rumor has it there are demons on the roads... so be careful."
+  ]
+ },
+ "397": {
+  "pages": [
+   "Headed to Kyoto, are you? All right, go on through..."
+  ],
+  "question": "Pass through Iga Checkpoint?",
+  "options": [
+   "Pass",
+   "Don't pass"
+  ]
+ },
+ "398": {
+  "pages": [
+   "Hey! Old lady..."
+  ]
+ },
+ "399": {
+  "pages": [
+   "Excuse me... traveler...",
+   "...There's nothing for you outside, you know!"
+  ]
+ },
+ "400": {
+  "pages": [
+   "Did you enjoy your meal? Please come again!",
+   "Recovered some health!",
+   "Have you heard?",
+   "They say the one to rule the land after Lord Hideyoshi...",
+   "...will be Lord Tokugawa Ieyasu! Everyone's saying so!"
+  ]
+ },
+ "401": {
+  "pages": [
+   "In the name of justice... OK! Let's defeat Mizuki together!"
+  ]
+ },
+ "402": {
+  "pages": [
+   "Oh? And you are...?",
+   "Did you need Lady Bizuki? It seems she isn't here.",
+   "Still, what lovely weather we're having today..."
+  ]
+ },
+ "403": {
+  "pages": [
+   "You've come... Are you ready?"
+  ]
+ },
+ "404": {
+  "pages": [
+   "She was here just a moment ago... Maybe she's with the priest?"
+  ]
+ },
+ "405": {
+  "pages": [
+   "Anything else you need?"
+  ]
+ },
+ "406": {
+  "pages": [
+   "Sorry, but you ain't got enough money."
+  ]
+ },
+ "407": {
+  "pages": [
+   "How much should I work on it?"
+  ]
+ },
+ "408": {
+  "pages": [
+   "There ya go, all done!"
+  ]
+ },
+ "409": {
+  "pages": [
+   "What do you want?"
+  ]
+ },
+ "410": {
+  "pages": [
+   "Anything else?"
+  ]
+ },
+ "411": {
+  "pages": [
+   "Which one'll it be?"
+  ]
+ },
+ "412": {
+  "pages": [
+   "Nobody can equip that!"
+  ]
+ },
+ "413": {
+  "pages": [
+   "Want to equip it?"
+  ]
+ },
+ "414": {
+  "pages": [
+   "Who's gonna equip it?"
+  ]
+ },
+ "415": {
+  "pages": [
+   "Which one are you taking off?"
+  ]
+ },
+ "416": {
+  "pages": [
+   "You can't carry any more money!"
+  ]
+ },
+ "417": {
+  "pages": [
+   "You ain't got anything to sell."
+  ]
+ },
+ "418": {
+  "pages": [
+   "Hmph...",
+   "Playing with Mizuki would be fun, but there's a man I have to cut down..."
+  ]
+ },
+ "419": {
+  "pages": [
+   "Jesus... What the hell just happened?"
+  ]
+ },
+ "420": {
+  "pages": [
+   "How strange... Is this truly real?"
+  ]
+ },
+ "421": {
+  "pages": [
+   "Lady Bizuki told me...",
+   "...that you should use it in the Noh theater in the back."
+  ]
+ },
+ "422": {
+  "pages": [
+   "...Someday..."
+  ]
+ },
+ "423": {
+  "pages": [
+   "When Mizuki truly runs wild, I want my child to do what I could not..."
+  ]
+ },
+ "424": {
+  "pages": [
+   "Truly, this is the land where the gods once gathered..."
+  ]
+ },
+ "425": {
+  "pages": [
+   "...Here I come!"
+  ]
+ },
+ "426": {
+  "pages": [
+   "HEY! Jubei! I've come to lend a hand!",
+   "Leave this to us, and go take care of your topknot!"
+  ]
+ },
+ "427": {
+  "pages": [
+   "I can't believe it! To think a thing like that would attack us..."
+  ]
+ },
+ "428": {
+  "pages": [
+   "My daughter... give me back my daughter! Why did she have to die?!",
+   "My daughter... Give her back to meee!"
+  ]
+ },
+ "429": {
+  "pages": [
+   "It seems he sensed this demon fortress appearing...",
+   "...and went in ahead of us...",
+   "Look at this charm... It belongs to Nicotine...",
+   "{NAME}...",
+   "We must steel ourselves before we storm this fortress...",
+   "Are you prepared...?"
+  ],
+  "question": "Storm the demon fortress?",
+  "options": [
+   "Yes",
+   "No"
+  ]
+ },
+ "430": {
+  "pages": [
+   "Are you ready to storm the demon fortress?"
+  ],
+  "question": "Storm the demon fortress?",
+  "options": [
+   "Yes",
+   "No"
+  ]
+ },
+ "431": {
+  "pages": [
+   "Hmm... caution is only natural.",
+   "I'll keep watch here, so go and make your preparations!",
+   "But we haven't much... time!"
+  ]
+ },
+ "432": {
+  "pages": [
+   "Now then, we are about to storm this demon fortress...",
+   "But before that, {NAME}, there is something I need you to do.",
+   "...And that is to go out on June 27th...",
+   "...and buy the CD of Shinsetsu Samurai Spirits: Bushido Retsuden!",
+   "Buy it, I say!"
+  ]
+ },
+ "433": {
+  "pages": [
+   "...So that's how it is. Got it, Jubei!",
+   "So the rest of the story is in Bushido Retsuden, out June 27th!"
+  ]
+ },
+ "434": {
+  "pages": [
+   "I understand, Master Jubei. Mizuki's plot to defile nature...",
+   "...I will stop it in Bushido Retsuden, on sale June 27th!"
+  ]
+ },
+ "435": {
+  "pages": [
+   "ALL RIGHT! Gotcha, Jubei!",
+   "The rest of our adventure is in Bushido Retsuden, out June 27th!",
+   "...That's the deal, right?"
+  ]
+ },
+ "436": {
+  "pages": [
+   "I see... So if one buys Bushido Retsuden on June 27th...",
+   "...one will be able to defeat Mizuki..."
+  ]
+ },
+ "437": {
+  "pages": [
+   "Hmph... nonsense!",
+   "You expect me to wait until Bushido Retsuden comes out June 27th...",
+   "...just to kill Mizuki?!"
+  ]
+ },
+ "438": {
+  "pages": [
+   "Really?!",
+   "So we can keep going in Bushido Retsuden, out June 27th!"
+  ]
+ },
+ "439": {
+  "pages": [
+   "Indeed... That's how it is.",
+   "Save up your allowance until June 27th and wait!",
+   "And no cheating on us with other games!",
+   "Uwahahahahaha!"
+  ]
+ },
+ "440": {
+  "pages": [
+   "Aww, sorry! We're all sold out of Izumo soba.",
+   "With all the demons around lately, we can't get ingredients."
+  ]
+ },
+ "441": {
+  "pages": [
+   "A good weapon's no use without the skill to wield it...",
+   "If you want stronger weapons, train hard and hone your sword arm."
+  ]
+ },
+ "442": {
+  "pages": [
+   "I sure love soba!",
+   "Eatin' soba gives me lots of energy!"
+  ]
+ },
+ "443": {
+  "pages": [
+   "So you mean to fight the demons too, eh...",
+   "Then first things first, you'll want medicinal herbs..."
+  ]
+ },
+ "444": {
+  "pages": [
+   "We're buyin' arms to get ready for the demons too!",
+   "If you buy gear and 'equip' it...",
+   "...even us folks can get as strong as samurai!",
+   "I wanna fight demons too! Let me join ya!"
+  ],
+  "question": "Let Shinbei join the party?",
+  "options": [
+   "Yes",
+   "No"
+  ]
+ },
+ "445": {
+  "pages": [
+   "Really? Yahoo!",
+   "Shinbei joined the party!",
+   "Will I get as popular as you...",
+   "...and get fans sendin' drawings of me to game magazines?",
+   "Will gals cosplay as me and come to Neo Geo Land?",
+   "...Sorry. Maybe I'll pass after all.",
+   "I can't even beat my old lady at home...",
+   "Shinbei went back to being a farmer..."
+  ]
+ },
+ "446": {
+  "pages": [
+   "Doubtin' my skills, are ya? I'm the best hoe-swinger in Izumo!"
+  ]
+ },
+ "447": {
+  "pages": [
+   "For strong folks like you...",
+   "...maybe it's better to buy herbs before buyin' gear."
+  ]
+ },
+ "448": {
+  "pages": [
+   "Will you be fighting the demons too?",
+   "If you like, please take the arms over there."
+  ]
+ },
+ "449": {
+  "pages": [
+   "I'd be happy if those arms are of even a little help..."
+  ]
+ },
+ "450": {
+  "pages": [
+   "Something bad's going on!",
+   "{NAME}! Let's go after Jubei!"
+  ]
+ },
+ "451": {
+  "pages": [
+   "...Something terrible has come to Izumo!",
+   "We must go after Master Jubei too!"
+  ]
+ },
+ "452": {
+  "pages": [
+   "This doesn't look like any ordinary thing...",
+   "{NAME}! Let's head outside too!"
+  ]
+ },
+ "453": {
+  "pages": [
+   "...I have a bad feeling about this. Let us follow Jubei!"
+  ]
+ },
+ "454": {
+  "pages": [
+   "Wh-what's goin' on?",
+   "{NAME}! I dunno what's happenin', but...",
+   "...let's go after Mister Jubei anyway!"
+  ]
+ },
+ "455": {
+  "pages": [
+   "...This is bad. That was no ordinary earthquake...",
+   "...We should go outside as well!"
+  ]
+ },
+ "456": {
+  "pages": [
+   "What?! So even that Kubira demon was merely the opening act...",
+   "Let us go after Jubei as well!"
+  ]
+ },
+ "457": {
+  "pages": [
+   "...Something feels... strange... really strange!",
+   "Master Jubei is in danger! We have to go after him!"
+  ]
+ },
+ "458": {
+  "pages": [
+   "Buha buha! I'd heard the souls of fools who defy the demon realm...",
+   "...were tasty... Buhahaha! And they're exquisite!",
+   "Now that I've eaten, shall I crush this grand shrine?!",
+   "Izumo is ours! Lady Mizuki and Lord Agou will be delighted!",
+   "Buha buha, buhaha!"
+  ]
+ },
+ "459": {
+  "pages": [
+   "I am the head priest of this Izumo Grand Shrine.",
+   "A samurai went into the shrine all alone, but...",
+   "...since then, there hasn't been a peep from inside...",
+   "Some strange barrier keeps me from seeing what's going on...",
+   "I hope it's nothing serious... but I'm getting worried."
+  ]
+ },
+ "460": {
+  "pages": [
+   "Not even my power can break this barrier. I doubt you could.",
+   "Still, I wonder if that samurai is all right..."
+  ]
+ },
+ "461": {
+  "pages": [
+   "I still don't approve of your sword!",
+   "But Genjuro... we have no time to waste!"
+  ]
+ },
+ "462": {
+  "pages": [
+   "You mean to fight the demons too, do you?",
+   "I don't think you can do it alone, you know.",
+   "It'd be wise to pick one reliable companion."
+  ]
+ },
+ "463": {
+  "pages": [
+   "You'll be traveling in pairs for a while... Choose carefully.",
+   "But... everyone just picks the one they like, right?",
+   "That girl over there... She's pretty cute, huh?",
+   "Truth is... I've got my eye on her."
+  ]
+ },
+ "464": {
+  "pages": [
+   "If you're picking a partner...",
+   "...pick someone with strengths you don't have!",
+   "If you rely on raw power, pick someone fast.",
+   "If you hit hard, pick someone with healing arts...",
+   "...and so on.",
+   "...Huh, me?",
+   "Heh heh... I'm still in training!"
+  ]
+ },
+ "465": {
+  "pages": [
+   "A companion for life and death... Have a good journey."
+  ]
+ },
+ "466": {
+  "pages": [
+   "Then please choose again. And think it over carefully...",
+   "They'll be with you on a long journey."
+  ]
+ },
+ "467": {
+  "pages": [
+   "The demons, which had been lying low for some time...",
+   "...have suddenly become very active."
+  ]
+ },
+ "468": {
+  "pages": [
+   "So it is true... Not only the people...",
+   "...but the trees and animals of the forest are frightened too...",
+   "You're saying it's because something evil...",
+   "...has begun to stir, Master Nicotine?"
+  ]
+ },
+ "469": {
+  "pages": [
+   "You mean those guys are up to...",
+   "...something crazy again?",
+   "I see... No wonder I got...",
+   "...such a bad feeling when I arrived in Izumo!"
+  ]
+ },
+ "470": {
+  "pages": [
+   "An invasion from the demon realm... is it?",
+   "...I see. A fascinating tale indeed.",
+   "So the first step of the demons' invasion will be Izumo...",
+   "Is that what you are saying?"
+  ]
+ },
+ "471": {
+  "pages": [
+   "Oh, I see...",
+   "So the bad guys are causing trouble again!"
+  ]
+ },
+ "472": {
+  "pages": [
+   "...I have an idea who is behind this disturbance...",
+   "If my grim suspicions are correct...",
+   "...the battle ahead will be very difficult indeed."
+  ]
+ },
+ "473": {
+  "pages": [
+   "I'm sorry to ask so much... but you can match the demons.",
+   "Won't you fight alongside this old man?"
+  ]
+ },
+ "474": {
+  "pages": [
+   "I can never forgive demons who defile nature...",
+   "I ask you too... please help Master Nicotine!"
+  ]
+ },
+ "475": {
+  "pages": [
+   "Of course I'll take the job, Master Nicotine...",
+   "Leave it to me, Galford!",
+   "No problem! Justice always wins!"
+  ]
+ },
+ "476": {
+  "pages": [
+   "...Understood. I will lend what little aid I can.",
+   "As you know, I, Ukyo...",
+   "...am traveling in search of a flower from the demon realm...",
+   "Perhaps I may find some clue while hunting demons."
+  ]
+ },
+ "477": {
+  "pages": [
+   "Ah, Genjuro! Sorry to keep you waiting.",
+   "Now, take this with you."
+  ]
+ },
+ "478": {
+  "pages": [
+   "I sure love soba! Eatin' soba gives me lots of energy!"
+  ]
+ },
+ "479": {
+  "pages": [
+   "Some ve-ery bad people are starting to do ve-ery bad things again.",
+   "Grandpa can't sit around eating bananas with Cham Cham now."
+  ]
+ },
+ "480": {
+  "pages": [
+   "It's not just me... Izumo, all of Japan... no...",
+   "...eeeveryone in the whole world is scared of the demons..."
+  ]
+ },
+ "481": {
+  "pages": [
+   "That's right... So, Cham Cham...",
+   "...won't you help Grandpa...",
+   "...beat those ve-ery bad people?"
+  ]
+ },
+ "482": {
+  "pages": [
+   "Hmm... Thank you, Cham Cham...",
+   "Now then..."
+  ]
+ },
+ "483": {
+  "pages": [
+   "I'm sorry, Cham Cham...",
+   "This battle calls not merely for skill with weapons...",
+   "...but for strength of the soul...",
+   "And your innocent soul is something we truly need..."
+  ]
+ },
+ "484": {
+  "pages": [
+   "Something bad's going on!",
+   "{NAME}! Let's go after Jubei!"
+  ]
+ },
+ "485": {
+  "pages": [
+   "Mguwah!"
+  ]
+ },
+ "486": {
+  "pages": [
+   "Gebegebeh!"
+  ]
+ },
+ "487": {
+  "pages": [
+   "Silence! I shall show you the edge of my secret sword!"
+  ]
+ },
+ "488": {
+  "pages": [
+   "I don't get the logic, but basically...",
+   "...I just cut you down along with him, right?!"
+  ]
+ },
+ "489": {
+  "pages": [
+   "Hnnnngh!!"
+  ]
+ },
+ "490": {
+  "pages": [
+   "Hyah!"
+  ]
+ },
+ "491": {
+  "pages": [
+   "Seeeiyah!"
+  ]
+ },
+ "492": {
+  "pages": [
+   "Haohmaru learned the ultimate secret art...",
+   "...Tenha Kourin Zan!"
+  ]
+ },
+ "493": {
+  "pages": [
+   "Nakoruru learned the ultimate secret art...",
+   "...Nupeki Rera Shikite!"
+  ]
+ },
+ "494": {
+  "pages": [
+   "Galford learned the ultimate secret art...",
+   "...Double Mega Strike Heads!"
+  ]
+ },
+ "495": {
+  "pages": [
+   "Ukyo Tachibana learned the ultimate secret art...",
+   "...Musou Zan'ei Kou!"
+  ]
+ },
+ "496": {
+  "pages": [
+   "Genjuro Kibagami learned the ultimate secret art...",
+   "...Gokou Zan!"
+  ]
+ },
+ "497": {
+  "pages": [
+   "Cham Cham learned the ultimate secret art...",
+   "...Terum Impetus!"
+  ]
+ },
+ "498": {
+  "pages": [
+   "Charlotte learned the ultimate secret art...",
+   "...Rafale Gradation!"
+  ]
+ },
+ "499": {
+  "pages": [
+   "Kyoshiro Senryo learned the ultimate secret art...",
+   "...Orochi no Mai!"
+  ]
+ },
+ "500": {
+  "pages": [
+   "Rimururu learned the ultimate secret art...",
+   "...Rupushi Rera Emu II!"
+  ]
+ },
+ "501": {
+  "pages": [
+   "Reon of the Gale learned the ultimate secret art...",
+   "...Tensho Hououzan!"
+  ]
+ },
+ "502": {
+  "pages": [
+   "Sorry about this... An order just came down.",
+   "The port of Shimonoseki is closed for a while.",
+   "...Why? I couldn't tell you, but...",
+   "...it seems like something really big...",
+   "The bigwigs are running around in a panic."
+  ]
+ },
+ "503": {
+  "pages": [
+   "What? I can't let you through without a pass!",
+   "What, you haven't heard?",
+   "Just the other day, an order came down from the government!",
+   "Not just Himeji... Hakone, Shimonoseki too...",
+   "Every checkpoint in Japan is sealed off!"
+  ]
+ },
+ "504": {
+  "pages": [
+   "I don't know what kind of power that is, but I don't like it!",
+   "If you don't want to get hurt, move it, Your Lordship!",
+   "I'm in a hurry here!"
+  ]
+ },
+ "505": {
+  "pages": [
+   "Inhuman power... is it?",
+   "Lord Hisamaro...",
+   "True power becomes your flesh and blood through your own training.",
+   "It is not something you can swap like a jacket.",
+   "Lord Hisamaro, it is not too late even now.",
+   "Cut all ties with Senkaku... and with the demon realm!"
+  ]
+ },
+ "506": {
+  "pages": [
+   "Hmph... I don't like it!",
+   "I've got no time to waste on the likes of you!",
+   "Get lost!"
+  ]
+ },
+ "507": {
+  "pages": [
+   "Hmph... honestly...",
+   "Seems any idiot can be a court noble."
+  ]
+ },
+ "508": {
+  "pages": [
+   "Kyeeeh!"
+  ]
+ },
+ "509": {
+  "pages": [
+   "If fate wills it, we'll meet again!"
+  ]
+ },
+ "510": {
+  "pages": [
+   "I knew it! Great fortune after all! Kyuuin's divinations are the best!",
+   "Senkaku! Name any reward you wish! Kyohohohoho!"
+  ]
+ },
+ "511": {
+  "pages": [
+   "Hmph... Fools who cannot see reason...",
+   "To protect Kyoto, we cannot be picky. We face Mizuki herself!",
+   "What other way is there but to take in her own power?",
+   "Now! Carry their bodies to the curse altar!",
+   "We'll infuse them with dark power and use them as shikigami!",
+   "Heh heh... Samurai this strong are too good to simply kill...",
+   "We of Kyuuin will put every last hair of theirs to use!",
+   "To protect Kyoto! Uwahahahahaha!"
+  ]
+ },
+ "512": {
+  "pages": [
+   "You bet! Of course!"
+  ]
+ },
+ "513": {
+  "pages": [
+   "Hmph... naturally."
+  ]
+ },
+ "514": {
+  "pages": [
+   "Hehe... Even Mother Nature is happy!"
+  ]
+ },
+ "515": {
+  "pages": [
+   "Yeah! Justice wins wherever it goes!"
+  ]
+ },
+ "516": {
+  "pages": [
+   "I see, so you have your own mission...",
+   "Ohhh... What a shame...!",
+   "You were the true man I finally found after traveling this land..."
+  ]
+ },
+ "517": {
+  "pages": [
+   "They say there's a village of hidden Christians near Ise...",
+   "Not that it matters or anything."
+  ]
+ },
+ "518": {
+  "pages": [
+   "The Kyuuin onmyoji protect Kyoto, you know.",
+   "I don't really get it, but they use oni to seal away evil.",
+   "People are scared of demons, but as long as you're in Kyoto, you're safe."
+  ]
+ },
+ "519": {
+  "pages": [
+   "How was it? Gives you energy, right?",
+   "You do feel a bit healthier...",
+   "The onmyoji who protect Kyoto are split into Kyuuin in the north...",
+   "...and Kafuin in the south.",
+   "Kafuin's the friendlier one...",
+   "...but when push comes to shove, Kyuuin's the one you count on.",
+   "That's the image most folks have, anyway."
+  ]
+ },
+ "520": {
+  "pages": [
+   "Tasty, right? Got you nice and full, didn't it?",
+   "You feel re-energized!",
+   "We Kyoto folks don't worry about the demon trouble at all.",
+   "The onmyoji keep Kyoto perfectly safe from demons!"
+  ]
+ },
+ "521": {
+  "pages": [
+   "Ohh, thank you! I like your spirit!"
+  ]
+ },
+ "522": {
+  "pages": [
+   "He's an odd-looking fellow, but that spirit, that fight, that skill...",
+   "That's the kind of man people call a samurai.",
+   "You hardly ever see them anymore these days...",
+   "When I was young, there were plenty of them around."
+  ]
+ },
+ "523": {
+  "pages": [
+   "You really are worried about me, aren't you..."
+  ]
+ },
+ "524": {
+  "pages": [
+   "Hey now, it was nothing... You're making me blush!"
+  ]
+ },
+ "525": {
+  "pages": [
+   "There is no need for thanks... I am truly glad."
+  ]
+ },
+ "526": {
+  "pages": [
+   "...And so {NAME} crossed over to the mainland with Wan-Fu...",
+   "Wan-Fu began a war to unite all of China.",
+   "Wan-Fu and {NAME} fought like demon gods...",
+   "...and conquered the surrounding lands in no time at all...",
+   "And then..."
+  ]
+ },
+ "527": {
+  "pages": [
+   "Me? My name's Nozomi.",
+   "I'm helping out my dad."
+  ]
+ },
+ "528": {
+  "pages": [
+   "Welcome! Leading tomorrow's fashion world...",
+   "...this is Kuzuhara Kimono, Kyoto main store!",
+   "For 100GP, we'll make you any outfit you like!",
+   "So, what do you say?"
+  ],
+  "question": "Get new clothes made?",
+  "options": [
+   "Yes",
+   "No"
+  ]
+ },
+ "529": {
+  "pages": [
+   "Well, no need to buy today...",
+   "...have a look for something to buy tomorrow."
+  ]
+ },
+ "530": {
+  "pages": [],
+  "question": "Are you Mister Galford?",
+  "options": [
+   "Yes",
+   "No"
+  ]
+ },
+ "531": {
+  "pages": [],
+  "question": "Are you Miss Charlotte?",
+  "options": [
+   "Yes",
+   "No"
+  ]
+ },
+ "532": {
+  "pages": [],
+  "question": "Are you Miss Rimururu?",
+  "options": [
+   "Yes",
+   "No"
+  ]
+ },
+ "533": {
+  "pages": [
+   "Oh my... Not to your liking?",
+   "...Please come again sometime."
+  ]
+ },
+ "534": {
+  "pages": [
+   "So sorry... you're a bit short on money.",
+   "I'll hold it for you, so please come back another time."
+  ]
+ },
+ "535": {
+  "pages": [
+   "There you are, how's this?"
+  ]
+ },
+ "536": {
+  "pages": [
+   "I tailored it to fit just right. It suits you nicely."
+  ]
+ },
+ "537": {
+  "pages": [
+   "Oh my... It looks wonderful after all.",
+   "Even the clothes seem happy to be worn by you."
+  ]
+ },
+ "538": {
+  "pages": [
+   "I'm not used to making clothes like these...",
+   "...but I think it turned out rather well, if I say so myself."
+  ]
+ },
+ "539": {
+  "pages": [
+   "Just as you ordered, I made it easy to move in."
+  ]
+ },
+ "540": {
+  "pages": [
+   "Hmm... Am I getting a little stylish now?"
+  ]
+ },
+ "541": {
+  "pages": [
+   "I loved my old clothes, but these new ones are lovely too."
+  ]
+ },
+ "542": {
+  "pages": [
+   "Wow, sis... Lucky! I want another outfit too!"
+  ]
+ },
+ "543": {
+  "pages": [
+   "You look really beautiful..."
+  ]
+ },
+ "544": {
+  "pages": [
+   "Oh, Galford...",
+   "...Thank you. You're making me blush..."
+  ]
+ },
+ "545": {
+  "pages": [
+   "New ninja clothes, but the man's still all justice!"
+  ]
+ },
+ "546": {
+  "pages": [
+   "...Thank you. Quite fine cloth for the price."
+  ]
+ },
+ "547": {
+  "pages": [
+   "Hoh... you live up to your big talk.",
+   "...I like it."
+  ]
+ },
+ "548": {
+  "pages": [
+   "Different color, but still Greenhell style!"
+  ]
+ },
+ "549": {
+  "pages": [
+   "Maybe... I like this one better after all...?"
+  ]
+ },
+ "550": {
+  "pages": [
+   "Oui... Exactly as I ordered.",
+   "And... the design is splendid as well."
+  ]
+ },
+ "551": {
+  "pages": [
+   "Charlotte... you look pretty good!"
+  ]
+ },
+ "552": {
+  "pages": [
+   "Hmm...",
+   "As one would expect of the main store, the tailoring is a cut above."
+  ]
+ },
+ "553": {
+  "pages": [
+   "Thank you very much!",
+   "All Kuzuhara stores sponsor Kyoshiro's troupe...",
+   "...so as always, you get it at half price."
+  ]
+ },
+ "554": {
+  "pages": [
+   "Hehe! It'd be a waste to go outside in this!"
+  ]
+ },
+ "555": {
+  "pages": [
+   "Oh, Rimururu...",
+   "We're not traveling just for fun, you know!"
+  ]
+ },
+ "556": {
+  "pages": [
+   "Sorry... but... I'm just so happy!"
+  ]
+ },
+ "557": {
+  "pages": [
+   "Gonna use an item?"
+  ]
+ },
+ "558": {
+  "pages": [
+   "There ya go, done!"
+  ]
+ },
+ "559": {
+  "pages": [
+   "You've got no item for elements."
+  ]
+ },
+ "560": {
+  "pages": [
+   "You've only got enough money for the forging."
+  ]
+ },
+ "561": {
+  "pages": [
+   "You sure it's okay to lose the element?"
+  ]
+ },
+ "562": {
+  "pages": [
+   "You can't leave the capital! By order of Lord Ayanokouji...",
+   "...kindly turn back!"
+  ]
+ },
+ "563": {
+  "pages": [
+   "......Hmph.",
+   "His head may be lacking, but that brute strength is something."
+  ]
+ },
+ "564": {
+  "pages": [
+   "You're late, you lot! Damn it! Do something!"
+  ]
+ },
+ "565": {
+  "pages": [
+   "...Damn you, Mizuki!"
+  ]
+ },
+ "566": {
+  "pages": [
+   "Let's break the wheel of fate! Here we go!"
+  ]
+ },
+ "567": {
+  "pages": [
+   "Gigo! Gigo!!!!!! GGGGOOOOFFF!!!!!"
+  ]
+ },
+ "568": {
+  "pages": [
+   "Nakoruru!!!"
+  ]
+ },
+ "569": {
+  "pages": [
+   "...Reon...",
+   "...That is enough... It cannot be helped."
+  ]
+ },
+ "570": {
+  "pages": [
+   "Reon!",
+   "...That's enough of that..."
+  ]
+ },
+ "571": {
+  "pages": [
+   "What'll we do, Haohmaru?"
+  ]
+ },
+ "572": {
+  "pages": [
+   "What'll we do, Genjuro?"
+  ]
+ },
+ "573": {
+  "pages": [
+   "Thank you! Please come again."
+  ]
+ },
+ "574": {
+  "pages": [
+   "Do you know the name Amakusa Shiro?",
+   "From everything that has happened, this Amakusa Shiro...",
+   "...seems to hold the key to it all..."
+  ]
+ },
+ "575": {
+  "pages": [
+   "Can you tell me about this Amakusa Shiro guy too?",
+   "From what the bad guys we've beaten have been saying...",
+   "...he seems to be the big boss of evil."
+  ]
+ },
+ "576": {
+  "pages": [
+   "Hmph... What are you so surprised about...",
+   "Spare me the chatter. Just answer my questions.",
+   "Tell me... what is the demon realm?"
+  ]
+ },
+ "577": {
+  "pages": [
+   "The demon realm...",
+   "...is a world of darkness, teeming with demons ruled by the Dark Lord.",
+   "Some say it is the darkness of this world, or a shadow in men's hearts...",
+   "...but no one truly knows."
+  ]
+ },
+ "578": {
+  "pages": [
+   "Demons are rising all over Japan, and men sell their souls to darkness.",
+   "Of late, the demon realm's power has grown abnormally strong.",
+   "I hate to say it, but I sense dark, demonic power in you as well..."
+  ]
+ },
+ "579": {
+  "pages": [
+   "Hmph, don't lump me in with some filthy demon."
+  ]
+ },
+ "580": {
+  "pages": [
+   "I see...",
+   "But don't be so quick to dismiss fortune-telling."
+  ]
+ },
+ "581": {
+  "pages": [
+   "Hmm... You lack the money. Come back another time."
+  ]
+ },
+ "582": {
+  "pages": [
+   "...You are quite aggressive. I neither blame nor praise you for it."
+  ]
+ },
+ "583": {
+  "pages": [
+   "In times like these...",
+   "...it's only natural to be aggressive.",
+   "But other possibilities lie hidden within you as well."
+  ]
+ },
+ "584": {
+  "pages": [
+   "Live by battle, die by battle...",
+   "Your wish will surely be granted."
+  ]
+ },
+ "585": {
+  "pages": [
+   "You are weary of fighting...",
+   "Yet your soul still craves battle...",
+   "Truly, the hell of the Asura."
+  ]
+ },
+ "586": {
+  "pages": [
+   "The dark path, from which there is no turning back...",
+   "But is there truly no turning back?"
+  ]
+ },
+ "587": {
+  "pages": [
+   "Memories of blood demand a new sacrifice...",
+   "Is the one you cut down your enemy... or yourself?"
+  ]
+ },
+ "588": {
+  "pages": [
+   "Hmm... A passionate soul. But can you keep this fire...",
+   "...burning until the very end?"
+  ]
+ },
+ "589": {
+  "pages": [
+   "The strength to forgive your enemies leads the way to tomorrow...",
+   "But it is a hair's breadth from betrayal."
+  ]
+ },
+ "590": {
+  "pages": [
+   "If you are too kind, it is your own blood that must be spilled.",
+   "If you choose to go on anyway, be strong!"
+  ]
+ },
+ "591": {
+  "pages": [
+   "Never doubt your kindness!",
+   "Someday, you will be proven right!"
+  ]
+ },
+ "592": {
+  "pages": [
+   "Unbelievable!",
+   "Your soul radiates warmth!",
+   "I only hope your kindness isn't naivete."
+  ]
+ },
+ "593": {
+  "pages": [
+   "It is hard to be both strong and kind.",
+   "So that is the path you walk."
+  ]
+ }
+}

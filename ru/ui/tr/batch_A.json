@@ -1,0 +1,3829 @@
+[
+{
+"id": "u0000",
+"en": "Haohmaru",
+"jp": "ビ王も",
+"kind": "имя врага / имя персонажа",
+"max_tiles_per_line": 5,
+"en_tiles": [
+4
+],
+"where": [
+[
+"names",
+0
+],
+[
+"emp",
+"EMP_0921.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u0001",
+"en": "Nakoruru",
+"jp": "ナコルル",
+"kind": "имя врага / имя персонажа",
+"max_tiles_per_line": 5,
+"en_tiles": [
+4
+],
+"where": [
+[
+"names",
+1
+],
+[
+"emp",
+"EMP_0924.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u0002",
+"en": "Galford ",
+"jp": "ガルフえード",
+"kind": "имя врага / имя персонажа",
+"max_tiles_per_line": 5,
+"en_tiles": [
+4
+],
+"where": [
+[
+"names",
+2
+],
+[
+"emp",
+"EMP_0925.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u0003",
+"en": "Ukyo",
+"jp": "<227a>京",
+"kind": "имя врага / имя персонажа",
+"max_tiles_per_line": 5,
+"en_tiles": [
+2
+],
+"where": [
+[
+"names",
+3
+],
+[
+"emp",
+"EMP_0923.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u0004",
+"en": "Genjuro ",
+"jp": "幻十郎",
+"kind": "имя врага / имя персонажа",
+"max_tiles_per_line": 5,
+"en_tiles": [
+4
+],
+"where": [
+[
+"names",
+4
+],
+[
+"emp",
+"EMP_0120.PRG"
+],
+[
+"emp",
+"EMP_0922.PRG"
+]
+],
+"n": 3
+},
+{
+"id": "u0005",
+"en": "Cham Cham ",
+"jp": "チャムチャム",
+"kind": "имя врага / имя персонажа",
+"max_tiles_per_line": 5,
+"en_tiles": [
+5
+],
+"where": [
+[
+"names",
+5
+],
+[
+"emp",
+"EMP_0926.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u0006",
+"en": "Reon",
+"jp": "の��",
+"kind": "имя персонажа",
+"max_tiles_per_line": 5,
+"en_tiles": [
+2
+],
+"where": [
+[
+"names",
+6
+]
+],
+"n": 1
+},
+{
+"id": "u0007",
+"en": "Charlotte ",
+"jp": "シャルロット",
+"kind": "имя персонажа",
+"max_tiles_per_line": 5,
+"en_tiles": [
+5
+],
+"where": [
+[
+"names",
+7
+]
+],
+"n": 1
+},
+{
+"id": "u0008",
+"en": "Kyoshiro",
+"jp": "狂死郎",
+"kind": "имя персонажа",
+"max_tiles_per_line": 5,
+"en_tiles": [
+4
+],
+"where": [
+[
+"names",
+8
+]
+],
+"n": 1
+},
+{
+"id": "u0009",
+"en": "Rimururu",
+"jp": "リムルル",
+"kind": "имя персонажа",
+"max_tiles_per_line": 5,
+"en_tiles": [
+4
+],
+"where": [
+[
+"names",
+9
+]
+],
+"n": 1
+},
+{
+"id": "u0010",
+"en": "Bizuki",
+"jp": "美州姫",
+"kind": "имя персонажа",
+"max_tiles_per_line": 5,
+"en_tiles": [
+3
+],
+"where": [
+[
+"names",
+10
+]
+],
+"n": 1
+},
+{
+"id": "u0011",
+"en": "Hion  ",
+"jp": "飛��",
+"kind": "имя персонажа",
+"max_tiles_per_line": 5,
+"en_tiles": [
+3
+],
+"where": [
+[
+"names",
+11
+]
+],
+"n": 1
+},
+{
+"id": "u0033",
+"en": "Sake Strike ",
+"jp": "酒<2372><2308>　　　　　　　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+6
+],
+"where": [
+[
+"msgs",
+21
+],
+[
+"keyitems",
+54
+]
+],
+"n": 2
+},
+{
+"id": "u0034",
+"en": "Earthquake Slash",
+"jp": "<24d5>震斬　　　　　　　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+8
+],
+"where": [
+[
+"msgs",
+22
+],
+[
+"keyitems",
+55
+]
+],
+"n": 2
+},
+{
+"id": "u0035",
+"en": "Violent Cyclone Slash ",
+"jp": "<24d5><2339><25d0>斬　　　　　　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+11
+],
+"where": [
+[
+"msgs",
+23
+],
+[
+"keyitems",
+56
+]
+],
+"n": 2
+},
+{
+"id": "u0036",
+"en": "Cyclone Wave",
+"jp": "<242b><2339><24cc>　　　　　　　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+6
+],
+"where": [
+[
+"msgs",
+24
+],
+[
+"keyitems",
+57
+]
+],
+"n": 2
+},
+{
+"id": "u0037",
+"en": "Gale Crescent Moon Slash",
+"jp": "<24d7><2339><259c>け斬　　　　　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+12
+],
+"where": [
+[
+"msgs",
+25
+],
+[
+"keyitems",
+58
+]
+],
+"n": 2
+},
+{
+"id": "u0038",
+"en": "Temblor Slash ",
+"jp": "<2308>震斬　　　　　　　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+7
+],
+"where": [
+[
+"msgs",
+26
+]
+],
+"n": 1
+},
+{
+"id": "u0040",
+"en": "Divine Cyclone Slash",
+"jp": "神<2339><25d0>斬　　　　　　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+10
+],
+"where": [
+[
+"msgs",
+28
+],
+[
+"keyitems",
+61
+]
+],
+"n": 2
+},
+{
+"id": "u0041",
+"en": "Detonation Slash",
+"jp": "<2501>震斬　　　　　　　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+8
+],
+"where": [
+[
+"msgs",
+29
+],
+[
+"keyitems",
+62
+]
+],
+"n": 2
+},
+{
+"id": "u0042",
+"en": "Imperial God Sealing Slash",
+"jp": "天ビ服神斬　　　　　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+13
+],
+"where": [
+[
+"msgs",
+30
+],
+[
+"keyitems",
+63
+]
+],
+"n": 2
+},
+{
+"id": "u0043",
+"en": "Spirit Dance",
+"jp": "カムイ　リ<21ce>�x　　　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+6
+],
+"where": [
+[
+"msgs",
+31
+],
+[
+"keyitems",
+88
+]
+],
+"n": 2
+},
+{
+"id": "u0045",
+"en": "Fire Hawk ",
+"jp": "アムベ　ヤトロ　　　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+5
+],
+"where": [
+[
+"msgs",
+33
+],
+[
+"keyitems",
+94
+]
+],
+"n": 2
+},
+{
+"id": "u0046",
+"en": "Spirit's Pride",
+"jp": "カムイ　シルマ　　　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+7
+],
+"where": [
+[
+"msgs",
+34
+]
+],
+"n": 1
+},
+{
+"id": "u0048",
+"en": "Spirit Blade",
+"jp": "カムイ　ムツベ　　　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+6
+],
+"where": [
+[
+"msgs",
+36
+],
+[
+"keyitems",
+95
+]
+],
+"n": 2
+},
+{
+"id": "u0049",
+"en": "Lightning Fang",
+"jp": "イメル　シキテ　　　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+7
+],
+"where": [
+[
+"msgs",
+37
+],
+[
+"keyitems",
+99
+]
+],
+"n": 2
+},
+{
+"id": "u0050",
+"en": "Spirit Lullaby",
+"jp": "カムイ　イフンケ　　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+7
+],
+"where": [
+[
+"msgs",
+38
+],
+[
+"keyitems",
+91
+]
+],
+"n": 2
+},
+{
+"id": "u0052",
+"en": "Centered Spirit Blade ",
+"jp": "うシキ　カムイ　ムツベ　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+11
+],
+"where": [
+[
+"msgs",
+40
+],
+[
+"keyitems",
+96
+]
+],
+"n": 2
+},
+{
+"id": "u0053",
+"en": "Flash Fang",
+"jp": "メ<21d1>　シキテ　　　　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+5
+],
+"where": [
+[
+"msgs",
+41
+],
+[
+"keyitems",
+100
+]
+],
+"n": 2
+},
+{
+"id": "u0054",
+"en": "Guardian Forest ",
+"jp": "お<21c0>ンキネ　ニタィ　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+8
+],
+"where": [
+[
+"msgs",
+42
+],
+[
+"keyitems",
+93
+]
+],
+"n": 2
+},
+{
+"id": "u0055",
+"en": "Furious Hawk Dance",
+"jp": "イルスカ　ヤトロ　リ<21ce>�x　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+9
+],
+"where": [
+[
+"msgs",
+43
+],
+[
+"keyitems",
+97
+]
+],
+"n": 2
+},
+{
+"id": "u0056",
+"en": "Flying Fang ",
+"jp": "カント　シキテ　　　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+6
+],
+"where": [
+[
+"msgs",
+44
+],
+[
+"keyitems",
+101
+]
+],
+"n": 2
+},
+{
+"id": "u0058",
+"en": "Rush Dog",
+"jp": "ラッシュドック　　　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+4
+],
+"where": [
+[
+"msgs",
+46
+],
+[
+"keyitems",
+77
+]
+],
+"n": 2
+},
+{
+"id": "u0059",
+"en": "Replica Attack",
+"jp": "リアレ<21c0>リカアタック　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+7
+],
+"where": [
+[
+"msgs",
+47
+],
+[
+"keyitems",
+74
+]
+],
+"n": 2
+},
+{
+"id": "u0060",
+"en": "Replica Dog ",
+"jp": "レ<21c0>リカドック　　　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+6
+],
+"where": [
+[
+"msgs",
+48
+],
+[
+"keyitems",
+79
+]
+],
+"n": 2
+},
+{
+"id": "u0062",
+"en": "Plasma Crossblade ",
+"jp": "<21c0>ラズマ　クロスブレード　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+9
+],
+"where": [
+[
+"msgs",
+50
+],
+[
+"keyitems",
+71
+]
+],
+"n": 2
+},
+{
+"id": "u0063",
+"en": "Machine Gun Dog ",
+"jp": "マシンガンドッグ　　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+8
+],
+"where": [
+[
+"msgs",
+51
+],
+[
+"keyitems",
+80
+]
+],
+"n": 2
+},
+{
+"id": "u0064",
+"en": "Backstab",
+"jp": "バックスタブ　　　　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+4
+],
+"where": [
+[
+"msgs",
+52
+],
+[
+"keyitems",
+76
+]
+],
+"n": 2
+},
+{
+"id": "u0065",
+"en": "Lightning Wave",
+"jp": "ライトニング　ウェイブ　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+7
+],
+"where": [
+[
+"msgs",
+53
+],
+[
+"keyitems",
+82
+]
+],
+"n": 2
+},
+{
+"id": "u0066",
+"en": "Plasma Factor ",
+"jp": "<21c0>ラズマファクター　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+7
+],
+"where": [
+[
+"msgs",
+54
+],
+[
+"keyitems",
+72
+]
+],
+"n": 2
+},
+{
+"id": "u0068",
+"en": "Shotgun Dog ",
+"jp": "ショットガンドッグ　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+6
+],
+"where": [
+[
+"msgs",
+56
+],
+[
+"keyitems",
+78
+]
+],
+"n": 2
+},
+{
+"id": "u0069",
+"en": "Mega Strike Dog ",
+"jp": "メガストライクドッグ　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+8
+],
+"where": [
+[
+"msgs",
+57
+],
+[
+"keyitems",
+81
+]
+],
+"n": 2
+},
+{
+"id": "u0070",
+"en": "Haze Blade -Flash-",
+"jp": "秘騒　<2692>刀　<223a><26a3><223a>　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+9
+],
+"where": [
+[
+"msgs",
+58
+],
+[
+"keyitems",
+109
+]
+],
+"n": 2
+},
+{
+"id": "u0072",
+"en": "Swallow Swipe ",
+"jp": "秘騒　ツバメ返し　　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+7
+],
+"where": [
+[
+"msgs",
+60
+],
+[
+"keyitems",
+114
+]
+],
+"n": 2
+},
+{
+"id": "u0074",
+"en": "Haze Blade -Light-",
+"jp": "秘騒　<2692>刀　<223a>光<223a>　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+9
+],
+"where": [
+[
+"msgs",
+62
+],
+[
+"keyitems",
+110
+]
+],
+"n": 2
+},
+{
+"id": "u0075",
+"en": "Narrow Heat Haze",
+"jp": "秘騒　薄刃陽<250b>　　　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+8
+],
+"where": [
+[
+"msgs",
+63
+],
+[
+"keyitems",
+107
+]
+],
+"n": 2
+},
+{
+"id": "u0076",
+"en": "Twin Swallow Swipe",
+"jp": "秘騒　<25e3>殺ツバメ返し　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+9
+],
+"where": [
+[
+"msgs",
+64
+],
+[
+"keyitems",
+115
+]
+],
+"n": 2
+},
+{
+"id": "u0077",
+"en": "Snowfall Slash Fake ",
+"jp": "<25b5>騒　ささめゆき　　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+10
+],
+"where": [
+[
+"msgs",
+65
+],
+[
+"keyitems",
+112
+]
+],
+"n": 2
+},
+{
+"id": "u0078",
+"en": "Chill Wind",
+"jp": "秘騒　<2723><2339>　　　　　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+5
+],
+"where": [
+[
+"msgs",
+66
+],
+[
+"keyitems",
+117
+]
+],
+"n": 2
+},
+{
+"id": "u0079",
+"en": "Haze Blade -Mist- ",
+"jp": "秘騒　<2692>刀　<223a><2749><223a>　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+9
+],
+"where": [
+[
+"msgs",
+67
+],
+[
+"keyitems",
+111
+]
+],
+"n": 2
+},
+{
+"id": "u0080",
+"en": "Wild Heat Haze",
+"jp": "秘騒　乱刃陽<250b>　　　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+7
+],
+"where": [
+[
+"msgs",
+68
+],
+[
+"keyitems",
+108
+]
+],
+"n": 2
+},
+{
+"id": "u0083",
+"en": "Three-Point Kill -Fang",
+"jp": "三連殺　<24e2>　　　　　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+11
+],
+"where": [
+[
+"msgs",
+71
+],
+[
+"keyitems",
+126
+]
+],
+"n": 2
+},
+{
+"id": "u0087",
+"en": "Three-Point Kill -Horn",
+"jp": "三連殺　<2506>　　　　　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+11
+],
+"where": [
+[
+"msgs",
+75
+],
+[
+"keyitems",
+127
+]
+],
+"n": 2
+},
+{
+"id": "u0088",
+"en": "Twin Heavens Death",
+"jp": "連<235f>殺　　　　　　　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+9
+],
+"where": [
+[
+"msgs",
+76
+],
+[
+"keyitems",
+134
+]
+],
+"n": 2
+},
+{
+"id": "u0089",
+"en": "Scarlet Cherry Kill ",
+"jp": "<2380><25b7>殺　　　　　　　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+10
+],
+"where": [
+[
+"msgs",
+77
+],
+[
+"keyitems",
+130
+]
+],
+"n": 2
+},
+{
+"id": "u0090",
+"en": "Wild Cherry Blossom ",
+"jp": "乱<25b7>う　　　　　　　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+10
+],
+"where": [
+[
+"msgs",
+78
+],
+[
+"keyitems",
+125
+]
+],
+"n": 2
+},
+{
+"id": "u0091",
+"en": "Three-Point Kill -Phosphor",
+"jp": "三連殺　<2731>　　　　　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+13
+],
+"where": [
+[
+"msgs",
+79
+],
+[
+"keyitems",
+128
+]
+],
+"n": 2
+},
+{
+"id": "u0092",
+"en": "Death of 100 Demons ",
+"jp": "事鬼殺　　　　　　　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+10
+],
+"where": [
+[
+"msgs",
+80
+],
+[
+"keyitems",
+131
+]
+],
+"n": 2
+},
+{
+"id": "u0093",
+"en": "Three Heavens Death ",
+"jp": "三<235f>殺　　　　　　　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+10
+],
+"where": [
+[
+"msgs",
+81
+],
+[
+"keyitems",
+135
+]
+],
+"n": 2
+},
+{
+"id": "u0094",
+"en": "Wing Strike ",
+"jp": "タンゲレ・アーラ　　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+6
+],
+"where": [
+[
+"msgs",
+82
+],
+[
+"keyitems",
+143
+]
+],
+"n": 2
+},
+{
+"id": "u0096",
+"en": "Pak Pak Fire",
+"jp": "パクパク・ガブル　　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+6
+],
+"where": [
+[
+"msgs",
+84
+],
+[
+"keyitems",
+147
+]
+],
+"n": 2
+},
+{
+"id": "u0099",
+"en": "Pak Pak Skull ",
+"jp": "ムーラ・パクパク　　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+7
+],
+"where": [
+[
+"msgs",
+87
+],
+[
+"keyitems",
+145
+]
+],
+"n": 2
+},
+{
+"id": "u0100",
+"en": "Glorious Singing",
+"jp": "おーラーティオー・カネレ　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+8
+],
+"where": [
+[
+"msgs",
+88
+],
+[
+"keyitems",
+150
+]
+],
+"n": 2
+},
+{
+"id": "u0101",
+"en": "Eat a Lot ",
+"jp": "ムルティー・おデッ�x　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+5
+],
+"where": [
+[
+"msgs",
+89
+],
+[
+"keyitems",
+149
+]
+],
+"n": 2
+},
+{
+"id": "u0102",
+"en": "Pak Pak Spin",
+"jp": "パクパク・デオス　　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+6
+],
+"where": [
+[
+"msgs",
+90
+],
+[
+"keyitems",
+146
+]
+],
+"n": 2
+},
+{
+"id": "u0103",
+"en": "Amazing Peace ",
+"jp": "ミールム・パクス　　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+7
+],
+"where": [
+[
+"msgs",
+91
+],
+[
+"keyitems",
+151
+]
+],
+"n": 2
+},
+{
+"id": "u0104",
+"en": "Little Fight",
+"jp": "<21c0>ロおリウム・レウェ　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+6
+],
+"where": [
+[
+"msgs",
+92
+],
+[
+"keyitems",
+152
+]
+],
+"n": 2
+},
+{
+"id": "u0105",
+"en": "Spin Edge Slash ",
+"jp": "<242b>刃斬　　　　　　　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+8
+],
+"where": [
+[
+"msgs",
+93
+],
+[
+"keyitems",
+160
+]
+],
+"n": 2
+},
+{
+"id": "u0106",
+"en": "Soaring Destruction Slash ",
+"jp": "<27c5>破斬　　　　　　　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+13
+],
+"where": [
+[
+"msgs",
+94
+],
+[
+"keyitems",
+163
+]
+],
+"n": 2
+},
+{
+"id": "u0107",
+"en": "Wind Dance -Seagull-",
+"jp": "<2339><27c5><235f><22bd>　<223a><24b5><268d><223a>　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+10
+],
+"where": [
+[
+"msgs",
+95
+],
+[
+"msgs",
+149
+],
+[
+"keyitems",
+167
+],
+[
+"keyitems",
+257
+]
+],
+"n": 4
+},
+{
+"id": "u0108",
+"en": "Wind Edge- Mist Flight",
+"jp": "<2339>刃<24d4><255f><27c5>　　　　　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+11
+],
+"where": [
+[
+"msgs",
+96
+],
+[
+"msgs",
+99
+],
+[
+"keyitems",
+169
+]
+],
+"n": 3
+},
+{
+"id": "u0109",
+"en": "Soaring Spectrum Slash",
+"jp": "飛<27c5>虹刃　　　　　　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+11
+],
+"where": [
+[
+"msgs",
+97
+],
+[
+"keyitems",
+165
+]
+],
+"n": 2
+},
+{
+"id": "u0110",
+"en": "Spin Edge Rending Slash ",
+"jp": "<242b>刃<25d0>斬　　　　　　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+12
+],
+"where": [
+[
+"msgs",
+98
+],
+[
+"keyitems",
+161
+]
+],
+"n": 2
+},
+{
+"id": "u0111",
+"en": "Soaring Kingfisher Slash",
+"jp": "<27e5><27e6><27c5>斬　　　　　　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+12
+],
+"where": [
+[
+"msgs",
+100
+],
+[
+"keyitems",
+164
+]
+],
+"n": 2
+},
+{
+"id": "u0112",
+"en": "Wind Dance -Falcon- ",
+"jp": "<2339><27c5><235f><22bd>　<223a><27e9><223a>　　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+10
+],
+"where": [
+[
+"msgs",
+101
+],
+[
+"msgs",
+155
+],
+[
+"keyitems",
+168
+],
+[
+"keyitems",
+258
+]
+],
+"n": 4
+},
+{
+"id": "u0113",
+"en": "Wind Edge- Mist Array ",
+"jp": "<2339>刃<24d4><255f><2459>　　　　　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+11
+],
+"where": [
+[
+"msgs",
+102
+],
+[
+"keyitems",
+170
+]
+],
+"n": 2
+},
+{
+"id": "u0114",
+"en": "Wind Edge- Shroud ",
+"jp": "<2339>刃<27bc><27eb><2459>　　　　　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+9
+],
+"where": [
+[
+"msgs",
+103
+],
+[
+"keyitems",
+171
+]
+],
+"n": 2
+},
+{
+"id": "u0115",
+"en": "Spin Edge Coiling Slash ",
+"jp": "<242b>刃<26de>斬　　　　　　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+12
+],
+"where": [
+[
+"msgs",
+104
+],
+[
+"keyitems",
+162
+]
+],
+"n": 2
+},
+{
+"id": "u0116",
+"en": "Wind Erosion",
+"jp": "飛<27c5>地<25fc>斬　　　　　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+6
+],
+"where": [
+[
+"msgs",
+105
+],
+[
+"msgs",
+205
+],
+[
+"keyitems",
+174
+]
+],
+"n": 3
+},
+{
+"id": "u0117",
+"en": "Splash Fount",
+"jp": "ス<21c0>ラッシュファーント　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+6
+],
+"where": [
+[
+"msgs",
+106
+],
+[
+"keyitems",
+178
+]
+],
+"n": 2
+},
+{
+"id": "u0118",
+"en": "Power Gradation ",
+"jp": "パワーグラデーション　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+8
+],
+"where": [
+[
+"msgs",
+107
+],
+[
+"keyitems",
+180
+]
+],
+"n": 2
+},
+{
+"id": "u0119",
+"en": "Tri Slash ",
+"jp": "トライスラッシュ　　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+5
+],
+"where": [
+[
+"msgs",
+108
+],
+[
+"keyitems",
+183
+]
+],
+"n": 2
+},
+{
+"id": "u0120",
+"en": "Mistral Gradation ",
+"jp": "ミストラル　グラデーション",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+9
+],
+"where": [
+[
+"msgs",
+109
+],
+[
+"keyitems",
+181
+]
+],
+"n": 2
+},
+{
+"id": "u0121",
+"en": "Noble Slash ",
+"jp": "うーブル　スラッシュ　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+6
+],
+"where": [
+[
+"msgs",
+110
+],
+[
+"keyitems",
+184
+]
+],
+"n": 2
+},
+{
+"id": "u0122",
+"en": "Final Square",
+"jp": "デルニ　おクレール　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+6
+],
+"where": [
+[
+"msgs",
+111
+],
+[
+"keyitems",
+186
+]
+],
+"n": 2
+},
+{
+"id": "u0123",
+"en": "Mirage Fount",
+"jp": "ミラージュ　ファーント　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+6
+],
+"where": [
+[
+"msgs",
+112
+],
+[
+"keyitems",
+179
+]
+],
+"n": 2
+},
+{
+"id": "u0124",
+"en": "Ascending Sky ",
+"jp": "シおル　モンテ　　　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+7
+],
+"where": [
+[
+"msgs",
+113
+],
+[
+"keyitems",
+182
+]
+],
+"n": 2
+},
+{
+"id": "u0125",
+"en": "Pure Slash",
+"jp": "<21c0>リお　スラッシュ　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+5
+],
+"where": [
+[
+"msgs",
+114
+],
+[
+"keyitems",
+185
+]
+],
+"n": 2
+},
+{
+"id": "u0126",
+"en": "Kyoshiro Banquet Dance",
+"jp": "狂四郎<2614><22bd>　　　　　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+11
+],
+"where": [
+[
+"msgs",
+115
+],
+[
+"keyitems",
+214
+]
+],
+"n": 2
+},
+{
+"id": "u0127",
+"en": "Blazing Dance ",
+"jp": "<2326><250b>、<22bd>　　　　　　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+7
+],
+"where": [
+[
+"msgs",
+116
+],
+[
+"keyitems",
+217
+]
+],
+"n": 2
+},
+{
+"id": "u0128",
+"en": "Leaping Lion Tail ",
+"jp": "<25d4>だ<2576>子　　　　　　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+9
+],
+"where": [
+[
+"msgs",
+117
+],
+[
+"keyitems",
+222
+]
+],
+"n": 2
+},
+{
+"id": "u0129",
+"en": "Spinning Dance Daybreak ",
+"jp": "<229b>天、<22bd>　<27d3>　　　　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+12
+],
+"where": [
+[
+"msgs",
+118
+],
+[
+"keyitems",
+219
+]
+],
+"n": 2
+},
+{
+"id": "u0130",
+"en": "Hell Toad ",
+"jp": "<27d1><27d2>地こ　　　　　　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+5
+],
+"where": [
+[
+"msgs",
+119
+],
+[
+"keyitems",
+215
+]
+],
+"n": 2
+},
+{
+"id": "u0131",
+"en": "Blazing Dance Party ",
+"jp": "<2326><250b>、<22bd>　<2614>　　　　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+10
+],
+"where": [
+[
+"msgs",
+120
+],
+[
+"keyitems",
+218
+]
+],
+"n": 2
+},
+{
+"id": "u0132",
+"en": "Mad Leaping Lion Tail ",
+"jp": "<25d4>だ<2576>子　乱心　　　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+11
+],
+"where": [
+[
+"msgs",
+121
+],
+[
+"keyitems",
+223
+]
+],
+"n": 2
+},
+{
+"id": "u0133",
+"en": "Spinning Dance New Moon ",
+"jp": "<229b>天、<22bd>　新け　　　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+12
+],
+"where": [
+[
+"msgs",
+122
+],
+[
+"keyitems",
+220
+]
+],
+"n": 2
+},
+{
+"id": "u0134",
+"en": "Great Hell Toad ",
+"jp": "大<27d1><27d2>地こ　　　　　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+8
+],
+"where": [
+[
+"msgs",
+123
+]
+],
+"n": 1
+},
+{
+"id": "u0135",
+"en": "Dance of Flesh and Blood",
+"jp": "い」の<22bd>　　　　　　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+12
+],
+"where": [
+[
+"msgs",
+124
+],
+[
+"keyitems",
+221
+]
+],
+"n": 2
+},
+{
+"id": "u0136",
+"en": "Freezing Power",
+"jp": "ル<21c0><21cf>　トウム　　　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+7
+],
+"where": [
+[
+"msgs",
+125
+]
+],
+"n": 1
+},
+{
+"id": "u0137",
+"en": "Sky Prayer",
+"jp": "カント　イうンう　　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+5
+],
+"where": [
+[
+"msgs",
+126
+],
+[
+"keyitems",
+206
+]
+],
+"n": 2
+},
+{
+"id": "u0138",
+"en": "Ice Fountain",
+"jp": "コンル　メ<21ce>　　　　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+6
+],
+"where": [
+[
+"msgs",
+127
+],
+[
+"keyitems",
+196
+]
+],
+"n": 2
+},
+{
+"id": "u0139",
+"en": "Spirit Mirror ",
+"jp": "カムイ　シトウキ　　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+7
+],
+"where": [
+[
+"msgs",
+128
+],
+[
+"keyitems",
+197
+]
+],
+"n": 2
+},
+{
+"id": "u0140",
+"en": "Blizzard Spear",
+"jp": "ウ<21c0>ン　オ<21d0>　　　　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+7
+],
+"where": [
+[
+"msgs",
+129
+]
+],
+"n": 1
+},
+{
+"id": "u0141",
+"en": "Rushing Water ",
+"jp": "ワッカ　シはテ　　　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+7
+],
+"where": [
+[
+"msgs",
+130
+]
+],
+"n": 1
+},
+{
+"id": "u0142",
+"en": "Ice Rock",
+"jp": "コンル　シラ<21d1>　　　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+4
+],
+"where": [
+[
+"msgs",
+131
+],
+[
+"keyitems",
+202
+]
+],
+"n": 2
+},
+{
+"id": "u0143",
+"en": "Ice Flower",
+"jp": "コンル　うンう　　　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+5
+],
+"where": [
+[
+"msgs",
+132
+],
+[
+"keyitems",
+204
+]
+],
+"n": 2
+},
+{
+"id": "u0144",
+"en": "Freezing Bow",
+"jp": "ル<21c0><21cf>　クアレ　　　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+6
+],
+"where": [
+[
+"msgs",
+133
+],
+[
+"keyitems",
+201
+]
+],
+"n": 2
+},
+{
+"id": "u0145",
+"en": "Blizzard Pike ",
+"jp": "トウリ　ウ<21c0>ン　オ<21d0>　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+7
+],
+"where": [
+[
+"msgs",
+134
+]
+],
+"n": 1
+},
+{
+"id": "u0146",
+"en": "Ice Pillar",
+"jp": "コンル　イク<21cf>ウ　　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+5
+],
+"where": [
+[
+"msgs",
+135
+],
+[
+"keyitems",
+203
+]
+],
+"n": 2
+},
+{
+"id": "u0147",
+"en": "Ice Flower Swarm",
+"jp": "オカイコンルうンう　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+8
+],
+"where": [
+[
+"msgs",
+136
+],
+[
+"keyitems",
+205
+]
+],
+"n": 2
+},
+{
+"id": "u0148",
+"en": "Earth Prayer",
+"jp": "シ<21d1>カ　イうンう　　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+6
+],
+"where": [
+[
+"msgs",
+137
+],
+[
+"keyitems",
+207
+]
+],
+"n": 2
+},
+{
+"id": "u0149",
+"en": "Rushing Seas",
+"jp": "アトウイ　シはテ　　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+6
+],
+"where": [
+[
+"msgs",
+138
+]
+],
+"n": 1
+},
+{
+"id": "u0150",
+"en": "Ring Spirit Resonance ",
+"jp": "<23f1>心共し　　　　　　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+11
+],
+"where": [
+[
+"msgs",
+139
+],
+[
+"keyitems",
+232
+]
+],
+"n": 2
+},
+{
+"id": "u0151",
+"en": "Ambition Daylight Form",
+"jp": "ビ気陽<228e><2459>　　　　　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+11
+],
+"where": [
+[
+"msgs",
+140
+],
+[
+"keyitems",
+233
+]
+],
+"n": 2
+},
+{
+"id": "u0152",
+"en": "Rending Divinity",
+"jp": "天神変<25d0>魂　　　　　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+8
+],
+"where": [
+[
+"msgs",
+141
+],
+[
+"keyitems",
+238
+]
+],
+"n": 2
+},
+{
+"id": "u0153",
+"en": "Earth and Sky Wizard Form ",
+"jp": "天地<2649><27c5><2459>　　　　　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+13
+],
+"where": [
+[
+"msgs",
+142
+],
+[
+"keyitems",
+234
+]
+],
+"n": 2
+},
+{
+"id": "u0154",
+"en": "Death and Rebirth ",
+"jp": "<23f1><2790>ざ生　　　　　　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+9
+],
+"where": [
+[
+"msgs",
+143
+],
+[
+"keyitems",
+235
+]
+],
+"n": 2
+},
+{
+"id": "u0155",
+"en": "Ravenous Divinity ",
+"jp": "天神<2752><2501>魂　　　　　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+9
+],
+"where": [
+[
+"msgs",
+144
+],
+[
+"keyitems",
+236
+]
+],
+"n": 2
+},
+{
+"id": "u0156",
+"en": "Sympathetic Divinity",
+"jp": "天神共し魂　　　　　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+10
+],
+"where": [
+[
+"msgs",
+145
+],
+[
+"keyitems",
+237
+]
+],
+"n": 2
+},
+{
+"id": "u0157",
+"en": "Demonic Halo",
+"jp": "<27b4>魔光<23f1>呪　　　　　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+6
+],
+"where": [
+[
+"msgs",
+146
+],
+[
+"keyitems",
+239
+]
+],
+"n": 2
+},
+{
+"id": "u0158",
+"en": "Spin Edge Windsplitter",
+"jp": "<242b>刃　<2339>切り　　　　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+11
+],
+"where": [
+[
+"msgs",
+147
+],
+[
+"keyitems",
+250
+]
+],
+"n": 2
+},
+{
+"id": "u0159",
+"en": "Spin Edge Wind Rupture",
+"jp": "<27e5><27e6>　薄<260f><22bd>い　　　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+11
+],
+"where": [
+[
+"msgs",
+148
+],
+[
+"msgs",
+152
+],
+[
+"keyitems",
+251
+]
+],
+"n": 3
+},
+{
+"id": "u0160",
+"en": "Wind Edge Mist Push ",
+"jp": "<2339>刃　<24d4><27ea>み　　　　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+10
+],
+"where": [
+[
+"msgs",
+150
+],
+[
+"keyitems",
+259
+]
+],
+"n": 2
+},
+{
+"id": "u0161",
+"en": "Soaring Reed Cut",
+"jp": "<27c5>破　<27e7>切り　　　　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+8
+],
+"where": [
+[
+"msgs",
+151
+],
+[
+"keyitems",
+253
+]
+],
+"n": 2
+},
+{
+"id": "u0162",
+"en": "Wind Edge Dark Frost",
+"jp": "<2339>刃　<27eb><2723>　　　　　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+10
+],
+"where": [
+[
+"msgs",
+153
+],
+[
+"keyitems",
+261
+]
+],
+"n": 2
+},
+{
+"id": "u0163",
+"en": "Flying Spectrum Edge",
+"jp": "飛<2778>　虹<27c5>刃　　　　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+10
+],
+"where": [
+[
+"msgs",
+154
+],
+[
+"keyitems",
+255
+]
+],
+"n": 2
+},
+{
+"id": "u0164",
+"en": "Wind Edge Honorable Mist",
+"jp": "<2339>刃　<255f><24d4>　　　　　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+12
+],
+"where": [
+[
+"msgs",
+156
+],
+[
+"keyitems",
+260
+]
+],
+"n": 2
+},
+{
+"id": "u0165",
+"en": "Wind Edge Dizzying Feather",
+"jp": "<2339>刃　<27bc><260f>　　　　　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+13
+],
+"where": [
+[
+"msgs",
+157
+],
+[
+"keyitems",
+262
+]
+],
+"n": 2
+},
+{
+"id": "u0166",
+"en": "Spin Edge Wind Coiler ",
+"jp": "<242b>刃　<2339><26de>き　　　　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+11
+],
+"where": [
+[
+"msgs",
+158
+],
+[
+"keyitems",
+252
+]
+],
+"n": 2
+},
+{
+"id": "u0167",
+"en": "Flying Calmbreaker",
+"jp": "飛<27c5>　<27e8>破り　　　　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+9
+],
+"where": [
+[
+"msgs",
+159
+],
+[
+"keyitems",
+256
+]
+],
+"n": 2
+},
+{
+"id": "u0177",
+"en": "Imperial Void Slash ",
+"jp": "天ビ<242b><235f>斬　　　　　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+10
+],
+"where": [
+[
+"msgs",
+181
+],
+[
+"keyitems",
+66
+]
+],
+"n": 2
+},
+{
+"id": "u0178",
+"en": "Imperial Radiance Slash ",
+"jp": "天ビ光<26c0>斬　　　　　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+12
+],
+"where": [
+[
+"msgs",
+182
+],
+[
+"keyitems",
+67
+]
+],
+"n": 2
+},
+{
+"id": "u0180",
+"en": "Imperial Negation Slash ",
+"jp": "天ビ断<235f><24d5>斬　　　　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+12
+],
+"where": [
+[
+"msgs",
+184
+],
+[
+"keyitems",
+69
+]
+],
+"n": 2
+},
+{
+"id": "u0181",
+"en": "Windrider Spirit",
+"jp": "レラ　オ　カムイ　　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+8
+],
+"where": [
+[
+"msgs",
+185
+],
+[
+"keyitems",
+102
+]
+],
+"n": 2
+},
+{
+"id": "u0182",
+"en": "Shining Wind Fang ",
+"jp": "<2192>ウキ　レラ　シキテ　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+9
+],
+"where": [
+[
+"msgs",
+186
+],
+[
+"keyitems",
+103
+]
+],
+"n": 2
+},
+{
+"id": "u0183",
+"en": "Shining Sky Fang",
+"jp": "<2192>ウキ　カント　シキテ　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+8
+],
+"where": [
+[
+"msgs",
+187
+],
+[
+"keyitems",
+104
+]
+],
+"n": 2
+},
+{
+"id": "u0185",
+"en": "Plasma Drive",
+"jp": "<21c0>ラズマドライ<21cd>　　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+6
+],
+"where": [
+[
+"msgs",
+189
+],
+[
+"keyitems",
+84
+]
+],
+"n": 2
+},
+{
+"id": "u0187",
+"en": "Double Gigastrike Heads ",
+"jp": "ダブルギガストライク<2198>ッズ",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+12
+],
+"where": [
+[
+"msgs",
+191
+],
+[
+"keyitems",
+86
+]
+],
+"n": 2
+},
+{
+"id": "u0188",
+"en": "Double Terastrike Heads ",
+"jp": "ダブルテラストライク<2198>ッズ",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+12
+],
+"where": [
+[
+"msgs",
+192
+],
+[
+"keyitems",
+87
+]
+],
+"n": 2
+},
+{
+"id": "u0189",
+"en": "Dream of Ruination",
+"jp": "秘騒　<2360><268e><22e2><2749>　　　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+9
+],
+"where": [
+[
+"msgs",
+193
+],
+[
+"keyitems",
+120
+]
+],
+"n": 2
+},
+{
+"id": "u0190",
+"en": "Clear Mind Remnant Strike ",
+"jp": "<22e2><2422>残か<278b>　　　　　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+13
+],
+"where": [
+[
+"msgs",
+194
+],
+[
+"keyitems",
+121
+]
+],
+"n": 2
+},
+{
+"id": "u0191",
+"en": "Clear Mind Afterglow Mist ",
+"jp": "<22e2><2422>残光<2749>　　　　　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+13
+],
+"where": [
+[
+"msgs",
+195
+],
+[
+"keyitems",
+122
+]
+],
+"n": 2
+},
+{
+"id": "u0192",
+"en": "Clear Mind Dark Eaglewood ",
+"jp": "<22e2><2422><244d><2473><278b>　　　　　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+13
+],
+"where": [
+[
+"msgs",
+196
+],
+[
+"keyitems",
+123
+]
+],
+"n": 2
+},
+{
+"id": "u0193",
+"en": "Grudge Blade",
+"jp": "<22ff>殺刃　　　　　　　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+6
+],
+"where": [
+[
+"msgs",
+197
+],
+[
+"keyitems",
+138
+]
+],
+"n": 2
+},
+{
+"id": "u0194",
+"en": "Five Lights ",
+"jp": "五光　　　　　　　　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+6
+],
+"where": [
+[
+"msgs",
+198
+],
+[
+"keyitems",
+139
+]
+],
+"n": 2
+},
+{
+"id": "u0195",
+"en": "Reverse Five Lights ",
+"jp": "裏五光　　　　　　　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+10
+],
+"where": [
+[
+"msgs",
+199
+],
+[
+"keyitems",
+140
+]
+],
+"n": 2
+},
+{
+"id": "u0196",
+"en": "Demon Five Lights ",
+"jp": "鬼五光　　　　　　　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+9
+],
+"where": [
+[
+"msgs",
+200
+],
+[
+"keyitems",
+141
+]
+],
+"n": 2
+},
+{
+"id": "u0197",
+"en": "Looping Horn",
+"jp": "キルクルス・コル<2192>ー　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+6
+],
+"where": [
+[
+"msgs",
+201
+],
+[
+"keyitems",
+156
+]
+],
+"n": 2
+},
+{
+"id": "u0198",
+"en": "Weapon Charge ",
+"jp": "テルム・インウトかス　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+7
+],
+"where": [
+[
+"msgs",
+202
+],
+[
+"keyitems",
+157
+]
+],
+"n": 2
+},
+{
+"id": "u0200",
+"en": "Metamo Gigas Attack ",
+"jp": "メタモギガスアタック　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+10
+],
+"where": [
+[
+"msgs",
+204
+],
+[
+"keyitems",
+159
+]
+],
+"n": 2
+},
+{
+"id": "u0201",
+"en": "Phoenix Rebirth Slash ",
+"jp": "天<27c5><27db><27dc>斬　　　　　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+11
+],
+"where": [
+[
+"msgs",
+206
+],
+[
+"keyitems",
+175
+]
+],
+"n": 2
+},
+{
+"id": "u0202",
+"en": "Dragon God Rebirth Slash",
+"jp": "天<27c5><2620>神斬　　　　　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+12
+],
+"where": [
+[
+"msgs",
+207
+],
+[
+"keyitems",
+176
+]
+],
+"n": 2
+},
+{
+"id": "u0203",
+"en": "Avatar Rebirth Slash",
+"jp": "天<27c5>神<2649>斬　　　　　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+10
+],
+"where": [
+[
+"msgs",
+208
+],
+[
+"keyitems",
+177
+]
+],
+"n": 2
+},
+{
+"id": "u0204",
+"en": "Angel Defense ",
+"jp": "アンジェ　デファンス　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+7
+],
+"where": [
+[
+"msgs",
+209
+],
+[
+"keyitems",
+192
+]
+],
+"n": 2
+},
+{
+"id": "u0205",
+"en": "Gust Gradation",
+"jp": "ラファール　グラデイション",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+7
+],
+"where": [
+[
+"msgs",
+210
+],
+[
+"keyitems",
+193
+]
+],
+"n": 2
+},
+{
+"id": "u0206",
+"en": "Splendor Gradation",
+"jp": "ス<21c0>ラントグラデイション　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+9
+],
+"where": [
+[
+"msgs",
+211
+],
+[
+"keyitems",
+194
+]
+],
+"n": 2
+},
+{
+"id": "u0207",
+"en": "Splash Gradation",
+"jp": "ス<21c0>ラッシュグラデイション",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+8
+],
+"where": [
+[
+"msgs",
+212
+],
+[
+"keyitems",
+195
+]
+],
+"n": 2
+},
+{
+"id": "u0208",
+"en": "Ferocious Lion Party Dance",
+"jp": "<275d><2576>子連<22bd>　　　　　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+13
+],
+"where": [
+[
+"msgs",
+213
+]
+],
+"n": 1
+},
+{
+"id": "u0209",
+"en": "Orochi Dance",
+"jp": "大<26c5>の<22bd>　　　　　　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+6
+],
+"where": [
+[
+"msgs",
+214
+],
+[
+"keyitems",
+229
+]
+],
+"n": 2
+},
+{
+"id": "u0210",
+"en": "Kirin Dance ",
+"jp": "<27d4>の<22bd>　　　　　　　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+6
+],
+"where": [
+[
+"msgs",
+215
+],
+[
+"keyitems",
+230
+]
+],
+"n": 2
+},
+{
+"id": "u0211",
+"en": "Ogre Dance",
+"jp": "鬼の<22bd>　　　　　　　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+5
+],
+"where": [
+[
+"msgs",
+216
+],
+[
+"keyitems",
+231
+]
+],
+"n": 2
+},
+{
+"id": "u0212",
+"en": "Ice Rain",
+"jp": "コンル　ラク<21d1>　　　　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+4
+],
+"where": [
+[
+"msgs",
+217
+],
+[
+"keyitems",
+210
+]
+],
+"n": 2
+},
+{
+"id": "u0213",
+"en": "Frozen Wind Knife ",
+"jp": "ル<21c0>シ　レラ　おムシ　　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+9
+],
+"where": [
+[
+"msgs",
+218
+]
+],
+"n": 1
+},
+{
+"id": "u0214",
+"en": "Frozen Sky Knife",
+"jp": "ル<21c0>シ　カント　おムシ　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+8
+],
+"where": [
+[
+"msgs",
+219
+]
+],
+"n": 1
+},
+{
+"id": "u0215",
+"en": "Frozen Spirit Knife ",
+"jp": "ル<21c0>シ　カムイ　おムシ　　",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+10
+],
+"where": [
+[
+"msgs",
+220
+]
+],
+"n": 1
+},
+{
+"id": "u0558",
+"en": "Choose a save file",
+"jp": "どのファイルに」をしますか？",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+9
+],
+"where": [
+[
+"keyitems",
+64
+],
+[
+"menu2",
+64
+]
+],
+"n": 2
+},
+{
+"id": "u0559",
+"en": "No save file available! ",
+"jp": "」をファイルがありません！！",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+12
+],
+"where": [
+[
+"keyitems",
+65
+],
+[
+"menu2",
+65
+]
+],
+"n": 2
+},
+{
+"id": "u0560",
+"en": "Is this okay? ",
+"jp": "これで（定しますか？",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+7
+],
+"where": [
+[
+"keyitems",
+83
+],
+[
+"menu2",
+83
+]
+],
+"n": 2
+},
+{
+"id": "u0561",
+"en": "Spirit Pride",
+"jp": "カムイ　シルマ",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+6
+],
+"where": [
+[
+"keyitems",
+98
+]
+],
+"n": 1
+},
+{
+"id": "u0562",
+"en": "Load",
+"jp": "どの",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+2
+],
+"where": [
+[
+"keyitems",
+118
+]
+],
+"n": 1
+},
+{
+"id": "u0563",
+"en": " which file?",
+"jp": "ファイルを<25db>み出しますか？",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+6
+],
+"where": [
+[
+"keyitems",
+119
+],
+[
+"menu2",
+119
+]
+],
+"n": 2
+},
+{
+"id": "u0564",
+"en": "File 1",
+"jp": "」<2746><223a>れ",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+3
+],
+"where": [
+[
+"keyitems",
+136
+],
+[
+"menu2",
+120
+]
+],
+"n": 2
+},
+{
+"id": "u0565",
+"en": "File 2",
+"jp": "」<2746><223a>２",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+3
+],
+"where": [
+[
+"keyitems",
+137
+],
+[
+"menu2",
+137
+]
+],
+"n": 2
+},
+{
+"id": "u0567",
+"en": "Soaring Earthrender Slash ",
+"jp": "飛<27c5>地<25fc>斬",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+13
+],
+"where": [
+[
+"keyitems",
+166
+]
+],
+"n": 1
+},
+{
+"id": "u0568",
+"en": "Wind Edge- Mass Shroud",
+"jp": "<2339>刃<27bc><27eb><2459>",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+11
+],
+"where": [
+[
+"keyitems",
+172
+]
+],
+"n": 1
+},
+{
+"id": "u0569",
+"en": "- No data - ",
+"jp": "<223a>」<2746>されていません<223a>",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+6
+],
+"where": [
+[
+"keyitems",
+173
+],
+[
+"menu2",
+173
+]
+],
+"n": 2
+},
+{
+"id": "u0570",
+"en": "Freezing Strength ",
+"jp": "ル<21c0><21cf>　トかム",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+9
+],
+"where": [
+[
+"keyitems",
+198
+]
+],
+"n": 1
+},
+{
+"id": "u0571",
+"en": "Blizzard Lance",
+"jp": "ウ<21c0>ン　オ<21d0>",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+7
+],
+"where": [
+[
+"keyitems",
+199
+]
+],
+"n": 1
+},
+{
+"id": "u0572",
+"en": "Long Blizzard Lance ",
+"jp": "トかリ　ウ<21c0>ン　オ<21d0>",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+10
+],
+"where": [
+[
+"keyitems",
+200
+]
+],
+"n": 1
+},
+{
+"id": "u0573",
+"en": "Flowing Water ",
+"jp": "ワッカ　シはテ",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+7
+],
+"where": [
+[
+"keyitems",
+208
+]
+],
+"n": 1
+},
+{
+"id": "u0574",
+"en": "Flowing Sea ",
+"jp": "アトかイ　シはテ",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+6
+],
+"where": [
+[
+"keyitems",
+209
+]
+],
+"n": 1
+},
+{
+"id": "u0575",
+"en": "Freezing Wind Knife ",
+"jp": "ル<21c0><21cf>　レラ　おム<21cf>",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+10
+],
+"where": [
+[
+"keyitems",
+211
+]
+],
+"n": 1
+},
+{
+"id": "u0576",
+"en": "Freezing Sky Knife",
+"jp": "ル<21c0><21cf>　カント　おム<21cf>",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+9
+],
+"where": [
+[
+"keyitems",
+212
+]
+],
+"n": 1
+},
+{
+"id": "u0577",
+"en": "Freezing Spirit Knife ",
+"jp": "ル<21c0><21cf>　カムイ　おム<21cf>",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+11
+],
+"where": [
+[
+"keyitems",
+213
+]
+],
+"n": 1
+},
+{
+"id": "u0578",
+"en": "Giant Hell Toad ",
+"jp": "大<27d1><27d2>地こ",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+8
+],
+"where": [
+[
+"keyitems",
+216
+]
+],
+"n": 1
+},
+{
+"id": "u0583",
+"en": "Ferocious Lion Party",
+"jp": "<275d><2576>子連<22bd>",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+10
+],
+"where": [
+[
+"keyitems",
+228
+]
+],
+"n": 1
+},
+{
+"id": "u0584",
+"en": "Kingfisher Feather Dance",
+"jp": "<27e5><27e6>　薄<260f><22bd>い",
+"kind": "название приема",
+"max_tiles_per_line": 13,
+"en_tiles": [
+12
+],
+"where": [
+[
+"keyitems",
+254
+]
+],
+"n": 1
+}
+]

@@ -1,0 +1,4130 @@
+[
+{
+"id": "u0719",
+"en": "Lonn Ni ",
+"jp": "ロン<68>・ニ",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+4
+],
+"where": [
+[
+"emp",
+"EMP_0000.PRG"
+],
+[
+"emp",
+"EMP_0001.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u0722",
+"en": "Chishnipopo ",
+"jp": "チシニポポ",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+6
+],
+"where": [
+[
+"emp",
+"EMP_0000.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u0724",
+"en": "Deathdealer ",
+"jp": "<6fc><6fd><6fe><323>",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+6
+],
+"where": [
+[
+"emp",
+"EMP_0000.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u0727",
+"en": "Scoundrel ",
+"jp": "無頼漢",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+5
+],
+"where": [
+[
+"emp",
+"EMP_0000.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u0729",
+"en": "Earth Spider",
+"jp": "てグモ",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+6
+],
+"where": [
+[
+"emp",
+"EMP_0001.PRG"
+],
+[
+"emp",
+"EMP_0008.PRG"
+],
+[
+"emp",
+"EMP_000A.PRG"
+]
+],
+"n": 3
+},
+{
+"id": "u0731",
+"en": "Fremesashi",
+"jp": "フレメサシ",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+5
+],
+"where": [
+[
+"emp",
+"EMP_0001.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u0733",
+"en": "Iolack",
+"jp": "アイオラク",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+3
+],
+"where": [
+[
+"emp",
+"EMP_0001.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u0736",
+"en": "Likeam",
+"jp": "ライケアム",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+3
+],
+"where": [
+[
+"emp",
+"EMP_0001.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u0739",
+"en": "Sheltergrass",
+"jp": "宿り草",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+6
+],
+"where": [
+[
+"emp",
+"EMP_0002.PRG"
+],
+[
+"emp",
+"EMP_0006.PRG"
+],
+[
+"emp",
+"EMP_0007.PRG"
+],
+[
+"emp",
+"EMP_081C.PRG"
+]
+],
+"n": 5
+},
+{
+"id": "u0740",
+"en": "Katuun",
+"jp": "カトかン",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+3
+],
+"where": [
+[
+"emp",
+"EMP_0002.PRG"
+],
+[
+"emp",
+"EMP_081C.PRG"
+],
+[
+"emp",
+"EMP_081E.PRG"
+]
+],
+"n": 3
+},
+{
+"id": "u0742",
+"en": "Deadeye Bug ",
+"jp": "死見<5ea>",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+6
+],
+"where": [
+[
+"emp",
+"EMP_0002.PRG"
+],
+[
+"emp",
+"EMP_081C.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u0745",
+"en": "Nue ",
+"jp": "<68>お",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+2
+],
+"where": [
+[
+"emp",
+"EMP_0002.PRG"
+],
+[
+"emp",
+"EMP_000F.PRG"
+],
+[
+"emp",
+"EMP_0010.PRG"
+],
+[
+"emp",
+"EMP_081C.PRG"
+]
+],
+"n": 5
+},
+{
+"id": "u0748",
+"en": "Funchen ",
+"jp": "フンチェン",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+4
+],
+"where": [
+[
+"emp",
+"EMP_0002.PRG"
+],
+[
+"emp",
+"EMP_081C.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u0751",
+"en": "Regret",
+"jp": "リグレット",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+3
+],
+"where": [
+[
+"emp",
+"EMP_0003.PRG"
+],
+[
+"emp",
+"EMP_0802.PRG"
+],
+[
+"emp",
+"EMP_0807.PRG"
+],
+[
+"emp",
+"EMP_0809.PRG"
+]
+],
+"n": 14
+},
+{
+"id": "u0754",
+"en": "Chaku ",
+"jp": "チャク",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+3
+],
+"where": [
+[
+"emp",
+"EMP_0003.PRG"
+],
+[
+"emp",
+"EMP_081D.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u0756",
+"en": "Muura ",
+"jp": "ムーラ",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+3
+],
+"where": [
+[
+"emp",
+"EMP_0003.PRG"
+],
+[
+"emp",
+"EMP_081D.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u0758",
+"en": "Ahau",
+"jp": "アハウ",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+2
+],
+"where": [
+[
+"emp",
+"EMP_0003.PRG"
+],
+[
+"emp",
+"EMP_081D.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u0760",
+"en": "Muklan",
+"jp": "ムクラン",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+3
+],
+"where": [
+[
+"emp",
+"EMP_0003.PRG"
+],
+[
+"emp",
+"EMP_081D.PRG"
+],
+[
+"emp",
+"EMP_081E.PRG"
+]
+],
+"n": 3
+},
+{
+"id": "u0762",
+"en": "Severed Head",
+"jp": "生<413>",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+6
+],
+"where": [
+[
+"emp",
+"EMP_0004.PRG"
+],
+[
+"emp",
+"EMP_0802.PRG"
+],
+[
+"emp",
+"EMP_0807.PRG"
+]
+],
+"n": 3
+},
+{
+"id": "u0764",
+"en": "Hirundus",
+"jp": "飛<694>",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+4
+],
+"where": [
+[
+"emp",
+"EMP_0004.PRG"
+],
+[
+"emp",
+"EMP_0005.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u0766",
+"en": "Old Vassal",
+"jp": "<682>本くずれ",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+5
+],
+"where": [
+[
+"emp",
+"EMP_0004.PRG"
+],
+[
+"emp",
+"EMP_0005.PRG"
+],
+[
+"emp",
+"EMP_0800.PRG"
+]
+],
+"n": 3
+},
+{
+"id": "u0768",
+"en": "800lb Thief ",
+"jp": "事<30f>盗ッ",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+6
+],
+"where": [
+[
+"emp",
+"EMP_0004.PRG"
+],
+[
+"emp",
+"EMP_0800.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u0770",
+"en": "Windripper",
+"jp": "<6fc><6fd><6fe><20f>",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+5
+],
+"where": [
+[
+"emp",
+"EMP_0004.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u0773",
+"en": "Tree Spirit ",
+"jp": "<356>霊",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+6
+],
+"where": [
+[
+"emp",
+"EMP_0005.PRG"
+],
+[
+"emp",
+"EMP_0006.PRG"
+],
+[
+"emp",
+"EMP_0800.PRG"
+]
+],
+"n": 3
+},
+{
+"id": "u0775",
+"en": "Mermaid ",
+"jp": "人<304>",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+4
+],
+"where": [
+[
+"emp",
+"EMP_0005.PRG"
+],
+[
+"emp",
+"EMP_000C.PRG"
+],
+[
+"emp",
+"EMP_0828.PRG"
+]
+],
+"n": 3
+},
+{
+"id": "u0778",
+"en": "Nightstalker",
+"jp": "<6fc><6fd><6fe>神夜",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+6
+],
+"where": [
+[
+"emp",
+"EMP_0005.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u0780",
+"en": "Pallor",
+"jp": "死<23c>",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+3
+],
+"where": [
+[
+"emp",
+"EMP_0006.PRG"
+],
+[
+"emp",
+"EMP_000A.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u0782",
+"en": "Ogre Spider ",
+"jp": "鬼グモ",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+6
+],
+"where": [
+[
+"emp",
+"EMP_0006.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u0785",
+"en": "Dream Weaver",
+"jp": "<1b8>ひき",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+6
+],
+"where": [
+[
+"emp",
+"EMP_0006.PRG"
+],
+[
+"emp",
+"EMP_0011.PRG"
+],
+[
+"emp",
+"EMP_0012.PRG"
+],
+[
+"emp",
+"EMP_0804.PRG"
+]
+],
+"n": 4
+},
+{
+"id": "u0788",
+"en": "Nightmare ",
+"jp": "像<1b8>",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+5
+],
+"where": [
+[
+"emp",
+"EMP_0007.PRG"
+],
+[
+"emp",
+"EMP_081E.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u0791",
+"en": "Dire Beetle ",
+"jp": "不に<5ea>",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+6
+],
+"where": [
+[
+"emp",
+"EMP_0007.PRG"
+],
+[
+"emp",
+"EMP_0822.PRG"
+],
+[
+"emp",
+"EMP_0823.PRG"
+]
+],
+"n": 3
+},
+{
+"id": "u0793",
+"en": "Spinetwister",
+"jp": "<6fc><6fd><6fe>竜<401>",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+6
+],
+"where": [
+[
+"emp",
+"EMP_0007.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u0795",
+"en": "Tengu ",
+"jp": "カラス天<59e>",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+3
+],
+"where": [
+[
+"emp",
+"EMP_0007.PRG"
+],
+[
+"emp",
+"EMP_0008.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u0797",
+"en": "Haze",
+"jp": "<568>",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+2
+],
+"where": [
+[
+"emp",
+"EMP_0008.PRG"
+],
+[
+"emp",
+"EMP_0013.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u0800",
+"en": "Sorceror",
+"jp": "陰陽ん",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+4
+],
+"where": [
+[
+"emp",
+"EMP_0008.PRG"
+],
+[
+"emp",
+"EMP_000F.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u0802",
+"en": "Twin Blade",
+"jp": "<4b9>流騒<263>",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+5
+],
+"where": [
+[
+"emp",
+"EMP_0008.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u0805",
+"en": "Lost Head ",
+"jp": "迷い<413>",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+5
+],
+"where": [
+[
+"emp",
+"EMP_0009.PRG"
+],
+[
+"emp",
+"EMP_0809.PRG"
+],
+[
+"emp",
+"EMP_0816.PRG"
+],
+[
+"emp",
+"EMP_0821.PRG"
+]
+],
+"n": 4
+},
+{
+"id": "u0808",
+"en": "Wind Ninja",
+"jp": "<20f>来",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+5
+],
+"where": [
+[
+"emp",
+"EMP_0009.PRG"
+],
+[
+"emp",
+"EMP_000C.PRG"
+],
+[
+"emp",
+"EMP_0827.PRG"
+]
+],
+"n": 3
+},
+{
+"id": "u0811",
+"en": "1600lb Thief",
+"jp": "二事<30f>盗ッ",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+6
+],
+"where": [
+[
+"emp",
+"EMP_0009.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u0814",
+"en": "Militiaman",
+"jp": "<240>武れ",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+5
+],
+"where": [
+[
+"emp",
+"EMP_0009.PRG"
+],
+[
+"emp",
+"EMP_000C.PRG"
+],
+[
+"emp",
+"EMP_0805.PRG"
+]
+],
+"n": 3
+},
+{
+"id": "u0817",
+"en": "Disemboweler",
+"jp": "<6fc><6fd><6fe><301><235>",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+6
+],
+"where": [
+[
+"emp",
+"EMP_0009.PRG"
+],
+[
+"emp",
+"EMP_000B.PRG"
+],
+[
+"emp",
+"EMP_0012.PRG"
+],
+[
+"emp",
+"EMP_0804.PRG"
+]
+],
+"n": 4
+},
+{
+"id": "u0820",
+"en": "Drizzle ",
+"jp": "しぐれ",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+4
+],
+"where": [
+[
+"emp",
+"EMP_000A.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u0822",
+"en": "Manspider ",
+"jp": "人グモ",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+5
+],
+"where": [
+[
+"emp",
+"EMP_000A.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u0824",
+"en": "Nightwalker ",
+"jp": "夜行",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+6
+],
+"where": [
+[
+"emp",
+"EMP_000A.PRG"
+],
+[
+"emp",
+"EMP_000B.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u0826",
+"en": "Scythewhore ",
+"jp": "カマ女郎",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+6
+],
+"where": [
+[
+"emp",
+"EMP_000B.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u0828",
+"en": "Dead Soldier",
+"jp": "<387>武��",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+6
+],
+"where": [
+[
+"emp",
+"EMP_000B.PRG"
+],
+[
+"emp",
+"EMP_0010.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u0830",
+"en": "Brigand ",
+"jp": "<240>盗<1b6>",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+4
+],
+"where": [
+[
+"emp",
+"EMP_000C.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u0833",
+"en": "Hyde",
+"jp": "ハイド",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+2
+],
+"where": [
+[
+"emp",
+"EMP_000D.PRG"
+],
+[
+"emp",
+"EMP_081A.PRG"
+],
+[
+"emp",
+"EMP_0829.PRG"
+]
+],
+"n": 3
+},
+{
+"id": "u0835",
+"en": "Aplysia ",
+"jp": "アメフラシ",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+4
+],
+"where": [
+[
+"emp",
+"EMP_000D.PRG"
+],
+[
+"emp",
+"EMP_0805.PRG"
+],
+[
+"emp",
+"EMP_0829.PRG"
+]
+],
+"n": 3
+},
+{
+"id": "u0837",
+"en": "Alraune ",
+"jp": "アルラウネ",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+4
+],
+"where": [
+[
+"emp",
+"EMP_000D.PRG"
+],
+[
+"emp",
+"EMP_081A.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u0840",
+"en": "Suiko ",
+"jp": "すいこ",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+3
+],
+"where": [
+[
+"emp",
+"EMP_000D.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u0843",
+"en": "Midzuchi",
+"jp": "み<3c>ち",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+4
+],
+"where": [
+[
+"emp",
+"EMP_000D.PRG"
+],
+[
+"emp",
+"EMP_0829.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u0846",
+"en": "Sleet ",
+"jp": "みぞれ",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+3
+],
+"where": [
+[
+"emp",
+"EMP_000E.PRG"
+],
+[
+"emp",
+"EMP_0827.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u0849",
+"en": "Nunipede",
+"jp": "ムカデ<366>",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+4
+],
+"where": [
+[
+"emp",
+"EMP_000E.PRG"
+],
+[
+"emp",
+"EMP_0827.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u0851",
+"en": "Bodyguard ",
+"jp": "用心<392>",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+5
+],
+"where": [
+[
+"emp",
+"EMP_000E.PRG"
+],
+[
+"emp",
+"EMP_0804.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u0854",
+"en": "Bandit",
+"jp": "山ッ",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+3
+],
+"where": [
+[
+"emp",
+"EMP_000E.PRG"
+],
+[
+"emp",
+"EMP_0827.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u0857",
+"en": "Hell Monk ",
+"jp": "魔界<242>",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+5
+],
+"where": [
+[
+"emp",
+"EMP_000F.PRG"
+],
+[
+"emp",
+"EMP_0010.PRG"
+],
+[
+"emp",
+"EMP_0826.PRG"
+]
+],
+"n": 3
+},
+{
+"id": "u0860",
+"en": "Hundred ",
+"jp": "事<683>",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+4
+],
+"where": [
+[
+"emp",
+"EMP_000F.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u0863",
+"en": "Kalura",
+"jp": "カルラ",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+3
+],
+"where": [
+[
+"emp",
+"EMP_000F.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u0866",
+"en": "Arachnus",
+"jp": "クモ<68c>き",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+4
+],
+"where": [
+[
+"emp",
+"EMP_0010.PRG"
+],
+[
+"emp",
+"EMP_0826.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u0868",
+"en": "Grave Keeper",
+"jp": "<552>守り",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+6
+],
+"where": [
+[
+"emp",
+"EMP_0011.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u0871",
+"en": "Yasha ",
+"jp": "夜<67c>",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+3
+],
+"where": [
+[
+"emp",
+"EMP_0011.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u0874",
+"en": "Scarlet Wolf",
+"jp": "<256>娘",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+6
+],
+"where": [
+[
+"emp",
+"EMP_0011.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u0876",
+"en": "Twinblades",
+"jp": "<4b9>流騒れ",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+5
+],
+"where": [
+[
+"emp",
+"EMP_0011.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u0879",
+"en": "Monkey King ",
+"jp": "<238>王",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+6
+],
+"where": [
+[
+"emp",
+"EMP_0012.PRG"
+],
+[
+"emp",
+"EMP_0805.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u0881",
+"en": "Grudgestone ",
+"jp": "<1d5>らい",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+6
+],
+"where": [
+[
+"emp",
+"EMP_0012.PRG"
+],
+[
+"emp",
+"EMP_082A.PRG"
+],
+[
+"emp",
+"EMP_082C.PRG"
+]
+],
+"n": 3
+},
+{
+"id": "u0884",
+"en": "Eroder",
+"jp": "た<2b3>刃",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+3
+],
+"where": [
+[
+"emp",
+"EMP_0013.PRG"
+],
+[
+"emp",
+"EMP_0015.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u0887",
+"en": "Returner",
+"jp": "自ー返り",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+4
+],
+"where": [
+[
+"emp",
+"EMP_0013.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u0890",
+"en": "Reaper",
+"jp": "死神",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+3
+],
+"where": [
+[
+"emp",
+"EMP_0013.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u0893",
+"en": "Revenant",
+"jp": "レブナーン",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+4
+],
+"where": [
+[
+"emp",
+"EMP_0014.PRG"
+],
+[
+"emp",
+"EMP_0826.PRG"
+],
+[
+"emp",
+"EMP_082A.PRG"
+],
+[
+"emp",
+"EMP_082C.PRG"
+]
+],
+"n": 4
+},
+{
+"id": "u0896",
+"en": "Yamako",
+"jp": "ヤマコ",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+3
+],
+"where": [
+[
+"emp",
+"EMP_0014.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u0899",
+"en": "Geist ",
+"jp": "ガイスト",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+3
+],
+"where": [
+[
+"emp",
+"EMP_0014.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u0902",
+"en": "{T1579}{T1580}Crusader",
+"jp": "<2d0>十<45c><3ac>",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+6
+],
+"where": [
+[
+"emp",
+"EMP_0014.PRG"
+],
+[
+"emp",
+"EMP_080D.PRG"
+],
+[
+"emp",
+"EMP_0812.PRG"
+],
+[
+"emp",
+"EMP_081A.PRG"
+]
+],
+"n": 4
+},
+{
+"id": "u0905",
+"en": "Tiger Lily",
+"jp": "鬼事<186>",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+5
+],
+"where": [
+[
+"emp",
+"EMP_0015.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u0908",
+"en": "Snake Corpse",
+"jp": "<59b>ムクロ",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+6
+],
+"where": [
+[
+"emp",
+"EMP_0015.PRG"
+],
+[
+"emp",
+"EMP_0801.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u0910",
+"en": "Armor Ogre",
+"jp": "<51d><636>鬼",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+5
+],
+"where": [
+[
+"emp",
+"EMP_0015.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u0913",
+"en": "Kamuy Fum ",
+"jp": "カムイフム",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+5
+],
+"where": [
+[
+"emp",
+"EMP_0101.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u0915",
+"en": "Hell Stone",
+"jp": "魔界い",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+5
+],
+"where": [
+[
+"emp",
+"EMP_0102.PRG"
+],
+[
+"emp",
+"EMP_0819.PRG"
+],
+[
+"emp",
+"EMP_081B.PRG"
+],
+[
+"emp",
+"EMP_081F.PRG"
+]
+],
+"n": 7
+},
+{
+"id": "u0917",
+"en": "Corrupt Tree",
+"jp": "邪神<356>",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+6
+],
+"where": [
+[
+"emp",
+"EMP_0103.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u0919",
+"en": "Demon Priest",
+"jp": "邪神<2cc>",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+6
+],
+"where": [
+[
+"emp",
+"EMP_0103.PRG"
+],
+[
+"emp",
+"EMP_0104.PRG"
+],
+[
+"emp",
+"EMP_0113.PRG"
+],
+[
+"emp",
+"EMP_0114.PRG"
+]
+],
+"n": 4
+},
+{
+"id": "u0921",
+"en": "SankaiDoushi",
+"jp": "参界道れ",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+6
+],
+"where": [
+[
+"emp",
+"EMP_0104.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u0924",
+"en": "Ushiwaka",
+"jp": "<18b><188>姫",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+4
+],
+"where": [
+[
+"emp",
+"EMP_0105.PRG"
+],
+[
+"emp",
+"EMP_0106.PRG"
+],
+[
+"emp",
+"EMP_0116.PRG"
+],
+[
+"emp",
+"EMP_0116.PRG"
+]
+],
+"n": 5
+},
+{
+"id": "u0927",
+"en": "Elite Guard ",
+"jp": "十死<456>",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+6
+],
+"where": [
+[
+"emp",
+"EMP_0105.PRG"
+],
+[
+"emp",
+"EMP_0105.PRG"
+],
+[
+"emp",
+"EMP_0106.PRG"
+],
+[
+"emp",
+"EMP_0106.PRG"
+]
+],
+"n": 4
+},
+{
+"id": "u0929",
+"en": "Mitsurugi D.",
+"jp": "三騒洞光",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+6
+],
+"where": [
+[
+"emp",
+"EMP_0107.PRG"
+],
+[
+"emp",
+"EMP_0108.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u0936",
+"en": "Kuzuryuu",
+"jp": "<2d9>ョ竜",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+4
+],
+"where": [
+[
+"emp",
+"EMP_0109.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u0939",
+"en": "Kuzuryuu Leg",
+"jp": "<2d9>ョ竜の足",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+6
+],
+"where": [
+[
+"emp",
+"EMP_0109.PRG"
+],
+[
+"emp",
+"EMP_0109.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u0942",
+"en": "Earth Gang",
+"jp": "アース<1b6>",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+5
+],
+"where": [
+[
+"emp",
+"EMP_010A.PRG"
+],
+[
+"emp",
+"EMP_010A.PRG"
+],
+[
+"emp",
+"EMP_010A.PRG"
+],
+[
+"emp",
+"EMP_010B.PRG"
+]
+],
+"n": 15
+},
+{
+"id": "u0945",
+"en": "Earthquake  ",
+"jp": "<e7><e8><e9><ea><eb><ec>",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+6
+],
+"where": [
+[
+"emp",
+"EMP_010C.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u0950",
+"en": "Night Cutter",
+"jp": "夜切り",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+6
+],
+"where": [
+[
+"emp",
+"EMP_010D.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u0952",
+"en": "Sphynx",
+"jp": "スピンクス",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+3
+],
+"where": [
+[
+"emp",
+"EMP_010E.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u0955",
+"en": "Mattia",
+"jp": "マティア",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+3
+],
+"where": [
+[
+"emp",
+"EMP_010F.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u0958",
+"en": "Tao Fe",
+"jp": "タオフェ",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+3
+],
+"where": [
+[
+"emp",
+"EMP_0110.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u0961",
+"en": "Scythewoman ",
+"jp": "カマキリ太夫",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+6
+],
+"where": [
+[
+"emp",
+"EMP_0111.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u0964",
+"en": "Wan-Fu",
+"jp": "王虎",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+3
+],
+"where": [
+[
+"emp",
+"EMP_0112.PRG"
+],
+[
+"emp",
+"EMP_0908.PRG"
+],
+[
+"emp",
+"EMP_0936.PRG"
+]
+],
+"n": 3
+},
+{
+"id": "u0968",
+"en": "Gokai Doushi",
+"jp": "<6ac>界道れ",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+6
+],
+"where": [
+[
+"emp",
+"EMP_0113.PRG"
+],
+[
+"emp",
+"EMP_0114.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u0974",
+"en": "Toki's Wings",
+"jp": "時姫の翼",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+6
+],
+"where": [
+[
+"emp",
+"EMP_0115.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u0978",
+"en": "HellPrincess",
+"jp": "自ー姫",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+6
+],
+"where": [
+[
+"emp",
+"EMP_0117.PRG"
+],
+[
+"emp",
+"EMP_0118.PRG"
+],
+[
+"emp",
+"EMP_0119.PRG"
+]
+],
+"n": 3
+},
+{
+"id": "u0984",
+"en": "Gen'an",
+"jp": "不知<1fc>幻<202>",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+3
+],
+"where": [
+[
+"emp",
+"EMP_011A.PRG"
+],
+[
+"emp",
+"EMP_0915.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u0989",
+"en": "Hell Tengu",
+"jp": "地こ天<59e>",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+5
+],
+"where": [
+[
+"emp",
+"EMP_011B.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u0991",
+"en": "Shichikai D.",
+"jp": "<4ed>界道れ",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+6
+],
+"where": [
+[
+"emp",
+"EMP_011C.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u0999",
+"en": "Amakusa ",
+"jp": "天草四郎時<3c0>",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+4
+],
+"where": [
+[
+"emp",
+"EMP_011E.PRG"
+],
+[
+"emp",
+"EMP_011F.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u1004",
+"en": "Shadowdancer",
+"jp": "<6fc><6fd><6fe>か",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+6
+],
+"where": [
+[
+"emp",
+"EMP_0800.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1007",
+"en": "Double Blade",
+"jp": "<4b9>流のす生",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+6
+],
+"where": [
+[
+"emp",
+"EMP_0800.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1008",
+"en": "Mist",
+"jp": "ミスト",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+2
+],
+"where": [
+[
+"emp",
+"EMP_0801.PRG"
+],
+[
+"emp",
+"EMP_080D.PRG"
+],
+[
+"emp",
+"EMP_0812.PRG"
+]
+],
+"n": 3
+},
+{
+"id": "u1010",
+"en": "Orochi",
+"jp": "オロチ",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+3
+],
+"where": [
+[
+"emp",
+"EMP_0801.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1012",
+"en": "Pelori",
+"jp": "ベロリ",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+3
+],
+"where": [
+[
+"emp",
+"EMP_0801.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1015",
+"en": "Scythe Man",
+"jp": "<66a>男",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+5
+],
+"where": [
+[
+"emp",
+"EMP_0801.PRG"
+],
+[
+"emp",
+"EMP_0805.PRG"
+],
+[
+"emp",
+"EMP_080A.PRG"
+],
+[
+"emp",
+"EMP_0817.PRG"
+]
+],
+"n": 4
+},
+{
+"id": "u1017",
+"en": "Kellpy",
+"jp": "ケルピー",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+3
+],
+"where": [
+[
+"emp",
+"EMP_0802.PRG"
+],
+[
+"emp",
+"EMP_0807.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u1020",
+"en": "Oronteck",
+"jp": "オロンテク",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+4
+],
+"where": [
+[
+"emp",
+"EMP_0802.PRG"
+],
+[
+"emp",
+"EMP_0807.PRG"
+],
+[
+"emp",
+"EMP_0809.PRG"
+],
+[
+"emp",
+"EMP_080C.PRG"
+]
+],
+"n": 10
+},
+{
+"id": "u1023",
+"en": "Gammer",
+"jp": "ガンマー",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+3
+],
+"where": [
+[
+"emp",
+"EMP_0802.PRG"
+],
+[
+"emp",
+"EMP_0807.PRG"
+],
+[
+"emp",
+"EMP_0809.PRG"
+],
+[
+"emp",
+"EMP_080C.PRG"
+]
+],
+"n": 12
+},
+{
+"id": "u1026",
+"en": "Blaze Tree",
+"jp": "<1fc><3e1><313>",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+5
+],
+"where": [
+[
+"emp",
+"EMP_0803.PRG"
+],
+[
+"emp",
+"EMP_0806.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u1027",
+"en": "Sacrilege ",
+"jp": "破<5c3>衆",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+5
+],
+"where": [
+[
+"emp",
+"EMP_0803.PRG"
+],
+[
+"emp",
+"EMP_0806.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u1030",
+"en": "Plant Worm",
+"jp": "<696><5ea><632>草",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+5
+],
+"where": [
+[
+"emp",
+"EMP_0803.PRG"
+],
+[
+"emp",
+"EMP_0806.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u1033",
+"en": "Splashworm",
+"jp": "<4aa>ね<5ea>",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+5
+],
+"where": [
+[
+"emp",
+"EMP_0803.PRG"
+],
+[
+"emp",
+"EMP_0806.PRG"
+],
+[
+"emp",
+"EMP_0808.PRG"
+]
+],
+"n": 3
+},
+{
+"id": "u1036",
+"en": "StarvingMole",
+"jp": "邪<628>モグラ",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+6
+],
+"where": [
+[
+"emp",
+"EMP_0803.PRG"
+],
+[
+"emp",
+"EMP_0806.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u1039",
+"en": "Twin Plume",
+"jp": "二人<4e5><6a2>",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+5
+],
+"where": [
+[
+"emp",
+"EMP_0804.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1042",
+"en": "Contrarian",
+"jp": "天邪鬼",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+5
+],
+"where": [
+[
+"emp",
+"EMP_0805.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1047",
+"en": "Poisoner",
+"jp": "ポイズナー",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+4
+],
+"where": [
+[
+"emp",
+"EMP_0808.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1050",
+"en": "Koukaku ",
+"jp": "コウカク",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+4
+],
+"where": [
+[
+"emp",
+"EMP_0808.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1053",
+"en": "Spearman",
+"jp": "<6ff><700><6de>術れ",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+4
+],
+"where": [
+[
+"emp",
+"EMP_0808.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1056",
+"en": "Pathwalker",
+"jp": "迷<1c8>の魔人",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+5
+],
+"where": [
+[
+"emp",
+"EMP_0809.PRG"
+],
+[
+"emp",
+"EMP_0816.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u1059",
+"en": "Dark Cherry ",
+"jp": "<48d>迷",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+6
+],
+"where": [
+[
+"emp",
+"EMP_080A.PRG"
+],
+[
+"emp",
+"EMP_0817.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u1061",
+"en": "Demon Guard ",
+"jp": "魔こる",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+6
+],
+"where": [
+[
+"emp",
+"EMP_080A.PRG"
+],
+[
+"emp",
+"EMP_0817.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u1064",
+"en": "Halberdier",
+"jp": "<6ff><700><693>使い",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+5
+],
+"where": [
+[
+"emp",
+"EMP_080A.PRG"
+],
+[
+"emp",
+"EMP_0817.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u1068",
+"en": "Camellia",
+"jp": "姫つばき",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+4
+],
+"where": [
+[
+"emp",
+"EMP_080B.PRG"
+],
+[
+"emp",
+"EMP_0818.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u1071",
+"en": "Walking Dead",
+"jp": "死人返り",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+6
+],
+"where": [
+[
+"emp",
+"EMP_080B.PRG"
+],
+[
+"emp",
+"EMP_0818.PRG"
+],
+[
+"emp",
+"EMP_082A.PRG"
+],
+[
+"emp",
+"EMP_082C.PRG"
+]
+],
+"n": 4
+},
+{
+"id": "u1073",
+"en": "DemonSoldier",
+"jp": "魔城る",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+6
+],
+"where": [
+[
+"emp",
+"EMP_080B.PRG"
+],
+[
+"emp",
+"EMP_0818.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u1075",
+"en": "Old Sage",
+"jp": "<6ff><700><16f>ん",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+4
+],
+"where": [
+[
+"emp",
+"EMP_080B.PRG"
+],
+[
+"emp",
+"EMP_0818.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u1078",
+"en": "Tornado ",
+"jp": "トルナード",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+4
+],
+"where": [
+[
+"emp",
+"EMP_080C.PRG"
+],
+[
+"emp",
+"EMP_0811.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u1080",
+"en": "Giant Thief ",
+"jp": "<1f1>漢盗ッ",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+6
+],
+"where": [
+[
+"emp",
+"EMP_080C.PRG"
+],
+[
+"emp",
+"EMP_0811.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u1083",
+"en": "Lizard",
+"jp": "リザード",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+3
+],
+"where": [
+[
+"emp",
+"EMP_080D.PRG"
+],
+[
+"emp",
+"EMP_0812.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u1086",
+"en": "La Falle",
+"jp": "ラファール",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+4
+],
+"where": [
+[
+"emp",
+"EMP_080D.PRG"
+],
+[
+"emp",
+"EMP_0812.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u1089",
+"en": "Bissmore",
+"jp": "ビスモル",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+4
+],
+"where": [
+[
+"emp",
+"EMP_080D.PRG"
+],
+[
+"emp",
+"EMP_0812.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u1092",
+"en": "Bloody",
+"jp": "ブラッディ",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+3
+],
+"where": [
+[
+"emp",
+"EMP_080E.PRG"
+],
+[
+"emp",
+"EMP_0813.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u1095",
+"en": "Golan ",
+"jp": "ゴラン",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+3
+],
+"where": [
+[
+"emp",
+"EMP_080E.PRG"
+],
+[
+"emp",
+"EMP_0813.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u1097",
+"en": "Morve ",
+"jp": "モー<a3>ェ",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+3
+],
+"where": [
+[
+"emp",
+"EMP_080E.PRG"
+],
+[
+"emp",
+"EMP_0813.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u1099",
+"en": "Calamity",
+"jp": "カラミティ",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+4
+],
+"where": [
+[
+"emp",
+"EMP_080F.PRG"
+],
+[
+"emp",
+"EMP_0810.PRG"
+],
+[
+"emp",
+"EMP_0814.PRG"
+],
+[
+"emp",
+"EMP_0815.PRG"
+]
+],
+"n": 4
+},
+{
+"id": "u1101",
+"en": "Typhoon ",
+"jp": "テイフえン",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+4
+],
+"where": [
+[
+"emp",
+"EMP_080F.PRG"
+],
+[
+"emp",
+"EMP_0814.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u1104",
+"en": "GoldCrusader",
+"jp": "金十<45c><3ac>",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+6
+],
+"where": [
+[
+"emp",
+"EMP_080F.PRG"
+],
+[
+"emp",
+"EMP_0814.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u1107",
+"en": "Spiner",
+"jp": "スパイン",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+3
+],
+"where": [
+[
+"emp",
+"EMP_080F.PRG"
+],
+[
+"emp",
+"EMP_0814.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u1109",
+"en": "Blast ",
+"jp": "ブラスト",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+3
+],
+"where": [
+[
+"emp",
+"EMP_0810.PRG"
+],
+[
+"emp",
+"EMP_0815.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u1112",
+"en": "Hell Knight ",
+"jp": "<6e>ルナイト",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+6
+],
+"where": [
+[
+"emp",
+"EMP_0810.PRG"
+],
+[
+"emp",
+"EMP_0815.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u1117",
+"en": "Grief ",
+"jp": "グリーフ",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+3
+],
+"where": [
+[
+"emp",
+"EMP_081A.PRG"
+],
+[
+"emp",
+"EMP_0820.PRG"
+],
+[
+"emp",
+"EMP_0821.PRG"
+]
+],
+"n": 3
+},
+{
+"id": "u1121",
+"en": "Geryon",
+"jp": "ゲリュオン",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+3
+],
+"where": [
+[
+"emp",
+"EMP_081A.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1124",
+"en": "Paluma",
+"jp": "パルマ",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+3
+],
+"where": [
+[
+"emp",
+"EMP_081E.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1127",
+"en": "Chulto",
+"jp": "チュルト",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+3
+],
+"where": [
+[
+"emp",
+"EMP_081E.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1130",
+"en": "Ghoul ",
+"jp": "グール",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+3
+],
+"where": [
+[
+"emp",
+"EMP_0820.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1133",
+"en": "Moan",
+"jp": "モアン",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+2
+],
+"where": [
+[
+"emp",
+"EMP_0820.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1136",
+"en": "Hollow",
+"jp": "ロス<6e>ッド",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+3
+],
+"where": [
+[
+"emp",
+"EMP_0820.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1139",
+"en": "Bison ",
+"jp": "バイソン",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+3
+],
+"where": [
+[
+"emp",
+"EMP_0821.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1141",
+"en": "Ripper",
+"jp": "リッパー",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+3
+],
+"where": [
+[
+"emp",
+"EMP_0822.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1144",
+"en": "Rock Lizard ",
+"jp": "岩トカゲ",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+6
+],
+"where": [
+[
+"emp",
+"EMP_0822.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1147",
+"en": "Grizzly ",
+"jp": "グリズリー",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+4
+],
+"where": [
+[
+"emp",
+"EMP_0822.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1149",
+"en": "Wendigo ",
+"jp": "ウェンデゴ",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+4
+],
+"where": [
+[
+"emp",
+"EMP_0823.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1152",
+"en": "Maddeg",
+"jp": "マッドデグ",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+3
+],
+"where": [
+[
+"emp",
+"EMP_0823.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1154",
+"en": "Marauder",
+"jp": "マローダー",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+4
+],
+"where": [
+[
+"emp",
+"EMP_0823.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1157",
+"en": "SpiderSpirit",
+"jp": "クモ<1d5>霊",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+6
+],
+"where": [
+[
+"emp",
+"EMP_0824.PRG"
+],
+[
+"emp",
+"EMP_0825.PRG"
+],
+[
+"emp",
+"EMP_082B.PRG"
+]
+],
+"n": 3
+},
+{
+"id": "u1160",
+"en": "Cockatri",
+"jp": "コカトリお",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+4
+],
+"where": [
+[
+"emp",
+"EMP_0824.PRG"
+],
+[
+"emp",
+"EMP_0825.PRG"
+],
+[
+"emp",
+"EMP_082B.PRG"
+]
+],
+"n": 3
+},
+{
+"id": "u1163",
+"en": "Hell Guide",
+"jp": "自ー路<370>り",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+5
+],
+"where": [
+[
+"emp",
+"EMP_0824.PRG"
+],
+[
+"emp",
+"EMP_0825.PRG"
+],
+[
+"emp",
+"EMP_082B.PRG"
+]
+],
+"n": 3
+},
+{
+"id": "u1166",
+"en": "Dangler ",
+"jp": "たれさがり",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+4
+],
+"where": [
+[
+"emp",
+"EMP_0828.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1169",
+"en": "Scythe Plant",
+"jp": "<66a>つわぶき",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+6
+],
+"where": [
+[
+"emp",
+"EMP_0828.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1172",
+"en": "Obsessor",
+"jp": "魔物<68c>き",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+4
+],
+"where": [
+[
+"emp",
+"EMP_0828.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1174",
+"en": "Kappa ",
+"jp": "カッパ",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+3
+],
+"where": [
+[
+"emp",
+"EMP_0829.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1176",
+"en": "Musk Cat",
+"jp": "じゃこう<581>",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+4
+],
+"where": [
+[
+"emp",
+"EMP_0829.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1179",
+"en": "Enchanter ",
+"jp": "妖<4cb>は",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+5
+],
+"where": [
+[
+"emp",
+"EMP_082A.PRG"
+],
+[
+"emp",
+"EMP_082C.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u1182",
+"en": "Kubira",
+"jp": "クビラ",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+3
+],
+"where": [
+[
+"emp",
+"EMP_0901.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1185",
+"en": "Mekira",
+"jp": "メキラ",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+3
+],
+"where": [
+[
+"emp",
+"EMP_0902.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1188",
+"en": "Haon",
+"jp": "破<1d5>",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+2
+],
+"where": [
+[
+"emp",
+"EMP_0903.PRG"
+],
+[
+"emp",
+"EMP_091F.PRG"
+],
+[
+"emp",
+"EMP_0920.PRG"
+]
+],
+"n": 3
+},
+{
+"id": "u1191",
+"en": "Red Wolf",
+"jp": "<4a7><55a>",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+4
+],
+"where": [
+[
+"emp",
+"EMP_0904.PRG"
+],
+[
+"emp",
+"EMP_0905.PRG"
+],
+[
+"emp",
+"EMP_0905.PRG"
+],
+[
+"emp",
+"EMP_0932.PRG"
+]
+],
+"n": 6
+},
+{
+"id": "u1193",
+"en": "Silver Wolf ",
+"jp": "<33d><55a>",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+6
+],
+"where": [
+[
+"emp",
+"EMP_0905.PRG"
+],
+[
+"emp",
+"EMP_0933.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u1196",
+"en": "Gold Wolf ",
+"jp": "金<55a>",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+5
+],
+"where": [
+[
+"emp",
+"EMP_0906.PRG"
+],
+[
+"emp",
+"EMP_0934.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u1199",
+"en": "Blue Wolf ",
+"jp": "<59d><55a>",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+5
+],
+"where": [
+[
+"emp",
+"EMP_0906.PRG"
+],
+[
+"emp",
+"EMP_0906.PRG"
+],
+[
+"emp",
+"EMP_0934.PRG"
+],
+[
+"emp",
+"EMP_0934.PRG"
+]
+],
+"n": 4
+},
+{
+"id": "u1201",
+"en": "Youkihi ",
+"jp": "妖貴イ",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+4
+],
+"where": [
+[
+"emp",
+"EMP_0907.PRG"
+],
+[
+"emp",
+"EMP_090A.PRG"
+],
+[
+"emp",
+"EMP_0935.PRG"
+],
+[
+"emp",
+"EMP_0938.PRG"
+]
+],
+"n": 4
+},
+{
+"id": "u1206",
+"en": "Wan-Long",
+"jp": "王竜",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+4
+],
+"where": [
+[
+"emp",
+"EMP_0908.PRG"
+],
+[
+"emp",
+"EMP_0909.PRG"
+],
+[
+"emp",
+"EMP_0936.PRG"
+],
+[
+"emp",
+"EMP_0937.PRG"
+]
+],
+"n": 4
+},
+{
+"id": "u1210",
+"en": "Ruin Spawn",
+"jp": "破王の卵",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+5
+],
+"where": [
+[
+"emp",
+"EMP_090A.PRG"
+],
+[
+"emp",
+"EMP_0938.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u1213",
+"en": "DemonCavalry",
+"jp": "魔る馬",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+6
+],
+"where": [
+[
+"emp",
+"EMP_090B.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1218",
+"en": "Earthquake",
+"jp": "<e7><e8><e9><ea><eb><ec>",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+5
+],
+"where": [
+[
+"emp",
+"EMP_090E.PRG"
+],
+[
+"emp",
+"EMP_092E.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u1219",
+"en": "Antoinette",
+"jp": "アントネット",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+5
+],
+"where": [
+[
+"emp",
+"EMP_090F.PRG"
+],
+[
+"emp",
+"EMP_092F.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u1224",
+"en": "Pres. Franke",
+"jp": "フランケ<394><45f>",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+6
+],
+"where": [
+[
+"emp",
+"EMP_0910.PRG"
+],
+[
+"emp",
+"EMP_0930.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u1229",
+"en": "St. Germain ",
+"jp": "サンゼルマン",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+6
+],
+"where": [
+[
+"emp",
+"EMP_0911.PRG"
+],
+[
+"emp",
+"EMP_0931.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u1234",
+"en": "Poseidon",
+"jp": "ポ�xイドン",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+4
+],
+"where": [
+[
+"emp",
+"EMP_0912.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1237",
+"en": "Nestor",
+"jp": "ネストール",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+3
+],
+"where": [
+[
+"emp",
+"EMP_0912.PRG"
+],
+[
+"emp",
+"EMP_0912.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u1240",
+"en": "Unagin",
+"jp": "ウナギン",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+3
+],
+"where": [
+[
+"emp",
+"EMP_0913.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1242",
+"en": "Xibalba ",
+"jp": "シバルバ",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+4
+],
+"where": [
+[
+"emp",
+"EMP_0914.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1247",
+"en": "Mo-ain",
+"jp": "モアイン",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+3
+],
+"where": [
+[
+"emp",
+"EMP_0916.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1250",
+"en": "Gold Eater",
+"jp": "Ｇ・イーター",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+5
+],
+"where": [
+[
+"emp",
+"EMP_0917.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1253",
+"en": "Kyuuin",
+"jp": "鬼諷院",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+3
+],
+"where": [
+[
+"emp",
+"EMP_0918.PRG"
+],
+[
+"emp",
+"EMP_0918.PRG"
+],
+[
+"emp",
+"EMP_0918.PRG"
+]
+],
+"n": 3
+},
+{
+"id": "u1254",
+"en": "Hisamaro",
+"jp": "<5be>小路久<37f><557>",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+4
+],
+"where": [
+[
+"emp",
+"EMP_0919.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1257",
+"en": "KyuuinMaster",
+"jp": "鬼諷院<2d5><3dc>",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+6
+],
+"where": [
+[
+"emp",
+"EMP_091A.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1260",
+"en": "Basara",
+"jp": "<413>斬り破<481><298>",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+3
+],
+"where": [
+[
+"emp",
+"EMP_091B.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1265",
+"en": "Agou",
+"jp": "<17b>号",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+2
+],
+"where": [
+[
+"emp",
+"EMP_091C.PRG"
+],
+[
+"emp",
+"EMP_0928.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u1270",
+"en": "Ungou ",
+"jp": "吽号",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+3
+],
+"where": [
+[
+"emp",
+"EMP_091D.PRG"
+],
+[
+"emp",
+"EMP_0927.PRG"
+],
+[
+"emp",
+"EMP_0928.PRG"
+]
+],
+"n": 3
+},
+{
+"id": "u1274",
+"en": "Ghost Mizuki",
+"jp": "ミヅキ霊体",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+6
+],
+"where": [
+[
+"emp",
+"EMP_091E.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1283",
+"en": "Aungou",
+"jp": "<17b>吽<57f>",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+3
+],
+"where": [
+[
+"emp",
+"EMP_0928.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1290",
+"en": "Mizuki",
+"jp": "<298><2f0>神ミヅキ",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+3
+],
+"where": [
+[
+"emp",
+"EMP_0929.PRG"
+],
+[
+"emp",
+"EMP_092A.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u1293",
+"en": "Ambrosia",
+"jp": "アンブロジア",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+4
+],
+"where": [
+[
+"emp",
+"EMP_092B.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1295",
+"en": "Fell Flame",
+"jp": "ど<687>",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+5
+],
+"where": [
+[
+"emp",
+"EMP_092B.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1298",
+"en": "Fell Water",
+"jp": "ど<38b>",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+5
+],
+"where": [
+[
+"emp",
+"EMP_092B.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1300",
+"en": "Fell Wind ",
+"jp": "ど<20f>",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+5
+],
+"where": [
+[
+"emp",
+"EMP_092B.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1302",
+"en": "Fell Thunder",
+"jp": "ど<3be>",
+"kind": "имя врага",
+"max_tiles_per_line": 6,
+"en_tiles": [
+6
+],
+"where": [
+[
+"emp",
+"EMP_092B.PRG"
+]
+],
+"n": 1
+}
+]

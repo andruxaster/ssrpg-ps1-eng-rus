@@ -1,0 +1,128 @@
+run 1500
+press START 10
+run 400
+press B 6
+run 120
+press B 6
+run 120
+press B 6
+run 120
+press B 6
+run 120
+press B 6
+run 120
+press B 6
+run 120
+press B 6
+run 120
+press B 6
+run 120
+press B 6
+run 120
+press B 6
+run 120
+press B 6
+run 120
+press B 6
+run 120
+press B 6
+run 120
+press B 6
+run 120
+press B 6
+run 120
+press B 6
+run 120
+press B 6
+run 120
+press B 6
+run 120
+press B 6
+run 120
+press B 6
+run 120
+press B 6
+run 120
+press B 6
+run 120
+press B 6
+run 120
+press B 6
+run 120
+press B 6
+run 120
+press B 6
+run 120
+press B 6
+run 120
+press B 6
+run 120
+press B 6
+run 120
+press B 6
+run 120
+press B 6
+run 120
+press B 6
+run 120
+press B 6
+run 120
+press B 6
+run 120
+press B 6
+run 120
+press B 6
+run 120
+press B 6
+run 120
+press B 6
+run 120
+press B 6
+run 120
+press B 6
+run 120
+press B 6
+run 120
+press B 6
+run 120
+press B 6
+run 120
+press B 6
+run 120
+press B 6
+run 120
+press B 6
+run 120
+press B 6
+run 120
+press B 6
+run 120
+press B 6
+run 120
+press B 6
+run 120
+press B 6
+run 120
+press B 6
+run 120
+press B 6
+run 120
+press B 6
+run 120
+press B 6
+run 120
+press B 6
+run 120
+press B 6
+run 120
+press B 6
+run 120
+press B 6
+run 120
+press B 6
+run 120
+press B 6
+run 120
+press B 6
+run 120
+run 100

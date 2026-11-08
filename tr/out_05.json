@@ -1,0 +1,1510 @@
+{
+ "990": {
+  "pages": [
+   "A hit! {NAME} won 80GP!"
+  ]
+ },
+ "991": {
+  "pages": [
+   "A hit! {NAME} won 160GP!"
+  ]
+ },
+ "992": {
+  "pages": [
+   "A hit! {NAME} won 320GP!"
+  ]
+ },
+ "993": {
+  "pages": [
+   "A hit! {NAME} won 640GP!"
+  ]
+ },
+ "994": {
+  "pages": [
+   "Received 1280GP for your trouble..."
+  ]
+ },
+ "995": {
+  "pages": [
+   "Bets start at 40GP."
+  ]
+ },
+ "996": {
+  "pages": [
+   "Grr... Not fair...",
+   "The next bet is 80GP!"
+  ]
+ },
+ "997": {
+  "pages": [
+   "This time I'm playing for real...",
+   "The next bet is 160GP!"
+  ]
+ },
+ "998": {
+  "pages": [
+   "What's going on here...? Fine, I'll win it back next round!",
+   "The bet is 320GP!"
+  ]
+ },
+ "999": {
+  "pages": [
+   "...Are you a pro or something? All right, this is the final round.",
+   "The bet is 640GP!"
+  ]
+ },
+ "1000": {
+  "pages": [
+   "Is that all right with you?"
+  ]
+ },
+ "1001": {
+  "pages": [
+   "Traveler! First one through the Iga checkpoint in ages!",
+   "Listen to this!",
+   "A huge demon came through here!",
+   "Everyone's been saying there are monsters everywhere. It's true!",
+   "It flew off toward Ise!"
+  ]
+ },
+ "1002": {
+  "pages": [
+   "Once you leave through north town, you can only come back in through south town."
+  ]
+ },
+ "1003": {
+  "pages": [
+   "That is a fine weapon you carry...",
+   "Your weapons are masterworks. The more you temper them,",
+   "the higher their grade becomes...",
+   "And the higher the grade, the sharper the blade!",
+   "Whenever you find a blacksmith, visit often",
+   "and have your weapons reforged."
+  ]
+ },
+ "1004": {
+  "pages": [
+   "Ho ho ho...",
+   "Let this old man appraise your weapons..."
+  ],
+  "question": "Have your weapons appraised?",
+  "options": [
+   "Yes",
+   "No"
+  ]
+ },
+ "1005": {
+  "pages": [
+   "Hmm... Ukyo!"
+  ]
+ },
+ "1006": {
+  "pages": [
+   "Hmm... Genjuro!"
+  ]
+ },
+ "1007": {
+  "pages": [
+   "Hmm... Kyoshiro!"
+  ]
+ },
+ "1008": {
+  "pages": [
+   "Hmm... Rimururu!"
+  ]
+ },
+ "1009": {
+  "pages": [
+   "This weapon is far too fine for your skill.",
+   "...Take good care of it."
+  ]
+ },
+ "1010": {
+  "pages": [
+   "For your skill, this is just about right.",
+   "No need to temper it further."
+  ]
+ },
+ "1011": {
+  "pages": [
+   "I'd say you could raise its grade a bit more...",
+   "Have a blacksmith reforge it for you..."
+  ]
+ },
+ "1012": {
+  "pages": [
+   "They say the sword is the soul of the warrior...",
+   "Treat your weapon with more care.",
+   "Neglect it, and even a fine weapon",
+   "won't show its true power!"
+  ]
+ },
+ "1013": {
+  "pages": [
+   "Listen. The weapon is the soul of the samurai.",
+   "By raising not just your skill but your spirit,",
+   "you will master ever stronger weapons.",
+   "Stop by the blacksmith often."
+  ]
+ },
+ "1014": {
+  "pages": [
+   "Buying gear?",
+   "Gear's useless if you can't equip it!",
+   "When you buy, talk it over with the shop owner",
+   "and buy something you can actually equip!",
+   "Equipping gear changes",
+   "your defense, speed, evasion, luck and so on.",
+   "Some great items raise several stats at once,",
+   "so use the Equip command on the menu screen",
+   "and check what your new gear does reeeal carefully!"
+  ]
+ },
+ "1015": {
+  "pages": [
+   "What're you staring at...",
+   "Hm? Maybe... you're a customer..."
+  ],
+  "question": "Here for the gambling den?",
+  "options": [
+   "Yes",
+   "No"
+  ]
+ },
+ "1016": {
+  "pages": [
+   "Bah...",
+   "Shoo, shoo! Get lost!"
+  ]
+ },
+ "1017": {
+  "pages": [
+   "There's a 50GP entry fee, though...",
+   "Care to... play a little?"
+  ],
+  "question": "Enter the gambling den?",
+  "options": [
+   "Yes",
+   "No"
+  ]
+ },
+ "1018": {
+  "pages": [
+   "What, you think you can bet with no money?!",
+   "Get lost! Shoo, shoo!"
+  ]
+ },
+ "1019": {
+  "pages": [
+   "Well, if it isn't our guest! Playing again today?",
+   "The entry fee is 50GP!"
+  ],
+  "question": "Enter the gambling den?",
+  "options": [
+   "Yes",
+   "No"
+  ]
+ },
+ "1020": {
+  "pages": [
+   "Is that so... What a shame.",
+   "Come play some other time."
+  ]
+ },
+ "1021": {
+  "pages": [
+   "Well, if it isn't {NAME}...",
+   "Heh heh, I'm glad to see you...",
+   "So... the usual, then?",
+   "The entry fee is 50GP, as always!"
+  ],
+  "question": "Enter the gambling den?",
+  "options": [
+   "Yes",
+   "No"
+  ]
+ },
+ "1022": {
+  "pages": [
+   "Ooh, your purse is looking pretty thin...",
+   "Come back another time."
+  ]
+ },
+ "1023": {
+  "pages": [
+   "My friend...",
+   "You can't have much fun with that little.",
+   "Take my advice,",
+   "and come back some other time."
+  ]
+ },
+ "1024": {
+  "pages": [
+   "Well, our guest is back again...",
+   "If you want to play, that's fine by me...",
+   "Just no more trouble, please.",
+   "The entry fee is 50GP, as always..."
+  ],
+  "question": "Enter the gambling den?",
+  "options": [
+   "Yes",
+   "No"
+  ]
+ },
+ "1025": {
+  "pages": [
+   "I've let bygones be bygones about the other day.",
+   "Don't worry about it, just come and play!"
+  ]
+ },
+ "1026": {
+  "pages": [
+   "I'm busy making a kimono for Edo's town beauty,",
+   "so I'm not taking orders from new customers.",
+   "Sorry 'bout that."
+  ]
+ },
+ "1027": {
+  "pages": [
+   "How much should I work on it?"
+  ]
+ },
+ "1028": {
+  "pages": [
+   "All right, just a minute!"
+  ]
+ },
+ "1029": {
+  "pages": [
+   "Nobody can equip that!"
+  ]
+ },
+ "1030": {
+  "pages": [
+   "Want to equip it?"
+  ]
+ },
+ "1031": {
+  "pages": [
+   "Who's gonna equip it?"
+  ]
+ },
+ "1032": {
+  "pages": [
+   "Which one comes off?"
+  ]
+ },
+ "1033": {
+  "pages": [
+   "Your purse is full!"
+  ]
+ },
+ "1034": {
+  "pages": [
+   "Hey! You've got nothing to sell!"
+  ]
+ },
+ "1035": {
+  "pages": [
+   "Taking the boat? Where to?"
+  ],
+  "options": [
+   "Cancel",
+   "Kamuy Harbor"
+  ]
+ },
+ "1036": {
+  "pages": [
+   "So... where to?"
+  ],
+  "options": [
+   "Cancel",
+   "Kamuy Harbor"
+  ]
+ },
+ "1037": {
+  "pages": [
+   "I told you this pass won't do, didn't I?",
+   "Stowaways are on the rise, and the officials are cracking down..."
+  ]
+ },
+ "1038": {
+  "pages": [
+   "Going to Hakone? You can't pass the checkpoint without a pass.",
+   "Besides, it's full of monsters outside town. There's even a demon at the west shrine!",
+   "Even Master Hakudou the onmyoji can barely keep it sealed!",
+   "Take my advice and don't go."
+  ]
+ },
+ "1039": {
+  "pages": [
+   "Near the harbor there's a place where skilled samurai gather,",
+   "called the Samurai Bar, I hear...",
+   "You look like you can handle yourself.",
+   "Why not drop in and have a look?"
+  ]
+ },
+ "1040": {
+  "pages": [
+   "...I shouldn't say this too loudly, but",
+   "some strange teaching is spreading among the townsfolk...",
+   "You'd better be careful."
+  ]
+ },
+ "1041": {
+  "pages": [
+   "A learned old scholar lives northeast of Edo.",
+   "Rumor has it he's...",
+   "No, er... anyway, they say he knows a lot."
+  ]
+ },
+ "1042": {
+  "pages": [
+   "What? A pass...? I've got bigger problems right now!"
+  ]
+ },
+ "1043": {
+  "pages": [
+   "What? A pass...?",
+   "Sorry, but that'll have to wait for a while."
+  ]
+ },
+ "1044": {
+  "pages": [
+   "Ribbit ribbit!"
+  ]
+ },
+ "1045": {
+  "pages": [
+   "......",
+   "............A frog..."
+  ]
+ },
+ "1046": {
+  "pages": [
+   "You're an eyesore! Get lost!"
+  ]
+ },
+ "1047": {
+  "pages": [
+   "Where's the boss gone off slacking now...",
+   "Hm? What? You want to ride the boat?",
+   "Hmm... right now's a bit tough...",
+   "Well, fine, I'll see what I can do...",
+   "So, you've got a pass and money, right?",
+   "Huh?",
+   "Ah, no good. This pass is only for the Hakone checkpoint.",
+   "...Sorry, can't take you out on this.",
+   "Go get a proper pass somewhere!"
+  ]
+ },
+ "1048": {
+  "pages": [
+   "Let's see... Whoa, you're short on fare...",
+   "Sorry, but I can't take you aboard like this.",
+   "Forgive me!"
+  ]
+ },
+ "1049": {
+  "pages": [
+   "A demon is sealed beneath here.",
+   "If it's too much for you, I'll restore the seal at once!",
+   "Now, I'm breaking the seal!"
+  ]
+ },
+ "1050": {
+  "pages": [
+   "Want to ride the boat?",
+   "...What, you don't have a pass?",
+   "No, no. The magistrate told me very sternly",
+   "not to let anyone aboard without a pass!"
+  ]
+ },
+ "1051": {
+  "pages": [
+   "Jubei? Oh, the Yagyu estate is",
+   "that big mansion right up there.",
+   "But Jubei's not around now. Off on some job in Hakone, I hear."
+  ]
+ },
+ "1052": {
+  "pages": [
+   "Huh? This pass is no good!",
+   "It only gets you through the Hakone checkpoint!",
+   "Go get a new pass from the officials!"
+  ]
+ },
+ "1053": {
+  "pages": [
+   "Hmm... Splendid...",
+   "It seems I misjudged your strength.",
+   "As promised, I will tell you where Jubei has gone."
+  ]
+ },
+ "1054": {
+  "pages": [
+   "N-no good!",
+   "Chain-binding seal! Turn to stone!"
+  ]
+ },
+ "1055": {
+  "pages": [
+   "...Just as I told you.",
+   "With skill like that you'd only slow Jubei down...",
+   "Pack your things and go home..."
+  ]
+ },
+ "1056": {
+  "pages": [
+   "You said Kafuin, right?",
+   "Are you an onmyoji from Kafuin?",
+   "Then do you know a nasty old man",
+   "named Nicotine?"
+  ]
+ },
+ "1057": {
+  "pages": [
+   "You said Kafuin...",
+   "Are you an onmyoji of the same school as Nicotine?"
+  ]
+ },
+ "1058": {
+  "pages": [
+   "Oh... what's this?......",
+   "Hmm... What a coincidence... a disciple of Master Nicotine...",
+   "That explains it..."
+  ]
+ },
+ "1059": {
+  "pages": [
+   "As you say, I studied under the same school as Master Nicotine.",
+   "Is Master Nicotine well?"
+  ]
+ },
+ "1060": {
+  "pages": [
+   "That old geezer's too tough to die, even if you killed him!"
+  ]
+ },
+ "1061": {
+  "pages": [
+   "Hmph... That old monk",
+   "will probably live another hundred years!"
+  ]
+ },
+ "1062": {
+  "pages": [
+   "I see...",
+   "Master Nicotine taught me a great deal, so in a sense we share a school.",
+   "...We onmyoji of Kafuin have been sent out to protect people from the demons",
+   "by our head temple in Kyoto.",
+   "And I have come to protect Edo...",
+   "Of course, Master Nicotine is in a class of his own."
+  ]
+ },
+ "1063": {
+  "pages": [
+   "...Nicotine is in a class of his own?"
+  ]
+ },
+ "1064": {
+  "pages": [
+   "I mean that Master Nicotine is different from the rest of us.",
+   "Now, let us go."
+  ]
+ },
+ "1065": {
+  "pages": [
+   "Talk with the samurai gathered here",
+   "and choose two companions.",
+   "They'll share your life and death, so choose carefully.",
+   "Once you've decided, speak to me again."
+  ]
+ },
+ "1066": {
+  "pages": [
+   "Choosing two companions is no easy task.",
+   "Think carefully about your own abilities and take your time.",
+   "Someone with the strengths you lack",
+   "should be your first choice."
+  ]
+ },
+ "1067": {
+  "pages": [
+   "You have strong attacks and plenty of secret arts.",
+   "But your defense is a bit shaky,",
+   "so choose allies who can back you up from the rear!",
+   "Speedy Galford and Nakoruru with her healing arts",
+   "make SNK's recommended best team!"
+  ]
+ },
+ "1068": {
+  "pages": [
+   "You have powerful healing arts,",
+   "but you're far too gentle to be a warrior...",
+   "You'll need strong front-line allies to scatter the demons.",
+   "Charlotte with her high defense, or Haohmaru with his power,",
+   "would be just right."
+  ]
+ },
+ "1069": {
+  "pages": [
+   "You overwhelm demons with your speed,",
+   "but your hitting power is a bit lacking.",
+   "How about taking Ukyo or Kyoshiro along?",
+   "You whittle down the foe with first strikes,",
+   "and they finish the job."
+  ]
+ },
+ "1070": {
+  "pages": [
+   "You're a flawless warrior in skill,",
+   "but sadly, there's your illness...",
+   "I recommend Cham Cham or Rimururu,",
+   "who can aid you with support and healing arts."
+  ]
+ },
+ "1071": {
+  "pages": [
+   "You have both power and speed,",
+   "but your lack of defense is your weak spot...",
+   "Why not talk to Ukyo or Charlotte,",
+   "whose high defense lets them hold the front line?"
+  ]
+ },
+ "1072": {
+  "pages": [
+   "I see, I see...",
+   "Treasure the companions you've chosen!"
+  ]
+ },
+ "1073": {
+  "pages": [
+   "Traveling as three is safest... Take my advice...",
+   "Gather one more companion! You must choose two!"
+  ]
+ },
+ "1074": {
+  "pages": [
+   "These encounters are your treasure...!",
+   "Live together, die together... polish your souls, hone your skills,",
+   "and may you walk your path straight and true..."
+  ]
+ },
+ "1075": {
+  "pages": [
+   "Oh? Not satisfied...? No matter...",
+   "The people here won't mind!",
+   "Choose again from the beginning!"
+  ]
+ },
+ "1076": {
+  "pages": [
+   "Yaaay! C'mon, Pak Pak!"
+  ]
+ },
+ "1077": {
+  "pages": [
+   "Yagyu Jubei is the best swordsman in Edo, no, in all Japan.",
+   "Everyone knows he's a shogunate spy. It's an open secret.",
+   "As long as Jubei's around,",
+   "the Shogun can live in Edo without a worry."
+  ]
+ },
+ "1078": {
+  "pages": [
+   "Whaaat do you want...",
+   "You need somethiiing?"
+  ],
+  "question": "Do you need something?",
+  "options": [
+   "Yes",
+   "No"
+  ]
+ },
+ "1079": {
+  "pages": [
+   "Oh, fine... Hmph..."
+  ]
+ },
+ "1080": {
+  "pages": [
+   "If you need something... mmm..."
+  ],
+  "question": "You really need something?",
+  "options": [
+   "I sure do!",
+   "Not really"
+  ]
+ },
+ "1081": {
+  "pages": [
+   "Oh my... well then...",
+   "You'll have to say the password just right...",
+   "A password?"
+  ],
+  "question": "Say the password?",
+  "options": [
+   "Yes",
+   "No"
+  ]
+ },
+ "1082": {
+  "pages": [
+   "So... what's the first password?"
+  ],
+  "question": "What's the first password?",
+  "options": [
+   "Moetaro",
+   "Sonomama"
+  ]
+ },
+ "1083": {
+  "pages": [
+   "Oh... hee hee. What's the next password?"
+  ],
+  "question": "What's the second password?",
+  "options": [
+   "Yoyutchi",
+   "Ora ora!"
+  ]
+ },
+ "1084": {
+  "pages": [
+   "My... not bad. What's the next password?"
+  ],
+  "question": "What's the third password?",
+  "options": [
+   "Takatsu",
+   "Umemoto"
+  ]
+ },
+ "1085": {
+  "pages": [
+   "All right... but just to be sure,",
+   "what's the last password?"
+  ],
+  "question": "What's the last password?",
+  "options": [
+   "Sorry, Kanbo",
+   "Seal Demon City"
+  ]
+ },
+ "1086": {
+  "pages": [
+   "Whew... Looks like you're not a government dog after all...",
+   "You want that thing, don't you? That... thing."
+  ],
+  "question": "Do you want that thing?",
+  "options": [
+   "Yes",
+   "No"
+  ]
+ },
+ "1087": {
+  "pages": [
+   "That thing... which thing?"
+  ],
+  "question": "Which thing do you mean?",
+  "options": [
+   "Black pass",
+   "That thing"
+  ]
+ },
+ "1088": {
+  "pages": [
+   "My... hee hee hee.",
+   "Then pay me 500GP...",
+   "Up front, of course..."
+  ],
+  "question": "Pay the price?",
+  "options": [
+   "Yes",
+   "No"
+  ]
+ },
+ "1089": {
+  "pages": [
+   "Oh dear... You should open your window",
+   "and check your money first, hon.",
+   "...See you later."
+  ]
+ },
+ "1090": {
+  "pages": [
+   "Oh, all right...",
+   "I'll knock it down to 400GP. That's fine, isn't it..."
+  ],
+  "question": "Pay the price?",
+  "options": [
+   "Yes",
+   "No"
+  ]
+ },
+ "1091": {
+  "pages": [
+   "...Is 400GP too much, maybe...",
+   "Hmm... For 300GP... you'll buy it, right?"
+  ],
+  "question": "Pay the price?",
+  "options": [
+   "Yes",
+   "No"
+  ]
+ },
+ "1092": {
+  "pages": [
+   "............",
+   "...Hey, you!?",
+   "You think you can haggle me down forever, don't you!",
+   "Don't push your luck!",
+   "I'm not some cheap woman!",
+   "Honestly! Give me a break!",
+   "...This is it! 200GP! How about that!"
+  ],
+  "question": "Pay the price?",
+  "options": [
+   "Yes",
+   "No"
+  ]
+ },
+ "1093": {
+  "pages": [
+   "You don't even have 200? ...You're broker than I thought.",
+   "Guess I misjudged you...",
+   "Fine, I get it!",
+   "Even you can afford 100GP, right?",
+   "This is your last chance!"
+  ],
+  "question": "Pay the price?",
+  "options": [
+   "Yes",
+   "No"
+  ]
+ },
+ "1094": {
+  "pages": [
+   "......",
+   "......",
+   "And you call yourself the hero?",
+   "...You win... I give up... Fine! 50GP!",
+   "This is really, truly the last time!"
+  ],
+  "question": "Pay the price?",
+  "options": [
+   "Yes",
+   "No"
+  ]
+ },
+ "1095": {
+  "pages": [
+   "...Window shoppers, get out!"
+  ]
+ },
+ "1096": {
+  "pages": [
+   "...You really, truly have no money, do you?",
+   "...The exit's that way!"
+  ]
+ },
+ "1097": {
+  "pages": [
+   "Here, this is the Black Pass.",
+   "...Keep it a secret from the officials, okay...",
+   "Got the Black Pass!"
+  ]
+ },
+ "1098": {
+  "pages": [
+   "...Well then, that... thing."
+  ]
+ },
+ "1099": {
+  "pages": [
+   "Whew...",
+   "That's as far as this hardware can go... hee hee... well then,",
+   "see... you... later."
+  ]
+ },
+ "1100": {
+  "pages": [
+   "What... You got a problem with me?!"
+  ]
+ },
+ "1101": {
+  "pages": [],
+  "question": "Like fighting games?",
+  "options": [
+   "Yes",
+   "No"
+  ]
+ },
+ "1102": {
+  "pages": [
+   "Me too!",
+   "Terry and Kyo are so cool, right?",
+   "In that case...",
+   "I recommend Command Input mode!"
+  ]
+ },
+ "1103": {
+  "pages": [
+   "Is that so... In that case...",
+   "I recommend Move Select mode!",
+   "You can play it just like the RPGs you're used to!"
+  ]
+ },
+ "1104": {
+  "pages": [
+   "Me, I like Benimaru...",
+   "Eh? We're not talking about favorite characters?",
+   "Aw, how boring.",
+   "If you want to learn about battle, go to the Yagyu estate.",
+   "They'll teach you all about it."
+  ]
+ },
+ "1105": {
+  "pages": [
+   "You look like a traveler too.",
+   "Whether you have healing arts or not,",
+   "you'd better stock up on plenty of herbs...",
+   "or you'll regret it later."
+  ]
+ },
+ "1106": {
+  "pages": [
+   "Squee!",
+   "I bought a new accessory!",
+   "Just having accessories isn't enough, you know!",
+   "You have to Equip them, or you're not really wearing them!",
+   "The shopkeeper will equip what you buy for you,",
+   "but when you want to change gear yourself,",
+   "use the Equip command on the menu screen!"
+  ]
+ },
+ "1107": {
+  "pages": [
+   "Um... Master Hakudou has been waiting at the stone mound in the garden...",
+   "You can reach the garden through the exit at the back right."
+  ]
+ },
+ "1108": {
+  "pages": [
+   "I'm an onmyoji in training!",
+   "I'm studying the Rules of Stats!"
+  ]
+ },
+ "1109": {
+  "pages": [
+   "HP is endurance! At 0, you can't fight!",
+   "SP is spirit! Using secret arts uses it up!"
+  ]
+ },
+ "1110": {
+  "pages": [
+   "ATK is attack power!",
+   "How much damage you deal! Raise your weapon's grade to boost it!",
+   "DEF is defense!",
+   "It reduces damage from enemies! Equipping gear raises it!"
+  ]
+ },
+ "1111": {
+  "pages": [
+   "STR is strength! It affects attack power.",
+   "The higher it is, the stronger your attacks!",
+   "GRD is guard! It affects defense!"
+  ]
+ },
+ "1112": {
+  "pages": [
+   "EVA is evasion! It helps you dodge projectiles!",
+   "SPD is speed!",
+   "It affects dodging attacks and how often you counter!"
+  ]
+ },
+ "1113": {
+  "pages": [
+   "LUK is luck! Its effects are a secret!",
+   "...Sigh... I'll never remember all this."
+  ]
+ },
+ "1114": {
+  "pages": [
+   "With skill like that,",
+   "you won't hold Jubei back.",
+   "But before I tell you where he is, there's one more condition..."
+  ]
+ },
+ "1115": {
+  "pages": [
+   "You must buy the CD of Shinsetsu Samurai Spirits Bushido Retsuden,",
+   "due out on June 27th!",
+   "Buy it on June 27th and continue this story at home!",
+   "...I, Kafuin Hakudou, guarantee it's fun!"
+  ]
+ },
+ "1116": {
+  "pages": [
+   "So if I want to meet",
+   "that Amakusa guy, I buy the Bushido Retsuden CD on June 27th!",
+   "Got it!",
+   "Just wait, Amakusa! The great Haohmaru's gonna raise some hell!"
+  ]
+ },
+ "1117": {
+  "pages": [
+   "I understand... I'll save up my allowance until then,",
+   "and buy the Bushido Retsuden CD on June 27th!",
+   "To protect nature... I won't allow the demon realm's invasion!"
+  ]
+ },
+ "1118": {
+  "pages": [
+   "WOW!",
+   "So that's how it is! I got it!",
+   "On June 27th I just need to go buy",
+   "the Bushido Retsuden CD! For justice!",
+   "For justice... I'll get it for sure!"
+  ]
+ },
+ "1119": {
+  "pages": [
+   "Cough... I see.",
+   "The Bushido Retsuden CD on June 27th... Understood.",
+   "To obtain the ultimate flower, I, Tachibana Ukyo,",
+   "have long been prepared for that much.",
+   "To master the warrior's way, a shining game disc, a summer journey...",
+   "...Here I come!"
+  ]
+ },
+ "1120": {
+  "pages": [
+   "Hmph... So that's it.",
+   "You want me to buy the Bushido Retsuden CD!",
+   "Fine... Amakusa!",
+   "I'll leave your head on your shoulders until June 27th!"
+  ]
+ },
+ "1121": {
+  "pages": [
+   "Okay, Cham Cham gets it!",
+   "Cham Cham gonna buy Bushido Retsuden CD!",
+   "Then find Palenque Stone and find Big Brother Tam Tam,",
+   "and go back to Greenhell and eat lotsa bananas!"
+  ]
+ },
+ "1122": {
+  "pages": [
+   "My name is Kafuin Hakudou...",
+   "I am an onmyoji."
+  ]
+ },
+ "1123": {
+  "pages": [
+   "Do not go near the stone mound in the garden! It is a demon!",
+   "I have sealed it, so it's safe, but just in case...",
+   "...When Jubei returns, I'll have him slay it straight away,",
+   "so rest easy."
+  ]
+ },
+ "1124": {
+  "pages": [
+   "What?",
+   "You say you've come to see Yagyu Jubei?",
+   "...Hmm.",
+   "Jubei is away from Edo on official duty...",
+   "I can say no more than that.",
+   "Forgive me, but an amateur would only slow him down.",
+   "You had best wait until he has finished his duty."
+  ]
+ },
+ "1125": {
+  "pages": [
+   "Tch... What a stubborn old coot.",
+   "So basically! All I gotta do is show you",
+   "I'm strong enough not to slow him down, right?",
+   "Watch this!",
+   "I'll cut that demon sealed in your garden clean in two!"
+  ]
+ },
+ "1126": {
+  "pages": [
+   "Oh dear... Then how about this!",
+   "If I defeat the demon sealed in the garden in Jubei's place,",
+   "will you acknowledge my strength?"
+  ]
+ },
+ "1127": {
+  "pages": [
+   "Slow him down? That hurts...",
+   "I didn't train in ninjutsu for nothing, you know.",
+   "...OK, how about this!",
+   "If I take out that demon in the garden,",
+   "you tell me where Jubei went. Deal?"
+  ]
+ },
+ "1128": {
+  "pages": [
+   "Cough... Pardon me, but",
+   "I too have some knowledge of the sword...",
+   "I have no intention of troubling Jubei.",
+   "Let me see... I will go to the garden now and",
+   "show you how I defeat that sealed demon.",
+   "Surely that would set your mind at ease, Hakudou?"
+  ]
+ },
+ "1129": {
+  "pages": [
+   "Hey! Mister! You think Cham Cham's not strong!",
+   "Cham Cham's the strongest after Big Brother Tam Tam, ya know!",
+   "Okay! Cham Cham gonna beat up that sealed bad guy!",
+   "Then Mister gonna know Cham Cham's strong!"
+  ]
+ },
+ "1130": {
+  "pages": [
+   "I'm speechless... Calling me an amateur is beyond laughable.",
+   "I could teach you with your own body, but then I'd never find Jubei.",
+   "I know. Break the seal on that garden demon right now!",
+   "I'll cut it down and knock some sense",
+   "into that sleepy head of yours!"
+  ]
+ },
+ "1131": {
+  "pages": [
+   "Wh-what? Don't talk nonsense!",
+   "Don't you value your life? Reconsider!"
+  ],
+  "question": "Heed the onmyoji's advice?",
+  "options": [
+   "Yes",
+   "No"
+  ]
+ },
+ "1132": {
+  "pages": [
+   "Hmm... Well, it can't be helped.",
+   "Getting hurt is a lesson in itself...",
+   "Then follow me to the garden...",
+   "You shall slay the sealed demon.",
+   "Mind you, come well prepared!"
+  ]
+ },
+ "1133": {
+  "pages": [
+   "Yes... That is wise. No ordinary person can master a demon.",
+   "Wait quietly for Jubei to return to Edo.",
+   "...Though I can't say when that will be."
+  ]
+ },
+ "1134": {
+  "pages": [
+   "Enough foolishness! Do not underestimate a demon's power!",
+   "Jubei is one thing, but what can you do all alone?",
+   "...At least bring a companion before you talk so big!",
+   "Honestly... What a bother."
+  ]
+ },
+ "1135": {
+  "pages": [
+   "What... I thought you'd reconsidered?",
+   "You're a stubborn one...",
+   "Take my advice and wait for Jubei to return!"
+  ],
+  "question": "Heed the onmyoji's advice?",
+  "options": [
+   "Yes",
+   "No"
+  ]
+ },
+ "1136": {
+  "pages": [
+   "What are you doing... Weren't you going after Jubei?",
+   "Jubei is at Mount Fuji, investigating the cult's link to the demon realm.",
+   "Now go and help him!"
+  ]
+ },
+ "1137": {
+  "pages": [
+   "...Jubei crossed the Hakone checkpoint, heading for Mount Fuji.",
+   "Looking into the new cult, the earthquakes and the demons' movements,",
+   "he learned that the area around Fuji is suspicious.",
+   "With your skill, you won't hold him back. Go after him.",
+   "...Though by the look of you, you have no pass.",
+   "Take this."
+  ]
+ },
+ "1138": {
+  "pages": [
+   "With this pass you can cross the Hakone checkpoint.",
+   "The checkpoint is west of Edo, and Fuji lies further west.",
+   "Now go and help Jubei!"
+  ]
+ },
+ "1139": {
+  "pages": [
+   "Looking for a good weapon? ...Hmm...",
+   "A sword better than the one at your hip won't be easy to find!",
+   "Rather than buying one, have a blacksmith",
+   "reforge the one you've got. It'll do you more good!",
+   "Hm? A blacksmith? I think there's one in north town..."
+  ]
+ },
+ "1140": {
+  "pages": [
+   "Weapons are not bought, but forged... But",
+   "a samurai's weapon like yours...",
+   "There can't be many blacksmiths who could forge it..."
+  ]
+ },
+ "1141": {
+  "pages": [
+   "Really! Little Machi's gonna sing at the theater!",
+   "Go see her if you get the chance."
+  ]
+ },
+ "1142": {
+  "pages": [
+   "You don't know her? Then I'll tell you.",
+   "She's a hot new rookie, the talk of the business!",
+   "She's gonna be big...",
+   "Take it from me, an idol fanatic!",
+   "After Megumi Matsumoto comes Edo's town beauty!"
+  ]
+ },
+ "1143": {
+  "pages": [
+   "I heard all about it from Jubei.",
+   "I hear you did quite well at Mount Fuji."
+  ]
+ },
+ "1144": {
+  "pages": [
+   "Have you visited Jubei's estate?",
+   "...What, not yet?",
+   "He seems eager to see you. Go to the Yagyu estate!"
+  ]
+ },
+ "1145": {
+  "pages": [
+   "Oops, sorry... My best goods are sold out right now.",
+   "You won't regret it, so drop by again sometime."
+  ]
+ },
+ "1146": {
+  "pages": [
+   "Normal attacks come in three strengths...",
+   "Weak attacks deal little damage but hit often.",
+   "They leave no opening, so you won't be countered.",
+   "Strong attacks hit hard and often land critical blows.",
+   "But they're big swings, with big openings...",
+   "Easier to dodge, and easier to counter.",
+   "Medium attacks fall in between...",
+   "Use medium normally, and switch as the situation demands."
+  ]
+ },
+ "1147": {
+  "pages": [
+   "Unleashing a secret art costs a lot of SP...",
+   "That is how much focus it takes...",
+   "Know the traits of each art well.",
+   "The Arts command on the menu screen describes each one.",
+   "Use it for reference..."
+  ]
+ },
+ "1148": {
+  "pages": [
+   "They say when your rage peaks, power fills your body and mind",
+   "and your attack power rises.",
+   "And there are said to be super arts",
+   "you can only unleash at peak rage..."
+  ]
+ },
+ "1149": {
+  "pages": [
+   "Are you using Command Input?"
+  ],
+  "question": "Using Command Input?",
+  "options": [
+   "Yes",
+   "No"
+  ]
+ },
+ "1150": {
+  "pages": [
+   "Are you using Move Select?"
+  ],
+  "question": "Using Move Select?",
+  "options": [
+   "Yes",
+   "No"
+  ]
+ },
+ "1151": {
+  "pages": [
+   "With Command Input, you use secret arts like in a fighting game.",
+   "No need to open the arts window each time,",
+   "so battles move at a good tempo.",
+   "It's the mode I recommend for folks used to",
+   "fighting games like Samurai Shodown."
+  ]
+ },
+ "1152": {
+  "pages": [
+   "You can check each art's command",
+   "with the Arts command on the menu screen."
+  ]
+ },
+ "1153": {
+  "pages": [
+   "Move Select calls for sound judgment.",
+   "Plan your strategy well, and respond to the ever-changing battle",
+   "calmly and correctly, and no foe can beat you."
+  ]
+ },
+ "1154": {
+  "pages": [
+   "No tricky commands to input, so you can focus on strategy.",
+   "Check your current HP and SP often,",
+   "and know the strengths and weaknesses of friend and foe."
+  ]
+ },
+ "1155": {
+  "pages": [
+   "You... I see you're more dexterous than you look!"
+  ]
+ },
+ "1156": {
+  "pages": [
+   "Every attack invites a counterattack...",
+   "Pushing with brute force only gets you countered and wastes your HP.",
+   "Use weak attacks and secret arts wisely to fight efficiently.",
+   "Otherwise, you'll have a hard time in dungeons!"
+  ]
+ },
+ "1157": {
+  "pages": [
+   "Mastering surface swordsmanship isn't the only path.",
+   "They say the swordsmen called samurai",
+   "possess a hidden power of the soul called Spirits."
+  ]
+ },
+ "1158": {
+  "pages": [
+   "Yes, this is the estate of Master Yagyu Jubei.",
+   "Do you have business with him?"
+  ]
+ },
+ "1159": {
+  "pages": [
+   "Master Jubei crossed the Hakone checkpoint on official business.",
+   "That's all I've heard...",
+   "Do you know the onmyoji",
+   "Master Kafuin Hakudou?",
+   "He often spoke with Master Jubei.",
+   "Master Hakudou may know something."
+  ]
+ },
+ "1160": {
+  "pages": [
+   "Master Hakudou the onmyoji",
+   "is at the shrine southwest of this estate."
+  ]
+ },
+ "1161": {
+  "pages": [
+   "Master Jubei... please tell them a bit more.",
+   "They helped us in so many ways,",
+   "not just with Edo Castle..."
+  ]
+ },
+ "1162": {
+  "pages": [
+   "But one thing is clear.",
+   "Demons attack people, and Hell destroys their hearts.",
+   "So the Shogunate has fought the demon realm with all its might.",
+   "Samurai, ninja, onmyoji, monks... yet in the end,",
+   "their true nature remains unknown."
+  ]
+ },
+ "1163": {
+  "pages": [
+   "...What a frightening story...",
+   "Master Jubei, where exactly",
+   "is this terrible demon realm?"
+  ]
+ },
+ "1164": {
+  "pages": [
+   "Deep, deep beneath the earth... or so the onmyoji believe...",
+   "But that's just a theory. No one truly knows.",
+   "In any case, the demons have grown very active of late.",
+   "As you know,",
+   "they even got into the heart of Edo."
+  ]
+ },
+ "1165": {
+  "pages": [
+   "On top of that, there are troubling signs.",
+   "Someone is scheming to plunge Japan into chaos.",
+   "That cult worshipping an evil god at Fuji is just one part.",
+   "And the power to build such a castle beneath Edo Castle...",
+   "This invasion is far larger and more organized than before.",
+   "We had best assume as much."
+  ]
+ },
+ "1166": {
+  "pages": [
+   "...Is that so. Sounds like this is turning",
+   "into one hell of a mess...",
+   "By the way, who the heck is this Amakusa Shiro?"
+  ]
+ },
+ "1167": {
+  "pages": [
+   "Hmph... That doesn't matter.",
+   "What I want to know is where Amakusa is!",
+   "...Who is this Amakusa Shiro anyway?"
+  ]
+ },
+ "1168": {
+  "pages": [
+   "Hmm... That's tough, Mister...",
+   "But Cham Cham got it tough too!",
+   "That bad guy stole the Palenque Stone and ran away!",
+   "Who's Amakusa Shiro? Who? Who?"
+  ]
+ },
+ "1169": {
+  "pages": [
+   "Heh heh... Seems you're not the type to live an ordinary life either.",
+   "You mean to chase Amakusa and challenge him, no matter what?",
+   "Very well, I like that!",
+   "I must guard the Shogun and can do nothing for you,",
+   "but take this Spy Pass.",
+   "Use it to go to Ise!",
+   "They say agents of Hell are stirring in Ise.",
+   "You may find a lead on Amakusa there."
+  ]
+ },
+ "1170": {
+  "pages": [
+   "If you like, I'll cross swords with you?"
+  ],
+  "question": "Train with Jubei?",
+  "options": [
+   "Yes",
+   "No"
+  ]
+ },
+ "1171": {
+  "pages": [
+   "Wahahahahaha! Don't hold back!",
+   "Come at me, whelp!"
+  ]
+ },
+ "1172": {
+  "pages": [
+   "Yes, splendid! {NAME}!",
+   "You have now mastered a new secret art!",
+   "When your rage reaches its peak,",
+   "that move will bury every foe before you, bones and all!"
+  ]
+ },
+ "1173": {
+  "pages": [
+   "I see... I can smell evil coming.",
+   "Jubei, we'll help too! Let's crush the bad guys together!",
+   "Anyway, what kind of guy is this Amakusa from the upside-down Edo Castle?",
+   "I've got a little history with him."
+  ]
+ },
+ "1174": {
+  "pages": [
+   "Hmm... This is serious indeed.",
+   "...Jubei, there is one thing that troubles me.",
+   "That fiend Amakusa at the upside-down Edo Castle is no ordinary man."
+  ]
+ },
+ "1175": {
+  "pages": [
+   "This all right with you?"
+  ]
+ },
+ "1176": {
+  "pages": [
+   "Kuzuhara's the name, kimono's the game!",
+   "With true Osaka merchant spirit, I'll give you a real bargain!",
+   "So, what'll it be today...",
+   "Just 100GP and I'll fix you up with any outfit you like."
+  ],
+  "question": "Get a new outfit?",
+  "options": [
+   "Yes",
+   "No"
+  ]
+ },
+ "1177": {
+  "pages": [
+   "Is that so.",
+   "Well, take your time and have a look around."
+  ]
+ },
+ "1178": {
+  "pages": [
+   "Oh... You don't like our clothes...",
+   "Sorry, we're still short on stock...",
+   "Really, I apologize."
+  ]
+ },
+ "1179": {
+  "pages": [
+   "Looks like you're short on money, friend.",
+   "I gotta run a business too, you know."
+  ]
+ },
+ "1180": {
+  "pages": [
+   "Ooh! That suits you!",
+   "You look like a real man now!"
+  ]
+ },
+ "1181": {
+  "pages": [
+   "Oh... how cute...",
+   "Ain't it nice? A cute kid looks cute in anything!"
+  ]
+ },
+ "1182": {
+  "pages": [
+   "Your outfit don't use much cloth, missy,",
+   "but it's the good stuff!"
+  ]
+ },
+ "1183": {
+  "pages": [
+   "Looks great, don't it?",
+   "Edo tailoring's every bit as good as Paris!"
+  ]
+ },
+ "1184": {
+  "pages": [
+   "Huh, changing clothes kinda puts me in a better mood too!"
+  ]
+ },
+ "1185": {
+  "pages": [
+   "Wow... it's lovely..."
+  ]
+ },
+ "1186": {
+  "pages": [
+   "Sister, that looks great on you!"
+  ]
+ },
+ "1187": {
+  "pages": [
+   "WOW! Nakoruru, you look beautiful!"
+  ]
+ }
+}

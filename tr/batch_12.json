@@ -1,0 +1,14811 @@
+[
+{
+"id": 2376,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": "30",
+"jp": "そ・・・そんなことが\nできるのケケ？"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "誰だケ？　お前は・・・",
+"portraits": [
+"30"
+],
+"en": null
+},
+{
+"jp": "我が名は暗黒を司る・・・ ア・・ブ・・ロ・・ァ",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "・・・？ （よく聞こえないケ）",
+"portraits": [
+"31"
+],
+"en": null
+},
+{
+"jp": "お前を現世に 復活させてやろう・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "無論・・・ ただし、代償はいる・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "な、何だケ？ 家宝の骨だケか？",
+"portraits": [
+"30"
+],
+"en": null
+},
+{
+"jp": "お前の・・・我に対する・・・ / ・・・絶対の忠誠",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "忠誠？ / お安いもんだケ あんたがワシの大将だケな？",
+"portraits": [
+"31",
+"30"
+],
+"en": null
+}
+]
+},
+{
+"id": 2377,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "無論・・・\nただし、代償はいる・・・"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "我が名は暗黒を司る・・・ ア・・ブ・・ロ・・ァ",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "・・・？ （よく聞こえないケ）",
+"portraits": [
+"31"
+],
+"en": null
+},
+{
+"jp": "お前を現世に 復活させてやろう・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "そ・・・そんなことが できるのケケ？",
+"portraits": [
+"30"
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "な、何だケ？ 家宝の骨だケか？",
+"portraits": [
+"30"
+],
+"en": null
+},
+{
+"jp": "お前の・・・我に対する・・・ / ・・・絶対の忠誠",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "忠誠？ / お安いもんだケ あんたがワシの大将だケな？",
+"portraits": [
+"31",
+"30"
+],
+"en": null
+},
+{
+"jp": "そういう・・・ことだ・・・",
+"portraits": [
+null
+],
+"en": "Exactly!"
+}
+]
+},
+{
+"id": 2378,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": "30",
+"jp": "な、何だケ？\n家宝の骨だケか？"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "・・・？ （よく聞こえないケ）",
+"portraits": [
+"31"
+],
+"en": null
+},
+{
+"jp": "お前を現世に 復活させてやろう・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "そ・・・そんなことが できるのケケ？",
+"portraits": [
+"30"
+],
+"en": null
+},
+{
+"jp": "無論・・・ ただし、代償はいる・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "お前の・・・我に対する・・・ / ・・・絶対の忠誠",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "忠誠？ / お安いもんだケ あんたがワシの大将だケな？",
+"portraits": [
+"31",
+"30"
+],
+"en": null
+},
+{
+"jp": "そういう・・・ことだ・・・",
+"portraits": [
+null
+],
+"en": "Exactly!"
+},
+{
+"jp": "（言うだけならタダだケ） んで、何をすれば良いのケ？",
+"portraits": [
+"30"
+],
+"en": null
+}
+]
+},
+{
+"id": 2379,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "お前の・・・我に対する・・・"
+},
+{
+"portrait": null,
+"jp": "・・・絶対の忠誠"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "お前を現世に 復活させてやろう・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "そ・・・そんなことが できるのケケ？",
+"portraits": [
+"30"
+],
+"en": null
+},
+{
+"jp": "無論・・・ ただし、代償はいる・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "な、何だケ？ 家宝の骨だケか？",
+"portraits": [
+"30"
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "忠誠？ / お安いもんだケ あんたがワシの大将だケな？",
+"portraits": [
+"31",
+"30"
+],
+"en": null
+},
+{
+"jp": "そういう・・・ことだ・・・",
+"portraits": [
+null
+],
+"en": "Exactly!"
+},
+{
+"jp": "（言うだけならタダだケ） んで、何をすれば良いのケ？",
+"portraits": [
+"30"
+],
+"en": null
+},
+{
+"jp": "魂を / より多くの魂を魔界の・・・ 我の元へ・・・",
+"portraits": [
+null,
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2380,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": "31",
+"jp": "忠誠？"
+},
+{
+"portrait": "30",
+"jp": "お安いもんだケ\nあんたがワシの大将だケな？"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "そ・・・そんなことが できるのケケ？",
+"portraits": [
+"30"
+],
+"en": null
+},
+{
+"jp": "無論・・・ ただし、代償はいる・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "な、何だケ？ 家宝の骨だケか？",
+"portraits": [
+"30"
+],
+"en": null
+},
+{
+"jp": "お前の・・・我に対する・・・ / ・・・絶対の忠誠",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "そういう・・・ことだ・・・",
+"portraits": [
+null
+],
+"en": "Exactly!"
+},
+{
+"jp": "（言うだけならタダだケ） んで、何をすれば良いのケ？",
+"portraits": [
+"30"
+],
+"en": null
+},
+{
+"jp": "魂を / より多くの魂を魔界の・・・ 我の元へ・・・",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "我が我自身でいられるように / 生け贄となる強い魂を 我の元へ送りとどけよ",
+"portraits": [
+null,
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2381,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": "30",
+"jp": "（言うだけならタダだケ）\nんで、何をすれば良いのケ？"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "な、何だケ？ 家宝の骨だケか？",
+"portraits": [
+"30"
+],
+"en": null
+},
+{
+"jp": "お前の・・・我に対する・・・ / ・・・絶対の忠誠",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "忠誠？ / お安いもんだケ あんたがワシの大将だケな？",
+"portraits": [
+"31",
+"30"
+],
+"en": null
+},
+{
+"jp": "そういう・・・ことだ・・・",
+"portraits": [
+null
+],
+"en": "Exactly!"
+},
+{
+"self": true
+},
+{
+"jp": "魂を / より多くの魂を魔界の・・・ 我の元へ・・・",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "我が我自身でいられるように / 生け贄となる強い魂を 我の元へ送りとどけよ",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "ケケケ！ 要するにケ！ / これまで以上に、多くの戦士を 魔道に堕としてやればいいだケ？",
+"portraits": [
+"30",
+"30"
+],
+"en": null
+},
+{
+"jp": "か～んたんだケ 望むところだケ",
+"portraits": [
+"30"
+],
+"en": null
+}
+]
+},
+{
+"id": 2382,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "魂を"
+},
+{
+"portrait": null,
+"jp": "より多くの魂を魔界の・・・\n我の元へ・・・"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "お前の・・・我に対する・・・ / ・・・絶対の忠誠",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "忠誠？ / お安いもんだケ あんたがワシの大将だケな？",
+"portraits": [
+"31",
+"30"
+],
+"en": null
+},
+{
+"jp": "そういう・・・ことだ・・・",
+"portraits": [
+null
+],
+"en": "Exactly!"
+},
+{
+"jp": "（言うだけならタダだケ） んで、何をすれば良いのケ？",
+"portraits": [
+"30"
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "我が我自身でいられるように / 生け贄となる強い魂を 我の元へ送りとどけよ",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "ケケケ！ 要するにケ！ / これまで以上に、多くの戦士を 魔道に堕としてやればいいだケ？",
+"portraits": [
+"30",
+"30"
+],
+"en": null
+},
+{
+"jp": "か～んたんだケ 望むところだケ",
+"portraits": [
+"30"
+],
+"en": null
+},
+{
+"jp": "契約は成立した・・・",
+"portraits": [
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2383,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "我が我自身でいられるように"
+},
+{
+"portrait": null,
+"jp": "生け贄となる強い魂を\n我の元へ送りとどけよ"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "忠誠？ / お安いもんだケ あんたがワシの大将だケな？",
+"portraits": [
+"31",
+"30"
+],
+"en": null
+},
+{
+"jp": "そういう・・・ことだ・・・",
+"portraits": [
+null
+],
+"en": "Exactly!"
+},
+{
+"jp": "（言うだけならタダだケ） んで、何をすれば良いのケ？",
+"portraits": [
+"30"
+],
+"en": null
+},
+{
+"jp": "魂を / より多くの魂を魔界の・・・ 我の元へ・・・",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "ケケケ！ 要するにケ！ / これまで以上に、多くの戦士を 魔道に堕としてやればいいだケ？",
+"portraits": [
+"30",
+"30"
+],
+"en": null
+},
+{
+"jp": "か～んたんだケ 望むところだケ",
+"portraits": [
+"30"
+],
+"en": null
+},
+{
+"jp": "契約は成立した・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "幻庵よ・・・ より多くの魂を我に捧げよ・・・",
+"portraits": [
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2384,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": "30",
+"jp": "ケケケ！\n要するにケ！"
+},
+{
+"portrait": "30",
+"jp": "これまで以上に、多くの戦士を\n魔道に堕としてやればいいだケ？"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "そういう・・・ことだ・・・",
+"portraits": [
+null
+],
+"en": "Exactly!"
+},
+{
+"jp": "（言うだけならタダだケ） んで、何をすれば良いのケ？",
+"portraits": [
+"30"
+],
+"en": null
+},
+{
+"jp": "魂を / より多くの魂を魔界の・・・ 我の元へ・・・",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "我が我自身でいられるように / 生け贄となる強い魂を 我の元へ送りとどけよ",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "か～んたんだケ 望むところだケ",
+"portraits": [
+"30"
+],
+"en": null
+},
+{
+"jp": "契約は成立した・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "幻庵よ・・・ より多くの魂を我に捧げよ・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "ンケケケッ！ 喜べ、あざみ！",
+"portraits": [
+"30"
+],
+"en": null
+}
+]
+},
+{
+"id": 2385,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": "30",
+"jp": "か～んたんだケ\n望むところだケ"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "（言うだけならタダだケ） んで、何をすれば良いのケ？",
+"portraits": [
+"30"
+],
+"en": null
+},
+{
+"jp": "魂を / より多くの魂を魔界の・・・ 我の元へ・・・",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "我が我自身でいられるように / 生け贄となる強い魂を 我の元へ送りとどけよ",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "ケケケ！ 要するにケ！ / これまで以上に、多くの戦士を 魔道に堕としてやればいいだケ？",
+"portraits": [
+"30",
+"30"
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "契約は成立した・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "幻庵よ・・・ より多くの魂を我に捧げよ・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "ンケケケッ！ 喜べ、あざみ！",
+"portraits": [
+"30"
+],
+"en": null
+},
+{
+"jp": "ンケケケ！ あざみ、帰ってきたケ！",
+"portraits": [
+"30"
+],
+"en": null
+}
+]
+},
+{
+"id": 2386,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "契約は成立した・・・"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "魂を / より多くの魂を魔界の・・・ 我の元へ・・・",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "我が我自身でいられるように / 生け贄となる強い魂を 我の元へ送りとどけよ",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "ケケケ！ 要するにケ！ / これまで以上に、多くの戦士を 魔道に堕としてやればいいだケ？",
+"portraits": [
+"30",
+"30"
+],
+"en": null
+},
+{
+"jp": "か～んたんだケ 望むところだケ",
+"portraits": [
+"30"
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "幻庵よ・・・ より多くの魂を我に捧げよ・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "ンケケケッ！ 喜べ、あざみ！",
+"portraits": [
+"30"
+],
+"en": null
+},
+{
+"jp": "ンケケケ！ あざみ、帰ってきたケ！",
+"portraits": [
+"30"
+],
+"en": null
+},
+{
+"jp": "あ・・・あなたっ！ よくぞ、よくぞご無事で・・・",
+"portraits": [
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2387,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "幻庵よ・・・\nより多くの魂を我に捧げよ・・・"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "我が我自身でいられるように / 生け贄となる強い魂を 我の元へ送りとどけよ",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "ケケケ！ 要するにケ！ / これまで以上に、多くの戦士を 魔道に堕としてやればいいだケ？",
+"portraits": [
+"30",
+"30"
+],
+"en": null
+},
+{
+"jp": "か～んたんだケ 望むところだケ",
+"portraits": [
+"30"
+],
+"en": null
+},
+{
+"jp": "契約は成立した・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "ンケケケッ！ 喜べ、あざみ！",
+"portraits": [
+"30"
+],
+"en": null
+},
+{
+"jp": "ンケケケ！ あざみ、帰ってきたケ！",
+"portraits": [
+"30"
+],
+"en": null
+},
+{
+"jp": "あ・・・あなたっ！ よくぞ、よくぞご無事で・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "わーい！帰ってきた！ お父チャ、お父チャ！",
+"portraits": [
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2388,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": "30",
+"jp": "ンケケケッ！\n喜べ、あざみ！"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "ケケケ！ 要するにケ！ / これまで以上に、多くの戦士を 魔道に堕としてやればいいだケ？",
+"portraits": [
+"30",
+"30"
+],
+"en": null
+},
+{
+"jp": "か～んたんだケ 望むところだケ",
+"portraits": [
+"30"
+],
+"en": null
+},
+{
+"jp": "契約は成立した・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "幻庵よ・・・ より多くの魂を我に捧げよ・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "ンケケケ！ あざみ、帰ってきたケ！",
+"portraits": [
+"30"
+],
+"en": null
+},
+{
+"jp": "あ・・・あなたっ！ よくぞ、よくぞご無事で・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "わーい！帰ってきた！ お父チャ、お父チャ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "わーいわーい！ わーい！",
+"portraits": [
+null
+],
+"en": "Yaaaaaay!"
+}
+]
+},
+{
+"id": 2389,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": "30",
+"jp": "ンケケケ！\nあざみ、帰ってきたケ！"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "か～んたんだケ 望むところだケ",
+"portraits": [
+"30"
+],
+"en": null
+},
+{
+"jp": "契約は成立した・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "幻庵よ・・・ より多くの魂を我に捧げよ・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "ンケケケッ！ 喜べ、あざみ！",
+"portraits": [
+"30"
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "あ・・・あなたっ！ よくぞ、よくぞご無事で・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "わーい！帰ってきた！ お父チャ、お父チャ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "わーいわーい！ わーい！",
+"portraits": [
+null
+],
+"en": "Yaaaaaay!"
+},
+{
+"jp": "あなた・・・",
+"portraits": [
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2390,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "あ・・・あなたっ！\nよくぞ、よくぞご無事で・・・"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "契約は成立した・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "幻庵よ・・・ より多くの魂を我に捧げよ・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "ンケケケッ！ 喜べ、あざみ！",
+"portraits": [
+"30"
+],
+"en": null
+},
+{
+"jp": "ンケケケ！ あざみ、帰ってきたケ！",
+"portraits": [
+"30"
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "わーい！帰ってきた！ お父チャ、お父チャ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "わーいわーい！ わーい！",
+"portraits": [
+null
+],
+"en": "Yaaaaaay!"
+},
+{
+"jp": "あなた・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "心配かけたケ・・・",
+"portraits": [
+"30"
+],
+"en": null
+}
+]
+},
+{
+"id": 2391,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "わーい！帰ってきた！\nお父チャ、お父チャ！"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "幻庵よ・・・ より多くの魂を我に捧げよ・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "ンケケケッ！ 喜べ、あざみ！",
+"portraits": [
+"30"
+],
+"en": null
+},
+{
+"jp": "ンケケケ！ あざみ、帰ってきたケ！",
+"portraits": [
+"30"
+],
+"en": null
+},
+{
+"jp": "あ・・・あなたっ！ よくぞ、よくぞご無事で・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "わーいわーい！ わーい！",
+"portraits": [
+null
+],
+"en": "Yaaaaaay!"
+},
+{
+"jp": "あなた・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "心配かけたケ・・・",
+"portraits": [
+"30"
+],
+"en": null
+},
+{
+"jp": "慢心から おのが身を滅ぼした幻庵は / こうして魔界からの復活を 果たした",
+"portraits": [
+null,
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2392,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": "30",
+"jp": "心配かけたケ・・・"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "あ・・・あなたっ！ よくぞ、よくぞご無事で・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "わーい！帰ってきた！ お父チャ、お父チャ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "わーいわーい！ わーい！",
+"portraits": [
+null
+],
+"en": "Yaaaaaay!"
+},
+{
+"jp": "あなた・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "慢心から おのが身を滅ぼした幻庵は / こうして魔界からの復活を 果たした",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "さらに残酷に さらに凶暴さを増して / 復活した幻庵",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "幻庵は進む / おのが信じる魔道の道を 一直線に・・・",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "ケケケ・・・さあて、今度は 誰を魔道に堕としてやるケな・・・",
+"portraits": [
+"30"
+],
+"en": null
+}
+]
+},
+{
+"id": 2393,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "慢心から\nおのが身を滅ぼした幻庵は"
+},
+{
+"portrait": null,
+"jp": "こうして魔界からの復活を\n果たした"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "わーい！帰ってきた！ お父チャ、お父チャ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "わーいわーい！ わーい！",
+"portraits": [
+null
+],
+"en": "Yaaaaaay!"
+},
+{
+"jp": "あなた・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "心配かけたケ・・・",
+"portraits": [
+"30"
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "さらに残酷に さらに凶暴さを増して / 復活した幻庵",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "幻庵は進む / おのが信じる魔道の道を 一直線に・・・",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "ケケケ・・・さあて、今度は 誰を魔道に堕としてやるケな・・・",
+"portraits": [
+"30"
+],
+"en": null
+},
+{
+"jp": "真の魔道の王は・・・",
+"portraits": [
+"30"
+],
+"en": null
+}
+]
+},
+{
+"id": 2394,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "さらに残酷に\nさらに凶暴さを増して"
+},
+{
+"portrait": null,
+"jp": "復活した幻庵"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "わーいわーい！ わーい！",
+"portraits": [
+null
+],
+"en": "Yaaaaaay!"
+},
+{
+"jp": "あなた・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "心配かけたケ・・・",
+"portraits": [
+"30"
+],
+"en": null
+},
+{
+"jp": "慢心から おのが身を滅ぼした幻庵は / こうして魔界からの復活を 果たした",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "幻庵は進む / おのが信じる魔道の道を 一直線に・・・",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "ケケケ・・・さあて、今度は 誰を魔道に堕としてやるケな・・・",
+"portraits": [
+"30"
+],
+"en": null
+},
+{
+"jp": "真の魔道の王は・・・",
+"portraits": [
+"30"
+],
+"en": null
+},
+{
+"jp": "この不知火幻庵ただ一人ケ！",
+"portraits": [
+"31"
+],
+"en": null
+}
+]
+},
+{
+"id": 2395,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "幻庵は進む"
+},
+{
+"portrait": null,
+"jp": "おのが信じる魔道の道を\n一直線に・・・"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "あなた・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "心配かけたケ・・・",
+"portraits": [
+"30"
+],
+"en": null
+},
+{
+"jp": "慢心から おのが身を滅ぼした幻庵は / こうして魔界からの復活を 果たした",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "さらに残酷に さらに凶暴さを増して / 復活した幻庵",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "ケケケ・・・さあて、今度は 誰を魔道に堕としてやるケな・・・",
+"portraits": [
+"30"
+],
+"en": null
+},
+{
+"jp": "真の魔道の王は・・・",
+"portraits": [
+"30"
+],
+"en": null
+},
+{
+"jp": "この不知火幻庵ただ一人ケ！",
+"portraits": [
+"31"
+],
+"en": null
+}
+]
+},
+{
+"id": 2396,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": "30",
+"jp": "ケケケ・・・さあて、今度は\n誰を魔道に堕としてやるケな・・・"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "心配かけたケ・・・",
+"portraits": [
+"30"
+],
+"en": null
+},
+{
+"jp": "慢心から おのが身を滅ぼした幻庵は / こうして魔界からの復活を 果たした",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "さらに残酷に さらに凶暴さを増して / 復活した幻庵",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "幻庵は進む / おのが信じる魔道の道を 一直線に・・・",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "真の魔道の王は・・・",
+"portraits": [
+"30"
+],
+"en": null
+},
+{
+"jp": "この不知火幻庵ただ一人ケ！",
+"portraits": [
+"31"
+],
+"en": null
+}
+]
+},
+{
+"id": 2397,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": "30",
+"jp": "真の魔道の王は・・・"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "慢心から おのが身を滅ぼした幻庵は / こうして魔界からの復活を 果たした",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "さらに残酷に さらに凶暴さを増して / 復活した幻庵",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "幻庵は進む / おのが信じる魔道の道を 一直線に・・・",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "ケケケ・・・さあて、今度は 誰を魔道に堕としてやるケな・・・",
+"portraits": [
+"30"
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "この不知火幻庵ただ一人ケ！",
+"portraits": [
+"31"
+],
+"en": null
+}
+]
+},
+{
+"id": 2398,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": "31",
+"jp": "この不知火幻庵ただ一人ケ！"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "さらに残酷に さらに凶暴さを増して / 復活した幻庵",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "幻庵は進む / おのが信じる魔道の道を 一直線に・・・",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "ケケケ・・・さあて、今度は 誰を魔道に堕としてやるケな・・・",
+"portraits": [
+"30"
+],
+"en": null
+},
+{
+"jp": "真の魔道の王は・・・",
+"portraits": [
+"30"
+],
+"en": null
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 2399,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "何でぇ何でぇ！"
+}
+],
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"jp": "こんなまずい料理に 銭を出せっつーのかい？ / オッサン！",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "ひ・・・ひどいアルよ！ お客さん！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "げっぷ・・・ あー、まずかった",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "全部残さず食ったっつーだけでも 感謝状が出るよな、まったく",
+"portraits": [
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2400,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "こんなまずい料理に\n銭を出せっつーのかい？"
+},
+{
+"portrait": null,
+"jp": "オッサン！"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "何でぇ何でぇ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "ひ・・・ひどいアルよ！ お客さん！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "げっぷ・・・ あー、まずかった",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "全部残さず食ったっつーだけでも 感謝状が出るよな、まったく",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "ほんと、逆にこっちから 請求書を出したいくらいだぜぃ",
+"portraits": [
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2401,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "ひ・・・ひどいアルよ！\nお客さん！"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "何でぇ何でぇ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "こんなまずい料理に 銭を出せっつーのかい？ / オッサン！",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "げっぷ・・・ あー、まずかった",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "全部残さず食ったっつーだけでも 感謝状が出るよな、まったく",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "ほんと、逆にこっちから 請求書を出したいくらいだぜぃ",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "困るアルよ、お客さん！",
+"portraits": [
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2402,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "げっぷ・・・\nあー、まずかった"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "何でぇ何でぇ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "こんなまずい料理に 銭を出せっつーのかい？ / オッサン！",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "ひ・・・ひどいアルよ！ お客さん！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "全部残さず食ったっつーだけでも 感謝状が出るよな、まったく",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "ほんと、逆にこっちから 請求書を出したいくらいだぜぃ",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "困るアルよ、お客さん！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "どんどこ注文して おいしそうにたいらげといて / それはないアル！",
+"portraits": [
+null,
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2403,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "全部残さず食ったっつーだけでも\n感謝状が出るよな、まったく"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "何でぇ何でぇ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "こんなまずい料理に 銭を出せっつーのかい？ / オッサン！",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "ひ・・・ひどいアルよ！ お客さん！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "げっぷ・・・ あー、まずかった",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "ほんと、逆にこっちから 請求書を出したいくらいだぜぃ",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "困るアルよ、お客さん！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "どんどこ注文して おいしそうにたいらげといて / それはないアル！",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "ぶぅわか野郎！ 気ィ使ってるのわかんねーのか！ / まずそうに食ってたら おめーがかわいそうじゃねぇか！",
+"portraits": [
+null,
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2404,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "ほんと、逆にこっちから\n請求書を出したいくらいだぜぃ"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "こんなまずい料理に 銭を出せっつーのかい？ / オッサン！",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "ひ・・・ひどいアルよ！ お客さん！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "げっぷ・・・ あー、まずかった",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "全部残さず食ったっつーだけでも 感謝状が出るよな、まったく",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "困るアルよ、お客さん！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "どんどこ注文して おいしそうにたいらげといて / それはないアル！",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "ぶぅわか野郎！ 気ィ使ってるのわかんねーのか！ / まずそうに食ってたら おめーがかわいそうじゃねぇか！",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "どんどこ注文したのはなぁ / いつかは食える料理が出るだろうと 思ってのお情けなのよ！",
+"portraits": [
+null,
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2405,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "困るアルよ、お客さん！"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "ひ・・・ひどいアルよ！ お客さん！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "げっぷ・・・ あー、まずかった",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "全部残さず食ったっつーだけでも 感謝状が出るよな、まったく",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "ほんと、逆にこっちから 請求書を出したいくらいだぜぃ",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "どんどこ注文して おいしそうにたいらげといて / それはないアル！",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "ぶぅわか野郎！ 気ィ使ってるのわかんねーのか！ / まずそうに食ってたら おめーがかわいそうじゃねぇか！",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "どんどこ注文したのはなぁ / いつかは食える料理が出るだろうと 思ってのお情けなのよ！",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "それなのに期待を 裏切りやがって・・・",
+"portraits": [
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2406,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "どんどこ注文して\nおいしそうにたいらげといて"
+},
+{
+"portrait": null,
+"jp": "それはないアル！"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "げっぷ・・・ あー、まずかった",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "全部残さず食ったっつーだけでも 感謝状が出るよな、まったく",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "ほんと、逆にこっちから 請求書を出したいくらいだぜぃ",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "困るアルよ、お客さん！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "ぶぅわか野郎！ 気ィ使ってるのわかんねーのか！ / まずそうに食ってたら おめーがかわいそうじゃねぇか！",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "どんどこ注文したのはなぁ / いつかは食える料理が出るだろうと 思ってのお情けなのよ！",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "それなのに期待を 裏切りやがって・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "そ・・・そんなぁ・・・ ２０人前ただ食いアルか・・・",
+"portraits": [
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2407,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "ぶぅわか野郎！\n気ィ使ってるのわかんねーのか！"
+},
+{
+"portrait": null,
+"jp": "まずそうに食ってたら\nおめーがかわいそうじゃねぇか！"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "全部残さず食ったっつーだけでも 感謝状が出るよな、まったく",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "ほんと、逆にこっちから 請求書を出したいくらいだぜぃ",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "困るアルよ、お客さん！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "どんどこ注文して おいしそうにたいらげといて / それはないアル！",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "どんどこ注文したのはなぁ / いつかは食える料理が出るだろうと 思ってのお情けなのよ！",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "それなのに期待を 裏切りやがって・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "そ・・・そんなぁ・・・ ２０人前ただ食いアルか・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "人聞きの悪いこと 言うなよなぁ！",
+"portraits": [
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2408,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "どんどこ注文したのはなぁ"
+},
+{
+"portrait": null,
+"jp": "いつかは食える料理が出るだろうと\n思ってのお情けなのよ！"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "ほんと、逆にこっちから 請求書を出したいくらいだぜぃ",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "困るアルよ、お客さん！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "どんどこ注文して おいしそうにたいらげといて / それはないアル！",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "ぶぅわか野郎！ 気ィ使ってるのわかんねーのか！ / まずそうに食ってたら おめーがかわいそうじゃねぇか！",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "それなのに期待を 裏切りやがって・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "そ・・・そんなぁ・・・ ２０人前ただ食いアルか・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "人聞きの悪いこと 言うなよなぁ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "オラオラ！ 見せ物じゃねぇぞ！　散れ！",
+"portraits": [
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2409,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "それなのに期待を\n裏切りやがって・・・"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "困るアルよ、お客さん！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "どんどこ注文して おいしそうにたいらげといて / それはないアル！",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "ぶぅわか野郎！ 気ィ使ってるのわかんねーのか！ / まずそうに食ってたら おめーがかわいそうじゃねぇか！",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "どんどこ注文したのはなぁ / いつかは食える料理が出るだろうと 思ってのお情けなのよ！",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "そ・・・そんなぁ・・・ ２０人前ただ食いアルか・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "人聞きの悪いこと 言うなよなぁ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "オラオラ！ 見せ物じゃねぇぞ！　散れ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "じゃあな、オッサン！ もう少し料理の腕を磨いておけよ！",
+"portraits": [
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2410,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "そ・・・そんなぁ・・・\n２０人前ただ食いアルか・・・"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "どんどこ注文して おいしそうにたいらげといて / それはないアル！",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "ぶぅわか野郎！ 気ィ使ってるのわかんねーのか！ / まずそうに食ってたら おめーがかわいそうじゃねぇか！",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "どんどこ注文したのはなぁ / いつかは食える料理が出るだろうと 思ってのお情けなのよ！",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "それなのに期待を 裏切りやがって・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "人聞きの悪いこと 言うなよなぁ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "オラオラ！ 見せ物じゃねぇぞ！　散れ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "じゃあな、オッサン！ もう少し料理の腕を磨いておけよ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "ま・・・待つアルよ！",
+"portraits": [
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2411,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "人聞きの悪いこと\n言うなよなぁ！"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "ぶぅわか野郎！ 気ィ使ってるのわかんねーのか！ / まずそうに食ってたら おめーがかわいそうじゃねぇか！",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "どんどこ注文したのはなぁ / いつかは食える料理が出るだろうと 思ってのお情けなのよ！",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "それなのに期待を 裏切りやがって・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "そ・・・そんなぁ・・・ ２０人前ただ食いアルか・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "オラオラ！ 見せ物じゃねぇぞ！　散れ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "じゃあな、オッサン！ もう少し料理の腕を磨いておけよ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "ま・・・待つアルよ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "無銭飲食の上に料理の味にまで ケチを付けられては / 北京一の料理人・周さん 立場ないアルよ！",
+"portraits": [
+null,
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2412,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "オラオラ！\n見せ物じゃねぇぞ！　散れ！"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "どんどこ注文したのはなぁ / いつかは食える料理が出るだろうと 思ってのお情けなのよ！",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "それなのに期待を 裏切りやがって・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "そ・・・そんなぁ・・・ ２０人前ただ食いアルか・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "人聞きの悪いこと 言うなよなぁ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "じゃあな、オッサン！ もう少し料理の腕を磨いておけよ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "ま・・・待つアルよ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "無銭飲食の上に料理の味にまで ケチを付けられては / 北京一の料理人・周さん 立場ないアルよ！",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "オッサン、何すんだよ！",
+"portraits": [
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2413,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "じゃあな、オッサン！\nもう少し料理の腕を磨いておけよ！"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "それなのに期待を 裏切りやがって・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "そ・・・そんなぁ・・・ ２０人前ただ食いアルか・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "人聞きの悪いこと 言うなよなぁ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "オラオラ！ 見せ物じゃねぇぞ！　散れ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "ま・・・待つアルよ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "無銭飲食の上に料理の味にまで ケチを付けられては / 北京一の料理人・周さん 立場ないアルよ！",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "オッサン、何すんだよ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "へへへ・・・ こりゃあ高くつくぜぇ",
+"portraits": [
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2414,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "ま・・・待つアルよ！"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "そ・・・そんなぁ・・・ ２０人前ただ食いアルか・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "人聞きの悪いこと 言うなよなぁ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "オラオラ！ 見せ物じゃねぇぞ！　散れ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "じゃあな、オッサン！ もう少し料理の腕を磨いておけよ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "無銭飲食の上に料理の味にまで ケチを付けられては / 北京一の料理人・周さん 立場ないアルよ！",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "オッサン、何すんだよ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "へへへ・・・ こりゃあ高くつくぜぇ",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "おいオッサン！",
+"portraits": [
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2415,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "無銭飲食の上に料理の味にまで\nケチを付けられては"
+},
+{
+"portrait": null,
+"jp": "北京一の料理人・周さん\n立場ないアルよ！"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "人聞きの悪いこと 言うなよなぁ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "オラオラ！ 見せ物じゃねぇぞ！　散れ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "じゃあな、オッサン！ もう少し料理の腕を磨いておけよ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "ま・・・待つアルよ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "オッサン、何すんだよ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "へへへ・・・ こりゃあ高くつくぜぇ",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "おいオッサン！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "知らねーのか！ / オレたちゃ天下の アースクェイク一味だぜぃ・・・",
+"portraits": [
+null,
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2416,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "オッサン、何すんだよ！"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "オラオラ！ 見せ物じゃねぇぞ！　散れ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "じゃあな、オッサン！ もう少し料理の腕を磨いておけよ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "ま・・・待つアルよ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "無銭飲食の上に料理の味にまで ケチを付けられては / 北京一の料理人・周さん 立場ないアルよ！",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "へへへ・・・ こりゃあ高くつくぜぇ",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "おいオッサン！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "知らねーのか！ / オレたちゃ天下の アースクェイク一味だぜぃ・・・",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "ひぇぇぇぇ！",
+"portraits": [
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2417,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "へへへ・・・\nこりゃあ高くつくぜぇ"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "じゃあな、オッサン！ もう少し料理の腕を磨いておけよ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "ま・・・待つアルよ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "無銭飲食の上に料理の味にまで ケチを付けられては / 北京一の料理人・周さん 立場ないアルよ！",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "オッサン、何すんだよ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "おいオッサン！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "知らねーのか！ / オレたちゃ天下の アースクェイク一味だぜぃ・・・",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "ひぇぇぇぇ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "あっ！　王虎道場の！",
+"portraits": [
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2418,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "おいオッサン！"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "ま・・・待つアルよ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "無銭飲食の上に料理の味にまで ケチを付けられては / 北京一の料理人・周さん 立場ないアルよ！",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "オッサン、何すんだよ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "へへへ・・・ こりゃあ高くつくぜぇ",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "知らねーのか！ / オレたちゃ天下の アースクェイク一味だぜぃ・・・",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "ひぇぇぇぇ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "あっ！　王虎道場の！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "王虎様の お弟子さんたちだ！",
+"portraits": [
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2419,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "知らねーのか！"
+},
+{
+"portrait": null,
+"jp": "オレたちゃ天下の\nアースクェイク一味だぜぃ・・・"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "無銭飲食の上に料理の味にまで ケチを付けられては / 北京一の料理人・周さん 立場ないアルよ！",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "オッサン、何すんだよ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "へへへ・・・ こりゃあ高くつくぜぇ",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "おいオッサン！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "ひぇぇぇぇ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "あっ！　王虎道場の！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "王虎様の お弟子さんたちだ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "やめんか、天下の往来で！",
+"portraits": [
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2420,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "ひぇぇぇぇ！"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "オッサン、何すんだよ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "へへへ・・・ こりゃあ高くつくぜぇ",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "おいオッサン！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "知らねーのか！ / オレたちゃ天下の アースクェイク一味だぜぃ・・・",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "あっ！　王虎道場の！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "王虎様の お弟子さんたちだ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "やめんか、天下の往来で！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "北京での乱暴は 王虎道場が許さぬぞ！",
+"portraits": [
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2421,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "あっ！　王虎道場の！"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "へへへ・・・ こりゃあ高くつくぜぇ",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "おいオッサン！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "知らねーのか！ / オレたちゃ天下の アースクェイク一味だぜぃ・・・",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "ひぇぇぇぇ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "王虎様の お弟子さんたちだ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "やめんか、天下の往来で！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "北京での乱暴は 王虎道場が許さぬぞ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "何だぁ・・・ 変なのがやってきたぜ",
+"portraits": [
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2422,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "王虎様の\nお弟子さんたちだ！"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "おいオッサン！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "知らねーのか！ / オレたちゃ天下の アースクェイク一味だぜぃ・・・",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "ひぇぇぇぇ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "あっ！　王虎道場の！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "やめんか、天下の往来で！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "北京での乱暴は 王虎道場が許さぬぞ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "何だぁ・・・ 変なのがやってきたぜ",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "何か文句あっかぁ！ あん！",
+"portraits": [
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2423,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "やめんか、天下の往来で！"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "知らねーのか！ / オレたちゃ天下の アースクェイク一味だぜぃ・・・",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "ひぇぇぇぇ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "あっ！　王虎道場の！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "王虎様の お弟子さんたちだ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "北京での乱暴は 王虎道場が許さぬぞ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "何だぁ・・・ 変なのがやってきたぜ",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "何か文句あっかぁ！ あん！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "大丈夫ですか・・・ 周大人・・・",
+"portraits": [
+null
+],
+"en": "Are you all right, Elder?!"
+}
+]
+},
+{
+"id": 2424,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "北京での乱暴は\n王虎道場が許さぬぞ！"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "ひぇぇぇぇ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "あっ！　王虎道場の！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "王虎様の お弟子さんたちだ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "やめんか、天下の往来で！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "何だぁ・・・ 変なのがやってきたぜ",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "何か文句あっかぁ！ あん！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "大丈夫ですか・・・ 周大人・・・",
+"portraits": [
+null
+],
+"en": "Are you all right, Elder?!"
+},
+{
+"jp": "私は大丈夫アル・・・",
+"portraits": [
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2425,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "何だぁ・・・\n変なのがやってきたぜ"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "あっ！　王虎道場の！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "王虎様の お弟子さんたちだ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "やめんか、天下の往来で！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "北京での乱暴は 王虎道場が許さぬぞ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "何か文句あっかぁ！ あん！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "大丈夫ですか・・・ 周大人・・・",
+"portraits": [
+null
+],
+"en": "Are you all right, Elder?!"
+},
+{
+"jp": "私は大丈夫アル・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "あいつら 北京菜館で無銭飲食したアル！ / 許せないアル！",
+"portraits": [
+null,
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2426,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "何か文句あっかぁ！\nあん！"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "王虎様の お弟子さんたちだ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "やめんか、天下の往来で！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "北京での乱暴は 王虎道場が許さぬぞ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "何だぁ・・・ 変なのがやってきたぜ",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "大丈夫ですか・・・ 周大人・・・",
+"portraits": [
+null
+],
+"en": "Are you all right, Elder?!"
+},
+{
+"jp": "私は大丈夫アル・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "あいつら 北京菜館で無銭飲食したアル！ / 許せないアル！",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "なるほど・・",
+"portraits": [
+null
+],
+"en": "I see!"
+}
+]
+},
+{
+"id": 2427,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "私は大丈夫アル・・・"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "北京での乱暴は 王虎道場が許さぬぞ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "何だぁ・・・ 変なのがやってきたぜ",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "何か文句あっかぁ！ あん！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "大丈夫ですか・・・ 周大人・・・",
+"portraits": [
+null
+],
+"en": "Are you all right, Elder?!"
+},
+{
+"self": true
+},
+{
+"jp": "あいつら 北京菜館で無銭飲食したアル！ / 許せないアル！",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "なるほど・・",
+"portraits": [
+null
+],
+"en": "I see!"
+},
+{
+"jp": "貴様たち、今なら謝って 代金を払えば許してやるぞ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "へへん、代金が欲しけりゃ 力ずくで取りな！",
+"portraits": [
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2428,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "あいつら\n北京菜館で無銭飲食したアル！"
+},
+{
+"portrait": null,
+"jp": "許せないアル！"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "何だぁ・・・ 変なのがやってきたぜ",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "何か文句あっかぁ！ あん！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "大丈夫ですか・・・ 周大人・・・",
+"portraits": [
+null
+],
+"en": "Are you all right, Elder?!"
+},
+{
+"jp": "私は大丈夫アル・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "なるほど・・",
+"portraits": [
+null
+],
+"en": "I see!"
+},
+{
+"jp": "貴様たち、今なら謝って 代金を払えば許してやるぞ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "へへん、代金が欲しけりゃ 力ずくで取りな！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "あいてっ、いてっ いててっ・・・",
+"portraits": [
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2429,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "貴様たち、今なら謝って\n代金を払えば許してやるぞ！"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "大丈夫ですか・・・ 周大人・・・",
+"portraits": [
+null
+],
+"en": "Are you all right, Elder?!"
+},
+{
+"jp": "私は大丈夫アル・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "あいつら 北京菜館で無銭飲食したアル！ / 許せないアル！",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "なるほど・・",
+"portraits": [
+null
+],
+"en": "I see!"
+},
+{
+"self": true
+},
+{
+"jp": "へへん、代金が欲しけりゃ 力ずくで取りな！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "あいてっ、いてっ いててっ・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "ひい、ひいい・・・ か、勘弁っ、勘弁しちくりぃ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "思い知ったか！ さあ、代金を置いて行けい！",
+"portraits": [
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2430,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "へへん、代金が欲しけりゃ\n力ずくで取りな！"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "私は大丈夫アル・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "あいつら 北京菜館で無銭飲食したアル！ / 許せないアル！",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "なるほど・・",
+"portraits": [
+null
+],
+"en": "I see!"
+},
+{
+"jp": "貴様たち、今なら謝って 代金を払えば許してやるぞ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "あいてっ、いてっ いててっ・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "ひい、ひいい・・・ か、勘弁っ、勘弁しちくりぃ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "思い知ったか！ さあ、代金を置いて行けい！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "ち、ちきしょう・・・",
+"portraits": [
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2431,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "あいてっ、いてっ\nいててっ・・・"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "あいつら 北京菜館で無銭飲食したアル！ / 許せないアル！",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "なるほど・・",
+"portraits": [
+null
+],
+"en": "I see!"
+},
+{
+"jp": "貴様たち、今なら謝って 代金を払えば許してやるぞ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "へへん、代金が欲しけりゃ 力ずくで取りな！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "ひい、ひいい・・・ か、勘弁っ、勘弁しちくりぃ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "思い知ったか！ さあ、代金を置いて行けい！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "ち、ちきしょう・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "覚えてやがれぃ！ いててて・・・",
+"portraits": [
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2432,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "ひい、ひいい・・・\nか、勘弁っ、勘弁しちくりぃ！"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "なるほど・・",
+"portraits": [
+null
+],
+"en": "I see!"
+},
+{
+"jp": "貴様たち、今なら謝って 代金を払えば許してやるぞ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "へへん、代金が欲しけりゃ 力ずくで取りな！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "あいてっ、いてっ いててっ・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "思い知ったか！ さあ、代金を置いて行けい！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "ち、ちきしょう・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "覚えてやがれぃ！ いててて・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "さあ周大人 とんだ災難でしたね・・・",
+"portraits": [
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2433,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "思い知ったか！\nさあ、代金を置いて行けい！"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "貴様たち、今なら謝って 代金を払えば許してやるぞ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "へへん、代金が欲しけりゃ 力ずくで取りな！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "あいてっ、いてっ いててっ・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "ひい、ひいい・・・ か、勘弁っ、勘弁しちくりぃ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "ち、ちきしょう・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "覚えてやがれぃ！ いててて・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "さあ周大人 とんだ災難でしたね・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "いやあ、助かったアル・・・",
+"portraits": [
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2434,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "ち、ちきしょう・・・"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "へへん、代金が欲しけりゃ 力ずくで取りな！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "あいてっ、いてっ いててっ・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "ひい、ひいい・・・ か、勘弁っ、勘弁しちくりぃ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "思い知ったか！ さあ、代金を置いて行けい！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "覚えてやがれぃ！ いててて・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "さあ周大人 とんだ災難でしたね・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "いやあ、助かったアル・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "さすがは王虎殿の お弟子さんたちアルな",
+"portraits": [
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2435,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "覚えてやがれぃ！\nいててて・・・"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "あいてっ、いてっ いててっ・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "ひい、ひいい・・・ か、勘弁っ、勘弁しちくりぃ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "思い知ったか！ さあ、代金を置いて行けい！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "ち、ちきしょう・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "さあ周大人 とんだ災難でしたね・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "いやあ、助かったアル・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "さすがは王虎殿の お弟子さんたちアルな",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "いえ・・・王虎様は留守を 我々未熟者に託して / 旅に出られました",
+"portraits": [
+null,
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2436,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "さあ周大人\nとんだ災難でしたね・・・"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "ひい、ひいい・・・ か、勘弁っ、勘弁しちくりぃ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "思い知ったか！ さあ、代金を置いて行けい！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "ち、ちきしょう・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "覚えてやがれぃ！ いててて・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "いやあ、助かったアル・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "さすがは王虎殿の お弟子さんたちアルな",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "いえ・・・王虎様は留守を 我々未熟者に託して / 旅に出られました",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "我々は王虎様のご命令を 守っているだけです",
+"portraits": [
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2437,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "いやあ、助かったアル・・・"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "思い知ったか！ さあ、代金を置いて行けい！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "ち、ちきしょう・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "覚えてやがれぃ！ いててて・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "さあ周大人 とんだ災難でしたね・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "さすがは王虎殿の お弟子さんたちアルな",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "いえ・・・王虎様は留守を 我々未熟者に託して / 旅に出られました",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "我々は王虎様のご命令を 守っているだけです",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "さすがは王虎様の お弟子さんたちアルよ！",
+"portraits": [
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2438,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "さすがは王虎殿の\nお弟子さんたちアルな"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "ち、ちきしょう・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "覚えてやがれぃ！ いててて・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "さあ周大人 とんだ災難でしたね・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "いやあ、助かったアル・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "いえ・・・王虎様は留守を 我々未熟者に託して / 旅に出られました",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "我々は王虎様のご命令を 守っているだけです",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "さすがは王虎様の お弟子さんたちアルよ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "王虎様は 我々平民の味方アルな！",
+"portraits": [
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2439,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "いえ・・・王虎様は留守を\n我々未熟者に託して"
+},
+{
+"portrait": null,
+"jp": "旅に出られました"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "覚えてやがれぃ！ いててて・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "さあ周大人 とんだ災難でしたね・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "いやあ、助かったアル・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "さすがは王虎殿の お弟子さんたちアルな",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "我々は王虎様のご命令を 守っているだけです",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "さすがは王虎様の お弟子さんたちアルよ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "王虎様は 我々平民の味方アルな！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "王虎様、万歳！",
+"portraits": [
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2440,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "我々は王虎様のご命令を\n守っているだけです"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "さあ周大人 とんだ災難でしたね・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "いやあ、助かったアル・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "さすがは王虎殿の お弟子さんたちアルな",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "いえ・・・王虎様は留守を 我々未熟者に託して / 旅に出られました",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "さすがは王虎様の お弟子さんたちアルよ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "王虎様は 我々平民の味方アルな！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "王虎様、万歳！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "王虎道場、万歳！",
+"portraits": [
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2441,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "さすがは王虎様の\nお弟子さんたちアルよ！"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "いやあ、助かったアル・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "さすがは王虎殿の お弟子さんたちアルな",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "いえ・・・王虎様は留守を 我々未熟者に託して / 旅に出られました",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "我々は王虎様のご命令を 守っているだけです",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "王虎様は 我々平民の味方アルな！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "王虎様、万歳！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "王虎道場、万歳！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "なんじゃ・・・ 天安門の前でこの騒ぎは・・・",
+"portraits": [
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2442,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "王虎様は\n我々平民の味方アルな！"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "さすがは王虎殿の お弟子さんたちアルな",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "いえ・・・王虎様は留守を 我々未熟者に託して / 旅に出られました",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "我々は王虎様のご命令を 守っているだけです",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "さすがは王虎様の お弟子さんたちアルよ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "王虎様、万歳！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "王虎道場、万歳！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "なんじゃ・・・ 天安門の前でこの騒ぎは・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "おおっ・・・王竜様アルよ",
+"portraits": [
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2443,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "王虎様、万歳！"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "いえ・・・王虎様は留守を 我々未熟者に託して / 旅に出られました",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "我々は王虎様のご命令を 守っているだけです",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "さすがは王虎様の お弟子さんたちアルよ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "王虎様は 我々平民の味方アルな！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "王虎道場、万歳！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "なんじゃ・・・ 天安門の前でこの騒ぎは・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "おおっ・・・王竜様アルよ",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "王竜様が 北京にお帰りになられたアルよ！",
+"portraits": [
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2444,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "王虎道場、万歳！"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "我々は王虎様のご命令を 守っているだけです",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "さすがは王虎様の お弟子さんたちアルよ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "王虎様は 我々平民の味方アルな！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "王虎様、万歳！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "なんじゃ・・・ 天安門の前でこの騒ぎは・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "おおっ・・・王竜様アルよ",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "王竜様が 北京にお帰りになられたアルよ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "おお・・・王虎のところの・・・ 何があったのじゃ？",
+"portraits": [
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2445,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "なんじゃ・・・\n天安門の前でこの騒ぎは・・・"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "さすがは王虎様の お弟子さんたちアルよ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "王虎様は 我々平民の味方アルな！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "王虎様、万歳！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "王虎道場、万歳！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "おおっ・・・王竜様アルよ",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "王竜様が 北京にお帰りになられたアルよ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "おお・・・王虎のところの・・・ 何があったのじゃ？",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "乱暴を働いた無法者を / 王虎様の代わりに 少々懲らしめてやったのです",
+"portraits": [
+null,
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2446,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "おおっ・・・王竜様アルよ"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "王虎様は 我々平民の味方アルな！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "王虎様、万歳！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "王虎道場、万歳！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "なんじゃ・・・ 天安門の前でこの騒ぎは・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "王竜様が 北京にお帰りになられたアルよ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "おお・・・王虎のところの・・・ 何があったのじゃ？",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "乱暴を働いた無法者を / 王虎様の代わりに 少々懲らしめてやったのです",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "そうか・・・ それはご苦労じゃったの",
+"portraits": [
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2447,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "王竜様が\n北京にお帰りになられたアルよ！"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "王虎様、万歳！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "王虎道場、万歳！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "なんじゃ・・・ 天安門の前でこの騒ぎは・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "おおっ・・・王竜様アルよ",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "おお・・・王虎のところの・・・ 何があったのじゃ？",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "乱暴を働いた無法者を / 王虎様の代わりに 少々懲らしめてやったのです",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "そうか・・・ それはご苦労じゃったの",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "しかし、そういうことは お上にまず報告するように / 義戦もしかるべき筋を通さねば ただの私闘である",
+"portraits": [
+null,
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2448,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "おお・・・王虎のところの・・・\n何があったのじゃ？"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "王虎道場、万歳！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "なんじゃ・・・ 天安門の前でこの騒ぎは・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "おおっ・・・王竜様アルよ",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "王竜様が 北京にお帰りになられたアルよ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "乱暴を働いた無法者を / 王虎様の代わりに 少々懲らしめてやったのです",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "そうか・・・ それはご苦労じゃったの",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "しかし、そういうことは お上にまず報告するように / 義戦もしかるべき筋を通さねば ただの私闘である",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "お主らであるから 見逃してやるが・・・",
+"portraits": [
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2449,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "乱暴を働いた無法者を"
+},
+{
+"portrait": null,
+"jp": "王虎様の代わりに\n少々懲らしめてやったのです"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "なんじゃ・・・ 天安門の前でこの騒ぎは・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "おおっ・・・王竜様アルよ",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "王竜様が 北京にお帰りになられたアルよ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "おお・・・王虎のところの・・・ 何があったのじゃ？",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "そうか・・・ それはご苦労じゃったの",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "しかし、そういうことは お上にまず報告するように / 義戦もしかるべき筋を通さねば ただの私闘である",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "お主らであるから 見逃してやるが・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "・・・・はっ",
+"portraits": [
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2450,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "そうか・・・\nそれはご苦労じゃったの"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "おおっ・・・王竜様アルよ",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "王竜様が 北京にお帰りになられたアルよ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "おお・・・王虎のところの・・・ 何があったのじゃ？",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "乱暴を働いた無法者を / 王虎様の代わりに 少々懲らしめてやったのです",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "しかし、そういうことは お上にまず報告するように / 義戦もしかるべき筋を通さねば ただの私闘である",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "お主らであるから 見逃してやるが・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "・・・・はっ",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "ほれほれ！ 道をあけぬか、道を！",
+"portraits": [
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2451,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "しかし、そういうことは\nお上にまず報告するように"
+},
+{
+"portrait": null,
+"jp": "義戦もしかるべき筋を通さねば\nただの私闘である"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "王竜様が 北京にお帰りになられたアルよ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "おお・・・王虎のところの・・・ 何があったのじゃ？",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "乱暴を働いた無法者を / 王虎様の代わりに 少々懲らしめてやったのです",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "そうか・・・ それはご苦労じゃったの",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "お主らであるから 見逃してやるが・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "・・・・はっ",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "ほれほれ！ 道をあけぬか、道を！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "王竜様は反乱を鎮定されての 凱旋報告じゃ！ / 急いでおるのだ！",
+"portraits": [
+null,
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2452,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "お主らであるから\n見逃してやるが・・・"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "おお・・・王虎のところの・・・ 何があったのじゃ？",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "乱暴を働いた無法者を / 王虎様の代わりに 少々懲らしめてやったのです",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "そうか・・・ それはご苦労じゃったの",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "しかし、そういうことは お上にまず報告するように / 義戦もしかるべき筋を通さねば ただの私闘である",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "・・・・はっ",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "ほれほれ！ 道をあけぬか、道を！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "王竜様は反乱を鎮定されての 凱旋報告じゃ！ / 急いでおるのだ！",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "王竜様はまたお手柄アルね",
+"portraits": [
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2453,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "・・・・はっ"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "乱暴を働いた無法者を / 王虎様の代わりに 少々懲らしめてやったのです",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "そうか・・・ それはご苦労じゃったの",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "しかし、そういうことは お上にまず報告するように / 義戦もしかるべき筋を通さねば ただの私闘である",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "お主らであるから 見逃してやるが・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "ほれほれ！ 道をあけぬか、道を！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "王竜様は反乱を鎮定されての 凱旋報告じゃ！ / 急いでおるのだ！",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "王竜様はまたお手柄アルね",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "出陣するたびに 武功をあげてくるアルな・・・",
+"portraits": [
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2454,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "ほれほれ！\n道をあけぬか、道を！"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "そうか・・・ それはご苦労じゃったの",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "しかし、そういうことは お上にまず報告するように / 義戦もしかるべき筋を通さねば ただの私闘である",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "お主らであるから 見逃してやるが・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "・・・・はっ",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "王竜様は反乱を鎮定されての 凱旋報告じゃ！ / 急いでおるのだ！",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "王竜様はまたお手柄アルね",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "出陣するたびに 武功をあげてくるアルな・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "王虎様は まだお帰りになられぬか・・・",
+"portraits": [
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2455,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "王竜様は反乱を鎮定されての\n凱旋報告じゃ！"
+},
+{
+"portrait": null,
+"jp": "急いでおるのだ！"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "しかし、そういうことは お上にまず報告するように / 義戦もしかるべき筋を通さねば ただの私闘である",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "お主らであるから 見逃してやるが・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "・・・・はっ",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "ほれほれ！ 道をあけぬか、道を！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "王竜様はまたお手柄アルね",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "出陣するたびに 武功をあげてくるアルな・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "王虎様は まだお帰りになられぬか・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "王竜様との不仲が 原因アルか・・・",
+"portraits": [
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2456,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "王竜様はまたお手柄アルね"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "お主らであるから 見逃してやるが・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "・・・・はっ",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "ほれほれ！ 道をあけぬか、道を！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "王竜様は反乱を鎮定されての 凱旋報告じゃ！ / 急いでおるのだ！",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "出陣するたびに 武功をあげてくるアルな・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "王虎様は まだお帰りになられぬか・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "王竜様との不仲が 原因アルか・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "いやいや / そのような理由で都を出られる 王虎様ではないアルよ・・・",
+"portraits": [
+null,
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2457,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "出陣するたびに\n武功をあげてくるアルな・・・"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "・・・・はっ",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "ほれほれ！ 道をあけぬか、道を！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "王竜様は反乱を鎮定されての 凱旋報告じゃ！ / 急いでおるのだ！",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "王竜様はまたお手柄アルね",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "王虎様は まだお帰りになられぬか・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "王竜様との不仲が 原因アルか・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "いやいや / そのような理由で都を出られる 王虎様ではないアルよ・・・",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "なんでも真の漢をさがす旅に 出られたとか",
+"portraits": [
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2458,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "王虎様は\nまだお帰りになられぬか・・・"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "ほれほれ！ 道をあけぬか、道を！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "王竜様は反乱を鎮定されての 凱旋報告じゃ！ / 急いでおるのだ！",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "王竜様はまたお手柄アルね",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "出陣するたびに 武功をあげてくるアルな・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "王竜様との不仲が 原因アルか・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "いやいや / そのような理由で都を出られる 王虎様ではないアルよ・・・",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "なんでも真の漢をさがす旅に 出られたとか",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "真の漢・・・アルか",
+"portraits": [
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2459,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "王竜様との不仲が\n原因アルか・・・"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "王竜様は反乱を鎮定されての 凱旋報告じゃ！ / 急いでおるのだ！",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "王竜様はまたお手柄アルね",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "出陣するたびに 武功をあげてくるアルな・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "王虎様は まだお帰りになられぬか・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "いやいや / そのような理由で都を出られる 王虎様ではないアルよ・・・",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "なんでも真の漢をさがす旅に 出られたとか",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "真の漢・・・アルか",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "ここですぜ！　親分！",
+"portraits": [
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2460,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "いやいや"
+},
+{
+"portrait": null,
+"jp": "そのような理由で都を出られる\n王虎様ではないアルよ・・・"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "王竜様はまたお手柄アルね",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "出陣するたびに 武功をあげてくるアルな・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "王虎様は まだお帰りになられぬか・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "王竜様との不仲が 原因アルか・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "なんでも真の漢をさがす旅に 出られたとか",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "真の漢・・・アルか",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "ここですぜ！　親分！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "ちくしょう！　こないだの借りを 返してやるからな！",
+"portraits": [
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2461,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "なんでも真の漢をさがす旅に\n出られたとか"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "出陣するたびに 武功をあげてくるアルな・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "王虎様は まだお帰りになられぬか・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "王竜様との不仲が 原因アルか・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "いやいや / そのような理由で都を出られる 王虎様ではないアルよ・・・",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "真の漢・・・アルか",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "ここですぜ！　親分！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "ちくしょう！　こないだの借りを 返してやるからな！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "ＧＦＦＦ、ここかぁ なんとかドージョーってのはよぉ",
+"portraits": [
+"2e"
+],
+"en": null
+}
+]
+},
+{
+"id": 2462,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "真の漢・・・アルか"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "王虎様は まだお帰りになられぬか・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "王竜様との不仲が 原因アルか・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "いやいや / そのような理由で都を出られる 王虎様ではないアルよ・・・",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "なんでも真の漢をさがす旅に 出られたとか",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "ここですぜ！　親分！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "ちくしょう！　こないだの借りを 返してやるからな！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "ＧＦＦＦ、ここかぁ なんとかドージョーってのはよぉ",
+"portraits": [
+"2e"
+],
+"en": null
+},
+{
+"jp": "おらぁ！　泣く子も黙るアース団が 先日のお礼参りにやってきたぜぇ！",
+"portraits": [
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2463,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "ここですぜ！　親分！"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "王竜様との不仲が 原因アルか・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "いやいや / そのような理由で都を出られる 王虎様ではないアルよ・・・",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "なんでも真の漢をさがす旅に 出られたとか",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "真の漢・・・アルか",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "ちくしょう！　こないだの借りを 返してやるからな！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "ＧＦＦＦ、ここかぁ なんとかドージョーってのはよぉ",
+"portraits": [
+"2e"
+],
+"en": null
+},
+{
+"jp": "おらぁ！　泣く子も黙るアース団が 先日のお礼参りにやってきたぜぇ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "シカトしてんじゃねーよ！",
+"portraits": [
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2464,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "ちくしょう！　こないだの借りを\n返してやるからな！"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "いやいや / そのような理由で都を出られる 王虎様ではないアルよ・・・",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "なんでも真の漢をさがす旅に 出られたとか",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "真の漢・・・アルか",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "ここですぜ！　親分！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "ＧＦＦＦ、ここかぁ なんとかドージョーってのはよぉ",
+"portraits": [
+"2e"
+],
+"en": null
+},
+{
+"jp": "おらぁ！　泣く子も黙るアース団が 先日のお礼参りにやってきたぜぇ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "シカトしてんじゃねーよ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "早く出てこねーと 大事な道場に、火ぃつけっぞ！",
+"portraits": [
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2465,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": "2e",
+"jp": "ＧＦＦＦ、ここかぁ\nなんとかドージョーってのはよぉ"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "なんでも真の漢をさがす旅に 出られたとか",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "真の漢・・・アルか",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "ここですぜ！　親分！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "ちくしょう！　こないだの借りを 返してやるからな！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "おらぁ！　泣く子も黙るアース団が 先日のお礼参りにやってきたぜぇ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "シカトしてんじゃねーよ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "早く出てこねーと 大事な道場に、火ぃつけっぞ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "腹減ったァ・・・",
+"portraits": [
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2466,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "おらぁ！　泣く子も黙るアース団が\n先日のお礼参りにやってきたぜぇ！"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "真の漢・・・アルか",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "ここですぜ！　親分！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "ちくしょう！　こないだの借りを 返してやるからな！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "ＧＦＦＦ、ここかぁ なんとかドージョーってのはよぉ",
+"portraits": [
+"2e"
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "シカトしてんじゃねーよ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "早く出てこねーと 大事な道場に、火ぃつけっぞ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "腹減ったァ・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "親分～ん おいらもタダ食いしたかったよぉ",
+"portraits": [
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2467,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "シカトしてんじゃねーよ！"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "ここですぜ！　親分！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "ちくしょう！　こないだの借りを 返してやるからな！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "ＧＦＦＦ、ここかぁ なんとかドージョーってのはよぉ",
+"portraits": [
+"2e"
+],
+"en": null
+},
+{
+"jp": "おらぁ！　泣く子も黙るアース団が 先日のお礼参りにやってきたぜぇ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "早く出てこねーと 大事な道場に、火ぃつけっぞ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "腹減ったァ・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "親分～ん おいらもタダ食いしたかったよぉ",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "ＧＦＦＦ、キン三よ もう少し我慢しなぁ・・・",
+"portraits": [
+"2e"
+],
+"en": null
+}
+]
+},
+{
+"id": 2468,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "早く出てこねーと\n大事な道場に、火ぃつけっぞ！"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "ちくしょう！　こないだの借りを 返してやるからな！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "ＧＦＦＦ、ここかぁ なんとかドージョーってのはよぉ",
+"portraits": [
+"2e"
+],
+"en": null
+},
+{
+"jp": "おらぁ！　泣く子も黙るアース団が 先日のお礼参りにやってきたぜぇ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "シカトしてんじゃねーよ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "腹減ったァ・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "親分～ん おいらもタダ食いしたかったよぉ",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "ＧＦＦＦ、キン三よ もう少し我慢しなぁ・・・",
+"portraits": [
+"2e"
+],
+"en": null
+},
+{
+"jp": "ここの連中からちいとばかり こづかい銭をもらって / たらふく食わしてやるぜェ ・・・ＧＦ！",
+"portraits": [
+"2e",
+"2e"
+],
+"en": null
+}
+]
+},
+{
+"id": 2469,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "腹減ったァ・・・"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "ＧＦＦＦ、ここかぁ なんとかドージョーってのはよぉ",
+"portraits": [
+"2e"
+],
+"en": null
+},
+{
+"jp": "おらぁ！　泣く子も黙るアース団が 先日のお礼参りにやってきたぜぇ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "シカトしてんじゃねーよ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "早く出てこねーと 大事な道場に、火ぃつけっぞ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "親分～ん おいらもタダ食いしたかったよぉ",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "ＧＦＦＦ、キン三よ もう少し我慢しなぁ・・・",
+"portraits": [
+"2e"
+],
+"en": null
+},
+{
+"jp": "ここの連中からちいとばかり こづかい銭をもらって / たらふく食わしてやるぜェ ・・・ＧＦ！",
+"portraits": [
+"2e",
+"2e"
+],
+"en": null
+},
+{
+"jp": "わ～いぃ！さっすがは親分だぁ！",
+"portraits": [
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2470,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "親分～ん\nおいらもタダ食いしたかったよぉ"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "おらぁ！　泣く子も黙るアース団が 先日のお礼参りにやってきたぜぇ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "シカトしてんじゃねーよ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "早く出てこねーと 大事な道場に、火ぃつけっぞ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "腹減ったァ・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "ＧＦＦＦ、キン三よ もう少し我慢しなぁ・・・",
+"portraits": [
+"2e"
+],
+"en": null
+},
+{
+"jp": "ここの連中からちいとばかり こづかい銭をもらって / たらふく食わしてやるぜェ ・・・ＧＦ！",
+"portraits": [
+"2e",
+"2e"
+],
+"en": null
+},
+{
+"jp": "わ～いぃ！さっすがは親分だぁ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "そうと決まったら、早ぇえとこ ぶっ片づけちまおうぜい！",
+"portraits": [
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2471,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": "2e",
+"jp": "ＧＦＦＦ、キン三よ\nもう少し我慢しなぁ・・・"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "シカトしてんじゃねーよ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "早く出てこねーと 大事な道場に、火ぃつけっぞ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "腹減ったァ・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "親分～ん おいらもタダ食いしたかったよぉ",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "ここの連中からちいとばかり こづかい銭をもらって / たらふく食わしてやるぜェ ・・・ＧＦ！",
+"portraits": [
+"2e",
+"2e"
+],
+"en": null
+},
+{
+"jp": "わ～いぃ！さっすがは親分だぁ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "そうと決まったら、早ぇえとこ ぶっ片づけちまおうぜい！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "オラオラァ！ こないだの威勢はどうしたぁ！",
+"portraits": [
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2472,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": "2e",
+"jp": "ここの連中からちいとばかり\nこづかい銭をもらって"
+},
+{
+"portrait": "2e",
+"jp": "たらふく食わしてやるぜェ\n・・・ＧＦ！"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "早く出てこねーと 大事な道場に、火ぃつけっぞ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "腹減ったァ・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "親分～ん おいらもタダ食いしたかったよぉ",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "ＧＦＦＦ、キン三よ もう少し我慢しなぁ・・・",
+"portraits": [
+"2e"
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "わ～いぃ！さっすがは親分だぁ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "そうと決まったら、早ぇえとこ ぶっ片づけちまおうぜい！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "オラオラァ！ こないだの威勢はどうしたぁ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "・・・ぎゃああ！",
+"portraits": [
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2473,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "わ～いぃ！さっすがは親分だぁ！"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "腹減ったァ・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "親分～ん おいらもタダ食いしたかったよぉ",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "ＧＦＦＦ、キン三よ もう少し我慢しなぁ・・・",
+"portraits": [
+"2e"
+],
+"en": null
+},
+{
+"jp": "ここの連中からちいとばかり こづかい銭をもらって / たらふく食わしてやるぜェ ・・・ＧＦ！",
+"portraits": [
+"2e",
+"2e"
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "そうと決まったら、早ぇえとこ ぶっ片づけちまおうぜい！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "オラオラァ！ こないだの威勢はどうしたぁ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "・・・ぎゃああ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "誰かと思えば この間の無銭飲食か！",
+"portraits": [
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2474,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "そうと決まったら、早ぇえとこ\nぶっ片づけちまおうぜい！"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "親分～ん おいらもタダ食いしたかったよぉ",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "ＧＦＦＦ、キン三よ もう少し我慢しなぁ・・・",
+"portraits": [
+"2e"
+],
+"en": null
+},
+{
+"jp": "ここの連中からちいとばかり こづかい銭をもらって / たらふく食わしてやるぜェ ・・・ＧＦ！",
+"portraits": [
+"2e",
+"2e"
+],
+"en": null
+},
+{
+"jp": "わ～いぃ！さっすがは親分だぁ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "オラオラァ！ こないだの威勢はどうしたぁ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "・・・ぎゃああ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "誰かと思えば この間の無銭飲食か！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "あれだけ性根を打ちすえてやっても まだ足りんようだな・・・",
+"portraits": [
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2475,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "オラオラァ！\nこないだの威勢はどうしたぁ！"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "ＧＦＦＦ、キン三よ もう少し我慢しなぁ・・・",
+"portraits": [
+"2e"
+],
+"en": null
+},
+{
+"jp": "ここの連中からちいとばかり こづかい銭をもらって / たらふく食わしてやるぜェ ・・・ＧＦ！",
+"portraits": [
+"2e",
+"2e"
+],
+"en": null
+},
+{
+"jp": "わ～いぃ！さっすがは親分だぁ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "そうと決まったら、早ぇえとこ ぶっ片づけちまおうぜい！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "・・・ぎゃああ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "誰かと思えば この間の無銭飲食か！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "あれだけ性根を打ちすえてやっても まだ足りんようだな・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "今度はおめーらが 思い知るんだよ！",
+"portraits": [
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2476,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "・・・ぎゃああ！"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "ここの連中からちいとばかり こづかい銭をもらって / たらふく食わしてやるぜェ ・・・ＧＦ！",
+"portraits": [
+"2e",
+"2e"
+],
+"en": null
+},
+{
+"jp": "わ～いぃ！さっすがは親分だぁ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "そうと決まったら、早ぇえとこ ぶっ片づけちまおうぜい！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "オラオラァ！ こないだの威勢はどうしたぁ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "誰かと思えば この間の無銭飲食か！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "あれだけ性根を打ちすえてやっても まだ足りんようだな・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "今度はおめーらが 思い知るんだよ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "やっちまえ！",
+"portraits": [
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2477,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "誰かと思えば\nこの間の無銭飲食か！"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "わ～いぃ！さっすがは親分だぁ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "そうと決まったら、早ぇえとこ ぶっ片づけちまおうぜい！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "オラオラァ！ こないだの威勢はどうしたぁ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "・・・ぎゃああ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "あれだけ性根を打ちすえてやっても まだ足りんようだな・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "今度はおめーらが 思い知るんだよ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "やっちまえ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "どうだ！ 王虎流の拳の味は！",
+"portraits": [
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2478,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "あれだけ性根を打ちすえてやっても\nまだ足りんようだな・・・"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "そうと決まったら、早ぇえとこ ぶっ片づけちまおうぜい！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "オラオラァ！ こないだの威勢はどうしたぁ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "・・・ぎゃああ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "誰かと思えば この間の無銭飲食か！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "今度はおめーらが 思い知るんだよ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "やっちまえ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "どうだ！ 王虎流の拳の味は！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "さあ 悪党は北京から出て行け！",
+"portraits": [
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2479,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "今度はおめーらが\n思い知るんだよ！"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "オラオラァ！ こないだの威勢はどうしたぁ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "・・・ぎゃああ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "誰かと思えば この間の無銭飲食か！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "あれだけ性根を打ちすえてやっても まだ足りんようだな・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "やっちまえ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "どうだ！ 王虎流の拳の味は！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "さあ 悪党は北京から出て行け！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "く・・・くそぅ！ お、親分ン～っ！",
+"portraits": [
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2480,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "やっちまえ！"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "・・・ぎゃああ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "誰かと思えば この間の無銭飲食か！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "あれだけ性根を打ちすえてやっても まだ足りんようだな・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "今度はおめーらが 思い知るんだよ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "どうだ！ 王虎流の拳の味は！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "さあ 悪党は北京から出て行け！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "く・・・くそぅ！ お、親分ン～っ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "ＧＦＦＦＦ・・・・ しょうがねぇなぁ・・・",
+"portraits": [
+"2e"
+],
+"en": null
+}
+]
+},
+{
+"id": 2481,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "どうだ！\n王虎流の拳の味は！"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "誰かと思えば この間の無銭飲食か！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "あれだけ性根を打ちすえてやっても まだ足りんようだな・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "今度はおめーらが 思い知るんだよ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "やっちまえ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "さあ 悪党は北京から出て行け！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "く・・・くそぅ！ お、親分ン～っ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "ＧＦＦＦＦ・・・・ しょうがねぇなぁ・・・",
+"portraits": [
+"2e"
+],
+"en": null
+},
+{
+"jp": "お前が悪者の親玉かっ！",
+"portraits": [
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2482,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "さあ\n悪党は北京から出て行け！"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "あれだけ性根を打ちすえてやっても まだ足りんようだな・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "今度はおめーらが 思い知るんだよ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "やっちまえ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "どうだ！ 王虎流の拳の味は！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "く・・・くそぅ！ お、親分ン～っ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "ＧＦＦＦＦ・・・・ しょうがねぇなぁ・・・",
+"portraits": [
+"2e"
+],
+"en": null
+},
+{
+"jp": "お前が悪者の親玉かっ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "王虎様に代わって 成敗してくれる！",
+"portraits": [
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2483,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "く・・・くそぅ！\nお、親分ン～っ！"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "今度はおめーらが 思い知るんだよ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "やっちまえ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "どうだ！ 王虎流の拳の味は！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "さあ 悪党は北京から出て行け！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "ＧＦＦＦＦ・・・・ しょうがねぇなぁ・・・",
+"portraits": [
+"2e"
+],
+"en": null
+},
+{
+"jp": "お前が悪者の親玉かっ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "王虎様に代わって 成敗してくれる！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "どおれ、いっちょ 相手してやっかな・・・ＧＦ",
+"portraits": [
+"2e"
+],
+"en": null
+}
+]
+},
+{
+"id": 2484,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": "2e",
+"jp": "ＧＦＦＦＦ・・・・\nしょうがねぇなぁ・・・"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "やっちまえ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "どうだ！ 王虎流の拳の味は！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "さあ 悪党は北京から出て行け！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "く・・・くそぅ！ お、親分ン～っ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "お前が悪者の親玉かっ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "王虎様に代わって 成敗してくれる！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "どおれ、いっちょ 相手してやっかな・・・ＧＦ",
+"portraits": [
+"2e"
+],
+"en": null
+},
+{
+"jp": "はいっ！",
+"portraits": [
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2485,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "お前が悪者の親玉かっ！"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "どうだ！ 王虎流の拳の味は！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "さあ 悪党は北京から出て行け！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "く・・・くそぅ！ お、親分ン～っ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "ＧＦＦＦＦ・・・・ しょうがねぇなぁ・・・",
+"portraits": [
+"2e"
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "王虎様に代わって 成敗してくれる！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "どおれ、いっちょ 相手してやっかな・・・ＧＦ",
+"portraits": [
+"2e"
+],
+"en": null
+},
+{
+"jp": "はいっ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "せいやっ！",
+"portraits": [
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2486,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "王虎様に代わって\n成敗してくれる！"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "さあ 悪党は北京から出て行け！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "く・・・くそぅ！ お、親分ン～っ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "ＧＦＦＦＦ・・・・ しょうがねぇなぁ・・・",
+"portraits": [
+"2e"
+],
+"en": null
+},
+{
+"jp": "お前が悪者の親玉かっ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "どおれ、いっちょ 相手してやっかな・・・ＧＦ",
+"portraits": [
+"2e"
+],
+"en": null
+},
+{
+"jp": "はいっ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "せいやっ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "むむ・・・なんてやつだ！",
+"portraits": [
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2487,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": "2e",
+"jp": "どおれ、いっちょ\n相手してやっかな・・・ＧＦ"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "く・・・くそぅ！ お、親分ン～っ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "ＧＦＦＦＦ・・・・ しょうがねぇなぁ・・・",
+"portraits": [
+"2e"
+],
+"en": null
+},
+{
+"jp": "お前が悪者の親玉かっ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "王虎様に代わって 成敗してくれる！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "はいっ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "せいやっ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "むむ・・・なんてやつだ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "我々の技が全く通用しない！",
+"portraits": [
+null
+],
+"en": "My abilities have no effect...? No...!"
+}
+]
+},
+{
+"id": 2488,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "せいやっ！"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "お前が悪者の親玉かっ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "王虎様に代わって 成敗してくれる！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "どおれ、いっちょ 相手してやっかな・・・ＧＦ",
+"portraits": [
+"2e"
+],
+"en": null
+},
+{
+"jp": "はいっ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "むむ・・・なんてやつだ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "我々の技が全く通用しない！",
+"portraits": [
+null
+],
+"en": "My abilities have no effect...? No...!"
+},
+{
+"jp": "なんでえ、この程度か・・・",
+"portraits": [
+"2e"
+],
+"en": null
+},
+{
+"jp": "んじゃあ 今度はこっちから行くぜぇ！",
+"portraits": [
+"2e"
+],
+"en": null
+}
+]
+},
+{
+"id": 2489,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "むむ・・・なんてやつだ！"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "王虎様に代わって 成敗してくれる！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "どおれ、いっちょ 相手してやっかな・・・ＧＦ",
+"portraits": [
+"2e"
+],
+"en": null
+},
+{
+"jp": "はいっ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "せいやっ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "我々の技が全く通用しない！",
+"portraits": [
+null
+],
+"en": "My abilities have no effect...? No...!"
+},
+{
+"jp": "なんでえ、この程度か・・・",
+"portraits": [
+"2e"
+],
+"en": null
+},
+{
+"jp": "んじゃあ 今度はこっちから行くぜぇ！",
+"portraits": [
+"2e"
+],
+"en": null
+},
+{
+"jp": "ＧＦＦＦ、楽勝、楽勝！",
+"portraits": [
+"2e"
+],
+"en": null
+}
+]
+},
+{
+"id": 2490,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": "2e",
+"jp": "なんでえ、この程度か・・・"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "はいっ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "せいやっ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "むむ・・・なんてやつだ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "我々の技が全く通用しない！",
+"portraits": [
+null
+],
+"en": "My abilities have no effect...? No...!"
+},
+{
+"self": true
+},
+{
+"jp": "んじゃあ 今度はこっちから行くぜぇ！",
+"portraits": [
+"2e"
+],
+"en": null
+},
+{
+"jp": "ＧＦＦＦ、楽勝、楽勝！",
+"portraits": [
+"2e"
+],
+"en": null
+},
+{
+"jp": "ようし、野郎ども 存分にやっちまいな！",
+"portraits": [
+"2e"
+],
+"en": null
+},
+{
+"jp": "へっへっへ・・・ さすがは親分！",
+"portraits": [
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2491,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": "2e",
+"jp": "んじゃあ\n今度はこっちから行くぜぇ！"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "せいやっ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "むむ・・・なんてやつだ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "我々の技が全く通用しない！",
+"portraits": [
+null
+],
+"en": "My abilities have no effect...? No...!"
+},
+{
+"jp": "なんでえ、この程度か・・・",
+"portraits": [
+"2e"
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "ＧＦＦＦ、楽勝、楽勝！",
+"portraits": [
+"2e"
+],
+"en": null
+},
+{
+"jp": "ようし、野郎ども 存分にやっちまいな！",
+"portraits": [
+"2e"
+],
+"en": null
+},
+{
+"jp": "へっへっへ・・・ さすがは親分！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "アース一家に逆らったら どういうことになるか / 体で教えてやるぜい！",
+"portraits": [
+null,
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2492,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": "2e",
+"jp": "ＧＦＦＦ、楽勝、楽勝！"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "むむ・・・なんてやつだ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "我々の技が全く通用しない！",
+"portraits": [
+null
+],
+"en": "My abilities have no effect...? No...!"
+},
+{
+"jp": "なんでえ、この程度か・・・",
+"portraits": [
+"2e"
+],
+"en": null
+},
+{
+"jp": "んじゃあ 今度はこっちから行くぜぇ！",
+"portraits": [
+"2e"
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "ようし、野郎ども 存分にやっちまいな！",
+"portraits": [
+"2e"
+],
+"en": null
+},
+{
+"jp": "へっへっへ・・・ さすがは親分！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "アース一家に逆らったら どういうことになるか / 体で教えてやるぜい！",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "く・・くそ・・・",
+"portraits": [
+null
+],
+"en": "Da... damn it..."
+}
+]
+},
+{
+"id": 2493,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": "2e",
+"jp": "ようし、野郎ども\n存分にやっちまいな！"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "我々の技が全く通用しない！",
+"portraits": [
+null
+],
+"en": "My abilities have no effect...? No...!"
+},
+{
+"jp": "なんでえ、この程度か・・・",
+"portraits": [
+"2e"
+],
+"en": null
+},
+{
+"jp": "んじゃあ 今度はこっちから行くぜぇ！",
+"portraits": [
+"2e"
+],
+"en": null
+},
+{
+"jp": "ＧＦＦＦ、楽勝、楽勝！",
+"portraits": [
+"2e"
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "へっへっへ・・・ さすがは親分！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "アース一家に逆らったら どういうことになるか / 体で教えてやるぜい！",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "く・・くそ・・・",
+"portraits": [
+null
+],
+"en": "Da... damn it..."
+},
+{
+"jp": "おやめなさいっ！",
+"portraits": [
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2494,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "へっへっへ・・・\nさすがは親分！"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "なんでえ、この程度か・・・",
+"portraits": [
+"2e"
+],
+"en": null
+},
+{
+"jp": "んじゃあ 今度はこっちから行くぜぇ！",
+"portraits": [
+"2e"
+],
+"en": null
+},
+{
+"jp": "ＧＦＦＦ、楽勝、楽勝！",
+"portraits": [
+"2e"
+],
+"en": null
+},
+{
+"jp": "ようし、野郎ども 存分にやっちまいな！",
+"portraits": [
+"2e"
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "アース一家に逆らったら どういうことになるか / 体で教えてやるぜい！",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "く・・くそ・・・",
+"portraits": [
+null
+],
+"en": "Da... damn it..."
+},
+{
+"jp": "おやめなさいっ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "お・・・奥様っ・・・",
+"portraits": [
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2495,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "アース一家に逆らったら\nどういうことになるか"
+},
+{
+"portrait": null,
+"jp": "体で教えてやるぜい！"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "んじゃあ 今度はこっちから行くぜぇ！",
+"portraits": [
+"2e"
+],
+"en": null
+},
+{
+"jp": "ＧＦＦＦ、楽勝、楽勝！",
+"portraits": [
+"2e"
+],
+"en": null
+},
+{
+"jp": "ようし、野郎ども 存分にやっちまいな！",
+"portraits": [
+"2e"
+],
+"en": null
+},
+{
+"jp": "へっへっへ・・・ さすがは親分！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "く・・くそ・・・",
+"portraits": [
+null
+],
+"en": "Da... damn it..."
+},
+{
+"jp": "おやめなさいっ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "お・・・奥様っ・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "おっとぉ・・・ / こりゃあドえらいべっぴんさんの ご登場だねぇ・・・ＧＦＦ",
+"portraits": [
+"2e",
+"2e"
+],
+"en": null
+}
+]
+},
+{
+"id": 2496,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "おやめなさいっ！"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "ようし、野郎ども 存分にやっちまいな！",
+"portraits": [
+"2e"
+],
+"en": null
+},
+{
+"jp": "へっへっへ・・・ さすがは親分！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "アース一家に逆らったら どういうことになるか / 体で教えてやるぜい！",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "く・・くそ・・・",
+"portraits": [
+null
+],
+"en": "Da... damn it..."
+},
+{
+"self": true
+},
+{
+"jp": "お・・・奥様っ・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "おっとぉ・・・ / こりゃあドえらいべっぴんさんの ご登場だねぇ・・・ＧＦＦ",
+"portraits": [
+"2e",
+"2e"
+],
+"en": null
+},
+{
+"jp": "このものたちに 手出しはなりません！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "そうは言ってもよう・・・",
+"portraits": [
+"2e"
+],
+"en": null
+}
+]
+},
+{
+"id": 2497,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "お・・・奥様っ・・・"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "へっへっへ・・・ さすがは親分！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "アース一家に逆らったら どういうことになるか / 体で教えてやるぜい！",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "く・・くそ・・・",
+"portraits": [
+null
+],
+"en": "Da... damn it..."
+},
+{
+"jp": "おやめなさいっ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "おっとぉ・・・ / こりゃあドえらいべっぴんさんの ご登場だねぇ・・・ＧＦＦ",
+"portraits": [
+"2e",
+"2e"
+],
+"en": null
+},
+{
+"jp": "このものたちに 手出しはなりません！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "そうは言ってもよう・・・",
+"portraits": [
+"2e"
+],
+"en": null
+},
+{
+"jp": "オレ様の子分たちが受けた 精神的肉体的苦痛に対して / わび代はきっちりと 払ってもらわなくちゃあなぁ～",
+"portraits": [
+"2e",
+"2e"
+],
+"en": null
+}
+]
+},
+{
+"id": 2498,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": "2e",
+"jp": "おっとぉ・・・"
+},
+{
+"portrait": "2e",
+"jp": "こりゃあドえらいべっぴんさんの\nご登場だねぇ・・・ＧＦＦ"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "アース一家に逆らったら どういうことになるか / 体で教えてやるぜい！",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "く・・くそ・・・",
+"portraits": [
+null
+],
+"en": "Da... damn it..."
+},
+{
+"jp": "おやめなさいっ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "お・・・奥様っ・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "このものたちに 手出しはなりません！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "そうは言ってもよう・・・",
+"portraits": [
+"2e"
+],
+"en": null
+},
+{
+"jp": "オレ様の子分たちが受けた 精神的肉体的苦痛に対して / わび代はきっちりと 払ってもらわなくちゃあなぁ～",
+"portraits": [
+"2e",
+"2e"
+],
+"en": null
+},
+{
+"jp": "そうだそうだ！",
+"portraits": [
+null
+],
+"en": "Yeah!"
+}
+]
+},
+{
+"id": 2499,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "このものたちに\n手出しはなりません！"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "く・・くそ・・・",
+"portraits": [
+null
+],
+"en": "Da... damn it..."
+},
+{
+"jp": "おやめなさいっ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "お・・・奥様っ・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "おっとぉ・・・ / こりゃあドえらいべっぴんさんの ご登場だねぇ・・・ＧＦＦ",
+"portraits": [
+"2e",
+"2e"
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "そうは言ってもよう・・・",
+"portraits": [
+"2e"
+],
+"en": null
+},
+{
+"jp": "オレ様の子分たちが受けた 精神的肉体的苦痛に対して / わび代はきっちりと 払ってもらわなくちゃあなぁ～",
+"portraits": [
+"2e",
+"2e"
+],
+"en": null
+},
+{
+"jp": "そうだそうだ！",
+"portraits": [
+null
+],
+"en": "Yeah!"
+},
+{
+"jp": "わび代、わび代！",
+"portraits": [
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2500,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": "2e",
+"jp": "そうは言ってもよう・・・"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "おやめなさいっ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "お・・・奥様っ・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "おっとぉ・・・ / こりゃあドえらいべっぴんさんの ご登場だねぇ・・・ＧＦＦ",
+"portraits": [
+"2e",
+"2e"
+],
+"en": null
+},
+{
+"jp": "このものたちに 手出しはなりません！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "オレ様の子分たちが受けた 精神的肉体的苦痛に対して / わび代はきっちりと 払ってもらわなくちゃあなぁ～",
+"portraits": [
+"2e",
+"2e"
+],
+"en": null
+},
+{
+"jp": "そうだそうだ！",
+"portraits": [
+null
+],
+"en": "Yeah!"
+},
+{
+"jp": "わび代、わび代！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "あなた達のようなやくざものに 支払う金はありません！",
+"portraits": [
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2501,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": "2e",
+"jp": "オレ様の子分たちが受けた\n精神的肉体的苦痛に対して"
+},
+{
+"portrait": "2e",
+"jp": "わび代はきっちりと\n払ってもらわなくちゃあなぁ～"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "お・・・奥様っ・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "おっとぉ・・・ / こりゃあドえらいべっぴんさんの ご登場だねぇ・・・ＧＦＦ",
+"portraits": [
+"2e",
+"2e"
+],
+"en": null
+},
+{
+"jp": "このものたちに 手出しはなりません！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "そうは言ってもよう・・・",
+"portraits": [
+"2e"
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "そうだそうだ！",
+"portraits": [
+null
+],
+"en": "Yeah!"
+},
+{
+"jp": "わび代、わび代！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "あなた達のようなやくざものに 支払う金はありません！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "そーかい、んじゃあよう",
+"portraits": [
+"2e"
+],
+"en": "All right... later, then."
+}
+]
+},
+{
+"id": 2502,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "わび代、わび代！"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "このものたちに 手出しはなりません！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "そうは言ってもよう・・・",
+"portraits": [
+"2e"
+],
+"en": null
+},
+{
+"jp": "オレ様の子分たちが受けた 精神的肉体的苦痛に対して / わび代はきっちりと 払ってもらわなくちゃあなぁ～",
+"portraits": [
+"2e",
+"2e"
+],
+"en": null
+},
+{
+"jp": "そうだそうだ！",
+"portraits": [
+null
+],
+"en": "Yeah!"
+},
+{
+"self": true
+},
+{
+"jp": "あなた達のようなやくざものに 支払う金はありません！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "そーかい、んじゃあよう",
+"portraits": [
+"2e"
+],
+"en": "All right... later, then."
+},
+{
+"jp": "やっぱ、こいつらの体で 払ってもらうことにすっかな・・・",
+"portraits": [
+"2e"
+],
+"en": null
+},
+{
+"jp": "おう、こいつらを たたんじまいな！",
+"portraits": [
+"2f"
+],
+"en": null
+}
+]
+},
+{
+"id": 2503,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "あなた達のようなやくざものに\n支払う金はありません！"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "そうは言ってもよう・・・",
+"portraits": [
+"2e"
+],
+"en": null
+},
+{
+"jp": "オレ様の子分たちが受けた 精神的肉体的苦痛に対して / わび代はきっちりと 払ってもらわなくちゃあなぁ～",
+"portraits": [
+"2e",
+"2e"
+],
+"en": null
+},
+{
+"jp": "そうだそうだ！",
+"portraits": [
+null
+],
+"en": "Yeah!"
+},
+{
+"jp": "わび代、わび代！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "そーかい、んじゃあよう",
+"portraits": [
+"2e"
+],
+"en": "All right... later, then."
+},
+{
+"jp": "やっぱ、こいつらの体で 払ってもらうことにすっかな・・・",
+"portraits": [
+"2e"
+],
+"en": null
+},
+{
+"jp": "おう、こいつらを たたんじまいな！",
+"portraits": [
+"2f"
+],
+"en": null
+},
+{
+"jp": "へい、待ってました！",
+"portraits": [
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2504,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": "2e",
+"jp": "やっぱ、こいつらの体で\n払ってもらうことにすっかな・・・"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "そうだそうだ！",
+"portraits": [
+null
+],
+"en": "Yeah!"
+},
+{
+"jp": "わび代、わび代！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "あなた達のようなやくざものに 支払う金はありません！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "そーかい、んじゃあよう",
+"portraits": [
+"2e"
+],
+"en": "All right... later, then."
+},
+{
+"self": true
+},
+{
+"jp": "おう、こいつらを たたんじまいな！",
+"portraits": [
+"2f"
+],
+"en": null
+},
+{
+"jp": "へい、待ってました！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "安心しな、命まで取ろうとは 言わねえぜ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "ちょいとがまんしてれば すぐに済むからよぉ・・・えへへ",
+"portraits": [
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2505,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": "2f",
+"jp": "おう、こいつらを\nたたんじまいな！"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "わび代、わび代！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "あなた達のようなやくざものに 支払う金はありません！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "そーかい、んじゃあよう",
+"portraits": [
+"2e"
+],
+"en": "All right... later, then."
+},
+{
+"jp": "やっぱ、こいつらの体で 払ってもらうことにすっかな・・・",
+"portraits": [
+"2e"
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "へい、待ってました！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "安心しな、命まで取ろうとは 言わねえぜ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "ちょいとがまんしてれば すぐに済むからよぉ・・・えへへ",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "く・・・くそっ やるならやれい！",
+"portraits": [
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2506,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "へい、待ってました！"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "あなた達のようなやくざものに 支払う金はありません！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "そーかい、んじゃあよう",
+"portraits": [
+"2e"
+],
+"en": "All right... later, then."
+},
+{
+"jp": "やっぱ、こいつらの体で 払ってもらうことにすっかな・・・",
+"portraits": [
+"2e"
+],
+"en": null
+},
+{
+"jp": "おう、こいつらを たたんじまいな！",
+"portraits": [
+"2f"
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "安心しな、命まで取ろうとは 言わねえぜ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "ちょいとがまんしてれば すぐに済むからよぉ・・・えへへ",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "く・・・くそっ やるならやれい！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "ああ・・・ なんてことを・・・",
+"portraits": [
+null
+],
+"en": "How could you...?"
+}
+]
+},
+{
+"id": 2507,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "安心しな、命まで取ろうとは\n言わねえぜ！"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "そーかい、んじゃあよう",
+"portraits": [
+"2e"
+],
+"en": "All right... later, then."
+},
+{
+"jp": "やっぱ、こいつらの体で 払ってもらうことにすっかな・・・",
+"portraits": [
+"2e"
+],
+"en": null
+},
+{
+"jp": "おう、こいつらを たたんじまいな！",
+"portraits": [
+"2f"
+],
+"en": null
+},
+{
+"jp": "へい、待ってました！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "ちょいとがまんしてれば すぐに済むからよぉ・・・えへへ",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "く・・・くそっ やるならやれい！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "ああ・・・ なんてことを・・・",
+"portraits": [
+null
+],
+"en": "How could you...?"
+},
+{
+"jp": "やべぇ！　ずらかれ！",
+"portraits": [
+"2f"
+],
+"en": null
+}
+]
+},
+{
+"id": 2508,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "ちょいとがまんしてれば\nすぐに済むからよぉ・・・えへへ"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "やっぱ、こいつらの体で 払ってもらうことにすっかな・・・",
+"portraits": [
+"2e"
+],
+"en": null
+},
+{
+"jp": "おう、こいつらを たたんじまいな！",
+"portraits": [
+"2f"
+],
+"en": null
+},
+{
+"jp": "へい、待ってました！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "安心しな、命まで取ろうとは 言わねえぜ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "く・・・くそっ やるならやれい！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "ああ・・・ なんてことを・・・",
+"portraits": [
+null
+],
+"en": "How could you...?"
+},
+{
+"jp": "やべぇ！　ずらかれ！",
+"portraits": [
+"2f"
+],
+"en": null
+},
+{
+"jp": "ひぇぇ！　なんだこりゃ・・・ / ひぃ、ふぅ、みぃ・・・ マジかよぉ！",
+"portraits": [
+null,
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2509,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "く・・・くそっ\nやるならやれい！"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "おう、こいつらを たたんじまいな！",
+"portraits": [
+"2f"
+],
+"en": null
+},
+{
+"jp": "へい、待ってました！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "安心しな、命まで取ろうとは 言わねえぜ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "ちょいとがまんしてれば すぐに済むからよぉ・・・えへへ",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "ああ・・・ なんてことを・・・",
+"portraits": [
+null
+],
+"en": "How could you...?"
+},
+{
+"jp": "やべぇ！　ずらかれ！",
+"portraits": [
+"2f"
+],
+"en": null
+},
+{
+"jp": "ひぇぇ！　なんだこりゃ・・・ / ひぃ、ふぅ、みぃ・・・ マジかよぉ！",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "１００人はいるぜ！ くそっ、おぼえてやがれぇ！",
+"portraits": [
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2510,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": "2f",
+"jp": "やべぇ！　ずらかれ！"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "安心しな、命まで取ろうとは 言わねえぜ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "ちょいとがまんしてれば すぐに済むからよぉ・・・えへへ",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "く・・・くそっ やるならやれい！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "ああ・・・ なんてことを・・・",
+"portraits": [
+null
+],
+"en": "How could you...?"
+},
+{
+"self": true
+},
+{
+"jp": "ひぇぇ！　なんだこりゃ・・・ / ひぃ、ふぅ、みぃ・・・ マジかよぉ！",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "１００人はいるぜ！ くそっ、おぼえてやがれぇ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "どうやら 間に合ったようだな・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "ああ・・・王竜様・・・ ありがとうございます",
+"portraits": [
+null
+],
+"en": "Thank you so much!"
+}
+]
+},
+{
+"id": 2511,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "ひぇぇ！　なんだこりゃ・・・"
+},
+{
+"portrait": null,
+"jp": "ひぃ、ふぅ、みぃ・・・\nマジかよぉ！"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "ちょいとがまんしてれば すぐに済むからよぉ・・・えへへ",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "く・・・くそっ やるならやれい！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "ああ・・・ なんてことを・・・",
+"portraits": [
+null
+],
+"en": "How could you...?"
+},
+{
+"jp": "やべぇ！　ずらかれ！",
+"portraits": [
+"2f"
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "１００人はいるぜ！ くそっ、おぼえてやがれぇ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "どうやら 間に合ったようだな・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "ああ・・・王竜様・・・ ありがとうございます",
+"portraits": [
+null
+],
+"en": "Thank you so much!"
+},
+{
+"jp": "王虎め、道場の一つも守れずして 漢探しとは片腹痛い・・・",
+"portraits": [
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2512,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "１００人はいるぜ！\nくそっ、おぼえてやがれぇ！"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "く・・・くそっ やるならやれい！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "ああ・・・ なんてことを・・・",
+"portraits": [
+null
+],
+"en": "How could you...?"
+},
+{
+"jp": "やべぇ！　ずらかれ！",
+"portraits": [
+"2f"
+],
+"en": null
+},
+{
+"jp": "ひぇぇ！　なんだこりゃ・・・ / ひぃ、ふぅ、みぃ・・・ マジかよぉ！",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "どうやら 間に合ったようだな・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "ああ・・・王竜様・・・ ありがとうございます",
+"portraits": [
+null
+],
+"en": "Thank you so much!"
+},
+{
+"jp": "王虎め、道場の一つも守れずして 漢探しとは片腹痛い・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "め・・・面目次第も ございませぬ",
+"portraits": [
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2513,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "どうやら\n間に合ったようだな・・・"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "ああ・・・ なんてことを・・・",
+"portraits": [
+null
+],
+"en": "How could you...?"
+},
+{
+"jp": "やべぇ！　ずらかれ！",
+"portraits": [
+"2f"
+],
+"en": null
+},
+{
+"jp": "ひぇぇ！　なんだこりゃ・・・ / ひぃ、ふぅ、みぃ・・・ マジかよぉ！",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "１００人はいるぜ！ くそっ、おぼえてやがれぇ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "ああ・・・王竜様・・・ ありがとうございます",
+"portraits": [
+null
+],
+"en": "Thank you so much!"
+},
+{
+"jp": "王虎め、道場の一つも守れずして 漢探しとは片腹痛い・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "め・・・面目次第も ございませぬ",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "我らがふがいないばかりに",
+"portraits": [
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2514,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "王虎め、道場の一つも守れずして\n漢探しとは片腹痛い・・・"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "ひぇぇ！　なんだこりゃ・・・ / ひぃ、ふぅ、みぃ・・・ マジかよぉ！",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "１００人はいるぜ！ くそっ、おぼえてやがれぇ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "どうやら 間に合ったようだな・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "ああ・・・王竜様・・・ ありがとうございます",
+"portraits": [
+null
+],
+"en": "Thank you so much!"
+},
+{
+"self": true
+},
+{
+"jp": "め・・・面目次第も ございませぬ",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "我らがふがいないばかりに",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "ふん・・・貴様らの力量は ワシも認めておるわ",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "お主らほどの男を / 使用人のようにしか使えぬ 王虎の器を / ワシは責めておるのよ！",
+"portraits": [
+null,
+null,
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2515,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "め・・・面目次第も\nございませぬ"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "１００人はいるぜ！ くそっ、おぼえてやがれぇ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "どうやら 間に合ったようだな・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "ああ・・・王竜様・・・ ありがとうございます",
+"portraits": [
+null
+],
+"en": "Thank you so much!"
+},
+{
+"jp": "王虎め、道場の一つも守れずして 漢探しとは片腹痛い・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "我らがふがいないばかりに",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "ふん・・・貴様らの力量は ワシも認めておるわ",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "お主らほどの男を / 使用人のようにしか使えぬ 王虎の器を / ワシは責めておるのよ！",
+"portraits": [
+null,
+null,
+null
+],
+"en": null
+},
+{
+"jp": "まったく、兄として 恥ずかしい限りじゃわい！",
+"portraits": [
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2516,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "我らがふがいないばかりに"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "どうやら 間に合ったようだな・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "ああ・・・王竜様・・・ ありがとうございます",
+"portraits": [
+null
+],
+"en": "Thank you so much!"
+},
+{
+"jp": "王虎め、道場の一つも守れずして 漢探しとは片腹痛い・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "め・・・面目次第も ございませぬ",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "ふん・・・貴様らの力量は ワシも認めておるわ",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "お主らほどの男を / 使用人のようにしか使えぬ 王虎の器を / ワシは責めておるのよ！",
+"portraits": [
+null,
+null,
+null
+],
+"en": null
+},
+{
+"jp": "まったく、兄として 恥ずかしい限りじゃわい！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "王竜様・・・それは違います",
+"portraits": [
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2517,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "ふん・・・貴様らの力量は\nワシも認めておるわ"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "ああ・・・王竜様・・・ ありがとうございます",
+"portraits": [
+null
+],
+"en": "Thank you so much!"
+},
+{
+"jp": "王虎め、道場の一つも守れずして 漢探しとは片腹痛い・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "め・・・面目次第も ございませぬ",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "我らがふがいないばかりに",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "お主らほどの男を / 使用人のようにしか使えぬ 王虎の器を / ワシは責めておるのよ！",
+"portraits": [
+null,
+null,
+null
+],
+"en": null
+},
+{
+"jp": "まったく、兄として 恥ずかしい限りじゃわい！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "王竜様・・・それは違います",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "王虎様の御器量は あなた様に勝れども / 決して劣るものではございません",
+"portraits": [
+null,
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2518,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "お主らほどの男を"
+},
+{
+"portrait": null,
+"jp": "使用人のようにしか使えぬ\n王虎の器を"
+},
+{
+"portrait": null,
+"jp": "ワシは責めておるのよ！"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "王虎め、道場の一つも守れずして 漢探しとは片腹痛い・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "め・・・面目次第も ございませぬ",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "我らがふがいないばかりに",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "ふん・・・貴様らの力量は ワシも認めておるわ",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "まったく、兄として 恥ずかしい限りじゃわい！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "王竜様・・・それは違います",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "王虎様の御器量は あなた様に勝れども / 決して劣るものではございません",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "助けてもらって何ですが / あなたは悪漢を追い払うのに 軍隊の力を持って行われました / 王虎にはまた 別のやり方がありましょう",
+"portraits": [
+null,
+null,
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2519,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "まったく、兄として\n恥ずかしい限りじゃわい！"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "め・・・面目次第も ございませぬ",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "我らがふがいないばかりに",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "ふん・・・貴様らの力量は ワシも認めておるわ",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "お主らほどの男を / 使用人のようにしか使えぬ 王虎の器を / ワシは責めておるのよ！",
+"portraits": [
+null,
+null,
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "王竜様・・・それは違います",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "王虎様の御器量は あなた様に勝れども / 決して劣るものではございません",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "助けてもらって何ですが / あなたは悪漢を追い払うのに 軍隊の力を持って行われました / 王虎にはまた 別のやり方がありましょう",
+"portraits": [
+null,
+null,
+null
+],
+"en": null
+},
+{
+"jp": "ふん・・・眠眠よ しょせんはそなたもおなごよの",
+"portraits": [
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2520,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "王竜様・・・それは違います"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "我らがふがいないばかりに",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "ふん・・・貴様らの力量は ワシも認めておるわ",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "お主らほどの男を / 使用人のようにしか使えぬ 王虎の器を / ワシは責めておるのよ！",
+"portraits": [
+null,
+null,
+null
+],
+"en": null
+},
+{
+"jp": "まったく、兄として 恥ずかしい限りじゃわい！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "王虎様の御器量は あなた様に勝れども / 決して劣るものではございません",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "助けてもらって何ですが / あなたは悪漢を追い払うのに 軍隊の力を持って行われました / 王虎にはまた 別のやり方がありましょう",
+"portraits": [
+null,
+null,
+null
+],
+"en": null
+},
+{
+"jp": "ふん・・・眠眠よ しょせんはそなたもおなごよの",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "悪はそれ以上の力を持って 打ち砕いてしまうのが一番じゃ・・・ / 早いし、後腐れもない・・・ あのようなクズどもは特にな・・・",
+"portraits": [
+null,
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2521,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "王虎様の御器量は\nあなた様に勝れども"
+},
+{
+"portrait": null,
+"jp": "決して劣るものではございません"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "ふん・・・貴様らの力量は ワシも認めておるわ",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "お主らほどの男を / 使用人のようにしか使えぬ 王虎の器を / ワシは責めておるのよ！",
+"portraits": [
+null,
+null,
+null
+],
+"en": null
+},
+{
+"jp": "まったく、兄として 恥ずかしい限りじゃわい！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "王竜様・・・それは違います",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "助けてもらって何ですが / あなたは悪漢を追い払うのに 軍隊の力を持って行われました / 王虎にはまた 別のやり方がありましょう",
+"portraits": [
+null,
+null,
+null
+],
+"en": null
+},
+{
+"jp": "ふん・・・眠眠よ しょせんはそなたもおなごよの",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "悪はそれ以上の力を持って 打ち砕いてしまうのが一番じゃ・・・ / 早いし、後腐れもない・・・ あのようなクズどもは特にな・・・",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "・・・王竜様",
+"portraits": [
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2522,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "助けてもらって何ですが"
+},
+{
+"portrait": null,
+"jp": "あなたは悪漢を追い払うのに\n軍隊の力を持って行われました"
+},
+{
+"portrait": null,
+"jp": "王虎にはまた\n別のやり方がありましょう"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "お主らほどの男を / 使用人のようにしか使えぬ 王虎の器を / ワシは責めておるのよ！",
+"portraits": [
+null,
+null,
+null
+],
+"en": null
+},
+{
+"jp": "まったく、兄として 恥ずかしい限りじゃわい！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "王竜様・・・それは違います",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "王虎様の御器量は あなた様に勝れども / 決して劣るものではございません",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "ふん・・・眠眠よ しょせんはそなたもおなごよの",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "悪はそれ以上の力を持って 打ち砕いてしまうのが一番じゃ・・・ / 早いし、後腐れもない・・・ あのようなクズどもは特にな・・・",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "・・・王竜様",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "・・・まあよい そなたには分かってもらえまい",
+"portraits": [
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2523,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "ふん・・・眠眠よ\nしょせんはそなたもおなごよの"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "まったく、兄として 恥ずかしい限りじゃわい！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "王竜様・・・それは違います",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "王虎様の御器量は あなた様に勝れども / 決して劣るものではございません",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "助けてもらって何ですが / あなたは悪漢を追い払うのに 軍隊の力を持って行われました / 王虎にはまた 別のやり方がありましょう",
+"portraits": [
+null,
+null,
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "悪はそれ以上の力を持って 打ち砕いてしまうのが一番じゃ・・・ / 早いし、後腐れもない・・・ あのようなクズどもは特にな・・・",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "・・・王竜様",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "・・・まあよい そなたには分かってもらえまい",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "・・・分かってくれていれば 今頃は・・・いや・・・",
+"portraits": [
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2524,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "悪はそれ以上の力を持って\n打ち砕いてしまうのが一番じゃ・・・"
+},
+{
+"portrait": null,
+"jp": "早いし、後腐れもない・・・\nあのようなクズどもは特にな・・・"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "王竜様・・・それは違います",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "王虎様の御器量は あなた様に勝れども / 決して劣るものではございません",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "助けてもらって何ですが / あなたは悪漢を追い払うのに 軍隊の力を持って行われました / 王虎にはまた 別のやり方がありましょう",
+"portraits": [
+null,
+null,
+null
+],
+"en": null
+},
+{
+"jp": "ふん・・・眠眠よ しょせんはそなたもおなごよの",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "・・・王竜様",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "・・・まあよい そなたには分かってもらえまい",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "・・・分かってくれていれば 今頃は・・・いや・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "引き上げるぞ！",
+"portraits": [
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2525,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "・・・王竜様"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "王虎様の御器量は あなた様に勝れども / 決して劣るものではございません",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "助けてもらって何ですが / あなたは悪漢を追い払うのに 軍隊の力を持って行われました / 王虎にはまた 別のやり方がありましょう",
+"portraits": [
+null,
+null,
+null
+],
+"en": null
+},
+{
+"jp": "ふん・・・眠眠よ しょせんはそなたもおなごよの",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "悪はそれ以上の力を持って 打ち砕いてしまうのが一番じゃ・・・ / 早いし、後腐れもない・・・ あのようなクズどもは特にな・・・",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "・・・まあよい そなたには分かってもらえまい",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "・・・分かってくれていれば 今頃は・・・いや・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "引き上げるぞ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "奥様、申し訳ありません・・・",
+"portraits": [
+null
+],
+"en": "I'm afraid not... I'm sorry..."
+}
+]
+},
+{
+"id": 2526,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "・・・まあよい\nそなたには分かってもらえまい"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "助けてもらって何ですが / あなたは悪漢を追い払うのに 軍隊の力を持って行われました / 王虎にはまた 別のやり方がありましょう",
+"portraits": [
+null,
+null,
+null
+],
+"en": null
+},
+{
+"jp": "ふん・・・眠眠よ しょせんはそなたもおなごよの",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "悪はそれ以上の力を持って 打ち砕いてしまうのが一番じゃ・・・ / 早いし、後腐れもない・・・ あのようなクズどもは特にな・・・",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "・・・王竜様",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "・・・分かってくれていれば 今頃は・・・いや・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "引き上げるぞ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "奥様、申し訳ありません・・・",
+"portraits": [
+null
+],
+"en": "I'm afraid not... I'm sorry..."
+},
+{
+"jp": "我々の修行が足りぬばかりに / ・・・王虎様のお顔に 泥をぬってしまいました",
+"portraits": [
+null,
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2527,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "・・・分かってくれていれば\n今頃は・・・いや・・・"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "ふん・・・眠眠よ しょせんはそなたもおなごよの",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "悪はそれ以上の力を持って 打ち砕いてしまうのが一番じゃ・・・ / 早いし、後腐れもない・・・ あのようなクズどもは特にな・・・",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "・・・王竜様",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "・・・まあよい そなたには分かってもらえまい",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "引き上げるぞ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "奥様、申し訳ありません・・・",
+"portraits": [
+null
+],
+"en": "I'm afraid not... I'm sorry..."
+},
+{
+"jp": "我々の修行が足りぬばかりに / ・・・王虎様のお顔に 泥をぬってしまいました",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "よいのですよ・・・ / お前たちは道場を 守ってくれたのです / 何の恥じることもありません",
+"portraits": [
+null,
+null,
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2528,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "引き上げるぞ！"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "悪はそれ以上の力を持って 打ち砕いてしまうのが一番じゃ・・・ / 早いし、後腐れもない・・・ あのようなクズどもは特にな・・・",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "・・・王竜様",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "・・・まあよい そなたには分かってもらえまい",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "・・・分かってくれていれば 今頃は・・・いや・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "奥様、申し訳ありません・・・",
+"portraits": [
+null
+],
+"en": "I'm afraid not... I'm sorry..."
+},
+{
+"jp": "我々の修行が足りぬばかりに / ・・・王虎様のお顔に 泥をぬってしまいました",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "よいのですよ・・・ / お前たちは道場を 守ってくれたのです / 何の恥じることもありません",
+"portraits": [
+null,
+null,
+null
+],
+"en": null
+},
+{
+"jp": "・・・奥様",
+"portraits": [
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2529,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "我々の修行が足りぬばかりに"
+},
+{
+"portrait": null,
+"jp": "・・・王虎様のお顔に\n泥をぬってしまいました"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "・・・まあよい そなたには分かってもらえまい",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "・・・分かってくれていれば 今頃は・・・いや・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "引き上げるぞ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "奥様、申し訳ありません・・・",
+"portraits": [
+null
+],
+"en": "I'm afraid not... I'm sorry..."
+},
+{
+"self": true
+},
+{
+"jp": "よいのですよ・・・ / お前たちは道場を 守ってくれたのです / 何の恥じることもありません",
+"portraits": [
+null,
+null,
+null
+],
+"en": null
+},
+{
+"jp": "・・・奥様",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "（あなた・・・早く帰ってらして）",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "ちくしょう、たかが盗人に / １００人からの兵隊を 持ち出してくるたぁ / 北京ってのはなんつーとこだい 全くよぉ！",
+"portraits": [
+"2f",
+"2f",
+"2f"
+],
+"en": null
+}
+]
+},
+{
+"id": 2530,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "よいのですよ・・・"
+},
+{
+"portrait": null,
+"jp": "お前たちは道場を\n守ってくれたのです"
+},
+{
+"portrait": null,
+"jp": "何の恥じることもありません"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "・・・分かってくれていれば 今頃は・・・いや・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "引き上げるぞ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "奥様、申し訳ありません・・・",
+"portraits": [
+null
+],
+"en": "I'm afraid not... I'm sorry..."
+},
+{
+"jp": "我々の修行が足りぬばかりに / ・・・王虎様のお顔に 泥をぬってしまいました",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "・・・奥様",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "（あなた・・・早く帰ってらして）",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "ちくしょう、たかが盗人に / １００人からの兵隊を 持ち出してくるたぁ / 北京ってのはなんつーとこだい 全くよぉ！",
+"portraits": [
+"2f",
+"2f",
+"2f"
+],
+"en": null
+},
+{
+"jp": "あっしが思うに / あの野郎は臆病者の チキン野郎なんですぜ！",
+"portraits": [
+null,
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2531,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "・・・奥様"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "引き上げるぞ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "奥様、申し訳ありません・・・",
+"portraits": [
+null
+],
+"en": "I'm afraid not... I'm sorry..."
+},
+{
+"jp": "我々の修行が足りぬばかりに / ・・・王虎様のお顔に 泥をぬってしまいました",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "よいのですよ・・・ / お前たちは道場を 守ってくれたのです / 何の恥じることもありません",
+"portraits": [
+null,
+null,
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "（あなた・・・早く帰ってらして）",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "ちくしょう、たかが盗人に / １００人からの兵隊を 持ち出してくるたぁ / 北京ってのはなんつーとこだい 全くよぉ！",
+"portraits": [
+"2f",
+"2f",
+"2f"
+],
+"en": null
+},
+{
+"jp": "あっしが思うに / あの野郎は臆病者の チキン野郎なんですぜ！",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "けっ！人数を頼んでの空威張りたぁ 感心しないねぇ！",
+"portraits": [
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2532,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "（あなた・・・早く帰ってらして）"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "奥様、申し訳ありません・・・",
+"portraits": [
+null
+],
+"en": "I'm afraid not... I'm sorry..."
+},
+{
+"jp": "我々の修行が足りぬばかりに / ・・・王虎様のお顔に 泥をぬってしまいました",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "よいのですよ・・・ / お前たちは道場を 守ってくれたのです / 何の恥じることもありません",
+"portraits": [
+null,
+null,
+null
+],
+"en": null
+},
+{
+"jp": "・・・奥様",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "ちくしょう、たかが盗人に / １００人からの兵隊を 持ち出してくるたぁ / 北京ってのはなんつーとこだい 全くよぉ！",
+"portraits": [
+"2f",
+"2f",
+"2f"
+],
+"en": null
+},
+{
+"jp": "あっしが思うに / あの野郎は臆病者の チキン野郎なんですぜ！",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "けっ！人数を頼んでの空威張りたぁ 感心しないねぇ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "そうそう！ / あの小生意気な拳法野郎どもの方が いくらかは男、入ってたでやんす！",
+"portraits": [
+null,
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2533,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": "2f",
+"jp": "ちくしょう、たかが盗人に"
+},
+{
+"portrait": "2f",
+"jp": "１００人からの兵隊を\n持ち出してくるたぁ"
+},
+{
+"portrait": "2f",
+"jp": "北京ってのはなんつーとこだい\n全くよぉ！"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "我々の修行が足りぬばかりに / ・・・王虎様のお顔に 泥をぬってしまいました",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "よいのですよ・・・ / お前たちは道場を 守ってくれたのです / 何の恥じることもありません",
+"portraits": [
+null,
+null,
+null
+],
+"en": null
+},
+{
+"jp": "・・・奥様",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "（あなた・・・早く帰ってらして）",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "あっしが思うに / あの野郎は臆病者の チキン野郎なんですぜ！",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "けっ！人数を頼んでの空威張りたぁ 感心しないねぇ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "そうそう！ / あの小生意気な拳法野郎どもの方が いくらかは男、入ってたでやんす！",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "こうなったらお返しを してやらなければ気がすまねぇ / ・・・オレ様のプライドは がッたがたに傷ついたぜ！",
+"portraits": [
+"2f",
+"2f"
+],
+"en": null
+}
+]
+},
+{
+"id": 2534,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "あっしが思うに"
+},
+{
+"portrait": null,
+"jp": "あの野郎は臆病者の\nチキン野郎なんですぜ！"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "よいのですよ・・・ / お前たちは道場を 守ってくれたのです / 何の恥じることもありません",
+"portraits": [
+null,
+null,
+null
+],
+"en": null
+},
+{
+"jp": "・・・奥様",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "（あなた・・・早く帰ってらして）",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "ちくしょう、たかが盗人に / １００人からの兵隊を 持ち出してくるたぁ / 北京ってのはなんつーとこだい 全くよぉ！",
+"portraits": [
+"2f",
+"2f",
+"2f"
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "けっ！人数を頼んでの空威張りたぁ 感心しないねぇ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "そうそう！ / あの小生意気な拳法野郎どもの方が いくらかは男、入ってたでやんす！",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "こうなったらお返しを してやらなければ気がすまねぇ / ・・・オレ様のプライドは がッたがたに傷ついたぜ！",
+"portraits": [
+"2f",
+"2f"
+],
+"en": null
+},
+{
+"jp": "がっはっはっは ずいぶんご機嫌ナナメじゃのう",
+"portraits": [
+"2a"
+],
+"en": null
+}
+]
+},
+{
+"id": 2535,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "けっ！人数を頼んでの空威張りたぁ\n感心しないねぇ！"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "・・・奥様",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "（あなた・・・早く帰ってらして）",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "ちくしょう、たかが盗人に / １００人からの兵隊を 持ち出してくるたぁ / 北京ってのはなんつーとこだい 全くよぉ！",
+"portraits": [
+"2f",
+"2f",
+"2f"
+],
+"en": null
+},
+{
+"jp": "あっしが思うに / あの野郎は臆病者の チキン野郎なんですぜ！",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "そうそう！ / あの小生意気な拳法野郎どもの方が いくらかは男、入ってたでやんす！",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "こうなったらお返しを してやらなければ気がすまねぇ / ・・・オレ様のプライドは がッたがたに傷ついたぜ！",
+"portraits": [
+"2f",
+"2f"
+],
+"en": null
+},
+{
+"jp": "がっはっはっは ずいぶんご機嫌ナナメじゃのう",
+"portraits": [
+"2a"
+],
+"en": null
+},
+{
+"jp": "なんでぇ！　てめーはよう！ / 用がねぇんなら すみっこで飲んでいた方が / 身のためだぜぇ！",
+"portraits": [
+"2f",
+"2f",
+"2f"
+],
+"en": null
+}
+]
+},
+{
+"id": 2536,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "そうそう！"
+},
+{
+"portrait": null,
+"jp": "あの小生意気な拳法野郎どもの方が\nいくらかは男、入ってたでやんす！"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "（あなた・・・早く帰ってらして）",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "ちくしょう、たかが盗人に / １００人からの兵隊を 持ち出してくるたぁ / 北京ってのはなんつーとこだい 全くよぉ！",
+"portraits": [
+"2f",
+"2f",
+"2f"
+],
+"en": null
+},
+{
+"jp": "あっしが思うに / あの野郎は臆病者の チキン野郎なんですぜ！",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "けっ！人数を頼んでの空威張りたぁ 感心しないねぇ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "こうなったらお返しを してやらなければ気がすまねぇ / ・・・オレ様のプライドは がッたがたに傷ついたぜ！",
+"portraits": [
+"2f",
+"2f"
+],
+"en": null
+},
+{
+"jp": "がっはっはっは ずいぶんご機嫌ナナメじゃのう",
+"portraits": [
+"2a"
+],
+"en": null
+},
+{
+"jp": "なんでぇ！　てめーはよう！ / 用がねぇんなら すみっこで飲んでいた方が / 身のためだぜぇ！",
+"portraits": [
+"2f",
+"2f",
+"2f"
+],
+"en": null
+},
+{
+"jp": "そ・・・そうだぞ！ 親分はこう見えてもなぁ！ / な、な、な、ナイーブなんだぞぅ！",
+"portraits": [
+null,
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2537,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": "2f",
+"jp": "こうなったらお返しを\nしてやらなければ気がすまねぇ"
+},
+{
+"portrait": "2f",
+"jp": "・・・オレ様のプライドは\nがッたがたに傷ついたぜ！"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "ちくしょう、たかが盗人に / １００人からの兵隊を 持ち出してくるたぁ / 北京ってのはなんつーとこだい 全くよぉ！",
+"portraits": [
+"2f",
+"2f",
+"2f"
+],
+"en": null
+},
+{
+"jp": "あっしが思うに / あの野郎は臆病者の チキン野郎なんですぜ！",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "けっ！人数を頼んでの空威張りたぁ 感心しないねぇ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "そうそう！ / あの小生意気な拳法野郎どもの方が いくらかは男、入ってたでやんす！",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "がっはっはっは ずいぶんご機嫌ナナメじゃのう",
+"portraits": [
+"2a"
+],
+"en": null
+},
+{
+"jp": "なんでぇ！　てめーはよう！ / 用がねぇんなら すみっこで飲んでいた方が / 身のためだぜぇ！",
+"portraits": [
+"2f",
+"2f",
+"2f"
+],
+"en": null
+},
+{
+"jp": "そ・・・そうだぞ！ 親分はこう見えてもなぁ！ / な、な、な、ナイーブなんだぞぅ！",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "まあまあ・・・",
+"portraits": [
+"2a"
+],
+"en": null
+}
+]
+},
+{
+"id": 2538,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": "2a",
+"jp": "がっはっはっは\nずいぶんご機嫌ナナメじゃのう"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "あっしが思うに / あの野郎は臆病者の チキン野郎なんですぜ！",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "けっ！人数を頼んでの空威張りたぁ 感心しないねぇ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "そうそう！ / あの小生意気な拳法野郎どもの方が いくらかは男、入ってたでやんす！",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "こうなったらお返しを してやらなければ気がすまねぇ / ・・・オレ様のプライドは がッたがたに傷ついたぜ！",
+"portraits": [
+"2f",
+"2f"
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "なんでぇ！　てめーはよう！ / 用がねぇんなら すみっこで飲んでいた方が / 身のためだぜぇ！",
+"portraits": [
+"2f",
+"2f",
+"2f"
+],
+"en": null
+},
+{
+"jp": "そ・・・そうだぞ！ 親分はこう見えてもなぁ！ / な、な、な、ナイーブなんだぞぅ！",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "まあまあ・・・",
+"portraits": [
+"2a"
+],
+"en": null
+},
+{
+"jp": "んどらっ！ / この方たちに 豚まん１０人前じゃい！ / それと、追加の酒じゃあ！",
+"portraits": [
+"2a",
+"2a",
+"2a"
+],
+"en": null
+}
+]
+},
+{
+"id": 2539,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": "2f",
+"jp": "なんでぇ！　てめーはよう！"
+},
+{
+"portrait": "2f",
+"jp": "用がねぇんなら\nすみっこで飲んでいた方が"
+},
+{
+"portrait": "2f",
+"jp": "身のためだぜぇ！"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "けっ！人数を頼んでの空威張りたぁ 感心しないねぇ！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "そうそう！ / あの小生意気な拳法野郎どもの方が いくらかは男、入ってたでやんす！",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "こうなったらお返しを してやらなければ気がすまねぇ / ・・・オレ様のプライドは がッたがたに傷ついたぜ！",
+"portraits": [
+"2f",
+"2f"
+],
+"en": null
+},
+{
+"jp": "がっはっはっは ずいぶんご機嫌ナナメじゃのう",
+"portraits": [
+"2a"
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "そ・・・そうだぞ！ 親分はこう見えてもなぁ！ / な、な、な、ナイーブなんだぞぅ！",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "まあまあ・・・",
+"portraits": [
+"2a"
+],
+"en": null
+},
+{
+"jp": "んどらっ！ / この方たちに 豚まん１０人前じゃい！ / それと、追加の酒じゃあ！",
+"portraits": [
+"2a",
+"2a",
+"2a"
+],
+"en": null
+},
+{
+"jp": "どうれ・・・ / ワシで良ければ 話を聞かせてもらうが・・・",
+"portraits": [
+"2a",
+"2a"
+],
+"en": null
+}
+]
+},
+{
+"id": 2540,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "そ・・・そうだぞ！\n親分はこう見えてもなぁ！"
+},
+{
+"portrait": null,
+"jp": "な、な、な、ナイーブなんだぞぅ！"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "そうそう！ / あの小生意気な拳法野郎どもの方が いくらかは男、入ってたでやんす！",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "こうなったらお返しを してやらなければ気がすまねぇ / ・・・オレ様のプライドは がッたがたに傷ついたぜ！",
+"portraits": [
+"2f",
+"2f"
+],
+"en": null
+},
+{
+"jp": "がっはっはっは ずいぶんご機嫌ナナメじゃのう",
+"portraits": [
+"2a"
+],
+"en": null
+},
+{
+"jp": "なんでぇ！　てめーはよう！ / 用がねぇんなら すみっこで飲んでいた方が / 身のためだぜぇ！",
+"portraits": [
+"2f",
+"2f",
+"2f"
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "まあまあ・・・",
+"portraits": [
+"2a"
+],
+"en": null
+},
+{
+"jp": "んどらっ！ / この方たちに 豚まん１０人前じゃい！ / それと、追加の酒じゃあ！",
+"portraits": [
+"2a",
+"2a",
+"2a"
+],
+"en": null
+},
+{
+"jp": "どうれ・・・ / ワシで良ければ 話を聞かせてもらうが・・・",
+"portraits": [
+"2a",
+"2a"
+],
+"en": null
+},
+{
+"jp": "け！　オレ様の子分どもがよう / なんとか道場の連中にインネンを 付けられたからよう！",
+"portraits": [
+"2f",
+"2f"
+],
+"en": null
+}
+]
+},
+{
+"id": 2541,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": "2a",
+"jp": "まあまあ・・・"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "こうなったらお返しを してやらなければ気がすまねぇ / ・・・オレ様のプライドは がッたがたに傷ついたぜ！",
+"portraits": [
+"2f",
+"2f"
+],
+"en": null
+},
+{
+"jp": "がっはっはっは ずいぶんご機嫌ナナメじゃのう",
+"portraits": [
+"2a"
+],
+"en": null
+},
+{
+"jp": "なんでぇ！　てめーはよう！ / 用がねぇんなら すみっこで飲んでいた方が / 身のためだぜぇ！",
+"portraits": [
+"2f",
+"2f",
+"2f"
+],
+"en": null
+},
+{
+"jp": "そ・・・そうだぞ！ 親分はこう見えてもなぁ！ / な、な、な、ナイーブなんだぞぅ！",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "んどらっ！ / この方たちに 豚まん１０人前じゃい！ / それと、追加の酒じゃあ！",
+"portraits": [
+"2a",
+"2a",
+"2a"
+],
+"en": null
+},
+{
+"jp": "どうれ・・・ / ワシで良ければ 話を聞かせてもらうが・・・",
+"portraits": [
+"2a",
+"2a"
+],
+"en": null
+},
+{
+"jp": "け！　オレ様の子分どもがよう / なんとか道場の連中にインネンを 付けられたからよう！",
+"portraits": [
+"2f",
+"2f"
+],
+"en": null
+},
+{
+"jp": "抗議に行ったらなんとまあ 兵隊を連れてきやがったのよ！",
+"portraits": [
+"2f"
+],
+"en": null
+}
+]
+},
+{
+"id": 2542,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": "2a",
+"jp": "んどらっ！"
+},
+{
+"portrait": "2a",
+"jp": "この方たちに\n豚まん１０人前じゃい！"
+},
+{
+"portrait": "2a",
+"jp": "それと、追加の酒じゃあ！"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "がっはっはっは ずいぶんご機嫌ナナメじゃのう",
+"portraits": [
+"2a"
+],
+"en": null
+},
+{
+"jp": "なんでぇ！　てめーはよう！ / 用がねぇんなら すみっこで飲んでいた方が / 身のためだぜぇ！",
+"portraits": [
+"2f",
+"2f",
+"2f"
+],
+"en": null
+},
+{
+"jp": "そ・・・そうだぞ！ 親分はこう見えてもなぁ！ / な、な、な、ナイーブなんだぞぅ！",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "まあまあ・・・",
+"portraits": [
+"2a"
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "どうれ・・・ / ワシで良ければ 話を聞かせてもらうが・・・",
+"portraits": [
+"2a",
+"2a"
+],
+"en": null
+},
+{
+"jp": "け！　オレ様の子分どもがよう / なんとか道場の連中にインネンを 付けられたからよう！",
+"portraits": [
+"2f",
+"2f"
+],
+"en": null
+},
+{
+"jp": "抗議に行ったらなんとまあ 兵隊を連れてきやがったのよ！",
+"portraits": [
+"2f"
+],
+"en": null
+},
+{
+"jp": "むふう・・・ なんとか道場に兵隊のぅ・・・",
+"portraits": [
+"2a"
+],
+"en": null
+}
+]
+},
+{
+"id": 2543,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": "2a",
+"jp": "どうれ・・・"
+},
+{
+"portrait": "2a",
+"jp": "ワシで良ければ\n話を聞かせてもらうが・・・"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "なんでぇ！　てめーはよう！ / 用がねぇんなら すみっこで飲んでいた方が / 身のためだぜぇ！",
+"portraits": [
+"2f",
+"2f",
+"2f"
+],
+"en": null
+},
+{
+"jp": "そ・・・そうだぞ！ 親分はこう見えてもなぁ！ / な、な、な、ナイーブなんだぞぅ！",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "まあまあ・・・",
+"portraits": [
+"2a"
+],
+"en": null
+},
+{
+"jp": "んどらっ！ / この方たちに 豚まん１０人前じゃい！ / それと、追加の酒じゃあ！",
+"portraits": [
+"2a",
+"2a",
+"2a"
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "け！　オレ様の子分どもがよう / なんとか道場の連中にインネンを 付けられたからよう！",
+"portraits": [
+"2f",
+"2f"
+],
+"en": null
+},
+{
+"jp": "抗議に行ったらなんとまあ 兵隊を連れてきやがったのよ！",
+"portraits": [
+"2f"
+],
+"en": null
+},
+{
+"jp": "むふう・・・ なんとか道場に兵隊のぅ・・・",
+"portraits": [
+"2a"
+],
+"en": null
+},
+{
+"jp": "まったくよぉ / 話し合いで解決しようってぇ 平和的な態度が全く / 感じられねぇんだからよぅ・・・",
+"portraits": [
+"2f",
+"2f",
+"2f"
+],
+"en": null
+}
+]
+},
+{
+"id": 2544,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": "2f",
+"jp": "け！　オレ様の子分どもがよう"
+},
+{
+"portrait": "2f",
+"jp": "なんとか道場の連中にインネンを\n付けられたからよう！"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "そ・・・そうだぞ！ 親分はこう見えてもなぁ！ / な、な、な、ナイーブなんだぞぅ！",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "まあまあ・・・",
+"portraits": [
+"2a"
+],
+"en": null
+},
+{
+"jp": "んどらっ！ / この方たちに 豚まん１０人前じゃい！ / それと、追加の酒じゃあ！",
+"portraits": [
+"2a",
+"2a",
+"2a"
+],
+"en": null
+},
+{
+"jp": "どうれ・・・ / ワシで良ければ 話を聞かせてもらうが・・・",
+"portraits": [
+"2a",
+"2a"
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "抗議に行ったらなんとまあ 兵隊を連れてきやがったのよ！",
+"portraits": [
+"2f"
+],
+"en": null
+},
+{
+"jp": "むふう・・・ なんとか道場に兵隊のぅ・・・",
+"portraits": [
+"2a"
+],
+"en": null
+},
+{
+"jp": "まったくよぉ / 話し合いで解決しようってぇ 平和的な態度が全く / 感じられねぇんだからよぅ・・・",
+"portraits": [
+"2f",
+"2f",
+"2f"
+],
+"en": null
+},
+{
+"jp": "そうじゃろう、そうじゃろう・・・ / まったく、あの北京って町は 野蛮人の豚汁ばッかりじゃわ！",
+"portraits": [
+"2a",
+"2a"
+],
+"en": null
+}
+]
+},
+{
+"id": 2545,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": "2f",
+"jp": "抗議に行ったらなんとまあ\n兵隊を連れてきやがったのよ！"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "まあまあ・・・",
+"portraits": [
+"2a"
+],
+"en": null
+},
+{
+"jp": "んどらっ！ / この方たちに 豚まん１０人前じゃい！ / それと、追加の酒じゃあ！",
+"portraits": [
+"2a",
+"2a",
+"2a"
+],
+"en": null
+},
+{
+"jp": "どうれ・・・ / ワシで良ければ 話を聞かせてもらうが・・・",
+"portraits": [
+"2a",
+"2a"
+],
+"en": null
+},
+{
+"jp": "け！　オレ様の子分どもがよう / なんとか道場の連中にインネンを 付けられたからよう！",
+"portraits": [
+"2f",
+"2f"
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "むふう・・・ なんとか道場に兵隊のぅ・・・",
+"portraits": [
+"2a"
+],
+"en": null
+},
+{
+"jp": "まったくよぉ / 話し合いで解決しようってぇ 平和的な態度が全く / 感じられねぇんだからよぅ・・・",
+"portraits": [
+"2f",
+"2f",
+"2f"
+],
+"en": null
+},
+{
+"jp": "そうじゃろう、そうじゃろう・・・ / まったく、あの北京って町は 野蛮人の豚汁ばッかりじゃわ！",
+"portraits": [
+"2a",
+"2a"
+],
+"en": null
+},
+{
+"jp": "だらっ！ / ギョーザも追加じゃあああ！ ５０人分ぶわっとな！",
+"portraits": [
+"2a",
+"2a"
+],
+"en": null
+}
+]
+},
+{
+"id": 2546,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": "2a",
+"jp": "むふう・・・\nなんとか道場に兵隊のぅ・・・"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "んどらっ！ / この方たちに 豚まん１０人前じゃい！ / それと、追加の酒じゃあ！",
+"portraits": [
+"2a",
+"2a",
+"2a"
+],
+"en": null
+},
+{
+"jp": "どうれ・・・ / ワシで良ければ 話を聞かせてもらうが・・・",
+"portraits": [
+"2a",
+"2a"
+],
+"en": null
+},
+{
+"jp": "け！　オレ様の子分どもがよう / なんとか道場の連中にインネンを 付けられたからよう！",
+"portraits": [
+"2f",
+"2f"
+],
+"en": null
+},
+{
+"jp": "抗議に行ったらなんとまあ 兵隊を連れてきやがったのよ！",
+"portraits": [
+"2f"
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "まったくよぉ / 話し合いで解決しようってぇ 平和的な態度が全く / 感じられねぇんだからよぅ・・・",
+"portraits": [
+"2f",
+"2f",
+"2f"
+],
+"en": null
+},
+{
+"jp": "そうじゃろう、そうじゃろう・・・ / まったく、あの北京って町は 野蛮人の豚汁ばッかりじゃわ！",
+"portraits": [
+"2a",
+"2a"
+],
+"en": null
+},
+{
+"jp": "だらっ！ / ギョーザも追加じゃあああ！ ５０人分ぶわっとな！",
+"portraits": [
+"2a",
+"2a"
+],
+"en": null
+},
+{
+"jp": "ＧＦ・・・ あんた、意外と話せるねぇ・・・ / なんか、気に入ったぜ",
+"portraits": [
+"2e",
+"2e"
+],
+"en": null
+}
+]
+},
+{
+"id": 2547,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": "2f",
+"jp": "まったくよぉ"
+},
+{
+"portrait": "2f",
+"jp": "話し合いで解決しようってぇ\n平和的な態度が全く"
+},
+{
+"portrait": "2f",
+"jp": "感じられねぇんだからよぅ・・・"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "どうれ・・・ / ワシで良ければ 話を聞かせてもらうが・・・",
+"portraits": [
+"2a",
+"2a"
+],
+"en": null
+},
+{
+"jp": "け！　オレ様の子分どもがよう / なんとか道場の連中にインネンを 付けられたからよう！",
+"portraits": [
+"2f",
+"2f"
+],
+"en": null
+},
+{
+"jp": "抗議に行ったらなんとまあ 兵隊を連れてきやがったのよ！",
+"portraits": [
+"2f"
+],
+"en": null
+},
+{
+"jp": "むふう・・・ なんとか道場に兵隊のぅ・・・",
+"portraits": [
+"2a"
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "そうじゃろう、そうじゃろう・・・ / まったく、あの北京って町は 野蛮人の豚汁ばッかりじゃわ！",
+"portraits": [
+"2a",
+"2a"
+],
+"en": null
+},
+{
+"jp": "だらっ！ / ギョーザも追加じゃあああ！ ５０人分ぶわっとな！",
+"portraits": [
+"2a",
+"2a"
+],
+"en": null
+},
+{
+"jp": "ＧＦ・・・ あんた、意外と話せるねぇ・・・ / なんか、気に入ったぜ",
+"portraits": [
+"2e",
+"2e"
+],
+"en": null
+},
+{
+"jp": "がははは！ / 実を言うとワシもあンたが 気に入ってな！",
+"portraits": [
+"2a",
+"2a"
+],
+"en": null
+}
+]
+},
+{
+"id": 2548,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": "2a",
+"jp": "そうじゃろう、そうじゃろう・・・"
+},
+{
+"portrait": "2a",
+"jp": "まったく、あの北京って町は\n野蛮人の豚汁ばッかりじゃわ！"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "け！　オレ様の子分どもがよう / なんとか道場の連中にインネンを 付けられたからよう！",
+"portraits": [
+"2f",
+"2f"
+],
+"en": null
+},
+{
+"jp": "抗議に行ったらなんとまあ 兵隊を連れてきやがったのよ！",
+"portraits": [
+"2f"
+],
+"en": null
+},
+{
+"jp": "むふう・・・ なんとか道場に兵隊のぅ・・・",
+"portraits": [
+"2a"
+],
+"en": null
+},
+{
+"jp": "まったくよぉ / 話し合いで解決しようってぇ 平和的な態度が全く / 感じられねぇんだからよぅ・・・",
+"portraits": [
+"2f",
+"2f",
+"2f"
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "だらっ！ / ギョーザも追加じゃあああ！ ５０人分ぶわっとな！",
+"portraits": [
+"2a",
+"2a"
+],
+"en": null
+},
+{
+"jp": "ＧＦ・・・ あんた、意外と話せるねぇ・・・ / なんか、気に入ったぜ",
+"portraits": [
+"2e",
+"2e"
+],
+"en": null
+},
+{
+"jp": "がははは！ / 実を言うとワシもあンたが 気に入ってな！",
+"portraits": [
+"2a",
+"2a"
+],
+"en": null
+},
+{
+"jp": "どうじゃい、あンただけに 耳寄りな話を・・・",
+"portraits": [
+"2a"
+],
+"en": null
+}
+]
+},
+{
+"id": 2549,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": "2a",
+"jp": "だらっ！"
+},
+{
+"portrait": "2a",
+"jp": "ギョーザも追加じゃあああ！\n５０人分ぶわっとな！"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "抗議に行ったらなんとまあ 兵隊を連れてきやがったのよ！",
+"portraits": [
+"2f"
+],
+"en": null
+},
+{
+"jp": "むふう・・・ なんとか道場に兵隊のぅ・・・",
+"portraits": [
+"2a"
+],
+"en": null
+},
+{
+"jp": "まったくよぉ / 話し合いで解決しようってぇ 平和的な態度が全く / 感じられねぇんだからよぅ・・・",
+"portraits": [
+"2f",
+"2f",
+"2f"
+],
+"en": null
+},
+{
+"jp": "そうじゃろう、そうじゃろう・・・ / まったく、あの北京って町は 野蛮人の豚汁ばッかりじゃわ！",
+"portraits": [
+"2a",
+"2a"
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "ＧＦ・・・ あんた、意外と話せるねぇ・・・ / なんか、気に入ったぜ",
+"portraits": [
+"2e",
+"2e"
+],
+"en": null
+},
+{
+"jp": "がははは！ / 実を言うとワシもあンたが 気に入ってな！",
+"portraits": [
+"2a",
+"2a"
+],
+"en": null
+},
+{
+"jp": "どうじゃい、あンただけに 耳寄りな話を・・・",
+"portraits": [
+"2a"
+],
+"en": null
+},
+{
+"jp": "いや、でものゥ・・・",
+"portraits": [
+"2a"
+],
+"en": null
+}
+]
+},
+{
+"id": 2550,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": "2e",
+"jp": "ＧＦ・・・\nあんた、意外と話せるねぇ・・・"
+},
+{
+"portrait": "2e",
+"jp": "なんか、気に入ったぜ"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "むふう・・・ なんとか道場に兵隊のぅ・・・",
+"portraits": [
+"2a"
+],
+"en": null
+},
+{
+"jp": "まったくよぉ / 話し合いで解決しようってぇ 平和的な態度が全く / 感じられねぇんだからよぅ・・・",
+"portraits": [
+"2f",
+"2f",
+"2f"
+],
+"en": null
+},
+{
+"jp": "そうじゃろう、そうじゃろう・・・ / まったく、あの北京って町は 野蛮人の豚汁ばッかりじゃわ！",
+"portraits": [
+"2a",
+"2a"
+],
+"en": null
+},
+{
+"jp": "だらっ！ / ギョーザも追加じゃあああ！ ５０人分ぶわっとな！",
+"portraits": [
+"2a",
+"2a"
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "がははは！ / 実を言うとワシもあンたが 気に入ってな！",
+"portraits": [
+"2a",
+"2a"
+],
+"en": null
+},
+{
+"jp": "どうじゃい、あンただけに 耳寄りな話を・・・",
+"portraits": [
+"2a"
+],
+"en": null
+},
+{
+"jp": "いや、でものゥ・・・",
+"portraits": [
+"2a"
+],
+"en": null
+},
+{
+"jp": "な・・・なんだよぉ・・・ じらすなよ・・・おい・・・",
+"portraits": [
+"2e"
+],
+"en": null
+}
+]
+},
+{
+"id": 2551,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": "2a",
+"jp": "がははは！"
+},
+{
+"portrait": "2a",
+"jp": "実を言うとワシもあンたが\n気に入ってな！"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "まったくよぉ / 話し合いで解決しようってぇ 平和的な態度が全く / 感じられねぇんだからよぅ・・・",
+"portraits": [
+"2f",
+"2f",
+"2f"
+],
+"en": null
+},
+{
+"jp": "そうじゃろう、そうじゃろう・・・ / まったく、あの北京って町は 野蛮人の豚汁ばッかりじゃわ！",
+"portraits": [
+"2a",
+"2a"
+],
+"en": null
+},
+{
+"jp": "だらっ！ / ギョーザも追加じゃあああ！ ５０人分ぶわっとな！",
+"portraits": [
+"2a",
+"2a"
+],
+"en": null
+},
+{
+"jp": "ＧＦ・・・ あんた、意外と話せるねぇ・・・ / なんか、気に入ったぜ",
+"portraits": [
+"2e",
+"2e"
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "どうじゃい、あンただけに 耳寄りな話を・・・",
+"portraits": [
+"2a"
+],
+"en": null
+},
+{
+"jp": "いや、でものゥ・・・",
+"portraits": [
+"2a"
+],
+"en": null
+},
+{
+"jp": "な・・・なんだよぉ・・・ じらすなよ・・・おい・・・",
+"portraits": [
+"2e"
+],
+"en": null
+},
+{
+"jp": "うーん、あンたに迷惑がかかると いかんしのゥ・・・",
+"portraits": [
+"2a"
+],
+"en": null
+}
+]
+},
+{
+"id": 2552,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": "2a",
+"jp": "どうじゃい、あンただけに\n耳寄りな話を・・・"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "そうじゃろう、そうじゃろう・・・ / まったく、あの北京って町は 野蛮人の豚汁ばッかりじゃわ！",
+"portraits": [
+"2a",
+"2a"
+],
+"en": null
+},
+{
+"jp": "だらっ！ / ギョーザも追加じゃあああ！ ５０人分ぶわっとな！",
+"portraits": [
+"2a",
+"2a"
+],
+"en": null
+},
+{
+"jp": "ＧＦ・・・ あんた、意外と話せるねぇ・・・ / なんか、気に入ったぜ",
+"portraits": [
+"2e",
+"2e"
+],
+"en": null
+},
+{
+"jp": "がははは！ / 実を言うとワシもあンたが 気に入ってな！",
+"portraits": [
+"2a",
+"2a"
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "いや、でものゥ・・・",
+"portraits": [
+"2a"
+],
+"en": null
+},
+{
+"jp": "な・・・なんだよぉ・・・ じらすなよ・・・おい・・・",
+"portraits": [
+"2e"
+],
+"en": null
+},
+{
+"jp": "うーん、あンたに迷惑がかかると いかんしのゥ・・・",
+"portraits": [
+"2a"
+],
+"en": null
+},
+{
+"jp": "い、いいってことよ / オレとあんたの仲じゃねえか ・・・な、な？",
+"portraits": [
+"2e",
+"2e"
+],
+"en": null
+}
+]
+},
+{
+"id": 2553,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": "2a",
+"jp": "いや、でものゥ・・・"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "だらっ！ / ギョーザも追加じゃあああ！ ５０人分ぶわっとな！",
+"portraits": [
+"2a",
+"2a"
+],
+"en": null
+},
+{
+"jp": "ＧＦ・・・ あんた、意外と話せるねぇ・・・ / なんか、気に入ったぜ",
+"portraits": [
+"2e",
+"2e"
+],
+"en": null
+},
+{
+"jp": "がははは！ / 実を言うとワシもあンたが 気に入ってな！",
+"portraits": [
+"2a",
+"2a"
+],
+"en": null
+},
+{
+"jp": "どうじゃい、あンただけに 耳寄りな話を・・・",
+"portraits": [
+"2a"
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "な・・・なんだよぉ・・・ じらすなよ・・・おい・・・",
+"portraits": [
+"2e"
+],
+"en": null
+},
+{
+"jp": "うーん、あンたに迷惑がかかると いかんしのゥ・・・",
+"portraits": [
+"2a"
+],
+"en": null
+},
+{
+"jp": "い、いいってことよ / オレとあんたの仲じゃねえか ・・・な、な？",
+"portraits": [
+"2e",
+"2e"
+],
+"en": null
+},
+{
+"jp": "・・・北京皇帝の宝物に 興味はないか？",
+"portraits": [
+"2a"
+],
+"en": null
+}
+]
+},
+{
+"id": 2554,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": "2e",
+"jp": "な・・・なんだよぉ・・・\nじらすなよ・・・おい・・・"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "ＧＦ・・・ あんた、意外と話せるねぇ・・・ / なんか、気に入ったぜ",
+"portraits": [
+"2e",
+"2e"
+],
+"en": null
+},
+{
+"jp": "がははは！ / 実を言うとワシもあンたが 気に入ってな！",
+"portraits": [
+"2a",
+"2a"
+],
+"en": null
+},
+{
+"jp": "どうじゃい、あンただけに 耳寄りな話を・・・",
+"portraits": [
+"2a"
+],
+"en": null
+},
+{
+"jp": "いや、でものゥ・・・",
+"portraits": [
+"2a"
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "うーん、あンたに迷惑がかかると いかんしのゥ・・・",
+"portraits": [
+"2a"
+],
+"en": null
+},
+{
+"jp": "い、いいってことよ / オレとあんたの仲じゃねえか ・・・な、な？",
+"portraits": [
+"2e",
+"2e"
+],
+"en": null
+},
+{
+"jp": "・・・北京皇帝の宝物に 興味はないか？",
+"portraits": [
+"2a"
+],
+"en": null
+},
+{
+"jp": "うおお、あるある！ あるぜぇ！ / おれたちゃあお宝に 目がなくてよぉ・・・ＧＦＦ",
+"portraits": [
+"2e",
+"2e"
+],
+"en": null
+}
+]
+},
+{
+"id": 2555,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": "2a",
+"jp": "うーん、あンたに迷惑がかかると\nいかんしのゥ・・・"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "がははは！ / 実を言うとワシもあンたが 気に入ってな！",
+"portraits": [
+"2a",
+"2a"
+],
+"en": null
+},
+{
+"jp": "どうじゃい、あンただけに 耳寄りな話を・・・",
+"portraits": [
+"2a"
+],
+"en": null
+},
+{
+"jp": "いや、でものゥ・・・",
+"portraits": [
+"2a"
+],
+"en": null
+},
+{
+"jp": "な・・・なんだよぉ・・・ じらすなよ・・・おい・・・",
+"portraits": [
+"2e"
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "い、いいってことよ / オレとあんたの仲じゃねえか ・・・な、な？",
+"portraits": [
+"2e",
+"2e"
+],
+"en": null
+},
+{
+"jp": "・・・北京皇帝の宝物に 興味はないか？",
+"portraits": [
+"2a"
+],
+"en": null
+},
+{
+"jp": "うおお、あるある！ あるぜぇ！ / おれたちゃあお宝に 目がなくてよぉ・・・ＧＦＦ",
+"portraits": [
+"2e",
+"2e"
+],
+"en": null
+},
+{
+"jp": "わーい、お宝、お宝！",
+"portraits": [
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2556,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": "2e",
+"jp": "い、いいってことよ"
+},
+{
+"portrait": "2e",
+"jp": "オレとあんたの仲じゃねえか\n・・・な、な？"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "どうじゃい、あンただけに 耳寄りな話を・・・",
+"portraits": [
+"2a"
+],
+"en": null
+},
+{
+"jp": "いや、でものゥ・・・",
+"portraits": [
+"2a"
+],
+"en": null
+},
+{
+"jp": "な・・・なんだよぉ・・・ じらすなよ・・・おい・・・",
+"portraits": [
+"2e"
+],
+"en": null
+},
+{
+"jp": "うーん、あンたに迷惑がかかると いかんしのゥ・・・",
+"portraits": [
+"2a"
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "・・・北京皇帝の宝物に 興味はないか？",
+"portraits": [
+"2a"
+],
+"en": null
+},
+{
+"jp": "うおお、あるある！ あるぜぇ！ / おれたちゃあお宝に 目がなくてよぉ・・・ＧＦＦ",
+"portraits": [
+"2e",
+"2e"
+],
+"en": null
+},
+{
+"jp": "わーい、お宝、お宝！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "実はじゃなぁ・・・ / 北京のめぼしいお宝は ほとんど残っとらんのじゃわ / これが！",
+"portraits": [
+"2a",
+"2a",
+"2a"
+],
+"en": null
+}
+]
+},
+{
+"id": 2557,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": "2a",
+"jp": "・・・北京皇帝の宝物に\n興味はないか？"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "いや、でものゥ・・・",
+"portraits": [
+"2a"
+],
+"en": null
+},
+{
+"jp": "な・・・なんだよぉ・・・ じらすなよ・・・おい・・・",
+"portraits": [
+"2e"
+],
+"en": null
+},
+{
+"jp": "うーん、あンたに迷惑がかかると いかんしのゥ・・・",
+"portraits": [
+"2a"
+],
+"en": null
+},
+{
+"jp": "い、いいってことよ / オレとあんたの仲じゃねえか ・・・な、な？",
+"portraits": [
+"2e",
+"2e"
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "うおお、あるある！ あるぜぇ！ / おれたちゃあお宝に 目がなくてよぉ・・・ＧＦＦ",
+"portraits": [
+"2e",
+"2e"
+],
+"en": null
+},
+{
+"jp": "わーい、お宝、お宝！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "実はじゃなぁ・・・ / 北京のめぼしいお宝は ほとんど残っとらんのじゃわ / これが！",
+"portraits": [
+"2a",
+"2a",
+"2a"
+],
+"en": null
+},
+{
+"jp": "ここだけの話じゃが 前の皇帝がぶわーっと / 派手に使ってしもうてな・・・",
+"portraits": [
+"2a",
+"2a"
+],
+"en": null
+}
+]
+},
+{
+"id": 2558,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": "2e",
+"jp": "うおお、あるある！\nあるぜぇ！"
+},
+{
+"portrait": "2e",
+"jp": "おれたちゃあお宝に\n目がなくてよぉ・・・ＧＦＦ"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "な・・・なんだよぉ・・・ じらすなよ・・・おい・・・",
+"portraits": [
+"2e"
+],
+"en": null
+},
+{
+"jp": "うーん、あンたに迷惑がかかると いかんしのゥ・・・",
+"portraits": [
+"2a"
+],
+"en": null
+},
+{
+"jp": "い、いいってことよ / オレとあんたの仲じゃねえか ・・・な、な？",
+"portraits": [
+"2e",
+"2e"
+],
+"en": null
+},
+{
+"jp": "・・・北京皇帝の宝物に 興味はないか？",
+"portraits": [
+"2a"
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "わーい、お宝、お宝！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "実はじゃなぁ・・・ / 北京のめぼしいお宝は ほとんど残っとらんのじゃわ / これが！",
+"portraits": [
+"2a",
+"2a",
+"2a"
+],
+"en": null
+},
+{
+"jp": "ここだけの話じゃが 前の皇帝がぶわーっと / 派手に使ってしもうてな・・・",
+"portraits": [
+"2a",
+"2a"
+],
+"en": null
+},
+{
+"jp": "ええ～っ、ホントかよぉ！",
+"portraits": [
+"2f"
+],
+"en": null
+}
+]
+},
+{
+"id": 2559,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "わーい、お宝、お宝！"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "うーん、あンたに迷惑がかかると いかんしのゥ・・・",
+"portraits": [
+"2a"
+],
+"en": null
+},
+{
+"jp": "い、いいってことよ / オレとあんたの仲じゃねえか ・・・な、な？",
+"portraits": [
+"2e",
+"2e"
+],
+"en": null
+},
+{
+"jp": "・・・北京皇帝の宝物に 興味はないか？",
+"portraits": [
+"2a"
+],
+"en": null
+},
+{
+"jp": "うおお、あるある！ あるぜぇ！ / おれたちゃあお宝に 目がなくてよぉ・・・ＧＦＦ",
+"portraits": [
+"2e",
+"2e"
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "実はじゃなぁ・・・ / 北京のめぼしいお宝は ほとんど残っとらんのじゃわ / これが！",
+"portraits": [
+"2a",
+"2a",
+"2a"
+],
+"en": null
+},
+{
+"jp": "ここだけの話じゃが 前の皇帝がぶわーっと / 派手に使ってしもうてな・・・",
+"portraits": [
+"2a",
+"2a"
+],
+"en": null
+},
+{
+"jp": "ええ～っ、ホントかよぉ！",
+"portraits": [
+"2f"
+],
+"en": null
+},
+{
+"jp": "ぐわッと稼ぐなら西の方・・・",
+"portraits": [
+"2a"
+],
+"en": null
+}
+]
+},
+{
+"id": 2560,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": "2a",
+"jp": "実はじゃなぁ・・・"
+},
+{
+"portrait": "2a",
+"jp": "北京のめぼしいお宝は\nほとんど残っとらんのじゃわ"
+},
+{
+"portrait": "2a",
+"jp": "これが！"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "い、いいってことよ / オレとあんたの仲じゃねえか ・・・な、な？",
+"portraits": [
+"2e",
+"2e"
+],
+"en": null
+},
+{
+"jp": "・・・北京皇帝の宝物に 興味はないか？",
+"portraits": [
+"2a"
+],
+"en": null
+},
+{
+"jp": "うおお、あるある！ あるぜぇ！ / おれたちゃあお宝に 目がなくてよぉ・・・ＧＦＦ",
+"portraits": [
+"2e",
+"2e"
+],
+"en": null
+},
+{
+"jp": "わーい、お宝、お宝！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "ここだけの話じゃが 前の皇帝がぶわーっと / 派手に使ってしもうてな・・・",
+"portraits": [
+"2a",
+"2a"
+],
+"en": null
+},
+{
+"jp": "ええ～っ、ホントかよぉ！",
+"portraits": [
+"2f"
+],
+"en": null
+},
+{
+"jp": "ぐわッと稼ぐなら西の方・・・",
+"portraits": [
+"2a"
+],
+"en": null
+},
+{
+"jp": "そうそう、パリという街は大きくて エエところじゃった・・・ / 何でも「花の都」と 呼ばれているそうじゃぞ！",
+"portraits": [
+"2a",
+"2a"
+],
+"en": null
+}
+]
+},
+{
+"id": 2561,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": "2a",
+"jp": "ここだけの話じゃが\n前の皇帝がぶわーっと"
+},
+{
+"portrait": "2a",
+"jp": "派手に使ってしもうてな・・・"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "・・・北京皇帝の宝物に 興味はないか？",
+"portraits": [
+"2a"
+],
+"en": null
+},
+{
+"jp": "うおお、あるある！ あるぜぇ！ / おれたちゃあお宝に 目がなくてよぉ・・・ＧＦＦ",
+"portraits": [
+"2e",
+"2e"
+],
+"en": null
+},
+{
+"jp": "わーい、お宝、お宝！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "実はじゃなぁ・・・ / 北京のめぼしいお宝は ほとんど残っとらんのじゃわ / これが！",
+"portraits": [
+"2a",
+"2a",
+"2a"
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "ええ～っ、ホントかよぉ！",
+"portraits": [
+"2f"
+],
+"en": null
+},
+{
+"jp": "ぐわッと稼ぐなら西の方・・・",
+"portraits": [
+"2a"
+],
+"en": null
+},
+{
+"jp": "そうそう、パリという街は大きくて エエところじゃった・・・ / 何でも「花の都」と 呼ばれているそうじゃぞ！",
+"portraits": [
+"2a",
+"2a"
+],
+"en": null
+},
+{
+"jp": "花の都・・・パリかぁ・・・",
+"portraits": [
+"2e"
+],
+"en": null
+}
+]
+},
+{
+"id": 2562,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": "2f",
+"jp": "ええ～っ、ホントかよぉ！"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "うおお、あるある！ あるぜぇ！ / おれたちゃあお宝に 目がなくてよぉ・・・ＧＦＦ",
+"portraits": [
+"2e",
+"2e"
+],
+"en": null
+},
+{
+"jp": "わーい、お宝、お宝！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "実はじゃなぁ・・・ / 北京のめぼしいお宝は ほとんど残っとらんのじゃわ / これが！",
+"portraits": [
+"2a",
+"2a",
+"2a"
+],
+"en": null
+},
+{
+"jp": "ここだけの話じゃが 前の皇帝がぶわーっと / 派手に使ってしもうてな・・・",
+"portraits": [
+"2a",
+"2a"
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "ぐわッと稼ぐなら西の方・・・",
+"portraits": [
+"2a"
+],
+"en": null
+},
+{
+"jp": "そうそう、パリという街は大きくて エエところじゃった・・・ / 何でも「花の都」と 呼ばれているそうじゃぞ！",
+"portraits": [
+"2a",
+"2a"
+],
+"en": null
+},
+{
+"jp": "花の都・・・パリかぁ・・・",
+"portraits": [
+"2e"
+],
+"en": null
+},
+{
+"jp": "パリかぁ・・・",
+"portraits": [
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2563,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": "2a",
+"jp": "ぐわッと稼ぐなら西の方・・・"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "わーい、お宝、お宝！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "実はじゃなぁ・・・ / 北京のめぼしいお宝は ほとんど残っとらんのじゃわ / これが！",
+"portraits": [
+"2a",
+"2a",
+"2a"
+],
+"en": null
+},
+{
+"jp": "ここだけの話じゃが 前の皇帝がぶわーっと / 派手に使ってしもうてな・・・",
+"portraits": [
+"2a",
+"2a"
+],
+"en": null
+},
+{
+"jp": "ええ～っ、ホントかよぉ！",
+"portraits": [
+"2f"
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "そうそう、パリという街は大きくて エエところじゃった・・・ / 何でも「花の都」と 呼ばれているそうじゃぞ！",
+"portraits": [
+"2a",
+"2a"
+],
+"en": null
+},
+{
+"jp": "花の都・・・パリかぁ・・・",
+"portraits": [
+"2e"
+],
+"en": null
+},
+{
+"jp": "パリかぁ・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "い～い響きでやんすねぇ",
+"portraits": [
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2564,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": "2a",
+"jp": "そうそう、パリという街は大きくて\nエエところじゃった・・・"
+},
+{
+"portrait": "2a",
+"jp": "何でも「花の都」と\n呼ばれているそうじゃぞ！"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "実はじゃなぁ・・・ / 北京のめぼしいお宝は ほとんど残っとらんのじゃわ / これが！",
+"portraits": [
+"2a",
+"2a",
+"2a"
+],
+"en": null
+},
+{
+"jp": "ここだけの話じゃが 前の皇帝がぶわーっと / 派手に使ってしもうてな・・・",
+"portraits": [
+"2a",
+"2a"
+],
+"en": null
+},
+{
+"jp": "ええ～っ、ホントかよぉ！",
+"portraits": [
+"2f"
+],
+"en": null
+},
+{
+"jp": "ぐわッと稼ぐなら西の方・・・",
+"portraits": [
+"2a"
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "花の都・・・パリかぁ・・・",
+"portraits": [
+"2e"
+],
+"en": null
+},
+{
+"jp": "パリかぁ・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "い～い響きでやんすねぇ",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "ようし！野郎ども！ あんなシケた街とはおさらばだ！ / オレたちの目標は 花の都、パリだぜぃ！",
+"portraits": [
+"2f",
+"2e"
+],
+"en": null
+}
+]
+},
+{
+"id": 2565,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": "2e",
+"jp": "花の都・・・パリかぁ・・・"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "ここだけの話じゃが 前の皇帝がぶわーっと / 派手に使ってしもうてな・・・",
+"portraits": [
+"2a",
+"2a"
+],
+"en": null
+},
+{
+"jp": "ええ～っ、ホントかよぉ！",
+"portraits": [
+"2f"
+],
+"en": null
+},
+{
+"jp": "ぐわッと稼ぐなら西の方・・・",
+"portraits": [
+"2a"
+],
+"en": null
+},
+{
+"jp": "そうそう、パリという街は大きくて エエところじゃった・・・ / 何でも「花の都」と 呼ばれているそうじゃぞ！",
+"portraits": [
+"2a",
+"2a"
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "パリかぁ・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "い～い響きでやんすねぇ",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "ようし！野郎ども！ あんなシケた街とはおさらばだ！ / オレたちの目標は 花の都、パリだぜぃ！",
+"portraits": [
+"2f",
+"2e"
+],
+"en": null
+},
+{
+"jp": "おおっ！",
+"portraits": [
+null
+],
+"en": "Ah, Lou!"
+}
+]
+},
+{
+"id": 2566,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "パリかぁ・・・"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "ええ～っ、ホントかよぉ！",
+"portraits": [
+"2f"
+],
+"en": null
+},
+{
+"jp": "ぐわッと稼ぐなら西の方・・・",
+"portraits": [
+"2a"
+],
+"en": null
+},
+{
+"jp": "そうそう、パリという街は大きくて エエところじゃった・・・ / 何でも「花の都」と 呼ばれているそうじゃぞ！",
+"portraits": [
+"2a",
+"2a"
+],
+"en": null
+},
+{
+"jp": "花の都・・・パリかぁ・・・",
+"portraits": [
+"2e"
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "い～い響きでやんすねぇ",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "ようし！野郎ども！ あんなシケた街とはおさらばだ！ / オレたちの目標は 花の都、パリだぜぃ！",
+"portraits": [
+"2f",
+"2e"
+],
+"en": null
+},
+{
+"jp": "おおっ！",
+"portraits": [
+null
+],
+"en": "Ah, Lou!"
+},
+{
+"jp": "パパパパ・・・パリって イイでやんす！",
+"portraits": [
+null
+],
+"en": "Umm... Pa... Paris is very nice, isn't it?"
+}
+]
+},
+{
+"id": 2567,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "い～い響きでやんすねぇ"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "ぐわッと稼ぐなら西の方・・・",
+"portraits": [
+"2a"
+],
+"en": null
+},
+{
+"jp": "そうそう、パリという街は大きくて エエところじゃった・・・ / 何でも「花の都」と 呼ばれているそうじゃぞ！",
+"portraits": [
+"2a",
+"2a"
+],
+"en": null
+},
+{
+"jp": "花の都・・・パリかぁ・・・",
+"portraits": [
+"2e"
+],
+"en": null
+},
+{
+"jp": "パリかぁ・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "ようし！野郎ども！ あんなシケた街とはおさらばだ！ / オレたちの目標は 花の都、パリだぜぃ！",
+"portraits": [
+"2f",
+"2e"
+],
+"en": null
+},
+{
+"jp": "おおっ！",
+"portraits": [
+null
+],
+"en": "Ah, Lou!"
+},
+{
+"jp": "パパパパ・・・パリって イイでやんす！",
+"portraits": [
+null
+],
+"en": "Umm... Pa... Paris is very nice, isn't it?"
+},
+{
+"jp": "良いこと聞いたぜ！ んじゃな！オッサン！",
+"portraits": [
+"2e"
+],
+"en": null
+}
+]
+},
+{
+"id": 2568,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": "2f",
+"jp": "ようし！野郎ども！\nあんなシケた街とはおさらばだ！"
+},
+{
+"portrait": "2e",
+"jp": "オレたちの目標は\n花の都、パリだぜぃ！"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "そうそう、パリという街は大きくて エエところじゃった・・・ / 何でも「花の都」と 呼ばれているそうじゃぞ！",
+"portraits": [
+"2a",
+"2a"
+],
+"en": null
+},
+{
+"jp": "花の都・・・パリかぁ・・・",
+"portraits": [
+"2e"
+],
+"en": null
+},
+{
+"jp": "パリかぁ・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "い～い響きでやんすねぇ",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "おおっ！",
+"portraits": [
+null
+],
+"en": "Ah, Lou!"
+},
+{
+"jp": "パパパパ・・・パリって イイでやんす！",
+"portraits": [
+null
+],
+"en": "Umm... Pa... Paris is very nice, isn't it?"
+},
+{
+"jp": "良いこと聞いたぜ！ んじゃな！オッサン！",
+"portraits": [
+"2e"
+],
+"en": null
+},
+{
+"jp": "んじゃな！",
+"portraits": [
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2569,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": "2e",
+"jp": "良いこと聞いたぜ！\nんじゃな！オッサン！"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "い～い響きでやんすねぇ",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "ようし！野郎ども！ あんなシケた街とはおさらばだ！ / オレたちの目標は 花の都、パリだぜぃ！",
+"portraits": [
+"2f",
+"2e"
+],
+"en": null
+},
+{
+"jp": "おおっ！",
+"portraits": [
+null
+],
+"en": "Ah, Lou!"
+},
+{
+"jp": "パパパパ・・・パリって イイでやんす！",
+"portraits": [
+null
+],
+"en": "Umm... Pa... Paris is very nice, isn't it?"
+},
+{
+"self": true
+},
+{
+"jp": "んじゃな！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "王虎様・・・あの人たち / 北京で評判の 悪党一味だと思うんですけど",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "がははは・・・ そのようじゃのゥ",
+"portraits": [
+"2a"
+],
+"en": null
+},
+{
+"jp": "王虎様が、こらしめて 下さればよかったのに・・・",
+"portraits": [
+null
+],
+"en": null
+}
+]
+},
+{
+"id": 2570,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "んじゃな！"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "ようし！野郎ども！ あんなシケた街とはおさらばだ！ / オレたちの目標は 花の都、パリだぜぃ！",
+"portraits": [
+"2f",
+"2e"
+],
+"en": null
+},
+{
+"jp": "おおっ！",
+"portraits": [
+null
+],
+"en": "Ah, Lou!"
+},
+{
+"jp": "パパパパ・・・パリって イイでやんす！",
+"portraits": [
+null
+],
+"en": "Umm... Pa... Paris is very nice, isn't it?"
+},
+{
+"jp": "良いこと聞いたぜ！ んじゃな！オッサン！",
+"portraits": [
+"2e"
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "王虎様・・・あの人たち / 北京で評判の 悪党一味だと思うんですけど",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "がははは・・・ そのようじゃのゥ",
+"portraits": [
+"2a"
+],
+"en": null
+},
+{
+"jp": "王虎様が、こらしめて 下さればよかったのに・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "娘よ、悪党ばらをぶった斬るのは たやすいことだが / ああいう手合いは なかなかにしぶとくての",
+"portraits": [
+"2a",
+"2a"
+],
+"en": null
+}
+]
+},
+{
+"id": 2571,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "王虎様・・・あの人たち"
+},
+{
+"portrait": null,
+"jp": "北京で評判の\n悪党一味だと思うんですけど"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "おおっ！",
+"portraits": [
+null
+],
+"en": "Ah, Lou!"
+},
+{
+"jp": "パパパパ・・・パリって イイでやんす！",
+"portraits": [
+null
+],
+"en": "Umm... Pa... Paris is very nice, isn't it?"
+},
+{
+"jp": "良いこと聞いたぜ！ んじゃな！オッサン！",
+"portraits": [
+"2e"
+],
+"en": null
+},
+{
+"jp": "んじゃな！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "がははは・・・ そのようじゃのゥ",
+"portraits": [
+"2a"
+],
+"en": null
+},
+{
+"jp": "王虎様が、こらしめて 下さればよかったのに・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "娘よ、悪党ばらをぶった斬るのは たやすいことだが / ああいう手合いは なかなかにしぶとくての",
+"portraits": [
+"2a",
+"2a"
+],
+"en": null
+},
+{
+"jp": "退治しても退治しても 豚クソのごとくわき出てきよる",
+"portraits": [
+"2a"
+],
+"en": null
+}
+]
+},
+{
+"id": 2572,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": "2a",
+"jp": "がははは・・・\nそのようじゃのゥ"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "パパパパ・・・パリって イイでやんす！",
+"portraits": [
+null
+],
+"en": "Umm... Pa... Paris is very nice, isn't it?"
+},
+{
+"jp": "良いこと聞いたぜ！ んじゃな！オッサン！",
+"portraits": [
+"2e"
+],
+"en": null
+},
+{
+"jp": "んじゃな！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "王虎様・・・あの人たち / 北京で評判の 悪党一味だと思うんですけど",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "王虎様が、こらしめて 下さればよかったのに・・・",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "娘よ、悪党ばらをぶった斬るのは たやすいことだが / ああいう手合いは なかなかにしぶとくての",
+"portraits": [
+"2a",
+"2a"
+],
+"en": null
+},
+{
+"jp": "退治しても退治しても 豚クソのごとくわき出てきよる",
+"portraits": [
+"2a"
+],
+"en": null
+},
+{
+"jp": "畑を荒らす悪豚は 豚ケツをブチ斬るより / エサを放って 畑から追い出す方が簡単なのじゃ",
+"portraits": [
+"2a",
+"2a"
+],
+"en": null
+}
+]
+},
+{
+"id": 2573,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+{
+"portrait": null,
+"jp": "王虎様が、こらしめて\n下さればよかったのに・・・"
+}
+],
+"choice": null,
+"context": [
+{
+"jp": "良いこと聞いたぜ！ んじゃな！オッサン！",
+"portraits": [
+"2e"
+],
+"en": null
+},
+{
+"jp": "んじゃな！",
+"portraits": [
+null
+],
+"en": null
+},
+{
+"jp": "王虎様・・・あの人たち / 北京で評判の 悪党一味だと思うんですけど",
+"portraits": [
+null,
+null
+],
+"en": null
+},
+{
+"jp": "がははは・・・ そのようじゃのゥ",
+"portraits": [
+"2a"
+],
+"en": null
+},
+{
+"self": true
+},
+{
+"jp": "娘よ、悪党ばらをぶった斬るのは たやすいことだが / ああいう手合いは なかなかにしぶとくての",
+"portraits": [
+"2a",
+"2a"
+],
+"en": null
+},
+{
+"jp": "退治しても退治しても 豚クソのごとくわき出てきよる",
+"portraits": [
+"2a"
+],
+"en": null
+},
+{
+"jp": "畑を荒らす悪豚は 豚ケツをブチ斬るより / エサを放って 畑から追い出す方が簡単なのじゃ",
+"portraits": [
+"2a",
+"2a"
+],
+"en": null
+},
+{
+"jp": "ふーん・・・",
+"portraits": [
+null
+],
+"en": "Hmph."
+}
+]
+}
+]

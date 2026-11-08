@@ -1,0 +1,3343 @@
+[
+{
+"id": 1782,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Brave one, Tam Tam ask too.",
+"Make Cham Cham have fun."
+],
+"jp": "勇者ヨ たむたむカラモ　頼ム / ちゃむちゃむヲ 楽シマセテ　ヤッテクレ",
+"choice": null,
+"context": [
+{
+"ru": "Что ты имеешь в виду?!"
+},
+{
+"self": true
+},
+{
+"ru": "Хм?!"
+}
+]
+},
+{
+"id": 1783,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Oh, I get it! Grandpa, you're so smart!",
+"Hey, hey! Take me with you, Sieger!"
+],
+"jp": "そッかぁ、オンジイ あったまイイ！ / ねえねえ！連れてッてよ！ ズィーガー！",
+"choice": null,
+"context": [
+{
+"ru": "Хм?!"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 1784,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"...I am grateful.",
+"...Very well.",
+"I shall take Cham Cham to see my homeland!"
+],
+"jp": "・・・かたじけない / ・・・分かりました / チャムチャムを 祖国見物に連れていきましょう！",
+"choice": null,
+"context": [
+{
+"ru": "Хм?!"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 1785,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Yaaay! Hooray, hooray!",
+"Lord Quetzalcoatl! Take us there right now!"
+],
+"jp": "わーい！ やッたやッたぁ！ / ケツアルクアトルさまぁ！ さっそく、連れていッてェ！",
+"choice": null,
+"context": [
+{
+"ru": "Хм?!"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 1786,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Thank you, Elder...",
+"Tam Tam! I am in your debt!"
+],
+"jp": "ありがとう、長老・・・ / タムタム！　世話になった！",
+"choice": null,
+"context": [
+{
+"ru": "Хм?!"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 1787,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Not at all... Take good care of Cham Cham."
+],
+"jp": "なんの・・・ チャムチャムをよろしく",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1788,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Brave one, we meet again!"
+],
+"jp": "勇者ヨ マタ会オウ！",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Ч... что за...?!"
+}
+]
+},
+{
+"id": 1789,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Sieger, where are we going?"
+],
+"jp": "ズィーガー どこに行くの？",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Ч... что за...?!"
+}
+]
+},
+{
+"id": 1790,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"To my wife, Victoria!"
+],
+"jp": "我が妻、ビクトリアのところへ！",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Ч... что за...?!"
+}
+]
+},
+{
+"id": 1791,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"O Lord... please protect my husband...",
+"Sieger..."
+],
+"jp": "神よ・・・ わが夫を・・・守りたまえ・・・ / ズィーガー様・・・",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Ч... что за...?!"
+}
+]
+},
+{
+"id": 1792,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"V-Victoria!"
+],
+"jp": "ビ・・・ビクトリア！",
+"choice": null,
+"context": [
+{
+"ru": "Ч... что за...?!"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 1793,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Sieger!"
+],
+"jp": "ズィーガー様！",
+"choice": null,
+"context": [
+{
+"ru": "Ч... что за...?!"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 1794,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"You waited in Paris all this time...",
+"Without even going home, here before the Arc de Triomphe..."
+],
+"jp": "ずっとパリで待っていたのか・・・ / 祖国にも帰らずに ここ凱旋門の前で・・・",
+"choice": null,
+"context": [
+{
+"ru": "Ч... что за...?!"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 1795,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Forgive me, Victoria... It seems I made you worry..."
+],
+"jp": "済まない、ビクトリア・・・ 心配をかけたようだな・・・",
+"choice": null,
+"context": [
+{
+"ru": "Ч... что за...?!"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 1796,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"No, Sieger... I, I am happy just to see you safe,",
+"standing here before me like this..."
+],
+"jp": "いいえ、ズィーガー様・・・ 私は、私はあなたの無事なお姿を / こうして 見ることができただけで・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1797,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Now then, Cham Cham,",
+"before my homeland, let us see Paris first...",
+"Where shall we go first?"
+],
+"jp": "さあて、チャムチャム / 祖国の前に まずパリを見学と行こうか・・・ / まず、どこに行こう？",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1798,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"First things first, I'm hungry! Let's go eat somethin'!"
+],
+"jp": "とりあえず、オナカがすいたよ なンか食べに行こう！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1799,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Hm... Come, Victoria, let us dine at that hotel!"
+],
+"jp": "うむ・・・さあ、ビクトリア 例のホテルで食事といこう！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1800,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Yes, Sieger...",
+"But where in the world have you been all this time?"
+],
+"jp": "はい、ズィーガー様・・・ / でも、今まで一体 どこでどうしてらしたの？",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1801,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"It is a long story...",
+"You see..."
+],
+"jp": "話せば長いことながら・・・ / 実はな・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1802,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Every man has one or two things he cannot abide."
+],
+"jp": "人間、誰でも苦手なものが 一つ二つはあり申す",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Гья-а-а-а-а-а-а!!!!"
+}
+]
+},
+{
+"id": 1803,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Even I, Kyoshiro, the great actor known to all of Edo,",
+"must confess that I have one."
+],
+"jp": "花のお江戸で知らぬものなし この名優狂死郎めにも / 何を隠そう あるのでござる",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Гья-а-а-а-а-а-а!!!!"
+}
+]
+},
+{
+"id": 1804,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"And that is..."
+],
+"jp": "それは・・・",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Гья-а-а-а-а-а-а!!!!"
+}
+]
+},
+{
+"id": 1805,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"What the heck, what the heck!",
+"A grown man actin' so pathetic...",
+"You said you'd be fine..."
+],
+"jp": "なんでえなんでえ！ / 大の男が情けねぇ・・・ / 大丈夫って 言ったじゃねぇか・・・",
+"choice": null,
+"context": [
+{
+"ru": "Гья-а-а-а-а-а-а!!!!"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 1806,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"...F-forgive me..."
+],
+"jp": "・・・す、済まぬ・・・",
+"choice": null,
+"context": [
+{
+"ru": "Гья-а-а-а-а-а-а!!!!"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 1807,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Whimper..."
+],
+"jp": "くぅぅん・・・",
+"choice": null,
+"context": [
+{
+"ru": "Гья-а-а-а-а-а-а!!!!"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 1808,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Kyoshiro, SORRY!",
+"Did Poppy do something?"
+],
+"jp": "狂死郎サン ＳＯＲＲＹね / パピィが、何かしたかな？",
+"choice": null,
+"context": [
+{
+"ru": "Гья-а-а-а-а-а-а!!!!"
+},
+{
+"self": true
+},
+{
+"ru": "Хаомару!"
+}
+]
+},
+{
+"id": 1809,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"N-no, Galford...",
+"Poppy did nothing... Ha, hahahaha..."
+],
+"jp": "い、いえ ガルフォード殿 / パピィ殿は何も・・・ は、はははは・・・",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Хаомару!"
+}
+]
+},
+{
+"id": 1810,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Told ya. You just ain't cut out for this."
+],
+"jp": "だから言ったんだよ おめえじゃ無理だって",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Хаомару!"
+}
+]
+},
+{
+"id": 1811,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Hey, Galford, it ain't too late.",
+"Let's go back to the Samurai Tavern and find somebody else."
+],
+"jp": "おい、ガルフォード 今からでも遅くねぇ / 侍酒場に戻って 別の仲間を見つけようぜ",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Хаомару!"
+}
+]
+},
+{
+"id": 1812,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Kyoshiro knew he was afraid of dogs,",
+"and still said he'd fight alongside me and Poppy!",
+"I can't betray that kind of spirit!"
+],
+"jp": "狂死郎サンは 犬が苦手なのを承知の上で / オレやパピィと 戦ってくれると言った / その志を裏切るわけには いかない！",
+"choice": null,
+"context": [
+{
+"ru": "Хаомару!"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 1813,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Right, Kyoshiro?"
+],
+"jp": "ね、狂死郎サン？",
+"choice": null,
+"context": [
+{
+"ru": "Хаомару!"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 1814,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Ha... hahaha...",
+"Y-yes, quite so, quite so..."
+],
+"jp": "は・・・ははは・・・ / そ、そうじゃ そうじゃよ・・・",
+"choice": null,
+"context": [
+{
+"ru": "Хаомару!"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 1815,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Oh, come off it!"
+],
+"jp": "まぁたまたぁ～っ！",
+"choice": null,
+"context": [
+{
+"ru": "Хаомару!"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 1816,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"You were starin' at Nakoruru the whole time!",
+"You really wanted to go with her, didn't ya?",
+"Huh? Admit it!"
+],
+"jp": "おめぇ、ナコルルの方ばかり 見てたじゃねぇかよ！ / 本当はナコルルと一緒に 行きたかったんだろ？ / えっ？この！",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Ха-ха... ха-ха-ха-ха..."
+}
+]
+},
+{
+"id": 1817,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"NO! NO! What are you saying!"
+],
+"jp": "ＮＯ！ＮＯ！ なんてこと言うんだ！",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Ха-ха... ха-ха-ха-ха..."
+},
+{
+"ru": "А... ладно... Ну что ж..."
+}
+]
+},
+{
+"id": 1818,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"A friendship between men is what counts! That's the path of justice!",
+"I'm going with Kyoshiro! I'll fight!"
+],
+"jp": "お、男同士の友情が大事デス！ それが正義の道ネ！ / オレは狂死郎サンと行くぜ！ 戦うぜ！",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Ха-ха... ха-ха-ха-ха..."
+},
+{
+"ru": "А... ладно... Ну что ж..."
+}
+]
+},
+{
+"id": 1819,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Hey, Kyoshiro, let's go!"
+],
+"jp": "おい、狂死郎、行くぞ！",
+"choice": null,
+"context": [
+{
+"ru": "Ха-ха... ха-ха-ха-ха..."
+},
+{
+"ru": "А... ладно... Ну что ж..."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 1820,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Whimper..."
+],
+"jp": "くうぅぅん・・・",
+"choice": null,
+"context": [
+{
+"ru": "Ха-ха... ха-ха-ха-ха..."
+},
+{
+"ru": "А... ладно... Ну что ж..."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 1821,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Jeez...",
+"And Poppy's so cute, too..."
+],
+"jp": "まったく / こんなに可愛いのにな パピィ・・・",
+"choice": null,
+"context": [
+{
+"ru": "Ха-ха... ха-ха-ха-ха..."
+},
+{
+"ru": "А... ладно... Ну что ж..."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 1822,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"F-forgive me... Poppy..."
+],
+"jp": "す・・・済まぬ・・・ パピィ殿・・・",
+"choice": null,
+"context": [
+{
+"ru": "А... ладно... Ну что ж..."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 1823,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Grrr... I've been waiting. This will be your grave..."
+],
+"jp": "グルル・・・待っていたぞ ここがお前たちの墓場だ・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1824,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Hah... so a demon assassin shows up! We'll send you packing!"
+],
+"jp": "ヌ・・・出たな、魔界の刺客！ 返り討ちにしてやるぜ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1825,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Grrrr..."
+],
+"jp": "グルルル・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1826,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Hey, get back here!"
+],
+"jp": "ち、待ちやがれ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1827,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"You won't get away!"
+],
+"jp": "逃がさないネ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1828,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"W-wait, you two... This may be some kind of trap...",
+"Hm?"
+],
+"jp": "ま、待たぬか、二人とも・・・ これは何かの罠かも・・・ / む？",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1829,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Grrrr..."
+],
+"jp": "グルルル・・・・",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Гья-а-а-а-а-а-а!!!!"
+}
+]
+},
+{
+"id": 1830,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Grr, grrrrrr..."
+],
+"jp": "ガル、ガルルルル・・・・",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Гья-а-а-а-а-а-а!!!!"
+}
+]
+},
+{
+"id": 1831,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"D-d-dogs?"
+],
+"jp": "い・・・い・・・犬ゥ？",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Гья-а-а-а-а-а-а!!!!"
+}
+]
+},
+{
+"id": 1832,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Graaagh!"
+],
+"jp": "グワァァ！",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Гья-а-а-а-а-а-а!!!!"
+}
+]
+},
+{
+"id": 1833,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Gahh!"
+],
+"jp": "ガフゥッ！",
+"choice": null,
+"context": [
+{
+"ru": "Гья-а-а-а-а-а-а!!!!"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 1834,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"D-d-d-dogs! Dogs! Ow! Stop it, let go! Ow!"
+],
+"jp": "い、い、い、犬っ、犬ッ！ 痛い、これッ、離せ、痛いッ！",
+"choice": null,
+"context": [
+{
+"ru": "Гья-а-а-а-а-а-а!!!!"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 1835,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Gyaah! Grr grr!"
+],
+"jp": "グヒャア！ガルガルッ！",
+"choice": null,
+"context": [
+{
+"ru": "Гья-а-а-а-а-а-а!!!!"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 1836,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"At this rate... I'll be torn to pieces..."
+],
+"jp": "こ、このままでは・・・・ かみ殺されるッ・・・",
+"choice": null,
+"context": [
+{
+"ru": "Гья-а-а-а-а-а-а!!!!"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 1837,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Haohmaru!",
+"Galford!",
+"H-h-help meee!"
+],
+"jp": "覇王丸っ！ / ガルフォード殿っ！ / お、おた、お助けぇ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1838,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Grrrr... Kyoshiro..."
+],
+"jp": "グルルル・・・狂死郎よ",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1839,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Nghhh... y-you fiend..."
+],
+"jp": "ぬあああ・・・き、貴様ぁぁあ・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1840,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"I am the demon assassin, Makenga... Grr...",
+"I came all this way just to destroy a dog-hater like you...",
+"Grr, be grateful... Grrrr..."
+],
+"jp": "オレは魔界の刺客 魔犬牙様よ・・・グルル / 犬嫌いの貴様を倒すために わざわざオレ様が来てやった・・・ / グルル、ありがたく思え・・・ グルルル・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1841,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Well? You're so frozen with fear you can't even move..."
+],
+"jp": "どうだ、体がすくんで 動くことすらかなうまい・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1842,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Now, my demon hounds!",
+"This arrogant human who defies Hell...",
+"Devour him!"
+],
+"jp": "さあ、魔犬どもよ！ / 魔界にたてつく 思い上がった人間を / 食い殺してしまえ！",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Ч... что за...?!"
+}
+]
+},
+{
+"id": 1843,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Gyabihyaa!",
+"Gyarururu!"
+],
+"jp": "ギャビヒャア！ / ギャルルガルッ！",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Ч... что за...?!"
+}
+]
+},
+{
+"id": 1844,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"D-damn it... how bitter... how bitterrr!"
+],
+"jp": "お・・・おのれっ・・・ 無念・・・無念じゃあああ",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Ч... что за...?!"
+}
+]
+},
+{
+"id": 1845,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Awoooo!"
+],
+"jp": "わおぉーん！",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Ч... что за...?!"
+}
+]
+},
+{
+"id": 1846,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Yelp!"
+],
+"jp": "ギャワンッ！",
+"choice": null,
+"context": [
+{
+"ru": "Ч... что за...?!"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 1847,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Gyahiiin!"
+],
+"jp": "ギャヒヒィィン！",
+"choice": null,
+"context": [
+{
+"ru": "Ч... что за...?!"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 1848,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Ohh... Poppy!"
+],
+"jp": "おおっ・・・ パピィ殿っ！",
+"choice": null,
+"context": [
+{
+"ru": "Ч... что за...?!"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 1849,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Grrrrrr...!"
+],
+"jp": "がるるるるっ・・・！",
+"choice": null,
+"context": [
+{
+"ru": "Ч... что за...?!"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 1850,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Fool... You forget your canine pride to protect a human...",
+"Very well, go to Hell along with Kyoshiro!"
+],
+"jp": "おのれ・・・犬の誇りを忘れ 人間をかばい立てしよるか・・・ / よかろう、狂死郎共々 地獄にゆけい！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1851,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Hell Fang Wolf Slash!"
+],
+"jp": "獄牙飛狼斬！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1852,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Kyaiiin!"
+],
+"jp": "きゃうぅぅん！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1853,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"P-Poppy!"
+],
+"jp": "パ、パピィ殿ッ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1854,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"...Ohh, you shielded me... me...",
+"Eh?"
+],
+"jp": "・・・おおお ワシを、ワシをかばって・・・ / ややっ？",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1855,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"What clear eyes...",
+"Till now I saw nothing but fearsome fangs...",
+"I never knew a dog's eyes could be so beautiful..."
+],
+"jp": "何というすんだ瞳じゃ・・・ / 今まで恐ろしい牙しか 目に入らなんだが・・・ / 犬の瞳が これほどまでに美しいとは・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1856,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Grrr... foolish mutt.",
+"Throwing yourself away for a selfish human... Well, no matter..."
+],
+"jp": "グルルル・・・馬鹿なヤツよ / 身勝手な人間なんぞの身代わりに なるとはな・・・まあよい・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1857,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"You dare insult Poppy?!"
+],
+"jp": "貴様・・・ パピィ殿をブジョクするかぁ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1858,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"As a fellow canine, I grant you this last mercy!",
+"I'll put you out of your misery, along with Kyoshiro...",
+"Hell Fang Wolf Slash!"
+],
+"jp": "同族としてせめてもの慈悲！ / 狂死郎共々 すぐ楽にしてやる・・・ / 獄牙飛狼斬！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1859,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Hiiii-yaaaah!"
+],
+"jp": "そ～うりャァ～ッ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1860,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Gwah! Y-you...!"
+],
+"jp": "ぐわっ！き・・・貴様・・・っ",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Будь ты проклят..."
+}
+]
+},
+{
+"id": 1861,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"You shouldn't be able to move! Aren't you afraid of dogs?!"
+],
+"jp": "動けぬはずを！ 犬が怖くないのか！",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Будь ты проклят..."
+}
+]
+},
+{
+"id": 1862,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Hmph, Poppy's gentle eyes",
+"have brought Kyoshiro back to his senses..."
+],
+"jp": "ふん、パピィ殿の優しい目が / 狂死郎の正気を 取り戻してくれたのよ・・・",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Будь ты проклят..."
+}
+]
+},
+{
+"id": 1863,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"It's mad dogs like you",
+"that keep dogs and men from becoming friends!",
+"Know this as Heaven's judgment!"
+],
+"jp": "貴様のような狂犬がおるから / 犬と人との友情が 生まれぬのじゃあ！！ / これぞ天罰と知れ～い！",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Будь ты проклят..."
+}
+]
+},
+{
+"id": 1864,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"You hardly deserve to see it, but",
+"Kyoshiro shall show you his finest dance!",
+"Prepare yourself!"
+],
+"jp": "貴様ごときに披露するのは もったいないが / 狂死郎、極上の舞を 見せてくれるわ！ / 覚悟せぇ～い！",
+"choice": null,
+"context": [
+{
+"ru": "Будь ты проклят..."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 1865,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Yo-ho! Kaiten Kyokubu!"
+],
+"jp": "いよっ！　回天曲舞～ゥウ！！",
+"choice": null,
+"context": [
+{
+"ru": "Будь ты проклят..."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 1866,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Gyawawan!"
+],
+"jp": "ギャワワン！",
+"choice": null,
+"context": [
+{
+"ru": "Будь ты проклят..."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 1867,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"And... that's a wraaap!"
+],
+"jp": "あ、一丁上～が～りィ～っ！！",
+"choice": null,
+"context": [
+{
+"ru": "Будь ты проклят..."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 1868,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Now, Poppy, let me tend to your wounds right away."
+],
+"jp": "さあ、パピィ殿 すぐに手当して差し上げるぞぃ",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1869,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Sorry about that, Kyoshiro...",
+"Can't believe I fell for such a simple trap."
+],
+"jp": "すまねぇな、狂死郎・・・ / 俺様としたことが こんな単純な罠に引っかかるたあ",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1870,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"YES, SORRY!"
+],
+"jp": "ＹＥＳ、ＳＯＲＲＹネ",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1871,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Still, picking us off one by one right after we left Edo...",
+"We can't let our guard down from here on."
+],
+"jp": "しかし、江戸を出たとたんに 一人ずつ狙ってくるとは / これから油断できないぜ",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1872,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Anyway, nice work, Kyoshiro."
+],
+"jp": "それにしても ご苦労さんだったな、狂死郎",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1873,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Nay, today's true hero is Poppy."
+],
+"jp": "なんの、今回の功労者は パピィ殿じゃ",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1874,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Poppy seems to like you, Kyoshiro!"
+],
+"jp": "パピィは狂死郎サンが 好きみたいですネ",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1875,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Well, what a star! A real ladykiller, eh?",
+"Heh, so your fear of dogs is finally cured?"
+],
+"jp": "よ、さすがは千両役者 女殺しってとこかね / へへ、これでおめぇの犬嫌いも 晴れて完治したってことかな？",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1876,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Hahaha... a-actually, I still can't..."
+],
+"jp": "ははは・・・ じ、実はまだダメなのじゃ・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1877,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"But a journey of a thousand miles begins with one step.",
+"Before we vanquish the demons, I, Kyoshiro,",
+"shall surely become close friends with Poppy!"
+],
+"jp": "しかし、千里の道も一歩からと申す / 魔物どもを討ち果たすまでには この狂死郎 / なんとかパピィ殿と お近づきになってみせようぞ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1878,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Wow! That's our Kabuki Master Kyoshiro!",
+"Poppy is happy too!"
+],
+"jp": "ワオ！さすがはカブキマスター 狂死郎サンです！ / パピィも喜んでマ～ス！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1879,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Woof!"
+],
+"jp": "わん！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1880,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Gyahi!"
+],
+"jp": "ぎゃひっ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1881,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Good grief... this is gonna be a long trip..."
+],
+"jp": "やれやれ・・・ 先が思いやられるぜ・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1882,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Cham Cham... You must go, no matter what...?"
+],
+"jp": "ちゃむちゃむヨ・・・ ドウシテモ　行クノカ・・・",
+"choice": null,
+"context": [
+{
+"ru": "Там-Та-а-а-а-ам!"
+},
+{
+"self": true
+},
+{
+"ru": "Подожди меня, Там-Там..."
+}
+]
+},
+{
+"id": 1883,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Yup!",
+"Mister Nicotine's gonna treat me to bananas!"
+],
+"jp": "うン！ / 和狆のおじいちゃンがバナナンを ごちそうしてくれるッて！",
+"choice": null,
+"context": [
+{
+"ru": "Там-Та-а-а-а-ам!"
+},
+{
+"self": true
+},
+{
+"ru": "Подожди меня, Там-Там..."
+}
+]
+},
+{
+"id": 1884,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"I asked Lord Quetzalcoatl about it,",
+"and he said I could go!"
+],
+"jp": "ケツアルクアトルさまに 相談したら / 行ッて来いッて 言ッてくれたンだ！",
+"choice": null,
+"context": [
+{
+"ru": "Там-Та-а-а-а-ам!"
+},
+{
+"self": true
+},
+{
+"ru": "Подожди меня, Там-Там..."
+},
+{
+"ru": "Кто зовет меня?"
+}
+]
+},
+{
+"id": 1885,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"O my great Lord Quetzalcoatl!",
+"Answer call of your warrior, Tam Tam!"
+],
+"jp": "我ガ　偉大ナル けつあるくあとる神ヨ！ / アナタノ　戦士 たむたむノ　呼ビカケニ　答エヨ！",
+"choice": null,
+"context": [
+{
+"ru": "Подожди меня, Там-Там..."
+},
+{
+"self": true
+},
+{
+"ru": "Кто зовет меня?"
+}
+]
+},
+{
+"id": 1886,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"It is warrior Tam Tam!"
+],
+"jp": "戦士たむたむ！",
+"choice": null,
+"context": [
+{
+"ru": "Подожди меня, Там-Там..."
+},
+{
+"ru": "Кто зовет меня?"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 1887,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Tam Tam... What brings you here this night?"
+],
+"jp": "タムタムか・・・ 今宵は何用か？",
+"choice": null,
+"context": [
+{
+"ru": "Подожди меня, Там-Там..."
+},
+{
+"ru": "Кто зовет меня?"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 1888,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"My sister Cham Cham",
+"go off again to faraway land..."
+],
+"jp": "我ガ妹 ちゃむちゃむガ / マタ　遠イ国ヘ 旅立トウト　シテイル・・・",
+"choice": null,
+"context": [
+{
+"ru": "Кто зовет меня?"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 1889,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Lord Quetzalcoatl,",
+"Tam Tam not think great one like you",
+"use power just for bananas..."
+],
+"jp": "けつあるくあとる神ヨ / ばななんノ　タメニ 偉大ナル　アナタガ / オ力ヲ　オ使イニ　ナルトハ 思エナイ・・・",
+"choice": null,
+"context": [
+{
+"ru": "Кто зовет меня?"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 1890,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"My sister go to fight again, yes?"
+],
+"jp": "我ガ妹ハ　マタ戦イニ オモムイタノ　デハ　ナイカ？",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1891,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Warrior Tam Tam,",
+"it is as you say."
+],
+"jp": "戦士タムタムよ / 汝の言うとおりである",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1892,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"...My god,",
+"why Cham Cham?",
+"Send my sister into dangerous fight again...",
+"...Tam Tam, it hurts."
+],
+"jp": "・・・我ガ神ヨ / ナゼ　ちゃむちゃむ　ナノカ？ / 我ガ妹ヲ　再ビ　危険ナ　戦イニ カリ出スノハ・・・ / ・・・たむたむ、ツライ",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1893,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Oh, great Lord Quetzalcoatl...",
+"Let me fight in place of Cham Cham...",
+"Please, hear my wish..."
+],
+"jp": "オオ、偉大ナル けつあるくあとる神ヨ・・・ / ちゃむちゃむノ　代ワリニ 我ヲシテ　戦イニ・・・ / 我ガ願イヲ　ドウカ 聞キ入レタマエ・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1894,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Warrior Tam Tam,",
+"that wish cannot be granted."
+],
+"jp": "戦士タムタムよ / その願いは聞き入れられぬ",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1895,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Oh! My strength...",
+"You say it no use to you...?"
+],
+"jp": "オオ！　我ガ力・・・ / アナタノ　オ役ニ　立テヌト 言ワレルカ・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1896,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"It is not so...",
+"This trial is Cham Cham's trial.",
+"It is Cham Cham's battle..."
+],
+"jp": "さに非ず・・・ / 今回の試練は チャムチャムの試練なり / チャムチャムの戦いなり・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1897,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Cham Cham's...?"
+],
+"jp": "ちゃむちゃむノ・・・？",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1898,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Indeed.",
+"Warrior Tam Tam, this is not a battle to defeat foes.",
+"Rather than your strength,",
+"it is Cham Cham's innocent spirit",
+"that this battle demands..."
+],
+"jp": "然り / 戦士タムタムよ 今度の戦いは敵を倒す戦いに非ず / 汝の強さより / チャムチャムの 無垢なるスピリッツが / 求められている戦いなり・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1899,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Innocent spirit..."
+],
+"jp": "無垢ナル魂・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1900,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Indeed.",
+"My power does not reach those distant lands,",
+"but your sister Cham Cham will surely fulfill her mission."
+],
+"jp": "然り / 遠き異国では我が力も 及ばざれども / 汝の妹チャムチャムならば 必ずや使命果たさん",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1901,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"O my great Lord Quetzalcoatl,",
+"Tam Tam understand."
+],
+"jp": "我ガ　偉大ナル けつあるくあとる神ヨ / たむたむ、理解シタ",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1902,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"But now Tam Tam have other wish."
+],
+"jp": "シカシ、別ノオ願イデキタ",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1903,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"What is it?"
+],
+"jp": "何か？",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1904,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Make me monkey again!",
+"Change me into Pak Pak once more!"
+],
+"jp": "我ガ姿ヲ、猿ノ姿ニ！ / ぱくぱくノ　姿ニ 再ビ　変エテ欲シイ！",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Ук-ук?"
+}
+]
+},
+{
+"id": 1905,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"And let me help Cham Cham again!"
+],
+"jp": "ソシテ　マタ　ちゃむちゃむヲ 助ケテ　アゲタイ！",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Ук-ук?"
+},
+{
+"ru": "Эге-гей! Лорд Кецалькоатль! Эге-ге-гей!"
+},
+{
+"ru": "Кто зовет меня?"
+}
+]
+},
+{
+"id": 1906,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"...Warrior Tam Tam, who so loves his sister, your wish is granted!"
+],
+"jp": "・・・妹思いの戦士タムタムよ 汝の願いは叶えられた！",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Ук-ук?"
+},
+{
+"ru": "Эге-гей! Лорд Кецалькоатль! Эге-ге-гей!"
+},
+{
+"ru": "Кто зовет меня?"
+}
+]
+},
+{
+"id": 1907,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Let's pick up where we left off!",
+"Take me to Mister Nicotine!"
+],
+"jp": "さッきの続き！ / 和狆のおじいちゃンのところに 連れてッてぇ！",
+"choice": null,
+"context": [
+{
+"ru": "Ук-ук?"
+},
+{
+"ru": "Эге-гей! Лорд Кецалькоатль! Эге-ге-гей!"
+},
+{
+"ru": "Кто зовет меня?"
+},
+{
+"self": true
+},
+{
+"ru": "Ук!"
+},
+{
+"ru": "Ук-ук?"
+}
+]
+},
+{
+"id": 1908,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Huh? Pak Pak! You're comin' too?"
+],
+"jp": "あれぇ？パクパク！ お前もついてくるのか？",
+"choice": null,
+"context": [
+{
+"ru": "Эге-гей! Лорд Кецалькоатль! Эге-ге-гей!"
+},
+{
+"ru": "Кто зовет меня?"
+},
+{
+"ru": "Ук!"
+},
+{
+"self": true
+},
+{
+"ru": "Ук-ук?"
+},
+{
+"ru": "Эге-гей! Лорд Кецалькоатль! Эге-ге-гей!"
+}
+]
+},
+{
+"id": 1909,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Alright!",
+"I'll share Mister Nicotine's bananas with you too!"
+],
+"jp": "よぉし！ / お前にもおじいちゃンのバナナン ごちそうしてやるゾ！",
+"choice": null,
+"context": [
+{
+"ru": "Ук!"
+},
+{
+"ru": "Ук-ук?"
+},
+{
+"self": true
+},
+{
+"ru": "Эге-гей! Лорд Кецалькоатль! Эге-ге-гей!"
+}
+]
+},
+{
+"id": 1910,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Innocent girl...",
+"your brother Tam Tam is a great warrior."
+],
+"jp": "無垢なる少女よ・・・ / 汝の兄、タムタムは 偉大なる戦士なり",
+"choice": null,
+"context": [
+{
+"ru": "Ук-ук?"
+},
+{
+"ru": "Эге-гей! Лорд Кецалькоатль! Эге-ге-гей!"
+},
+{
+"self": true
+},
+{
+"ru": "Эге-гей! Лорд Кецалькоатль! Эге-ге-гей!"
+}
+]
+},
+{
+"id": 1911,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Wise and brave beyond compare,",
+"the mightiest warrior of Quetzalcoatl."
+],
+"jp": "知勇兼備の比類なき / 我がケツアルクアトル 最強の戦士なり",
+"choice": null,
+"context": [
+{
+"ru": "Ук-ук?"
+},
+{
+"ru": "Эге-гей! Лорд Кецалькоатль! Эге-ге-гей!"
+},
+{
+"self": true
+},
+{
+"ru": "Эге-гей! Лорд Кецалькоатль! Эге-ге-гей!"
+}
+]
+},
+{
+"id": 1912,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"I know that!",
+"'Cause he's my big brother Tam!"
+],
+"jp": "知ッてるよ？ / だッて、タム兄ちゃンだもン！",
+"choice": null,
+"context": [
+{
+"ru": "Эге-гей! Лорд Кецалькоатль! Эге-ге-гей!"
+},
+{
+"self": true
+},
+{
+"ru": "Эге-гей! Лорд Кецалькоатль! Эге-ге-гей!"
+}
+]
+},
+{
+"id": 1913,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"...So he is."
+],
+"jp": "・・・然りであったな",
+"choice": null,
+"context": [
+{
+"ru": "Эге-гей! Лорд Кецалькоатль! Эге-ге-гей!"
+},
+{
+"self": true
+},
+{
+"ru": "Эге-гей! Лорд Кецалькоатль! Эге-ге-гей!"
+},
+{
+"ru": "Ук-ук..."
+}
+]
+},
+{
+"id": 1914,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Hey, hurry up and take me!"
+],
+"jp": "ねぇ、早く連れてッて！",
+"choice": null,
+"context": [
+{
+"ru": "Эге-гей! Лорд Кецалькоатль! Эге-ге-гей!"
+},
+{
+"self": true
+},
+{
+"ru": "Ук-ук..."
+}
+]
+},
+{
+"id": 1915,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"I'll bring back lots of bananas",
+"for you too, Lord Quetzalcoatl!"
+],
+"jp": "ケツアルクアトルさまにも / バナナンいっぱい 持ッて帰ッてくるからねーッ！",
+"choice": null,
+"context": [
+{
+"ru": "Эге-гей! Лорд Кецалькоатль! Эге-ге-гей!"
+},
+{
+"self": true
+},
+{
+"ru": "Ук-ук..."
+}
+]
+},
+{
+"id": 1916,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Why, it's the Corday girl...",
+"Appearing at a ball? How unusual."
+],
+"jp": "おや、コルデ伯の・・・ / 舞踏会にお出ましとは これは珍しい",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1917,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Heyyy, Charlotte! Come have some fun with us for once!"
+],
+"jp": "う～い、シャルロットぉ！ たまには一緒に楽しもうぜ",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1918,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"M-Miss Charlotte, w-w-would you dance with me...?"
+],
+"jp": "し、シャルロットさん ぼ、ぼ、ボクと一曲・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1919,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Charlotte, it's been so long!",
+"Why not change into a dress for once?"
+],
+"jp": "シャルロット、久しぶりね！ / あなたもたまには ドレスに着替えたらどう？",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1920,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Halt! Who goes there?"
+],
+"jp": "止まれっ！何者か！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1921,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Her Majesty the Queen is present!"
+],
+"jp": "女王陛下ご臨席であるぞ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1922,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Charlotte, eldest daughter of House Corday. I wish to see Her Majesty!"
+],
+"jp": "コルデ家の長女、シャルロットだ 女王陛下に御意を得たい！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1923,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Coming to a ball dressed like that? How outrageous!"
+],
+"jp": "舞踏会にそのようないでたちとは 無礼千万！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1924,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Guards, it is you who are being rude."
+],
+"jp": "衛兵たちよ 無礼なのはそなたたちの方ぞ",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1925,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"I myself have given Charlotte",
+"special leave to appear before me thus."
+],
+"jp": "シャルロットには この姿での目通りを / わらわ自身が 特別に許可しておるのです",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1926,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"You may withdraw."
+],
+"jp": "下がって良いぞ",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1927,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Oh, Charlotte!",
+"Not showing your face at a ball for so long,",
+"leaving me so lonely!"
+],
+"jp": "おお、シャルロットよ！ / 久しゅう 舞踏会に顔も出さず / わらわに さびしい思いをさせおって！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1928,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Come, I shall have them bring champagne!"
+],
+"jp": "さあさシャンペンでも 持ってこさせようぞ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1929,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Is Count Corday well?",
+"And Cardin must have grown so big..."
+],
+"jp": "コルデ伯は息災か？ / さぞやカルダンも 大きくなったろう・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1930,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Your Majesty, forgive my rudeness, but I must speak!",
+"The inspection of our lands that I begged of you...",
+"I heard it was canceled, so I came at once!"
+],
+"jp": "陛下、無礼を承知で申し上げます！ / 先日、ご無理を押してお願いした 領地の視察・・・ / お取りやめになられたと聞いて 参上いたしました！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1931,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Inspection...?"
+],
+"jp": "視察・・・？",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1932,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"If it please Your Majesty..."
+],
+"jp": "恐れながら・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1933,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Inspection, inspection..."
+],
+"jp": "視察、視察・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1934,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Oh, yes, yes!",
+"Now I remember!",
+"Sorry, so sorry... Something came up so suddenly!"
+],
+"jp": "おお、そうそう！ / そういえば！ / 済まぬ、済まぬ・・・ あれは急な予定が入っての！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1935,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Something... came up?"
+],
+"jp": "予定・・・と 申されますと・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1936,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"The Duke of Valois and the Count of Provence",
+"held a banquet in my honor, you see..."
+],
+"jp": "ヴァロア公やプロヴァンス伯が わらわのために / 晩さん会を 主催してくれてのう・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1937,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Wh-what...!"
+],
+"jp": "な、なんと・・・！",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Боже мой! Шарлотта!"
+}
+]
+},
+{
+"id": 1938,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Oh dear, how terribly embarrassing of me..."
+],
+"jp": "いやいや、わらわとしたことが 面目ない・・・",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Боже мой! Шарлотта!"
+}
+]
+},
+{
+"id": 1939,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"To make amends, next time I shall invite House Corday",
+"to a grand banquet,",
+"so do forgive me..."
+],
+"jp": "おわびに次は コルデ家を招いて / 盛大な晩さん会を 開かせてもらうゆえ / 許してたもれ・・・",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Боже мой! Шарлотта!"
+}
+]
+},
+{
+"id": 1940,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Your Majesty!"
+],
+"jp": "女王陛下！",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Боже мой! Шарлотта!"
+}
+]
+},
+{
+"id": 1941,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"I do not press Your Majesty so",
+"for any personal reasons!"
+],
+"jp": "私は一身上の都合を申し立てて / 陛下にご無理を強いているのでは ございません！",
+"choice": null,
+"context": [
+{
+"ru": "Боже мой! Шарлотта!"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 1942,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"I only wish, truly wish, that Your Majesty",
+"would see how the people are living now..."
+],
+"jp": "現在の民の生活振りを / ぜひ、ぜひ陛下に 知っていただきたくて・・・",
+"choice": null,
+"context": [
+{
+"ru": "Боже мой! Шарлотта!"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 1943,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Ch-Charlotte, now...",
+"That is rather rude."
+],
+"jp": "こ、これ、シャルロット・・・ / 無礼ではないか",
+"choice": null,
+"context": [
+{
+"ru": "Боже мой! Шарлотта!"
+},
+{
+"self": true
+},
+{
+"ru": "Прошу, сюда..."
+}
+]
+},
+{
+"id": 1944,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"I have not finished!"
+],
+"jp": "話は終わっておりません！",
+"choice": null,
+"context": [
+{
+"ru": "Боже мой! Шарлотта!"
+},
+{
+"self": true
+},
+{
+"ru": "Прошу, сюда..."
+}
+]
+},
+{
+"id": 1945,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Your Majesty,",
+"the people are being forced to live in hardship!",
+"Even so, they trust and adore Your Majesty.",
+"Your Majesty must answer them...",
+"Ah!"
+],
+"jp": "陛下 / 今、民は苦しい生活を 強いられています！ / それでも民は陛下を信頼し おしたい申し上げているのです / 陛下は民におこたえ・・・ / あっ！",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Прошу, сюда..."
+}
+]
+},
+{
+"id": 1946,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Pardon me! Kindly save such matters for later!"
+],
+"jp": "失礼！ こみ入った話はお後に願いたい！",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Прошу, сюда..."
+}
+]
+},
+{
+"id": 1947,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"What are you doing? Unhand me! I am not done!"
+],
+"jp": "何をする、離せ！ 話はまだ！",
+"choice": null,
+"context": [
+{
+"ru": "Прошу, сюда..."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 1948,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Good heavens,",
+"the eldest daughter of the Cordays, behaving so..."
+],
+"jp": "何と言うことじゃ / コルデ家の長女ともあろう お方が・・・はしたない",
+"choice": null,
+"context": [
+{
+"ru": "Прошу, сюда..."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 1949,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"In the Sun King's day, Corday was a byword for loyalty..."
+],
+"jp": "太陽王の御代にはコルデと言えば 忠義ものの代名詞だったがなぁ",
+"choice": null,
+"context": [
+{
+"ru": "Прошу, сюда..."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 1950,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Valor alone won't get you far in this day and age..."
+],
+"jp": "武勇だけではこの時代 やっていけませんから・・・",
+"choice": null,
+"context": [
+{
+"ru": "Прошу, сюда..."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 1951,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"I've treated poor Charlotte unkindly..."
+],
+"jp": "シャルロットには 悪いことをしてしまったわ・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1952,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Oh, yes,",
+"we have two fine steeds sent to us from Austria..."
+],
+"jp": "そうそう / オーストリアから送られた 駿馬が２頭あったわね・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1953,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Have them sent to House Corday!"
+],
+"jp": "あれをコルデ家に お送りしなさい！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1954,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Now, everyone! What an unexpected happening!",
+"Pay it no mind, and enjoy yourselves to the fullest!"
+],
+"jp": "ささ！みなさん とんだハプニングでした！ / どうかお気になさらず 存分にお楽しみ下さいませ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1955,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Musiiic!"
+],
+"jp": "ミュ～ジックッ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1956,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Now, Your Majesty, a little something to refresh your palate..."
+],
+"jp": "さあ、女王陛下 お口直しに・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1957,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Oh! My favorite!"
+],
+"jp": "おお！ わらわの好物じゃ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1958,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Your Majesty...",
+"No, all of the nobles are the same.",
+"None of them wish to know the reality of France..."
+],
+"jp": "陛下・・・ / いや、貴族のみながそうだ / 誰もフランスの現実を 知ろうとしない・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1959,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Why! How did it ever come to this...",
+"Hm?"
+],
+"jp": "なぜだ！ なぜこうなってしまったのだ・・・ / ん？",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1960,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Heh heh heh...",
+"Foolish nobles... lost in their revelry."
+],
+"jp": "くっくっく・・・ / 馬鹿な貴族どもめ・・・ 浮かれ呆けておるわ",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1961,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Even as the people's suffering has reached its limit.",
+"...Fear and hatred are overflowing from Paris.",
+"...Kekekeke..."
+],
+"jp": "民衆の苦しみは 限界に来ておるというのにな / ・・・恐怖と憎悪が このパリからあふれ出ておる / ・・・ケケケケ・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1962,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"So Lord Am...sia's revival draws a little nearer."
+],
+"jp": "これでアン・・・ジァ様の復活が また少し近づいたというわけだな",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1963,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Keke... They say in the East, Ama... has already..."
+],
+"jp": "ケケ・・何でも東方では すでにアマ・・・が・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1964,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Oh, in Japan, that island nation in the Far East... And Lady Mi...ki too..."
+],
+"jp": "ほう、極東の島国、日本でか・・・ そういえばミ・・・キ様も・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1965,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"I see...",
+"No wonder Lord St. Ger... is so eager."
+],
+"jp": "なるほど・・ / どうりでサンゼ・・・様が 張り切っておられるわけだ",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1966,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Y-you fiends!",
+"Who are you?!"
+],
+"jp": "き・・・貴様ら！ / 何者だ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1967,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"...Oh, a human."
+],
+"jp": "・・・ほう、人間か",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Гр-р-ра-а-а-у-у-у!!"
+}
+]
+},
+{
+"id": 1968,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Keke...",
+"Now that you've seen us, we can't let you live."
+],
+"jp": "ケケ・・・ / 我らの姿を見られたからには 生かしておけぬな",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Гр-р-ра-а-а-у-у-у!!"
+}
+]
+},
+{
+"id": 1969,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Splash Fount!"
+],
+"jp": "スプラッシュ・ファーント！",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Гр-р-ра-а-а-у-у-у!!"
+}
+]
+},
+{
+"id": 1970,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Gyawaaa!"
+],
+"jp": "ぎゃわー！",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Гр-р-ра-а-а-у-у-у!!"
+}
+]
+},
+{
+"id": 1971,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Demons... oh, God! Demons in the palace!",
+"What is happening!"
+],
+"jp": "魔物・・・おお、神よ！ 宮殿に魔物！ / 何と言うことだ！",
+"choice": null,
+"context": [
+{
+"ru": "Гр-р-ра-а-а-у-у-у!!"
+},
+{
+"self": true
+},
+{
+"ru": "Гэндзюро?! Что ты здесь делаешь...?"
+}
+]
+},
+{
+"id": 1972,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Was our country's crisis brought on by demons?!"
+],
+"jp": "祖国の危機は魔物が 招来したものだというのか！",
+"choice": null,
+"context": [
+{
+"ru": "Гр-р-ра-а-а-у-у-у!!"
+},
+{
+"self": true
+},
+{
+"ru": "Гэндзюро?! Что ты здесь делаешь...?"
+}
+]
+},
+{
+"id": 1973,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"...They spoke of the East..."
+],
+"jp": "・・・東方と言っていたな・・・",
+"choice": null,
+"context": [
+{
+"ru": "Гр-р-ра-а-а-у-у-у!!"
+},
+{
+"self": true
+},
+{
+"ru": "Гэндзюро?! Что ты здесь делаешь...?"
+}
+]
+},
+{
+"id": 1974,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Sister!"
+],
+"jp": "姉さま！",
+"choice": null,
+"context": [
+{
+"ru": "Гр-р-ра-а-а-у-у-у!!"
+},
+{
+"self": true
+},
+{
+"ru": "Гэндзюро?! Что ты здесь делаешь...?"
+}
+]
+},
+{
+"id": 1975,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Belmont told me! He said you're going far away...",
+"So I came to see you off!"
+],
+"jp": "ベルモントに聞いたんだ！ 姉さまが遠くに行くって・・・ / だからお見送りに来たの！",
+"choice": null,
+"context": [
+{
+"ru": "Гэндзюро?! Что ты здесь делаешь...?"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 1976,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"I see...",
+"I'm sorry, Cardin, for leaving without a word."
+],
+"jp": "そうか・・・ / すまない、カルダン 何も言わず・・・",
+"choice": null,
+"context": [
+{
+"ru": "Гэндзюро?! Что ты здесь делаешь...?"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 1977,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Belmont said so!",
+"'Leave everything else to me,",
+"and walk the path you believe in, milady!'"
+],
+"jp": "ベルモントが言ってたよ！ / 後はじいが引き受けますから / 姉さまは信じた道を 歩んで下さいませって！",
+"choice": null,
+"context": [
+{
+"ru": "Гэндзюро?! Что ты здесь делаешь...?"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 1978,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"You're going on a journey for our country and the Queen, right?",
+"Belmont told me..."
+],
+"jp": "姉さまは、祖国と王妃様のために 旅に出るんだよね！ / じいが言ってたよ・・・",
+"choice": null,
+"context": [
+{
+"ru": "Гэндзюро?! Что ты здесь делаешь...?"
+},
+{
+"self": true
+},
+{
+"ru": "Договорились!"
+}
+]
+},
+{
+"id": 1979,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Not only that.",
+"I also fight for the people of France...",
+"Do you understand, Cardin?"
+],
+"jp": "それだけではない / 私は、フランスの民衆のためにも 戦うのだよ・・・ / わかるか、カルダン",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Договорились!"
+}
+]
+}
+]

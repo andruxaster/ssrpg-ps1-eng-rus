@@ -1,0 +1,10643 @@
+[
+{
+"id": 7797,
+"file": "MSGD8002.PRG",
+"pages": [
+"You must... stop it... ..."
+],
+"choice": null,
+"jp": "あれを・・・止めて・・・くれ・・・・・・・・・・・・",
+"context": [
+{
+"en": "Ugh... who... who are you...?"
+},
+{
+"en": "I came to ask about the demon..."
+},
+{
+"en": "The... demon...? Take... this..."
+},
+{
+"self": true
+},
+{
+"en": "Well, we should get out of here..."
+},
+{
+"en": "So who did that...?"
+},
+{
+"en": "It... was the demon..."
+}
+]
+},
+{
+"id": 7798,
+"file": "MSGD8002.PRG",
+"pages": [
+"Well, we should get out of here..."
+],
+"choice": null,
+"jp": "・・・とりあえず　ここを離れよう",
+"context": [
+{
+"en": "I came to ask about the demon..."
+},
+{
+"en": "The... demon...? Take... this..."
+},
+{
+"en": "You must... stop it... ..."
+},
+{
+"self": true
+},
+{
+"en": "So who did that...?"
+},
+{
+"en": "It... was the demon..."
+},
+{
+"en": "What would the demon want with him...?"
+}
+]
+},
+{
+"id": 7799,
+"file": "MSGD8002.PRG",
+"pages": [
+"So who did that...?"
+],
+"choice": null,
+"jp": "誰が　あんな事を・・・",
+"context": [
+{
+"en": "The... demon...? Take... this..."
+},
+{
+"en": "You must... stop it... ..."
+},
+{
+"en": "Well, we should get out of here..."
+},
+{
+"self": true
+},
+{
+"en": "It... was the demon..."
+},
+{
+"en": "What would the demon want with him...?"
+},
+{
+"en": "Read this... It's a journal... a book on creating a demon."
+}
+]
+},
+{
+"id": 7800,
+"file": "MSGD8002.PRG",
+"pages": [
+"It... was the demon..."
+],
+"choice": null,
+"jp": "・・・鬼　ですよ・・・",
+"context": [
+{
+"en": "You must... stop it... ..."
+},
+{
+"en": "Well, we should get out of here..."
+},
+{
+"en": "So who did that...?"
+},
+{
+"self": true
+},
+{
+"en": "What would the demon want with him...?"
+},
+{
+"en": "Read this... It's a journal... a book on creating a demon."
+},
+{
+"en": "Hmm... It seems he was indeed Yamauchi Renshin... Apparently a student of English, as well. He had a daughter named Sayo... But three years ago..."
+}
+]
+},
+{
+"id": 7801,
+"file": "MSGD8002.PRG",
+"pages": [
+"What would the demon want with him...?"
+],
+"choice": null,
+"jp": "鬼があの人を？",
+"context": [
+{
+"en": "Well, we should get out of here..."
+},
+{
+"en": "So who did that...?"
+},
+{
+"en": "It... was the demon..."
+},
+{
+"self": true
+},
+{
+"en": "Read this... It's a journal... a book on creating a demon."
+},
+{
+"en": "Hmm... It seems he was indeed Yamauchi Renshin... Apparently a student of English, as well. He had a daughter named Sayo... But three years ago..."
+},
+{
+"en": "... Well?"
+}
+]
+},
+{
+"id": 7802,
+"file": "MSGD8002.PRG",
+"pages": [
+"Read this... It's a journal... a book on creating a demon."
+],
+"choice": null,
+"jp": "これを読んで下さい鬼の作り方の本とあの人の日記です",
+"context": [
+{
+"en": "So who did that...?"
+},
+{
+"en": "It... was the demon..."
+},
+{
+"en": "What would the demon want with him...?"
+},
+{
+"self": true
+},
+{
+"en": "Hmm... It seems he was indeed Yamauchi Renshin... Apparently a student of English, as well. He had a daughter named Sayo... But three years ago..."
+},
+{
+"en": "... Well?"
+},
+{
+"en": "Apparently she was killed in an accident by a Kyo official..."
+}
+]
+},
+{
+"id": 7803,
+"file": "MSGD8002.PRG",
+"pages": [
+"Hmm... It seems he was indeed Yamauchi Renshin... Apparently a student of English, as well. He had a daughter named Sayo... But three years ago..."
+],
+"choice": null,
+"jp": "・・・ふむ・・・・・・あの男が山内　連真だったようだ・・・どうやら　彼は蘭学者らしい小夜という娘が一人いたそうだが３年前に・・・",
+"context": [
+{
+"en": "It... was the demon..."
+},
+{
+"en": "What would the demon want with him...?"
+},
+{
+"en": "Read this... It's a journal... a book on creating a demon."
+},
+{
+"self": true
+},
+{
+"en": "... Well?"
+},
+{
+"en": "Apparently she was killed in an accident by a Kyo official..."
+},
+{
+"en": "Renshin bore a terrible grudge over this, and swore vengeance. Until one day... He stumbled across something in Nagasaki."
+}
+]
+},
+{
+"id": 7804,
+"file": "MSGD8002.PRG",
+"pages": [
+"... Well?"
+],
+"choice": null,
+"jp": "３年前に・・・どうしたの？",
+"context": [
+{
+"en": "What would the demon want with him...?"
+},
+{
+"en": "Read this... It's a journal... a book on creating a demon."
+},
+{
+"en": "Hmm... It seems he was indeed Yamauchi Renshin... Apparently a student of English, as well. He had a daughter named Sayo... But three years ago..."
+},
+{
+"self": true
+},
+{
+"en": "Apparently she was killed in an accident by a Kyo official..."
+},
+{
+"en": "Renshin bore a terrible grudge over this, and swore vengeance. Until one day... He stumbled across something in Nagasaki."
+},
+{
+"en": "March 6 - It's taken two years, but my creation is complete. I've made a demon from the spirit of night itself. Now, I will finally have revenge."
+}
+]
+},
+{
+"id": 7805,
+"file": "MSGD8002.PRG",
+"pages": [
+"Apparently she was killed in an accident by a Kyo official..."
+],
+"choice": null,
+"jp": "遊んでいた手まりが当たったとして京都所司代に斬られたそうだ・・・",
+"context": [
+{
+"en": "Read this... It's a journal... a book on creating a demon."
+},
+{
+"en": "Hmm... It seems he was indeed Yamauchi Renshin... Apparently a student of English, as well. He had a daughter named Sayo... But three years ago..."
+},
+{
+"en": "... Well?"
+},
+{
+"self": true
+},
+{
+"en": "Renshin bore a terrible grudge over this, and swore vengeance. Until one day... He stumbled across something in Nagasaki."
+},
+{
+"en": "March 6 - It's taken two years, but my creation is complete. I've made a demon from the spirit of night itself. Now, I will finally have revenge."
+},
+{
+"en": "March 9 - I've tested its strength. It killed five samurai with barely any effort... Revenge will be a simple matter."
+}
+]
+},
+{
+"id": 7806,
+"file": "MSGD8002.PRG",
+"pages": [
+"Renshin bore a terrible grudge over this, and swore vengeance. Until one day... He stumbled across something in Nagasaki."
+],
+"choice": null,
+"jp": "連真はそれを恨みに思いいつか彼らに復讐すると誓ったそして　ある日・・・長崎でぐうぜんに見つけたのがその蘭書だった",
+"context": [
+{
+"en": "Hmm... It seems he was indeed Yamauchi Renshin... Apparently a student of English, as well. He had a daughter named Sayo... But three years ago..."
+},
+{
+"en": "... Well?"
+},
+{
+"en": "Apparently she was killed in an accident by a Kyo official..."
+},
+{
+"self": true
+},
+{
+"en": "March 6 - It's taken two years, but my creation is complete. I've made a demon from the spirit of night itself. Now, I will finally have revenge."
+},
+{
+"en": "March 9 - I've tested its strength. It killed five samurai with barely any effort... Revenge will be a simple matter."
+},
+{
+"en": "March 17 - It's acting oddly. At times, it behaves as if it had a will of its own. What's happening here...?"
+}
+]
+},
+{
+"id": 7807,
+"file": "MSGD8002.PRG",
+"pages": [
+"March 6 - It's taken two years, but my creation is complete. I've made a demon from the spirit of night itself. Now, I will finally have revenge."
+],
+"choice": null,
+"jp": "３月６日２年の歳月をかけ　鬼は完成した小夜の魂が入った鬼だ復讐は始まったのだ",
+"context": [
+{
+"en": "... Well?"
+},
+{
+"en": "Apparently she was killed in an accident by a Kyo official..."
+},
+{
+"en": "Renshin bore a terrible grudge over this, and swore vengeance. Until one day... He stumbled across something in Nagasaki."
+},
+{
+"self": true
+},
+{
+"en": "March 9 - I've tested its strength. It killed five samurai with barely any effort... Revenge will be a simple matter."
+},
+{
+"en": "March 17 - It's acting oddly. At times, it behaves as if it had a will of its own. What's happening here...?"
+},
+{
+"en": "April 15 - This is a colossal failure! It won't obey my commands at all anymore. I'm at my wits' end... Perhaps it's best just to destroy it."
+}
+]
+},
+{
+"id": 7808,
+"file": "MSGD8002.PRG",
+"pages": [
+"March 9 - I've tested its strength. It killed five samurai with barely any effort... Revenge will be a simple matter."
+],
+"choice": null,
+"jp": "３月９日鬼の力を試した・・・侍５人を瞬時に喰い殺すこれなら復讐は簡単だろう",
+"context": [
+{
+"en": "Apparently she was killed in an accident by a Kyo official..."
+},
+{
+"en": "Renshin bore a terrible grudge over this, and swore vengeance. Until one day... He stumbled across something in Nagasaki."
+},
+{
+"en": "March 6 - It's taken two years, but my creation is complete. I've made a demon from the spirit of night itself. Now, I will finally have revenge."
+},
+{
+"self": true
+},
+{
+"en": "March 17 - It's acting oddly. At times, it behaves as if it had a will of its own. What's happening here...?"
+},
+{
+"en": "April 15 - This is a colossal failure! It won't obey my commands at all anymore. I'm at my wits' end... Perhaps it's best just to destroy it."
+},
+{
+"en": "That's where the entries stop..."
+}
+]
+},
+{
+"id": 7809,
+"file": "MSGD8002.PRG",
+"pages": [
+"March 17 - It's acting oddly. At times, it behaves as if it had a will of its own. What's happening here...?"
+],
+"choice": null,
+"jp": "３月１７日鬼の様子がおかしい勝手に飛び出していくときがあるどうしたのだろうか？",
+"context": [
+{
+"en": "Renshin bore a terrible grudge over this, and swore vengeance. Until one day... He stumbled across something in Nagasaki."
+},
+{
+"en": "March 6 - It's taken two years, but my creation is complete. I've made a demon from the spirit of night itself. Now, I will finally have revenge."
+},
+{
+"en": "March 9 - I've tested its strength. It killed five samurai with barely any effort... Revenge will be a simple matter."
+},
+{
+"self": true
+},
+{
+"en": "April 15 - This is a colossal failure! It won't obey my commands at all anymore. I'm at my wits' end... Perhaps it's best just to destroy it."
+},
+{
+"en": "That's where the entries stop..."
+},
+{
+"en": "Perhaps the creature killed him, instead..."
+}
+]
+},
+{
+"id": 7810,
+"file": "MSGD8002.PRG",
+"pages": [
+"April 15 - This is a colossal failure! It won't obey my commands at all anymore. I'm at my wits' end... Perhaps it's best just to destroy it."
+],
+"choice": null,
+"jp": "４月１５日あれは失敗だ！いまでは私のいう事をほとんど聞かない仕方がない・・・鬼は処分する事にする",
+"context": [
+{
+"en": "March 6 - It's taken two years, but my creation is complete. I've made a demon from the spirit of night itself. Now, I will finally have revenge."
+},
+{
+"en": "March 9 - I've tested its strength. It killed five samurai with barely any effort... Revenge will be a simple matter."
+},
+{
+"en": "March 17 - It's acting oddly. At times, it behaves as if it had a will of its own. What's happening here...?"
+},
+{
+"self": true
+},
+{
+"en": "That's where the entries stop..."
+},
+{
+"en": "Perhaps the creature killed him, instead..."
+},
+{
+"en": "What fool would actually create a demon for revenge...?"
+}
+]
+},
+{
+"id": 7811,
+"file": "MSGD8002.PRG",
+"pages": [
+"That's where the entries stop..."
+],
+"choice": null,
+"jp": "日記はここで終わっている・・・",
+"context": [
+{
+"en": "March 9 - I've tested its strength. It killed five samurai with barely any effort... Revenge will be a simple matter."
+},
+{
+"en": "March 17 - It's acting oddly. At times, it behaves as if it had a will of its own. What's happening here...?"
+},
+{
+"en": "April 15 - This is a colossal failure! It won't obey my commands at all anymore. I'm at my wits' end... Perhaps it's best just to destroy it."
+},
+{
+"self": true
+},
+{
+"en": "Perhaps the creature killed him, instead..."
+},
+{
+"en": "What fool would actually create a demon for revenge...?"
+},
+{
+"en": "..."
+}
+]
+},
+{
+"id": 7812,
+"file": "MSGD8002.PRG",
+"pages": [
+"Perhaps the creature killed him, instead..."
+],
+"choice": null,
+"jp": "処分しようとして返り討ちにあったんでしょう・・・",
+"context": [
+{
+"en": "March 17 - It's acting oddly. At times, it behaves as if it had a will of its own. What's happening here...?"
+},
+{
+"en": "April 15 - This is a colossal failure! It won't obey my commands at all anymore. I'm at my wits' end... Perhaps it's best just to destroy it."
+},
+{
+"en": "That's where the entries stop..."
+},
+{
+"self": true
+},
+{
+"en": "What fool would actually create a demon for revenge...?"
+},
+{
+"en": "..."
+},
+{
+"en": "What's wrong?"
+}
+]
+},
+{
+"id": 7813,
+"file": "MSGD8002.PRG",
+"pages": [
+"What fool would actually create a demon for revenge...?"
+],
+"choice": null,
+"jp": "復讐のために・・・鬼を造ったなんて・・・",
+"context": [
+{
+"en": "April 15 - This is a colossal failure! It won't obey my commands at all anymore. I'm at my wits' end... Perhaps it's best just to destroy it."
+},
+{
+"en": "That's where the entries stop..."
+},
+{
+"en": "Perhaps the creature killed him, instead..."
+},
+{
+"self": true
+},
+{
+"en": "..."
+},
+{
+"en": "What's wrong?"
+},
+{
+"en": "This... isn't the demon I've been looking for."
+}
+]
+},
+{
+"id": 7814,
+"file": "MSGD8002.PRG",
+"pages": [
+"What's wrong?"
+],
+"choice": null,
+"jp": "どうしたの　閑丸？",
+"context": [
+{
+"en": "Perhaps the creature killed him, instead..."
+},
+{
+"en": "What fool would actually create a demon for revenge...?"
+},
+{
+"en": "..."
+},
+{
+"self": true
+},
+{
+"en": "This... isn't the demon I've been looking for."
+},
+{
+"en": "So it would seem..."
+},
+{
+"en": "But I will kill this demon. This man stopped the demon inside me... So I will do it, for him and his daughter!"
+}
+]
+},
+{
+"id": 7815,
+"file": "MSGD8002.PRG",
+"pages": [
+"This... isn't the demon I've been looking for."
+],
+"choice": null,
+"jp": "この鬼は・・・僕の〓している鬼じゃなかった",
+"context": [
+{
+"en": "What fool would actually create a demon for revenge...?"
+},
+{
+"en": "..."
+},
+{
+"en": "What's wrong?"
+},
+{
+"self": true
+},
+{
+"en": "So it would seem..."
+},
+{
+"en": "But I will kill this demon. This man stopped the demon inside me... So I will do it, for him and his daughter!"
+},
+{
+"en": "That's the spirit!"
+}
+]
+},
+{
+"id": 7816,
+"file": "MSGD8002.PRG",
+"pages": [
+"So it would seem..."
+],
+"choice": null,
+"jp": "・・・・そうだね・・・",
+"context": [
+{
+"en": "..."
+},
+{
+"en": "What's wrong?"
+},
+{
+"en": "This... isn't the demon I've been looking for."
+},
+{
+"self": true
+},
+{
+"en": "But I will kill this demon. This man stopped the demon inside me... So I will do it, for him and his daughter!"
+},
+{
+"en": "That's the spirit!"
+},
+{
+"en": "Haohmaru?!"
+}
+]
+},
+{
+"id": 7817,
+"file": "MSGD8002.PRG",
+"pages": [
+"But I will kill this demon. This man stopped the demon inside me... So I will do it, for him and his daughter!"
+],
+"choice": null,
+"jp": "でも僕　この鬼を斬りますあの人は僕に鬼を止めてくれっていったんですあの人のためにも小夜って娘のためにも　僕が！！",
+"context": [
+{
+"en": "What's wrong?"
+},
+{
+"en": "This... isn't the demon I've been looking for."
+},
+{
+"en": "So it would seem..."
+},
+{
+"self": true
+},
+{
+"en": "That's the spirit!"
+},
+{
+"en": "Haohmaru?!"
+},
+{
+"en": "I turn my back for one second... and off you go getting all mature."
+}
+]
+},
+{
+"id": 7818,
+"file": "MSGD8002.PRG",
+"pages": [
+"That's the spirit!"
+],
+"choice": null,
+"jp": "いい顔だぜ　閑丸！",
+"context": [
+{
+"en": "This... isn't the demon I've been looking for."
+},
+{
+"en": "So it would seem..."
+},
+{
+"en": "But I will kill this demon. This man stopped the demon inside me... So I will do it, for him and his daughter!"
+},
+{
+"self": true
+},
+{
+"en": "Haohmaru?!"
+},
+{
+"en": "I turn my back for one second... and off you go getting all mature."
+},
+{
+"en": "How long have you been there?"
+}
+]
+},
+{
+"id": 7819,
+"file": "MSGD8002.PRG",
+"pages": [
+"I turn my back for one second... and off you go getting all mature."
+],
+"choice": null,
+"jp": "しばらく見ねぇうちに成長したなぁ",
+"context": [
+{
+"en": "But I will kill this demon. This man stopped the demon inside me... So I will do it, for him and his daughter!"
+},
+{
+"en": "That's the spirit!"
+},
+{
+"en": "Haohmaru?!"
+},
+{
+"self": true
+},
+{
+"en": "How long have you been there?"
+},
+{
+"en": "Somewhere around, It... was the demon..."
+},
+{
+"en": "So you've been standing there the whole time?!"
+}
+]
+},
+{
+"id": 7820,
+"file": "MSGD8002.PRG",
+"pages": [
+"How long have you been there?"
+],
+"choice": null,
+"jp": "いつからそこに居た覇王丸？",
+"context": [
+{
+"en": "That's the spirit!"
+},
+{
+"en": "Haohmaru?!"
+},
+{
+"en": "I turn my back for one second... and off you go getting all mature."
+},
+{
+"self": true
+},
+{
+"en": "Somewhere around, It... was the demon..."
+},
+{
+"en": "So you've been standing there the whole time?!"
+},
+{
+"en": "So... what now?"
+}
+]
+},
+{
+"id": 7821,
+"file": "MSGD8002.PRG",
+"pages": [
+"Somewhere around, It... was the demon..."
+],
+"choice": null,
+"jp": "・・・鬼　ですよ・・・ってとこからかな",
+"context": [
+{
+"en": "Haohmaru?!"
+},
+{
+"en": "I turn my back for one second... and off you go getting all mature."
+},
+{
+"en": "How long have you been there?"
+},
+{
+"self": true
+},
+{
+"en": "So you've been standing there the whole time?!"
+},
+{
+"en": "So... what now?"
+},
+{
+"en": "Should we split up and search separately?"
+}
+]
+},
+{
+"id": 7822,
+"file": "MSGD8002.PRG",
+"pages": [
+"So you've been standing there the whole time?!"
+],
+"choice": null,
+"jp": "それじゃあ　最初からじゃない！",
+"context": [
+{
+"en": "I turn my back for one second... and off you go getting all mature."
+},
+{
+"en": "How long have you been there?"
+},
+{
+"en": "Somewhere around, It... was the demon..."
+},
+{
+"self": true
+},
+{
+"en": "So... what now?"
+},
+{
+"en": "Should we split up and search separately?"
+},
+{
+"en": "Nah, no need for that. It's bound to come to any group of warriors."
+}
+]
+},
+{
+"id": 7823,
+"file": "MSGD8002.PRG",
+"pages": [
+"So... what now?"
+],
+"choice": null,
+"jp": "それで・・・これからどうする？",
+"context": [
+{
+"en": "How long have you been there?"
+},
+{
+"en": "Somewhere around, It... was the demon..."
+},
+{
+"en": "So you've been standing there the whole time?!"
+},
+{
+"self": true
+},
+{
+"en": "Should we split up and search separately?"
+},
+{
+"en": "Nah, no need for that. It's bound to come to any group of warriors."
+},
+{
+"en": "I'll go get everyone!"
+}
+]
+},
+{
+"id": 7824,
+"file": "MSGD8002.PRG",
+"pages": [
+"Should we split up and search separately?"
+],
+"choice": null,
+"jp": "手分けをして〓すか？",
+"context": [
+{
+"en": "Somewhere around, It... was the demon..."
+},
+{
+"en": "So you've been standing there the whole time?!"
+},
+{
+"en": "So... what now?"
+},
+{
+"self": true
+},
+{
+"en": "Nah, no need for that. It's bound to come to any group of warriors."
+},
+{
+"en": "I'll go get everyone!"
+},
+{
+"en": "...! I think it's here!"
+}
+]
+},
+{
+"id": 7825,
+"file": "MSGD8002.PRG",
+"pages": [
+"Nah, no need for that. It's bound to come to any group of warriors."
+],
+"choice": null,
+"jp": "その必要はねぇよこれだけ強者がそろってりゃあ向こうから来るさ",
+"context": [
+{
+"en": "So you've been standing there the whole time?!"
+},
+{
+"en": "So... what now?"
+},
+{
+"en": "Should we split up and search separately?"
+},
+{
+"self": true
+},
+{
+"en": "I'll go get everyone!"
+},
+{
+"en": "...! I think it's here!"
+},
+{
+"en": "Shizumaru!!"
+}
+]
+},
+{
+"id": 7826,
+"file": "MSGD8002.PRG",
+"pages": [
+"I'll go get everyone!"
+],
+"choice": null,
+"jp": "私　みんなを呼んでくるよ！！",
+"context": [
+{
+"en": "So... what now?"
+},
+{
+"en": "Should we split up and search separately?"
+},
+{
+"en": "Nah, no need for that. It's bound to come to any group of warriors."
+},
+{
+"self": true
+},
+{
+"en": "...! I think it's here!"
+},
+{
+"en": "Shizumaru!!"
+},
+{
+"en": "Looks like we just made it in time, kid!"
+}
+]
+},
+{
+"id": 7827,
+"file": "MSGD8002.PRG",
+"pages": [
+"...! I think it's here!"
+],
+"choice": null,
+"jp": "！！どうやら来やがったぜ！",
+"context": [
+{
+"en": "Should we split up and search separately?"
+},
+{
+"en": "Nah, no need for that. It's bound to come to any group of warriors."
+},
+{
+"en": "I'll go get everyone!"
+},
+{
+"self": true
+},
+{
+"en": "Shizumaru!!"
+},
+{
+"en": "Looks like we just made it in time, kid!"
+},
+{
+"en": "I'm here, too!"
+}
+]
+},
+{
+"id": 7828,
+"file": "MSGD8002.PRG",
+"pages": [
+"Shizumaru!!"
+],
+"choice": null,
+"jp": "閑丸さん！！",
+"context": [
+{
+"en": "Nah, no need for that. It's bound to come to any group of warriors."
+},
+{
+"en": "I'll go get everyone!"
+},
+{
+"en": "...! I think it's here!"
+},
+{
+"self": true
+},
+{
+"en": "Looks like we just made it in time, kid!"
+},
+{
+"en": "I'm here, too!"
+},
+{
+"en": "Lots of idle hands around here, I swear..."
+}
+]
+},
+{
+"id": 7829,
+"file": "MSGD8002.PRG",
+"pages": [
+"Looks like we just made it in time, kid!"
+],
+"choice": null,
+"jp": "間に合ったぜ！　ＢＯＹ！！",
+"context": [
+{
+"en": "I'll go get everyone!"
+},
+{
+"en": "...! I think it's here!"
+},
+{
+"en": "Shizumaru!!"
+},
+{
+"self": true
+},
+{
+"en": "I'm here, too!"
+},
+{
+"en": "Lots of idle hands around here, I swear..."
+},
+{
+"en": "K i l l . . . s a m u r a i. K i l l . . . p l e a s e . . ."
+}
+]
+},
+{
+"id": 7830,
+"file": "MSGD8002.PRG",
+"pages": [
+"I'm here, too!"
+],
+"choice": null,
+"jp": "チャムチャムもいるゾ！！",
+"context": [
+{
+"en": "...! I think it's here!"
+},
+{
+"en": "Shizumaru!!"
+},
+{
+"en": "Looks like we just made it in time, kid!"
+},
+{
+"self": true
+},
+{
+"en": "Lots of idle hands around here, I swear..."
+},
+{
+"en": "K i l l . . . s a m u r a i. K i l l . . . p l e a s e . . ."
+},
+{
+"en": "Huh?! Something weird is going on here..."
+}
+]
+},
+{
+"id": 7831,
+"file": "MSGD8002.PRG",
+"pages": [
+"Lots of idle hands around here, I swear..."
+],
+"choice": null,
+"jp": "物好きが多いぜったく・・・",
+"context": [
+{
+"en": "Shizumaru!!"
+},
+{
+"en": "Looks like we just made it in time, kid!"
+},
+{
+"en": "I'm here, too!"
+},
+{
+"self": true
+},
+{
+"en": "K i l l . . . s a m u r a i. K i l l . . . p l e a s e . . ."
+},
+{
+"en": "Huh?! Something weird is going on here..."
+},
+{
+"en": "K i l l . . . m e . . . K i l l e d . . . f a t h e r. N o . . . w a n t . . . m u s t k i l l . . . y o u . . ."
+}
+]
+},
+{
+"id": 7832,
+"file": "MSGD8002.PRG",
+"pages": [
+"K i l l . . . s a m u r a i. K i l l . . . p l e a s e . . ."
+],
+"choice": null,
+"jp": "サ・ムラ・・イ・・コロ・・スコロス・・コロ・・シテ",
+"context": [
+{
+"en": "Looks like we just made it in time, kid!"
+},
+{
+"en": "I'm here, too!"
+},
+{
+"en": "Lots of idle hands around here, I swear..."
+},
+{
+"self": true
+},
+{
+"en": "Huh?! Something weird is going on here..."
+},
+{
+"en": "K i l l . . . m e . . . K i l l e d . . . f a t h e r. N o . . . w a n t . . . m u s t k i l l . . . y o u . . ."
+},
+{
+"en": "What the hell...?!"
+}
+]
+},
+{
+"id": 7833,
+"file": "MSGD8002.PRG",
+"pages": [
+"Huh?! Something weird is going on here..."
+],
+"choice": null,
+"jp": "？！何か　おかしい・・・",
+"context": [
+{
+"en": "I'm here, too!"
+},
+{
+"en": "Lots of idle hands around here, I swear..."
+},
+{
+"en": "K i l l . . . s a m u r a i. K i l l . . . p l e a s e . . ."
+},
+{
+"self": true
+},
+{
+"en": "K i l l . . . m e . . . K i l l e d . . . f a t h e r. N o . . . w a n t . . . m u s t k i l l . . . y o u . . ."
+},
+{
+"en": "What the hell...?!"
+},
+{
+"en": "She's been in so much pain... for so long. But I will put an end to all of it!!"
+}
+]
+},
+{
+"id": 7834,
+"file": "MSGD8002.PRG",
+"pages": [
+"K i l l . . . m e . . . K i l l e d . . . f a t h e r. N o . . . w a n t . . . m u s t k i l l . . . y o u . . ."
+],
+"choice": null,
+"jp": "コロス・・・ワ・・・タシヲトウ・・・サマ・コロシタモウ・・・イヤ・・・ナノ・・・Ⅵカラ・・・オマエラ・・・モ・・コ・ロ・ス",
+"context": [
+{
+"en": "Lots of idle hands around here, I swear..."
+},
+{
+"en": "K i l l . . . s a m u r a i. K i l l . . . p l e a s e . . ."
+},
+{
+"en": "Huh?! Something weird is going on here..."
+},
+{
+"self": true
+},
+{
+"en": "What the hell...?!"
+},
+{
+"en": "She's been in so much pain... for so long. But I will put an end to all of it!!"
+},
+{
+"en": "Ook! Oop oookk!! (But I'm right here...!!)"
+}
+]
+},
+{
+"id": 7835,
+"file": "MSGD8002.PRG",
+"pages": [
+"What the hell...?!"
+],
+"choice": null,
+"jp": "な　なんだぁこいつぁ・・・",
+"context": [
+{
+"en": "K i l l . . . s a m u r a i. K i l l . . . p l e a s e . . ."
+},
+{
+"en": "Huh?! Something weird is going on here..."
+},
+{
+"en": "K i l l . . . m e . . . K i l l e d . . . f a t h e r. N o . . . w a n t . . . m u s t k i l l . . . y o u . . ."
+},
+{
+"self": true
+},
+{
+"en": "She's been in so much pain... for so long. But I will put an end to all of it!!"
+},
+{
+"en": "Ook! Oop oookk!! (But I'm right here...!!)"
+},
+{
+"en": "I called everyone here!"
+}
+]
+},
+{
+"id": 7836,
+"file": "MSGD8002.PRG",
+"pages": [
+"She's been in so much pain... for so long. But I will put an end to all of it!!"
+],
+"choice": null,
+"jp": "〓かったんだ　彼女は・・・鬼でいることが　〓かったんですよだから僕が・・・全てを・・・終わらせる！！",
+"context": [
+{
+"en": "Huh?! Something weird is going on here..."
+},
+{
+"en": "K i l l . . . m e . . . K i l l e d . . . f a t h e r. N o . . . w a n t . . . m u s t k i l l . . . y o u . . ."
+},
+{
+"en": "What the hell...?!"
+},
+{
+"self": true
+},
+{
+"en": "Ook! Oop oookk!! (But I'm right here...!!)"
+},
+{
+"en": "I called everyone here!"
+},
+{
+"en": "Miss Nakoruru! And Galford!"
+}
+]
+},
+{
+"id": 7837,
+"file": "MSGD8002.PRG",
+"pages": [
+"Ook! Oop oookk!! (But I'm right here...!!)"
+],
+"choice": null,
+"jp": "ウキー　ウキキキー！！（Ⅵカラ　ココニイルッテ！！）",
+"context": [
+{
+"en": "K i l l . . . m e . . . K i l l e d . . . f a t h e r. N o . . . w a n t . . . m u s t k i l l . . . y o u . . ."
+},
+{
+"en": "What the hell...?!"
+},
+{
+"en": "She's been in so much pain... for so long. But I will put an end to all of it!!"
+},
+{
+"self": true
+},
+{
+"en": "I called everyone here!"
+},
+{
+"en": "Miss Nakoruru! And Galford!"
+},
+{
+"en": "I'm an adult, dammit!!"
+}
+]
+},
+{
+"id": 7838,
+"file": "MSGD8002.PRG",
+"pages": [
+"I called everyone here!"
+],
+"choice": null,
+"jp": "みんなを呼んできたよ～！",
+"context": [
+{
+"en": "What the hell...?!"
+},
+{
+"en": "She's been in so much pain... for so long. But I will put an end to all of it!!"
+},
+{
+"en": "Ook! Oop oookk!! (But I'm right here...!!)"
+},
+{
+"self": true
+},
+{
+"en": "Miss Nakoruru! And Galford!"
+},
+{
+"en": "I'm an adult, dammit!!"
+},
+{
+"en": "Is this... an English journal?!"
+}
+]
+},
+{
+"id": 7839,
+"file": "MSGD8002.PRG",
+"pages": [
+"Miss Nakoruru! And Galford!"
+],
+"choice": null,
+"jp": "ナコルルさん！それにガルフォードさんも！！",
+"context": [
+{
+"en": "She's been in so much pain... for so long. But I will put an end to all of it!!"
+},
+{
+"en": "Ook! Oop oookk!! (But I'm right here...!!)"
+},
+{
+"en": "I called everyone here!"
+},
+{
+"self": true
+},
+{
+"en": "I'm an adult, dammit!!"
+},
+{
+"en": "Is this... an English journal?!"
+}
+]
+},
+{
+"id": 7840,
+"file": "MSGD8002.PRG",
+"pages": [
+"Is this... an English journal?!"
+],
+"choice": null,
+"jp": "これは・・・蘭学書と日記・・・！？",
+"context": [
+{
+"en": "I called everyone here!"
+},
+{
+"en": "Miss Nakoruru! And Galford!"
+},
+{
+"en": "I'm an adult, dammit!!"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 7841,
+"file": "MSGD8003.PRG",
+"pages": [
+"In southern Kyo... First, you should go to the Kusanagi shrine. You may learn something there. Indeed, perhaps they know a few things about your demon."
+],
+"choice": null,
+"jp": "・・・南町のぉ・・・まずは南の角にある草薙神社に行き話しを聞くが良いひょっとするとお主の探している鬼とやらの事も聞けるかも知れんぞ",
+"context": [
+{
+"en": "I still haven't done anything... It's no use running... No use..."
+},
+{
+"en": "... I really don't need anything here. I'll look elsewhere."
+},
+{
+"en": "It's closed... I'll look somewhere else."
+},
+{
+"self": true
+},
+{
+"en": "What's with you?"
+},
+{
+"en": "Excuse me... um..."
+},
+{
+"en": "I see... well..."
+}
+]
+},
+{
+"id": 7842,
+"file": "MSGD8003.PRG",
+"pages": [
+"What's with you?"
+],
+"choice": null,
+"jp": "なんだ　お前？",
+"context": [
+{
+"en": "... I really don't need anything here. I'll look elsewhere."
+},
+{
+"en": "It's closed... I'll look somewhere else."
+},
+{
+"en": "In southern Kyo... First, you should go to the Kusanagi shrine. You may learn something there. Indeed, perhaps they know a few things about your demon."
+},
+{
+"self": true
+},
+{
+"en": "Excuse me... um..."
+},
+{
+"en": "I see... well..."
+},
+{
+"en": "Do you know anything about the rumors of Kyo?"
+}
+]
+},
+{
+"id": 7843,
+"file": "MSGD8003.PRG",
+"pages": [
+"Excuse me... um..."
+],
+"choice": null,
+"jp": "すみません・・・あの・・・",
+"context": [
+{
+"en": "It's closed... I'll look somewhere else."
+},
+{
+"en": "In southern Kyo... First, you should go to the Kusanagi shrine. You may learn something there. Indeed, perhaps they know a few things about your demon."
+},
+{
+"en": "What's with you?"
+},
+{
+"self": true
+},
+{
+"en": "I see... well..."
+},
+{
+"en": "Do you know anything about the rumors of Kyo?"
+},
+{
+"en": "Hm... I might..."
+}
+]
+},
+{
+"id": 7844,
+"file": "MSGD8003.PRG",
+"pages": [
+"I see... well..."
+],
+"choice": null,
+"jp": "・・・そうか京の噂を・・・",
+"context": [
+{
+"en": "In southern Kyo... First, you should go to the Kusanagi shrine. You may learn something there. Indeed, perhaps they know a few things about your demon."
+},
+{
+"en": "What's with you?"
+},
+{
+"en": "Excuse me... um..."
+},
+{
+"self": true
+},
+{
+"en": "Do you know anything about the rumors of Kyo?"
+},
+{
+"en": "Hm... I might..."
+},
+{
+"en": "Please tell me... what's been happening in Kyo...? I-I might..."
+}
+]
+},
+{
+"id": 7845,
+"file": "MSGD8003.PRG",
+"pages": [
+"Do you know anything about the rumors of Kyo?"
+],
+"choice": null,
+"jp": "何か知ってるんですか？",
+"context": [
+{
+"en": "What's with you?"
+},
+{
+"en": "Excuse me... um..."
+},
+{
+"en": "I see... well..."
+},
+{
+"self": true
+},
+{
+"en": "Hm... I might..."
+},
+{
+"en": "Please tell me... what's been happening in Kyo...? I-I might..."
+},
+{
+"en": "...? I guess you've got your reasons."
+}
+]
+},
+{
+"id": 7846,
+"file": "MSGD8003.PRG",
+"pages": [
+"Hm... I might..."
+],
+"choice": null,
+"jp": "ん・・・知っているといえば知ってるのかもな・・・",
+"context": [
+{
+"en": "Excuse me... um..."
+},
+{
+"en": "I see... well..."
+},
+{
+"en": "Do you know anything about the rumors of Kyo?"
+},
+{
+"self": true
+},
+{
+"en": "Please tell me... what's been happening in Kyo...? I-I might..."
+},
+{
+"en": "...? I guess you've got your reasons."
+},
+{
+"en": "..."
+}
+]
+},
+{
+"id": 7847,
+"file": "MSGD8003.PRG",
+"pages": [
+"Please tell me... what's been happening in Kyo...? I-I might..."
+],
+"choice": null,
+"jp": "教えて下さい一体京で何が起こっているのかもしかしたら・・・僕・・・",
+"context": [
+{
+"en": "I see... well..."
+},
+{
+"en": "Do you know anything about the rumors of Kyo?"
+},
+{
+"en": "Hm... I might..."
+},
+{
+"self": true
+},
+{
+"en": "...? I guess you've got your reasons."
+},
+{
+"en": "..."
+},
+{
+"en": "So... what's your name?"
+}
+]
+},
+{
+"id": 7848,
+"file": "MSGD8003.PRG",
+"pages": [
+"...? I guess you've got your reasons."
+],
+"choice": null,
+"jp": "？？　何か訳ありのようだな・・・",
+"context": [
+{
+"en": "Do you know anything about the rumors of Kyo?"
+},
+{
+"en": "Hm... I might..."
+},
+{
+"en": "Please tell me... what's been happening in Kyo...? I-I might..."
+},
+{
+"self": true
+},
+{
+"en": "..."
+},
+{
+"en": "So... what's your name?"
+},
+{
+"en": "Oh, I'm sorry!! I'm Hisame Shizumaru. I've... been traveling."
+}
+]
+},
+{
+"id": 7849,
+"file": "MSGD8003.PRG",
+"pages": [
+"So... what's your name?"
+],
+"choice": null,
+"jp": "名前・・・なんていうんだ？お前・・・",
+"context": [
+{
+"en": "Please tell me... what's been happening in Kyo...? I-I might..."
+},
+{
+"en": "...? I guess you've got your reasons."
+},
+{
+"en": "..."
+},
+{
+"self": true
+},
+{
+"en": "Oh, I'm sorry!! I'm Hisame Shizumaru. I've... been traveling."
+},
+{
+"en": "Traveling...? Well, I'm Kusanagi Kyo! I guess you could say I'm... uh... Kind of... the head priest of Kyo."
+},
+{
+"en": "You're a priest? I never would have guessed..."
+}
+]
+},
+{
+"id": 7850,
+"file": "MSGD8003.PRG",
+"pages": [
+"Oh, I'm sorry!! I'm Hisame Shizumaru. I've... been traveling."
+],
+"choice": null,
+"jp": "あ　すみませんッ！！僕は〓〓閑丸・・・旅を・・・しています",
+"context": [
+{
+"en": "...? I guess you've got your reasons."
+},
+{
+"en": "..."
+},
+{
+"en": "So... what's your name?"
+},
+{
+"self": true
+},
+{
+"en": "Traveling...? Well, I'm Kusanagi Kyo! I guess you could say I'm... uh... Kind of... the head priest of Kyo."
+},
+{
+"en": "You're a priest? I never would have guessed..."
+},
+{
+"en": "Did I or did I not just say, kind of?!"
+}
+]
+},
+{
+"id": 7851,
+"file": "MSGD8003.PRG",
+"pages": [
+"Traveling...? Well, I'm Kusanagi Kyo! I guess you could say I'm... uh... Kind of... the head priest of Kyo."
+],
+"choice": null,
+"jp": "旅・・・かあ　おれは草薙　京！！この京の神社の・・・まあ・・・ジュウショクみたいなモンだな",
+"context": [
+{
+"en": "..."
+},
+{
+"en": "So... what's your name?"
+},
+{
+"en": "Oh, I'm sorry!! I'm Hisame Shizumaru. I've... been traveling."
+},
+{
+"self": true
+},
+{
+"en": "You're a priest? I never would have guessed..."
+},
+{
+"en": "Did I or did I not just say, kind of?!"
+},
+{
+"en": "Okay... I'm sorry."
+}
+]
+},
+{
+"id": 7852,
+"file": "MSGD8003.PRG",
+"pages": [
+"You're a priest? I never would have guessed..."
+],
+"choice": null,
+"jp": "僧・・の方ですか？とてもそんな風には・・・",
+"context": [
+{
+"en": "So... what's your name?"
+},
+{
+"en": "Oh, I'm sorry!! I'm Hisame Shizumaru. I've... been traveling."
+},
+{
+"en": "Traveling...? Well, I'm Kusanagi Kyo! I guess you could say I'm... uh... Kind of... the head priest of Kyo."
+},
+{
+"self": true
+},
+{
+"en": "Did I or did I not just say, kind of?!"
+},
+{
+"en": "Okay... I'm sorry."
+},
+{
+"en": "Well, no need to get all uptight... So, what did you need to know?"
+}
+]
+},
+{
+"id": 7853,
+"file": "MSGD8003.PRG",
+"pages": [
+"Did I or did I not just say, kind of?!"
+],
+"choice": null,
+"jp": "だ・か・ら！！みたいなもんだって！！",
+"context": [
+{
+"en": "Oh, I'm sorry!! I'm Hisame Shizumaru. I've... been traveling."
+},
+{
+"en": "Traveling...? Well, I'm Kusanagi Kyo! I guess you could say I'm... uh... Kind of... the head priest of Kyo."
+},
+{
+"en": "You're a priest? I never would have guessed..."
+},
+{
+"self": true
+},
+{
+"en": "Okay... I'm sorry."
+},
+{
+"en": "Well, no need to get all uptight... So, what did you need to know?"
+},
+{
+"en": "I was hoping to find out what's happened here in Kyo..."
+}
+]
+},
+{
+"id": 7854,
+"file": "MSGD8003.PRG",
+"pages": [
+"Okay... I'm sorry."
+],
+"choice": null,
+"jp": "あ　ハイ・・・ご免なさい",
+"context": [
+{
+"en": "Traveling...? Well, I'm Kusanagi Kyo! I guess you could say I'm... uh... Kind of... the head priest of Kyo."
+},
+{
+"en": "You're a priest? I never would have guessed..."
+},
+{
+"en": "Did I or did I not just say, kind of?!"
+},
+{
+"self": true
+},
+{
+"en": "Well, no need to get all uptight... So, what did you need to know?"
+},
+{
+"en": "I was hoping to find out what's happened here in Kyo..."
+},
+{
+"en": "Hmm..."
+}
+]
+},
+{
+"id": 7855,
+"file": "MSGD8003.PRG",
+"pages": [
+"Well, no need to get all uptight... So, what did you need to know?"
+],
+"choice": null,
+"jp": "まあ　そう構えなくてもいいって・・で　何が知りたいって・・？",
+"context": [
+{
+"en": "You're a priest? I never would have guessed..."
+},
+{
+"en": "Did I or did I not just say, kind of?!"
+},
+{
+"en": "Okay... I'm sorry."
+},
+{
+"self": true
+},
+{
+"en": "I was hoping to find out what's happened here in Kyo..."
+},
+{
+"en": "Hmm..."
+},
+{
+"en": "Get down!"
+}
+]
+},
+{
+"id": 7856,
+"file": "MSGD8003.PRG",
+"pages": [
+"I was hoping to find out what's happened here in Kyo..."
+],
+"choice": null,
+"jp": "京で何が起こっているか・・・です",
+"context": [
+{
+"en": "Did I or did I not just say, kind of?!"
+},
+{
+"en": "Okay... I'm sorry."
+},
+{
+"en": "Well, no need to get all uptight... So, what did you need to know?"
+},
+{
+"self": true
+},
+{
+"en": "Hmm..."
+},
+{
+"en": "Get down!"
+},
+{
+"en": "I had no idea the seal had grown so weak..."
+}
+]
+},
+{
+"id": 7857,
+"file": "MSGD8003.PRG",
+"pages": [
+"Get down!"
+],
+"choice": null,
+"jp": "下がってろ！！",
+"context": [
+{
+"en": "Well, no need to get all uptight... So, what did you need to know?"
+},
+{
+"en": "I was hoping to find out what's happened here in Kyo..."
+},
+{
+"en": "Hmm..."
+},
+{
+"self": true
+},
+{
+"en": "I had no idea the seal had grown so weak..."
+},
+{
+"en": "What in the world was that...?"
+},
+{
+"en": "You... you could see that? What the hell...?!"
+}
+]
+},
+{
+"id": 7858,
+"file": "MSGD8003.PRG",
+"pages": [
+"I had no idea the seal had grown so weak..."
+],
+"choice": null,
+"jp": "ここまで封印が弱くなっているとはな・・・",
+"context": [
+{
+"en": "I was hoping to find out what's happened here in Kyo..."
+},
+{
+"en": "Hmm..."
+},
+{
+"en": "Get down!"
+},
+{
+"self": true
+},
+{
+"en": "What in the world was that...?"
+},
+{
+"en": "You... you could see that? What the hell...?!"
+},
+{
+"en": "...? See what? You mean... that white, hazy light?"
+}
+]
+},
+{
+"id": 7859,
+"file": "MSGD8003.PRG",
+"pages": [
+"What in the world was that...?"
+],
+"choice": null,
+"jp": "今のは一体・・・？",
+"context": [
+{
+"en": "Hmm..."
+},
+{
+"en": "Get down!"
+},
+{
+"en": "I had no idea the seal had grown so weak..."
+},
+{
+"self": true
+},
+{
+"en": "You... you could see that? What the hell...?!"
+},
+{
+"en": "...? See what? You mean... that white, hazy light?"
+},
+{
+"en": "... I see."
+}
+]
+},
+{
+"id": 7860,
+"file": "MSGD8003.PRG",
+"pages": [
+"You... you could see that? What the hell...?!"
+],
+"choice": null,
+"jp": "み　見えたのか？今のが・・・！？",
+"context": [
+{
+"en": "Get down!"
+},
+{
+"en": "I had no idea the seal had grown so weak..."
+},
+{
+"en": "What in the world was that...?"
+},
+{
+"self": true
+},
+{
+"en": "...? See what? You mean... that white, hazy light?"
+},
+{
+"en": "... I see."
+},
+{
+"en": "If you could see it..."
+}
+]
+},
+{
+"id": 7861,
+"file": "MSGD8003.PRG",
+"pages": [
+"...? See what? You mean... that white, hazy light?"
+],
+"choice": null,
+"jp": "？？？今のって・・・白いモヤのような光・・・のことですか？",
+"context": [
+{
+"en": "I had no idea the seal had grown so weak..."
+},
+{
+"en": "What in the world was that...?"
+},
+{
+"en": "You... you could see that? What the hell...?!"
+},
+{
+"self": true
+},
+{
+"en": "... I see."
+},
+{
+"en": "If you could see it..."
+},
+{
+"en": "If you could see it, then that means... oh, no way!"
+}
+]
+},
+{
+"id": 7862,
+"file": "MSGD8003.PRG",
+"pages": [
+"... I see."
+],
+"choice": null,
+"jp": "・・・・・・・・・そうか",
+"context": [
+{
+"en": "What in the world was that...?"
+},
+{
+"en": "You... you could see that? What the hell...?!"
+},
+{
+"en": "...? See what? You mean... that white, hazy light?"
+},
+{
+"self": true
+},
+{
+"en": "If you could see it..."
+},
+{
+"en": "If you could see it, then that means... oh, no way!"
+},
+{
+"en": "Um..."
+}
+]
+},
+{
+"id": 7863,
+"file": "MSGD8003.PRG",
+"pages": [
+"If you could see it..."
+],
+"choice": null,
+"jp": "見えると何か・・・",
+"context": [
+{
+"en": "You... you could see that? What the hell...?!"
+},
+{
+"en": "...? See what? You mean... that white, hazy light?"
+},
+{
+"en": "... I see."
+},
+{
+"self": true
+},
+{
+"en": "If you could see it, then that means... oh, no way!"
+},
+{
+"en": "Um..."
+},
+{
+"en": "Oh, sorry... I'm just messing with you. It's no big deal. Don't sweat it."
+}
+]
+},
+{
+"id": 7864,
+"file": "MSGD8003.PRG",
+"pages": [
+"If you could see it, then that means... oh, no way!"
+],
+"choice": null,
+"jp": "アレが見えるってコトは・・・いや　まさか！？",
+"context": [
+{
+"en": "...? See what? You mean... that white, hazy light?"
+},
+{
+"en": "... I see."
+},
+{
+"en": "If you could see it..."
+},
+{
+"self": true
+},
+{
+"en": "Um..."
+},
+{
+"en": "Oh, sorry... I'm just messing with you. It's no big deal. Don't sweat it."
+},
+{
+"en": "...??"
+}
+]
+},
+{
+"id": 7865,
+"file": "MSGD8003.PRG",
+"pages": [
+"Oh, sorry... I'm just messing with you. It's no big deal. Don't sweat it."
+],
+"choice": null,
+"jp": "あ　悪ィ悪ィ・・・・・・今のが見えたという事はお前にも説明しておいた方がいいようだな",
+"context": [
+{
+"en": "If you could see it..."
+},
+{
+"en": "If you could see it, then that means... oh, no way!"
+},
+{
+"en": "Um..."
+},
+{
+"self": true
+},
+{
+"en": "...??"
+},
+{
+"en": "Well, to be honest... A legend's been handed down here in Kyo for two thousand years."
+},
+{
+"en": "A legend...?"
+}
+]
+},
+{
+"id": 7866,
+"file": "MSGD8003.PRG",
+"pages": [
+"...??"
+],
+"choice": null,
+"jp": "？？？",
+"context": [
+{
+"en": "If you could see it, then that means... oh, no way!"
+},
+{
+"en": "Um..."
+},
+{
+"en": "Oh, sorry... I'm just messing with you. It's no big deal. Don't sweat it."
+},
+{
+"self": true
+},
+{
+"en": "Well, to be honest... A legend's been handed down here in Kyo for two thousand years."
+},
+{
+"en": "A legend...?"
+},
+{
+"en": "In eternal rest it lies, held fast by the Sword of Kusanagi. So basically, the power of my Kusanagi bloodline is what keeps some demon contained..."
+}
+]
+},
+{
+"id": 7867,
+"file": "MSGD8003.PRG",
+"pages": [
+"Well, to be honest... A legend's been handed down here in Kyo for two thousand years."
+],
+"choice": null,
+"jp": "実は・・・この京には２０００年の太古より伝わる１つの伝承があるんだ",
+"context": [
+{
+"en": "Um..."
+},
+{
+"en": "Oh, sorry... I'm just messing with you. It's no big deal. Don't sweat it."
+},
+{
+"en": "...??"
+},
+{
+"self": true
+},
+{
+"en": "A legend...?"
+},
+{
+"en": "In eternal rest it lies, held fast by the Sword of Kusanagi. So basically, the power of my Kusanagi bloodline is what keeps some demon contained..."
+},
+{
+"en": "I... I see."
+}
+]
+},
+{
+"id": 7868,
+"file": "MSGD8003.PRG",
+"pages": [
+"A legend...?"
+],
+"choice": null,
+"jp": "伝承・・・ですか",
+"context": [
+{
+"en": "Oh, sorry... I'm just messing with you. It's no big deal. Don't sweat it."
+},
+{
+"en": "...??"
+},
+{
+"en": "Well, to be honest... A legend's been handed down here in Kyo for two thousand years."
+},
+{
+"self": true
+},
+{
+"en": "In eternal rest it lies, held fast by the Sword of Kusanagi. So basically, the power of my Kusanagi bloodline is what keeps some demon contained..."
+},
+{
+"en": "I... I see."
+},
+{
+"en": "It goes on to say that the seal can only be broken by the oath in the blood of old, on the 45th Conjunction of the Heavens."
+}
+]
+},
+{
+"id": 7869,
+"file": "MSGD8003.PRG",
+"pages": [
+"In eternal rest it lies, held fast by the Sword of Kusanagi. So basically, the power of my Kusanagi bloodline is what keeps some demon contained..."
+],
+"choice": null,
+"jp": "「八又なるもの草薙の剣によりて永き眠りにつきたる」・・・つまり我が草薙の力により伝説の魔物を封じた・・・というものらしいんだが・・・",
+"context": [
+{
+"en": "...??"
+},
+{
+"en": "Well, to be honest... A legend's been handed down here in Kyo for two thousand years."
+},
+{
+"en": "A legend...?"
+},
+{
+"self": true
+},
+{
+"en": "I... I see."
+},
+{
+"en": "It goes on to say that the seal can only be broken by the oath in the blood of old, on the 45th Conjunction of the Heavens."
+},
+{
+"en": "45th Conjunction of the Heavens?"
+}
+]
+},
+{
+"id": 7870,
+"file": "MSGD8003.PRG",
+"pages": [
+"I... I see."
+],
+"choice": null,
+"jp": "は　はい",
+"context": [
+{
+"en": "Well, to be honest... A legend's been handed down here in Kyo for two thousand years."
+},
+{
+"en": "A legend...?"
+},
+{
+"en": "In eternal rest it lies, held fast by the Sword of Kusanagi. So basically, the power of my Kusanagi bloodline is what keeps some demon contained..."
+},
+{
+"self": true
+},
+{
+"en": "It goes on to say that the seal can only be broken by the oath in the blood of old, on the 45th Conjunction of the Heavens."
+},
+{
+"en": "45th Conjunction of the Heavens?"
+},
+{
+"en": "Right around now, give or take two or three years."
+}
+]
+},
+{
+"id": 7871,
+"file": "MSGD8003.PRG",
+"pages": [
+"It goes on to say that the seal can only be broken by the oath in the blood of old, on the 45th Conjunction of the Heavens."
+],
+"choice": null,
+"jp": "ただ　この伝承には続きがありそこには「４５の月と星の古き血のめいやくにより封はとかれり」・・・ともある",
+"context": [
+{
+"en": "A legend...?"
+},
+{
+"en": "In eternal rest it lies, held fast by the Sword of Kusanagi. So basically, the power of my Kusanagi bloodline is what keeps some demon contained..."
+},
+{
+"en": "I... I see."
+},
+{
+"self": true
+},
+{
+"en": "45th Conjunction of the Heavens?"
+},
+{
+"en": "Right around now, give or take two or three years."
+},
+{
+"en": "So then...?!"
+}
+]
+},
+{
+"id": 7872,
+"file": "MSGD8003.PRG",
+"pages": [
+"45th Conjunction of the Heavens?"
+],
+"choice": null,
+"jp": "４５の月と星？",
+"context": [
+{
+"en": "In eternal rest it lies, held fast by the Sword of Kusanagi. So basically, the power of my Kusanagi bloodline is what keeps some demon contained..."
+},
+{
+"en": "I... I see."
+},
+{
+"en": "It goes on to say that the seal can only be broken by the oath in the blood of old, on the 45th Conjunction of the Heavens."
+},
+{
+"self": true
+},
+{
+"en": "Right around now, give or take two or three years."
+},
+{
+"en": "So then...?!"
+},
+{
+"en": "... Well, I don't know what the bit about ancient blood means... But I do know that the ancient seal is weakening. And whoever this person in the legend is, he sure isn't just any ordinary man... You with me so far?"
+}
+]
+},
+{
+"id": 7873,
+"file": "MSGD8003.PRG",
+"pages": [
+"Right around now, give or take two or three years."
+],
+"choice": null,
+"jp": "現在の年号で計算するとちょうどここ２～３年の間という事になる",
+"context": [
+{
+"en": "I... I see."
+},
+{
+"en": "It goes on to say that the seal can only be broken by the oath in the blood of old, on the 45th Conjunction of the Heavens."
+},
+{
+"en": "45th Conjunction of the Heavens?"
+},
+{
+"self": true
+},
+{
+"en": "So then...?!"
+},
+{
+"en": "... Well, I don't know what the bit about ancient blood means... But I do know that the ancient seal is weakening. And whoever this person in the legend is, he sure isn't just any ordinary man... You with me so far?"
+},
+{
+"en": "And so... what I saw..."
+}
+]
+},
+{
+"id": 7874,
+"file": "MSGD8003.PRG",
+"pages": [
+"So then...?!"
+],
+"choice": null,
+"jp": "それじゃあ・・・！？",
+"context": [
+{
+"en": "It goes on to say that the seal can only be broken by the oath in the blood of old, on the 45th Conjunction of the Heavens."
+},
+{
+"en": "45th Conjunction of the Heavens?"
+},
+{
+"en": "Right around now, give or take two or three years."
+},
+{
+"self": true
+},
+{
+"en": "... Well, I don't know what the bit about ancient blood means... But I do know that the ancient seal is weakening. And whoever this person in the legend is, he sure isn't just any ordinary man... You with me so far?"
+},
+{
+"en": "And so... what I saw..."
+},
+{
+"en": "Exactly. I do know that these ancient demon things are tough to sense, even for those of my bloodline. With some exceptions..."
+}
+]
+},
+{
+"id": 7875,
+"file": "MSGD8003.PRG",
+"pages": [
+"... Well, I don't know what the bit about ancient blood means... But I do know that the ancient seal is weakening. And whoever this person in the legend is, he sure isn't just any ordinary man... You with me so far?"
+],
+"choice": null,
+"jp": "・・・・・・古き血という意味は解らないがとにかく　いにしえの封印の力が弱まってきているのは確かなんだそして　いにしえの者とは決して普通の者には見えない存在・・・ここまで言えば解るな？",
+"context": [
+{
+"en": "45th Conjunction of the Heavens?"
+},
+{
+"en": "Right around now, give or take two or three years."
+},
+{
+"en": "So then...?!"
+},
+{
+"self": true
+},
+{
+"en": "And so... what I saw..."
+},
+{
+"en": "Exactly. I do know that these ancient demon things are tough to sense, even for those of my bloodline. With some exceptions..."
+},
+{
+"en": "Meaning..."
+}
+]
+},
+{
+"id": 7876,
+"file": "MSGD8003.PRG",
+"pages": [
+"And so... what I saw..."
+],
+"choice": null,
+"jp": "・・・それが僕には・・・見えた・・・",
+"context": [
+{
+"en": "Right around now, give or take two or three years."
+},
+{
+"en": "So then...?!"
+},
+{
+"en": "... Well, I don't know what the bit about ancient blood means... But I do know that the ancient seal is weakening. And whoever this person in the legend is, he sure isn't just any ordinary man... You with me so far?"
+},
+{
+"self": true
+},
+{
+"en": "Exactly. I do know that these ancient demon things are tough to sense, even for those of my bloodline. With some exceptions..."
+},
+{
+"en": "Meaning..."
+},
+{
+"en": "There may be a bigger reason that you're here now. Would you be willing to help me out?"
+}
+]
+},
+{
+"id": 7877,
+"file": "MSGD8003.PRG",
+"pages": [
+"Exactly. I do know that these ancient demon things are tough to sense, even for those of my bloodline. With some exceptions..."
+],
+"choice": null,
+"jp": "そういにしえの存在は一族の者であってもそうやすやすと見えるもんじゃない例外を含めて・・・",
+"context": [
+{
+"en": "So then...?!"
+},
+{
+"en": "... Well, I don't know what the bit about ancient blood means... But I do know that the ancient seal is weakening. And whoever this person in the legend is, he sure isn't just any ordinary man... You with me so far?"
+},
+{
+"en": "And so... what I saw..."
+},
+{
+"self": true
+},
+{
+"en": "Meaning..."
+},
+{
+"en": "There may be a bigger reason that you're here now. Would you be willing to help me out?"
+},
+{
+"en": "All right, then let's get going now!"
+}
+]
+},
+{
+"id": 7878,
+"file": "MSGD8003.PRG",
+"pages": [
+"Meaning..."
+],
+"choice": null,
+"jp": "例外・・・",
+"context": [
+{
+"en": "... Well, I don't know what the bit about ancient blood means... But I do know that the ancient seal is weakening. And whoever this person in the legend is, he sure isn't just any ordinary man... You with me so far?"
+},
+{
+"en": "And so... what I saw..."
+},
+{
+"en": "Exactly. I do know that these ancient demon things are tough to sense, even for those of my bloodline. With some exceptions..."
+},
+{
+"self": true
+},
+{
+"en": "There may be a bigger reason that you're here now. Would you be willing to help me out?"
+},
+{
+"en": "All right, then let's get going now!"
+},
+{
+"en": "Oh, come on...?"
+}
+]
+},
+{
+"id": 7879,
+"file": "MSGD8003.PRG",
+"pages": [
+"There may be a bigger reason that you're here now. Would you be willing to help me out?"
+],
+"choice": {
+"kind": "yn",
+"options": [
+"Yes",
+"No"
+],
+"max_len": 12
+},
+"jp": "ここであったのも何かの縁ちょっとばっかり手伝ってくれないか？はいいいえ",
+"context": [
+{
+"en": "And so... what I saw..."
+},
+{
+"en": "Exactly. I do know that these ancient demon things are tough to sense, even for those of my bloodline. With some exceptions..."
+},
+{
+"en": "Meaning..."
+},
+{
+"self": true
+},
+{
+"en": "All right, then let's get going now!"
+},
+{
+"en": "Oh, come on...?"
+},
+{
+"en": "Where to...?"
+}
+]
+},
+{
+"id": 7880,
+"file": "MSGD8003.PRG",
+"pages": [
+"All right, then let's get going now!"
+],
+"choice": null,
+"jp": "よしッじゃあ早速出発だ！！",
+"context": [
+{
+"en": "Exactly. I do know that these ancient demon things are tough to sense, even for those of my bloodline. With some exceptions..."
+},
+{
+"en": "Meaning..."
+},
+{
+"en": "There may be a bigger reason that you're here now. Would you be willing to help me out?"
+},
+{
+"self": true
+},
+{
+"en": "Oh, come on...?"
+},
+{
+"en": "Where to...?"
+},
+{
+"en": "There's another exception... I suppose."
+}
+]
+},
+{
+"id": 7881,
+"file": "MSGD8003.PRG",
+"pages": [
+"Oh, come on...?"
+],
+"choice": null,
+"jp": "そりゃないぜ・・・な？",
+"context": [
+{
+"en": "Meaning..."
+},
+{
+"en": "There may be a bigger reason that you're here now. Would you be willing to help me out?"
+},
+{
+"en": "All right, then let's get going now!"
+},
+{
+"self": true
+},
+{
+"en": "Where to...?"
+},
+{
+"en": "There's another exception... I suppose."
+},
+{
+"en": "Another what...?!"
+}
+]
+},
+{
+"id": 7882,
+"file": "MSGD8003.PRG",
+"pages": [
+"Where to...?"
+],
+"choice": null,
+"jp": "どこへ・・・",
+"context": [
+{
+"en": "There may be a bigger reason that you're here now. Would you be willing to help me out?"
+},
+{
+"en": "All right, then let's get going now!"
+},
+{
+"en": "Oh, come on...?"
+},
+{
+"self": true
+},
+{
+"en": "There's another exception... I suppose."
+},
+{
+"en": "Another what...?!"
+},
+{
+"en": "No clue if he'll agree to this, though... Well, let's get moving!"
+}
+]
+},
+{
+"id": 7883,
+"file": "MSGD8003.PRG",
+"pages": [
+"There's another exception... I suppose."
+],
+"choice": null,
+"jp": "とりあえずもう１つの例外・・・だな",
+"context": [
+{
+"en": "All right, then let's get going now!"
+},
+{
+"en": "Oh, come on...?"
+},
+{
+"en": "Where to...?"
+},
+{
+"self": true
+},
+{
+"en": "Another what...?!"
+},
+{
+"en": "No clue if he'll agree to this, though... Well, let's get moving!"
+},
+{
+"en": "Hey, wait...!"
+}
+]
+},
+{
+"id": 7884,
+"file": "MSGD8003.PRG",
+"pages": [
+"Another what...?!"
+],
+"choice": null,
+"jp": "もう１つの・・・例外・・・！？",
+"context": [
+{
+"en": "Oh, come on...?"
+},
+{
+"en": "Where to...?"
+},
+{
+"en": "There's another exception... I suppose."
+},
+{
+"self": true
+},
+{
+"en": "No clue if he'll agree to this, though... Well, let's get moving!"
+},
+{
+"en": "Hey, wait...!"
+},
+{
+"en": "This is the place!"
+}
+]
+},
+{
+"id": 7885,
+"file": "MSGD8003.PRG",
+"pages": [
+"No clue if he'll agree to this, though... Well, let's get moving!"
+],
+"choice": null,
+"jp": "しかしあいつが納得するか・・・とりあえず・・・行くゼ！！",
+"context": [
+{
+"en": "Where to...?"
+},
+{
+"en": "There's another exception... I suppose."
+},
+{
+"en": "Another what...?!"
+},
+{
+"self": true
+},
+{
+"en": "Hey, wait...!"
+},
+{
+"en": "This is the place!"
+},
+{
+"en": "Here...?"
+}
+]
+},
+{
+"id": 7886,
+"file": "MSGD8003.PRG",
+"pages": [
+"Hey, wait...!"
+],
+"choice": null,
+"jp": "あ　待って下さい～！！",
+"context": [
+{
+"en": "There's another exception... I suppose."
+},
+{
+"en": "Another what...?!"
+},
+{
+"en": "No clue if he'll agree to this, though... Well, let's get moving!"
+},
+{
+"self": true
+},
+{
+"en": "This is the place!"
+},
+{
+"en": "Here...?"
+},
+{
+"en": "Out of the way!"
+}
+]
+},
+{
+"id": 7887,
+"file": "MSGD8003.PRG",
+"pages": [
+"This is the place!"
+],
+"choice": null,
+"jp": "ここが　その目的地だ！！",
+"context": [
+{
+"en": "Another what...?!"
+},
+{
+"en": "No clue if he'll agree to this, though... Well, let's get moving!"
+},
+{
+"en": "Hey, wait...!"
+},
+{
+"self": true
+},
+{
+"en": "Here...?"
+},
+{
+"en": "Out of the way!"
+},
+{
+"en": "..."
+}
+]
+},
+{
+"id": 7888,
+"file": "MSGD8003.PRG",
+"pages": [
+"Here...?"
+],
+"choice": null,
+"jp": "ここ・・・が・・・",
+"context": [
+{
+"en": "No clue if he'll agree to this, though... Well, let's get moving!"
+},
+{
+"en": "Hey, wait...!"
+},
+{
+"en": "This is the place!"
+},
+{
+"self": true
+},
+{
+"en": "Out of the way!"
+},
+{
+"en": "..."
+},
+{
+"en": "No... no one's here..."
+}
+]
+},
+{
+"id": 7889,
+"file": "MSGD8003.PRG",
+"pages": [
+"Out of the way!"
+],
+"choice": null,
+"jp": "邪魔するぜ！",
+"context": [
+{
+"en": "Hey, wait...!"
+},
+{
+"en": "This is the place!"
+},
+{
+"en": "Here...?"
+},
+{
+"self": true
+},
+{
+"en": "..."
+},
+{
+"en": "No... no one's here..."
+},
+{
+"en": "Not quite!"
+}
+]
+},
+{
+"id": 7890,
+"file": "MSGD8003.PRG",
+"pages": [
+"No... no one's here..."
+],
+"choice": null,
+"jp": "誰も・・・いません・・・ね",
+"context": [
+{
+"en": "Here...?"
+},
+{
+"en": "Out of the way!"
+},
+{
+"en": "..."
+},
+{
+"self": true
+},
+{
+"en": "Not quite!"
+},
+{
+"en": "Zzzzzzzzz..."
+},
+{
+"en": "Wha... what the...?!"
+}
+]
+},
+{
+"id": 7891,
+"file": "MSGD8003.PRG",
+"pages": [
+"Not quite!"
+],
+"choice": null,
+"jp": "・・・いや！",
+"context": [
+{
+"en": "Out of the way!"
+},
+{
+"en": "..."
+},
+{
+"en": "No... no one's here..."
+},
+{
+"self": true
+},
+{
+"en": "Zzzzzzzzz..."
+},
+{
+"en": "Wha... what the...?!"
+},
+{
+"en": "..."
+}
+]
+},
+{
+"id": 7892,
+"file": "MSGD8003.PRG",
+"pages": [
+"Zzzzzzzzz..."
+],
+"choice": null,
+"jp": "おぉぉ・・・ぐぅぅ・・・・・・",
+"context": [
+{
+"en": "..."
+},
+{
+"en": "No... no one's here..."
+},
+{
+"en": "Not quite!"
+},
+{
+"self": true
+},
+{
+"en": "Wha... what the...?!"
+},
+{
+"en": "..."
+},
+{
+"en": "(huff, puff, pant)... Who's there?!"
+}
+]
+},
+{
+"id": 7893,
+"file": "MSGD8003.PRG",
+"pages": [
+"Wha... what the...?!"
+],
+"choice": null,
+"jp": "な　何・・・！？",
+"context": [
+{
+"en": "No... no one's here..."
+},
+{
+"en": "Not quite!"
+},
+{
+"en": "Zzzzzzzzz..."
+},
+{
+"self": true
+},
+{
+"en": "..."
+},
+{
+"en": "(huff, puff, pant)... Who's there?!"
+},
+{
+"en": "Hey there. Long time no see!"
+}
+]
+},
+{
+"id": 7894,
+"file": "MSGD8003.PRG",
+"pages": [
+"(huff, puff, pant)... Who's there?!"
+],
+"choice": null,
+"jp": "ハァ・・ハァ・・ハァ・・・誰だ！？",
+"context": [
+{
+"en": "Zzzzzzzzz..."
+},
+{
+"en": "Wha... what the...?!"
+},
+{
+"en": "..."
+},
+{
+"self": true
+},
+{
+"en": "Hey there. Long time no see!"
+},
+{
+"en": "Kusanagi..."
+},
+{
+"en": "Yep."
+}
+]
+},
+{
+"id": 7895,
+"file": "MSGD8003.PRG",
+"pages": [
+"Hey there. Long time no see!"
+],
+"choice": null,
+"jp": "よう久しぶりだな！",
+"context": [
+{
+"en": "Wha... what the...?!"
+},
+{
+"en": "..."
+},
+{
+"en": "(huff, puff, pant)... Who's there?!"
+},
+{
+"self": true
+},
+{
+"en": "Kusanagi..."
+},
+{
+"en": "Yep."
+},
+{
+"en": "Why are you here?!"
+}
+]
+},
+{
+"id": 7896,
+"file": "MSGD8003.PRG",
+"pages": [
+"Kusanagi..."
+],
+"choice": null,
+"jp": "・・・草薙・・・か",
+"context": [
+{
+"en": "..."
+},
+{
+"en": "(huff, puff, pant)... Who's there?!"
+},
+{
+"en": "Hey there. Long time no see!"
+},
+{
+"self": true
+},
+{
+"en": "Yep."
+},
+{
+"en": "Why are you here?!"
+},
+{
+"en": "Well, you probably know what's been going on..."
+}
+]
+},
+{
+"id": 7897,
+"file": "MSGD8003.PRG",
+"pages": [
+"Yep."
+],
+"choice": null,
+"jp": "ああ",
+"context": [
+{
+"en": "(huff, puff, pant)... Who's there?!"
+},
+{
+"en": "Hey there. Long time no see!"
+},
+{
+"en": "Kusanagi..."
+},
+{
+"self": true
+},
+{
+"en": "Why are you here?!"
+},
+{
+"en": "Well, you probably know what's been going on..."
+},
+{
+"en": "Heh... obviously."
+}
+]
+},
+{
+"id": 7898,
+"file": "MSGD8003.PRG",
+"pages": [
+"Why are you here?!"
+],
+"choice": null,
+"jp": "何しに来たァ！！",
+"context": [
+{
+"en": "Hey there. Long time no see!"
+},
+{
+"en": "Kusanagi..."
+},
+{
+"en": "Yep."
+},
+{
+"self": true
+},
+{
+"en": "Well, you probably know what's been going on..."
+},
+{
+"en": "Heh... obviously."
+},
+{
+"en": "Then there's no point in standing around talking. We don't have much time!"
+}
+]
+},
+{
+"id": 7899,
+"file": "MSGD8003.PRG",
+"pages": [
+"Well, you probably know what's been going on..."
+],
+"choice": null,
+"jp": "状況は・・解っているだろう・・・",
+"context": [
+{
+"en": "Kusanagi..."
+},
+{
+"en": "Yep."
+},
+{
+"en": "Why are you here?!"
+},
+{
+"self": true
+},
+{
+"en": "Heh... obviously."
+},
+{
+"en": "Then there's no point in standing around talking. We don't have much time!"
+},
+{
+"en": "I know."
+}
+]
+},
+{
+"id": 7900,
+"file": "MSGD8003.PRG",
+"pages": [
+"Heh... obviously."
+],
+"choice": null,
+"jp": "ふんッ　知った事か・・・",
+"context": [
+{
+"en": "Yep."
+},
+{
+"en": "Why are you here?!"
+},
+{
+"en": "Well, you probably know what's been going on..."
+},
+{
+"self": true
+},
+{
+"en": "Then there's no point in standing around talking. We don't have much time!"
+},
+{
+"en": "I know."
+},
+{
+"en": "So..."
+}
+]
+},
+{
+"id": 7901,
+"file": "MSGD8003.PRG",
+"pages": [
+"Then there's no point in standing around talking. We don't have much time!"
+],
+"choice": null,
+"jp": "何をいっているのか解って言っているのか？もう時間がないんだぞ！！",
+"context": [
+{
+"en": "Why are you here?!"
+},
+{
+"en": "Well, you probably know what's been going on..."
+},
+{
+"en": "Heh... obviously."
+},
+{
+"self": true
+},
+{
+"en": "I know."
+},
+{
+"en": "So..."
+},
+{
+"en": "I have something I want to ask the brat... It's no business of yours... are we clear?"
+}
+]
+},
+{
+"id": 7902,
+"file": "MSGD8003.PRG",
+"pages": [
+"I know."
+],
+"choice": null,
+"jp": "・・・解っている",
+"context": [
+{
+"en": "Well, you probably know what's been going on..."
+},
+{
+"en": "Heh... obviously."
+},
+{
+"en": "Then there's no point in standing around talking. We don't have much time!"
+},
+{
+"self": true
+},
+{
+"en": "So..."
+},
+{
+"en": "I have something I want to ask the brat... It's no business of yours... are we clear?"
+},
+{
+"en": "All right..."
+}
+]
+},
+{
+"id": 7903,
+"file": "MSGD8003.PRG",
+"pages": [
+"I have something I want to ask the brat... It's no business of yours... are we clear?"
+],
+"choice": null,
+"jp": "・・・そのガキに少し聞きたい事がある・・・無関係では無いだろうからないいか草薙？",
+"context": [
+{
+"en": "Then there's no point in standing around talking. We don't have much time!"
+},
+{
+"en": "I know."
+},
+{
+"en": "So..."
+},
+{
+"self": true
+},
+{
+"en": "All right..."
+},
+{
+"en": "Do you know what it is that I safeguard?"
+},
+{
+"en": "Then what is it?"
+}
+]
+},
+{
+"id": 7904,
+"file": "MSGD8003.PRG",
+"pages": [
+"Do you know what it is that I safeguard?"
+],
+"choice": {
+"kind": "yn",
+"options": [
+"Yes",
+"No"
+],
+"max_len": 12
+},
+"jp": "オレの守護する物・・・解るか？はいいいえ",
+"context": [
+{
+"en": "So..."
+},
+{
+"en": "I have something I want to ask the brat... It's no business of yours... are we clear?"
+},
+{
+"en": "All right..."
+},
+{
+"self": true
+},
+{
+"en": "Then what is it?"
+},
+{
+"en": "Hm... all right, then... but I don't like this. You can come with us!"
+},
+{
+"en": "Yes, it's after the seal!"
+}
+]
+},
+{
+"id": 7905,
+"file": "MSGD8003.PRG",
+"pages": [
+"Then what is it?"
+],
+"choice": {
+"kind": "yn",
+"options": [
+"The sun",
+"The moon"
+],
+"max_len": 12
+},
+"jp": "それは何だ？日輪月",
+"context": [
+{
+"en": "I have something I want to ask the brat... It's no business of yours... are we clear?"
+},
+{
+"en": "All right..."
+},
+{
+"en": "Do you know what it is that I safeguard?"
+},
+{
+"self": true
+},
+{
+"en": "Hm... all right, then... but I don't like this. You can come with us!"
+},
+{
+"en": "Yes, it's after the seal!"
+},
+{
+"en": "Pathetic... you know nothing of me... I'll ask you one more time!"
+}
+]
+},
+{
+"id": 7906,
+"file": "MSGD8003.PRG",
+"pages": [
+"Hm... all right, then... but I don't like this. You can come with us!"
+],
+"choice": null,
+"jp": "ふッ　まぁいいだろう・・・不本意ながらな・・・ただし　同行はせんぞ！！",
+"context": [
+{
+"en": "All right..."
+},
+{
+"en": "Do you know what it is that I safeguard?"
+},
+{
+"en": "Then what is it?"
+},
+{
+"self": true
+},
+{
+"en": "Yes, it's after the seal!"
+},
+{
+"en": "Pathetic... you know nothing of me... I'll ask you one more time!"
+},
+{
+"en": "Here it is!"
+}
+]
+},
+{
+"id": 7907,
+"file": "MSGD8003.PRG",
+"pages": [
+"Yes, it's after the seal!"
+],
+"choice": null,
+"jp": "ああ　さあ封印を目指すぜ！！",
+"context": [
+{
+"en": "Do you know what it is that I safeguard?"
+},
+{
+"en": "Then what is it?"
+},
+{
+"en": "Hm... all right, then... but I don't like this. You can come with us!"
+},
+{
+"self": true
+},
+{
+"en": "Pathetic... you know nothing of me... I'll ask you one more time!"
+},
+{
+"en": "Here it is!"
+},
+{
+"en": "This... is the location of the seal...?"
+}
+]
+},
+{
+"id": 7908,
+"file": "MSGD8003.PRG",
+"pages": [
+"Pathetic... you know nothing of me... I'll ask you one more time!"
+],
+"choice": null,
+"jp": "話にならんな・・・オレの事も解らんようでは・・・いいか　もう一度聞くぞ！！",
+"context": [
+{
+"en": "Then what is it?"
+},
+{
+"en": "Hm... all right, then... but I don't like this. You can come with us!"
+},
+{
+"en": "Yes, it's after the seal!"
+},
+{
+"self": true
+},
+{
+"en": "Here it is!"
+},
+{
+"en": "This... is the location of the seal...?"
+},
+{
+"en": "Yep... land absolutely forbidden to walk on... The Ancient..."
+}
+]
+},
+{
+"id": 7909,
+"file": "MSGD8003.PRG",
+"pages": [
+"Here it is!"
+],
+"choice": null,
+"jp": "ついたぜ！！",
+"context": [
+{
+"en": "Hm... all right, then... but I don't like this. You can come with us!"
+},
+{
+"en": "Yes, it's after the seal!"
+},
+{
+"en": "Pathetic... you know nothing of me... I'll ask you one more time!"
+},
+{
+"self": true
+},
+{
+"en": "This... is the location of the seal...?"
+},
+{
+"en": "Yep... land absolutely forbidden to walk on... The Ancient..."
+},
+{
+"en": "So... I guess Mister Yagami isn't coming after all..."
+}
+]
+},
+{
+"id": 7910,
+"file": "MSGD8003.PRG",
+"pages": [
+"This... is the location of the seal...?"
+],
+"choice": null,
+"jp": "ここが・・・封印の地・・・",
+"context": [
+{
+"en": "Yes, it's after the seal!"
+},
+{
+"en": "Pathetic... you know nothing of me... I'll ask you one more time!"
+},
+{
+"en": "Here it is!"
+},
+{
+"self": true
+},
+{
+"en": "Yep... land absolutely forbidden to walk on... The Ancient..."
+},
+{
+"en": "So... I guess Mister Yagami isn't coming after all..."
+},
+{
+"en": "Let's go!"
+}
+]
+},
+{
+"id": 7911,
+"file": "MSGD8003.PRG",
+"pages": [
+"Yep... land absolutely forbidden to walk on... The Ancient..."
+],
+"choice": null,
+"jp": "そうだ！決して踏み入れる事のできない「いにしえ」の土地・・・",
+"context": [
+{
+"en": "Pathetic... you know nothing of me... I'll ask you one more time!"
+},
+{
+"en": "Here it is!"
+},
+{
+"en": "This... is the location of the seal...?"
+},
+{
+"self": true
+},
+{
+"en": "So... I guess Mister Yagami isn't coming after all..."
+},
+{
+"en": "Let's go!"
+},
+{
+"en": "Mister Kusanagiii...!"
+}
+]
+},
+{
+"id": 7912,
+"file": "MSGD8003.PRG",
+"pages": [
+"So... I guess Mister Yagami isn't coming after all..."
+],
+"choice": null,
+"jp": "結局・・・八神さん・・・来られませんでしたね・・・",
+"context": [
+{
+"en": "Here it is!"
+},
+{
+"en": "This... is the location of the seal...?"
+},
+{
+"en": "Yep... land absolutely forbidden to walk on... The Ancient..."
+},
+{
+"self": true
+},
+{
+"en": "Let's go!"
+},
+{
+"en": "Mister Kusanagiii...!"
+},
+{
+"en": "..."
+}
+]
+},
+{
+"id": 7913,
+"file": "MSGD8003.PRG",
+"pages": [
+"Mister Kusanagiii...!"
+],
+"choice": null,
+"jp": "く　草薙さぁん・・・",
+"context": [
+{
+"en": "Yep... land absolutely forbidden to walk on... The Ancient..."
+},
+{
+"en": "So... I guess Mister Yagami isn't coming after all..."
+},
+{
+"en": "Let's go!"
+},
+{
+"self": true
+},
+{
+"en": "..."
+},
+{
+"en": "You finished dawdling yet...? If we're going to do this, you need to hurry!"
+},
+{
+"en": "Yagami!!"
+}
+]
+},
+{
+"id": 7914,
+"file": "MSGD8003.PRG",
+"pages": [
+"You finished dawdling yet...? If we're going to do this, you need to hurry!"
+],
+"choice": null,
+"jp": "何をチンタラやってるんだ・・・封印するなら早くしたらどうだ！？",
+"context": [
+{
+"en": "Let's go!"
+},
+{
+"en": "Mister Kusanagiii...!"
+},
+{
+"en": "..."
+},
+{
+"self": true
+},
+{
+"en": "Yagami!!"
+},
+{
+"en": "Mister Yagami..."
+},
+{
+"en": "All right, come on, you scum... Or... are you afraid of me?!"
+}
+]
+},
+{
+"id": 7915,
+"file": "MSGD8003.PRG",
+"pages": [
+"Yagami!!"
+],
+"choice": null,
+"jp": "八神！！",
+"context": [
+{
+"en": "Mister Kusanagiii...!"
+},
+{
+"en": "..."
+},
+{
+"en": "You finished dawdling yet...? If we're going to do this, you need to hurry!"
+},
+{
+"self": true
+},
+{
+"en": "Mister Yagami..."
+},
+{
+"en": "All right, come on, you scum... Or... are you afraid of me?!"
+},
+{
+"en": "Let's finish this!"
+}
+]
+},
+{
+"id": 7916,
+"file": "MSGD8003.PRG",
+"pages": [
+"Mister Yagami..."
+],
+"choice": null,
+"jp": "八神さん・・・",
+"context": [
+{
+"en": "..."
+},
+{
+"en": "You finished dawdling yet...? If we're going to do this, you need to hurry!"
+},
+{
+"en": "Yagami!!"
+},
+{
+"self": true
+},
+{
+"en": "All right, come on, you scum... Or... are you afraid of me?!"
+},
+{
+"en": "Let's finish this!"
+},
+{
+"en": "All right..."
+}
+]
+},
+{
+"id": 7917,
+"file": "MSGD8003.PRG",
+"pages": [
+"All right, come on, you scum... Or... are you afraid of me?!"
+],
+"choice": null,
+"jp": "さあ　かかってこいク⑥ども・・・それとも・・・オレが怖いのか！？",
+"context": [
+{
+"en": "You finished dawdling yet...? If we're going to do this, you need to hurry!"
+},
+{
+"en": "Yagami!!"
+},
+{
+"en": "Mister Yagami..."
+},
+{
+"self": true
+},
+{
+"en": "Let's finish this!"
+},
+{
+"en": "All right..."
+},
+{
+"en": "(huff, puff)..."
+}
+]
+},
+{
+"id": 7918,
+"file": "MSGD8003.PRG",
+"pages": [
+"Let's finish this!"
+],
+"choice": null,
+"jp": "さあ　仕上げだ！！",
+"context": [
+{
+"en": "Yagami!!"
+},
+{
+"en": "Mister Yagami..."
+},
+{
+"en": "All right, come on, you scum... Or... are you afraid of me?!"
+},
+{
+"self": true
+},
+{
+"en": "All right..."
+},
+{
+"en": "(huff, puff)..."
+},
+{
+"en": "Mister Yagami...? Are you all right?"
+}
+]
+},
+{
+"id": 7919,
+"file": "MSGD8003.PRG",
+"pages": [
+"(huff, puff)..."
+],
+"choice": null,
+"jp": "はぁはぁはぁ・・・",
+"context": [
+{
+"en": "All right, come on, you scum... Or... are you afraid of me?!"
+},
+{
+"en": "Let's finish this!"
+},
+{
+"en": "All right..."
+},
+{
+"self": true
+},
+{
+"en": "Mister Yagami...? Are you all right?"
+},
+{
+"en": "Stay away from me, runt!"
+},
+{
+"en": "Yagami... oh, no...!"
+}
+]
+},
+{
+"id": 7920,
+"file": "MSGD8003.PRG",
+"pages": [
+"Mister Yagami...? Are you all right?"
+],
+"choice": null,
+"jp": "大丈夫ですか？　八神・・・さん",
+"context": [
+{
+"en": "Let's finish this!"
+},
+{
+"en": "All right..."
+},
+{
+"en": "(huff, puff)..."
+},
+{
+"self": true
+},
+{
+"en": "Stay away from me, runt!"
+},
+{
+"en": "Yagami... oh, no...!"
+},
+{
+"en": "Grooooaaaaaaaooooo!!"
+}
+]
+},
+{
+"id": 7921,
+"file": "MSGD8003.PRG",
+"pages": [
+"Stay away from me, runt!"
+],
+"choice": null,
+"jp": "オレに近づくな・・・チビ！！",
+"context": [
+{
+"en": "All right..."
+},
+{
+"en": "(huff, puff)..."
+},
+{
+"en": "Mister Yagami...? Are you all right?"
+},
+{
+"self": true
+},
+{
+"en": "Yagami... oh, no...!"
+},
+{
+"en": "Grooooaaaaaaaooooo!!"
+},
+{
+"en": "The Riot... of the Blood..."
+}
+]
+},
+{
+"id": 7922,
+"file": "MSGD8003.PRG",
+"pages": [
+"Yagami... oh, no...!"
+],
+"choice": null,
+"jp": "・・・・八神・・・まさか！？",
+"context": [
+{
+"en": "(huff, puff)..."
+},
+{
+"en": "Mister Yagami...? Are you all right?"
+},
+{
+"en": "Stay away from me, runt!"
+},
+{
+"self": true
+},
+{
+"en": "Grooooaaaaaaaooooo!!"
+},
+{
+"en": "The Riot... of the Blood..."
+},
+{
+"en": "Die!!"
+}
+]
+},
+{
+"id": 7923,
+"file": "MSGD8003.PRG",
+"pages": [
+"Grooooaaaaaaaooooo!!"
+],
+"choice": null,
+"jp": "ぐおおおぉぉ～！！",
+"context": [
+{
+"en": "Mister Yagami...? Are you all right?"
+},
+{
+"en": "Stay away from me, runt!"
+},
+{
+"en": "Yagami... oh, no...!"
+},
+{
+"self": true
+},
+{
+"en": "The Riot... of the Blood..."
+},
+{
+"en": "Die!!"
+},
+{
+"en": "Stop, Mister Yagami... why...? Why...?!"
+}
+]
+},
+{
+"id": 7924,
+"file": "MSGD8003.PRG",
+"pages": [
+"The Riot... of the Blood..."
+],
+"choice": null,
+"jp": "血・・の暴走・・",
+"context": [
+{
+"en": "Stay away from me, runt!"
+},
+{
+"en": "Yagami... oh, no...!"
+},
+{
+"en": "Grooooaaaaaaaooooo!!"
+},
+{
+"self": true
+},
+{
+"en": "Die!!"
+},
+{
+"en": "Stop, Mister Yagami... why...? Why...?!"
+},
+{
+"en": "It's no use now... Shizumaru!!"
+}
+]
+},
+{
+"id": 7925,
+"file": "MSGD8003.PRG",
+"pages": [
+"Stop, Mister Yagami... why...? Why...?!"
+],
+"choice": null,
+"jp": "やめてよ！八神さんなんで・・・なんで・・・",
+"context": [
+{
+"en": "Grooooaaaaaaaooooo!!"
+},
+{
+"en": "The Riot... of the Blood..."
+},
+{
+"en": "Die!!"
+},
+{
+"self": true
+},
+{
+"en": "It's no use now... Shizumaru!!"
+},
+{
+"en": "Y-yes?!"
+},
+{
+"en": "You go on ahead and take care of the seal!!"
+}
+]
+},
+{
+"id": 7926,
+"file": "MSGD8003.PRG",
+"pages": [
+"It's no use now... Shizumaru!!"
+],
+"choice": null,
+"jp": "こうなってしまってはもう・・・・・・・・閑丸！！",
+"context": [
+{
+"en": "The Riot... of the Blood..."
+},
+{
+"en": "Die!!"
+},
+{
+"en": "Stop, Mister Yagami... why...? Why...?!"
+},
+{
+"self": true
+},
+{
+"en": "Y-yes?!"
+},
+{
+"en": "You go on ahead and take care of the seal!!"
+},
+{
+"en": "But... but I..."
+}
+]
+},
+{
+"id": 7927,
+"file": "MSGD8003.PRG",
+"pages": [
+"Y-yes?!"
+],
+"choice": null,
+"jp": "は　はい！？",
+"context": [
+{
+"en": "Die!!"
+},
+{
+"en": "Stop, Mister Yagami... why...? Why...?!"
+},
+{
+"en": "It's no use now... Shizumaru!!"
+},
+{
+"self": true
+},
+{
+"en": "You go on ahead and take care of the seal!!"
+},
+{
+"en": "But... but I..."
+},
+{
+"en": "Just go!! Don't you still have more you have to do?!"
+}
+]
+},
+{
+"id": 7928,
+"file": "MSGD8003.PRG",
+"pages": [
+"You go on ahead and take care of the seal!!"
+],
+"choice": null,
+"jp": "先に行け！！そして封印を！！",
+"context": [
+{
+"en": "Stop, Mister Yagami... why...? Why...?!"
+},
+{
+"en": "It's no use now... Shizumaru!!"
+},
+{
+"en": "Y-yes?!"
+},
+{
+"self": true
+},
+{
+"en": "But... but I..."
+},
+{
+"en": "Just go!! Don't you still have more you have to do?!"
+},
+{
+"en": "..."
+}
+]
+},
+{
+"id": 7929,
+"file": "MSGD8003.PRG",
+"pages": [
+"But... but I..."
+],
+"choice": null,
+"jp": "そんな・・・そんなのって・・・",
+"context": [
+{
+"en": "It's no use now... Shizumaru!!"
+},
+{
+"en": "Y-yes?!"
+},
+{
+"en": "You go on ahead and take care of the seal!!"
+},
+{
+"self": true
+},
+{
+"en": "Just go!! Don't you still have more you have to do?!"
+},
+{
+"en": "..."
+},
+{
+"en": "Go! For my sake... and for Yagami's... And for the sake of the cursed bloodline!"
+}
+]
+},
+{
+"id": 7930,
+"file": "MSGD8003.PRG",
+"pages": [
+"Just go!! Don't you still have more you have to do?!"
+],
+"choice": null,
+"jp": "早く行け　閑丸！！お前にはまだやらなければならない事があるんだろう？",
+"context": [
+{
+"en": "Y-yes?!"
+},
+{
+"en": "You go on ahead and take care of the seal!!"
+},
+{
+"en": "But... but I..."
+},
+{
+"self": true
+},
+{
+"en": "..."
+},
+{
+"en": "Go! For my sake... and for Yagami's... And for the sake of the cursed bloodline!"
+},
+{
+"en": "Kyo... it's over... It's really over..."
+}
+]
+},
+{
+"id": 7931,
+"file": "MSGD8003.PRG",
+"pages": [
+"Go! For my sake... and for Yagami's... And for the sake of the cursed bloodline!"
+],
+"choice": null,
+"jp": "行ってくれ！！　おれの為に・・・八神の為に・・・呪われたいにしえの血の為に・・・行け！！　〓〓閑丸！！",
+"context": [
+{
+"en": "But... but I..."
+},
+{
+"en": "Just go!! Don't you still have more you have to do?!"
+},
+{
+"en": "..."
+},
+{
+"self": true
+},
+{
+"en": "Kyo... it's over... It's really over..."
+},
+{
+"en": "..."
+},
+{
+"en": "Grrrrrr..."
+}
+]
+},
+{
+"id": 7932,
+"file": "MSGD8003.PRG",
+"pages": [
+"Kyo... it's over... It's really over..."
+],
+"choice": null,
+"jp": "京さん終わった・・・よ　終わった・・・",
+"context": [
+{
+"en": "Just go!! Don't you still have more you have to do?!"
+},
+{
+"en": "..."
+},
+{
+"en": "Go! For my sake... and for Yagami's... And for the sake of the cursed bloodline!"
+},
+{
+"self": true
+},
+{
+"en": "..."
+},
+{
+"en": "Grrrrrr..."
+},
+{
+"en": "Mister Yagami..."
+}
+]
+},
+{
+"id": 7933,
+"file": "MSGD8003.PRG",
+"pages": [
+"Grrrrrr..."
+],
+"choice": null,
+"jp": "グゥゥゥ・・・",
+"context": [
+{
+"en": "Go! For my sake... and for Yagami's... And for the sake of the cursed bloodline!"
+},
+{
+"en": "Kyo... it's over... It's really over..."
+},
+{
+"en": "..."
+},
+{
+"self": true
+},
+{
+"en": "Mister Yagami..."
+},
+{
+"en": "The next day... Shizumaru has set off on a journey... Though it may be long and arduous...He seeks none other... than Yagami!"
+},
+{
+"en": "Take this!"
+}
+]
+},
+{
+"id": 7934,
+"file": "MSGD8003.PRG",
+"pages": [
+"The next day... Shizumaru has set off on a journey... Though it may be long and arduous...He seeks none other... than Yagami!"
+],
+"choice": null,
+"jp": "・・・１日後〓〓閑丸は旅に出た・・・長い苦しい旅に・・・旅の目的は・・・・・・八神！！！！",
+"context": [
+{
+"en": "..."
+},
+{
+"en": "Grrrrrr..."
+},
+{
+"en": "Mister Yagami..."
+},
+{
+"self": true
+},
+{
+"en": "Take this!"
+},
+{
+"en": "Ook! Oop oooookkkk!! (But I'm right here...!!)"
+},
+{
+"en": "I'm an adult, dammit!!"
+}
+]
+},
+{
+"id": 7935,
+"file": "MSGD8003.PRG",
+"pages": [
+"Take this!"
+],
+"choice": null,
+"jp": "くらえ！！",
+"context": [
+{
+"en": "Grrrrrr..."
+},
+{
+"en": "Mister Yagami..."
+},
+{
+"en": "The next day... Shizumaru has set off on a journey... Though it may be long and arduous...He seeks none other... than Yagami!"
+},
+{
+"self": true
+},
+{
+"en": "Ook! Oop oooookkkk!! (But I'm right here...!!)"
+},
+{
+"en": "I'm an adult, dammit!!"
+}
+]
+},
+{
+"id": 7936,
+"file": "MSGD8004.PRG",
+"pages": [
+"I see... I guess you have to do what you have to do."
+],
+"choice": null,
+"jp": "・・・そうかまぁ無理強いはせんがの",
+"context": [
+{
+"en": "I still haven't done anything... It's no use running... No use..."
+},
+{
+"en": "... I really don't need anything here. I'll look elsewhere."
+},
+{
+"en": "It's closed... I'll look somewhere else."
+},
+{
+"self": true
+},
+{
+"en": "I'm sorry..."
+},
+{
+"en": "No big deal... but come to think of it... On the north side of town, in the three-story pagoda, there's a girl named Cham Cham. I'm told she's an excellent tracker... Why don't you go and see if she can help you?"
+},
+{
+"en": "Who are you?!"
+}
+]
+},
+{
+"id": 7937,
+"file": "MSGD8004.PRG",
+"pages": [
+"I'm sorry..."
+],
+"choice": null,
+"jp": "すいません",
+"context": [
+{
+"en": "... I really don't need anything here. I'll look elsewhere."
+},
+{
+"en": "It's closed... I'll look somewhere else."
+},
+{
+"en": "I see... I guess you have to do what you have to do."
+},
+{
+"self": true
+},
+{
+"en": "No big deal... but come to think of it... On the north side of town, in the three-story pagoda, there's a girl named Cham Cham. I'm told she's an excellent tracker... Why don't you go and see if she can help you?"
+},
+{
+"en": "Who are you?!"
+},
+{
+"en": "My name is Hisame Shizumaru... I'm... looking for a demon."
+}
+]
+},
+{
+"id": 7938,
+"file": "MSGD8004.PRG",
+"pages": [
+"No big deal... but come to think of it... On the north side of town, in the three-story pagoda, there's a girl named Cham Cham. I'm told she's an excellent tracker... Why don't you go and see if she can help you?"
+],
+"choice": null,
+"jp": "まぁ　良いそういえば　北町の三重塔にチャムチャムという女の子がおるなんでも　探しものが得意とか言っておったのう行ってみてはどうかの",
+"context": [
+{
+"en": "It's closed... I'll look somewhere else."
+},
+{
+"en": "I see... I guess you have to do what you have to do."
+},
+{
+"en": "I'm sorry..."
+},
+{
+"self": true
+},
+{
+"en": "Who are you?!"
+},
+{
+"en": "My name is Hisame Shizumaru... I'm... looking for a demon."
+},
+{
+"en": "Oook ook oop ook ooooop! (Wait, Cham Cham!) Ook ook ook! (Something weird is going on!)"
+}
+]
+},
+{
+"id": 7939,
+"file": "MSGD8004.PRG",
+"pages": [
+"My name is Hisame Shizumaru... I'm... looking for a demon."
+],
+"choice": null,
+"jp": "僕は〓〓閑丸・・・鬼を・・・探しています",
+"context": [
+{
+"en": "I'm sorry..."
+},
+{
+"en": "No big deal... but come to think of it... On the north side of town, in the three-story pagoda, there's a girl named Cham Cham. I'm told she's an excellent tracker... Why don't you go and see if she can help you?"
+},
+{
+"en": "Who are you?!"
+},
+{
+"self": true
+},
+{
+"en": "Oook ook oop ook ooooop! (Wait, Cham Cham!) Ook ook ook! (Something weird is going on!)"
+},
+{
+"en": "What's wrong, Pak Pak?"
+},
+{
+"en": "Ook ook oop ook! (I said, something's weird!)"
+}
+]
+},
+{
+"id": 7940,
+"file": "MSGD8004.PRG",
+"pages": [
+"Oook ook oop ook ooooop! (Wait, Cham Cham!) Ook ook ook! (Something weird is going on!)"
+],
+"choice": null,
+"jp": "ウキーウキッキーキー　キーキー（マテ　チャムチャム！！）キーキー　キッキー（ナニカヨウスガヘンⅥ！！）",
+"context": [
+{
+"en": "No big deal... but come to think of it... On the north side of town, in the three-story pagoda, there's a girl named Cham Cham. I'm told she's an excellent tracker... Why don't you go and see if she can help you?"
+},
+{
+"en": "Who are you?!"
+},
+{
+"en": "My name is Hisame Shizumaru... I'm... looking for a demon."
+},
+{
+"self": true
+},
+{
+"en": "What's wrong, Pak Pak?"
+},
+{
+"en": "Ook ook oop ook! (I said, something's weird!)"
+},
+{
+"en": "Gotcha. You think we should help look for the demon."
+}
+]
+},
+{
+"id": 7941,
+"file": "MSGD8004.PRG",
+"pages": [
+"Ook ook oop ook! (I said, something's weird!)"
+],
+"choice": null,
+"jp": "ムッキー　キー　キー　キー（Ⅵカラ　ヨウスガヘンⅥト・・）",
+"context": [
+{
+"en": "My name is Hisame Shizumaru... I'm... looking for a demon."
+},
+{
+"en": "Oook ook oop ook ooooop! (Wait, Cham Cham!) Ook ook ook! (Something weird is going on!)"
+},
+{
+"en": "What's wrong, Pak Pak?"
+},
+{
+"self": true
+},
+{
+"en": "Gotcha. You think we should help look for the demon."
+},
+{
+"en": "Oop oop ook! (Would you just listen to me?) Oop! (I didn't say that at all...)"
+},
+{
+"en": "Okay, Shizumaru! I'm really good at finding stuff! So, I'll help you out!"
+}
+]
+},
+{
+"id": 7942,
+"file": "MSGD8004.PRG",
+"pages": [
+"Gotcha. You think we should help look for the demon."
+],
+"choice": null,
+"jp": "わかッたオニをさがしてあげようッていッてるンⅥ？",
+"context": [
+{
+"en": "Oook ook oop ook ooooop! (Wait, Cham Cham!) Ook ook ook! (Something weird is going on!)"
+},
+{
+"en": "What's wrong, Pak Pak?"
+},
+{
+"en": "Ook ook oop ook! (I said, something's weird!)"
+},
+{
+"self": true
+},
+{
+"en": "Oop oop ook! (Would you just listen to me?) Oop! (I didn't say that at all...)"
+},
+{
+"en": "Okay, Shizumaru! I'm really good at finding stuff! So, I'll help you out!"
+},
+{
+"en": "Um... I don't think your monkey friend is so keen on the idea..."
+}
+]
+},
+{
+"id": 7943,
+"file": "MSGD8004.PRG",
+"pages": [
+"Oop oop ook! (Would you just listen to me?) Oop! (I didn't say that at all...)"
+],
+"choice": null,
+"jp": "キー　キー　キー（チガウ！！　キイテクレ・・）ウキッキーキー　（ソウデハナクテ・・・）",
+"context": [
+{
+"en": "What's wrong, Pak Pak?"
+},
+{
+"en": "Ook ook oop ook! (I said, something's weird!)"
+},
+{
+"en": "Gotcha. You think we should help look for the demon."
+},
+{
+"self": true
+},
+{
+"en": "Okay, Shizumaru! I'm really good at finding stuff! So, I'll help you out!"
+},
+{
+"en": "Um... I don't think your monkey friend is so keen on the idea..."
+},
+{
+"en": "Tsk tsk tsk... You can't understand him! He's always like this..."
+}
+]
+},
+{
+"id": 7944,
+"file": "MSGD8004.PRG",
+"pages": [
+"Okay, Shizumaru! I'm really good at finding stuff! So, I'll help you out!"
+],
+"choice": null,
+"jp": "オッケー　シ⑥マル！！チャムチャム物さがすの得意！！探し物・・・手伝ッてあげる",
+"context": [
+{
+"en": "Ook ook oop ook! (I said, something's weird!)"
+},
+{
+"en": "Gotcha. You think we should help look for the demon."
+},
+{
+"en": "Oop oop ook! (Would you just listen to me?) Oop! (I didn't say that at all...)"
+},
+{
+"self": true
+},
+{
+"en": "Um... I don't think your monkey friend is so keen on the idea..."
+},
+{
+"en": "Tsk tsk tsk... You can't understand him! He's always like this..."
+},
+{
+"en": "Well... I can just imagine why that is..."
+}
+]
+},
+{
+"id": 7945,
+"file": "MSGD8004.PRG",
+"pages": [
+"Um... I don't think your monkey friend is so keen on the idea..."
+],
+"choice": null,
+"jp": "あの・・・・このお猿・・・嫌がっているみたいに見えるけど",
+"context": [
+{
+"en": "Gotcha. You think we should help look for the demon."
+},
+{
+"en": "Oop oop ook! (Would you just listen to me?) Oop! (I didn't say that at all...)"
+},
+{
+"en": "Okay, Shizumaru! I'm really good at finding stuff! So, I'll help you out!"
+},
+{
+"self": true
+},
+{
+"en": "Tsk tsk tsk... You can't understand him! He's always like this..."
+},
+{
+"en": "Well... I can just imagine why that is..."
+},
+{
+"en": "You got something you wanna say?"
+}
+]
+},
+{
+"id": 7946,
+"file": "MSGD8004.PRG",
+"pages": [
+"Tsk tsk tsk... You can't understand him! He's always like this..."
+],
+"choice": null,
+"jp": "ちッ　ちッ　ちッ・・お前パクパクの事わかッてない！最近　パクパクこんな感じ・・・",
+"context": [
+{
+"en": "Oop oop ook! (Would you just listen to me?) Oop! (I didn't say that at all...)"
+},
+{
+"en": "Okay, Shizumaru! I'm really good at finding stuff! So, I'll help you out!"
+},
+{
+"en": "Um... I don't think your monkey friend is so keen on the idea..."
+},
+{
+"self": true
+},
+{
+"en": "Well... I can just imagine why that is..."
+},
+{
+"en": "You got something you wanna say?"
+},
+{
+"en": "Oh, uh, no... nothing at all..."
+}
+]
+},
+{
+"id": 7947,
+"file": "MSGD8004.PRG",
+"pages": [
+"Well... I can just imagine why that is..."
+],
+"choice": null,
+"jp": "それじゃあ・・・いつもそうなんじゃあ・・・",
+"context": [
+{
+"en": "Okay, Shizumaru! I'm really good at finding stuff! So, I'll help you out!"
+},
+{
+"en": "Um... I don't think your monkey friend is so keen on the idea..."
+},
+{
+"en": "Tsk tsk tsk... You can't understand him! He's always like this..."
+},
+{
+"self": true
+},
+{
+"en": "You got something you wanna say?"
+},
+{
+"en": "Oh, uh, no... nothing at all..."
+},
+{
+"en": "Okay, so let's find this demon!!"
+}
+]
+},
+{
+"id": 7948,
+"file": "MSGD8004.PRG",
+"pages": [
+"You got something you wanna say?"
+],
+"choice": null,
+"jp": "何かいッたか・・・シ⑥マル！？",
+"context": [
+{
+"en": "Um... I don't think your monkey friend is so keen on the idea..."
+},
+{
+"en": "Tsk tsk tsk... You can't understand him! He's always like this..."
+},
+{
+"en": "Well... I can just imagine why that is..."
+},
+{
+"self": true
+},
+{
+"en": "Oh, uh, no... nothing at all..."
+},
+{
+"en": "Okay, so let's find this demon!!"
+},
+{
+"en": "Okay..."
+}
+]
+},
+{
+"id": 7949,
+"file": "MSGD8004.PRG",
+"pages": [
+"Oh, uh, no... nothing at all..."
+],
+"choice": null,
+"jp": "い　いえ何も・・・",
+"context": [
+{
+"en": "Tsk tsk tsk... You can't understand him! He's always like this..."
+},
+{
+"en": "Well... I can just imagine why that is..."
+},
+{
+"en": "You got something you wanna say?"
+},
+{
+"self": true
+},
+{
+"en": "Okay, so let's find this demon!!"
+},
+{
+"en": "Okay..."
+},
+{
+"en": "Ook ook ook! (No way, count me out!)"
+}
+]
+},
+{
+"id": 7950,
+"file": "MSGD8004.PRG",
+"pages": [
+"Okay, so let's find this demon!!"
+],
+"choice": null,
+"jp": "まあいい　オニさがすオニ！！",
+"context": [
+{
+"en": "Well... I can just imagine why that is..."
+},
+{
+"en": "You got something you wanna say?"
+},
+{
+"en": "Oh, uh, no... nothing at all..."
+},
+{
+"self": true
+},
+{
+"en": "Okay..."
+},
+{
+"en": "Ook ook ook! (No way, count me out!)"
+},
+{
+"en": "Pak Pak's itching to go too!"
+}
+]
+},
+{
+"id": 7951,
+"file": "MSGD8004.PRG",
+"pages": [
+"Okay..."
+],
+"choice": null,
+"jp": "は　はぁ・・・",
+"context": [
+{
+"en": "You got something you wanna say?"
+},
+{
+"en": "Oh, uh, no... nothing at all..."
+},
+{
+"en": "Okay, so let's find this demon!!"
+},
+{
+"self": true
+},
+{
+"en": "Ook ook ook! (No way, count me out!)"
+},
+{
+"en": "Pak Pak's itching to go too!"
+},
+{
+"en": "Ook... (You never listen to me...)"
+}
+]
+},
+{
+"id": 7952,
+"file": "MSGD8004.PRG",
+"pages": [
+"Ook ook ook! (No way, count me out!)"
+],
+"choice": null,
+"jp": "キー　キーキー　ウッキー（チャムチャム　コトワルンⅥ！）",
+"context": [
+{
+"en": "Oh, uh, no... nothing at all..."
+},
+{
+"en": "Okay, so let's find this demon!!"
+},
+{
+"en": "Okay..."
+},
+{
+"self": true
+},
+{
+"en": "Pak Pak's itching to go too!"
+},
+{
+"en": "Ook... (You never listen to me...)"
+},
+{
+"en": "Let's go, Shizumaru!"
+}
+]
+},
+{
+"id": 7953,
+"file": "MSGD8004.PRG",
+"pages": [
+"Pak Pak's itching to go too!"
+],
+"choice": null,
+"jp": "パクパクもやる気Ⅵ！！チャムチャムもやる気Ⅵゾ！！",
+"context": [
+{
+"en": "Okay, so let's find this demon!!"
+},
+{
+"en": "Okay..."
+},
+{
+"en": "Ook ook ook! (No way, count me out!)"
+},
+{
+"self": true
+},
+{
+"en": "Ook... (You never listen to me...)"
+},
+{
+"en": "Let's go, Shizumaru!"
+},
+{
+"en": "Ook ook ook... (This is no good...) Oop ook ook oop. (I have to stop her...)"
+}
+]
+},
+{
+"id": 7954,
+"file": "MSGD8004.PRG",
+"pages": [
+"Ook... (You never listen to me...)"
+],
+"choice": null,
+"jp": "キー　キーキー（チガウゾ・・チャムチャム）",
+"context": [
+{
+"en": "Okay..."
+},
+{
+"en": "Ook ook ook! (No way, count me out!)"
+},
+{
+"en": "Pak Pak's itching to go too!"
+},
+{
+"self": true
+},
+{
+"en": "Let's go, Shizumaru!"
+},
+{
+"en": "Ook ook ook... (This is no good...) Oop ook ook oop. (I have to stop her...)"
+},
+{
+"en": "I think Pak Pak's hungry!"
+}
+]
+},
+{
+"id": 7955,
+"file": "MSGD8004.PRG",
+"pages": [
+"Let's go, Shizumaru!"
+],
+"choice": null,
+"jp": "行こうか・・・シ⑥マル！！",
+"context": [
+{
+"en": "Ook ook ook! (No way, count me out!)"
+},
+{
+"en": "Pak Pak's itching to go too!"
+},
+{
+"en": "Ook... (You never listen to me...)"
+},
+{
+"self": true
+},
+{
+"en": "Ook ook ook... (This is no good...) Oop ook ook oop. (I have to stop her...)"
+},
+{
+"en": "I think Pak Pak's hungry!"
+},
+{
+"en": "Oh... uh, really?"
+}
+]
+},
+{
+"id": 7956,
+"file": "MSGD8004.PRG",
+"pages": [
+"Ook ook ook... (This is no good...) Oop ook ook oop. (I have to stop her...)"
+],
+"choice": null,
+"jp": "キーキーキー（コレイジョウ・・・）ウキウッキーキーキー（キケンナコト　サセラレナイ）キッキーキー　キーキー（ナントカシナケレバ・・・）",
+"context": [
+{
+"en": "Pak Pak's itching to go too!"
+},
+{
+"en": "Ook... (You never listen to me...)"
+},
+{
+"en": "Let's go, Shizumaru!"
+},
+{
+"self": true
+},
+{
+"en": "I think Pak Pak's hungry!"
+},
+{
+"en": "Oh... uh, really?"
+},
+{
+"en": "Uh-huh. It's not good to go demon hunting on an empty stomach!"
+}
+]
+},
+{
+"id": 7957,
+"file": "MSGD8004.PRG",
+"pages": [
+"I think Pak Pak's hungry!"
+],
+"choice": null,
+"jp": "パクパクおなか空いたみたいⅥ！！",
+"context": [
+{
+"en": "Ook... (You never listen to me...)"
+},
+{
+"en": "Let's go, Shizumaru!"
+},
+{
+"en": "Ook ook ook... (This is no good...) Oop ook ook oop. (I have to stop her...)"
+},
+{
+"self": true
+},
+{
+"en": "Oh... uh, really?"
+},
+{
+"en": "Uh-huh. It's not good to go demon hunting on an empty stomach!"
+},
+{
+"en": "I... I see... Well, shall we be off...?"
+}
+]
+},
+{
+"id": 7958,
+"file": "MSGD8004.PRG",
+"pages": [
+"Oh... uh, really?"
+],
+"choice": null,
+"jp": "え　そうなんスか！？",
+"context": [
+{
+"en": "Let's go, Shizumaru!"
+},
+{
+"en": "Ook ook ook... (This is no good...) Oop ook ook oop. (I have to stop her...)"
+},
+{
+"en": "I think Pak Pak's hungry!"
+},
+{
+"self": true
+},
+{
+"en": "Uh-huh. It's not good to go demon hunting on an empty stomach!"
+},
+{
+"en": "I... I see... Well, shall we be off...?"
+},
+{
+"en": "So why are you looking for this demon, anyhow?"
+}
+]
+},
+{
+"id": 7959,
+"file": "MSGD8004.PRG",
+"pages": [
+"Uh-huh. It's not good to go demon hunting on an empty stomach!"
+],
+"choice": null,
+"jp": "ウン　そうパクパクそのうち戻る心配せずオニさがしニしゅっはつスル！",
+"context": [
+{
+"en": "Ook ook ook... (This is no good...) Oop ook ook oop. (I have to stop her...)"
+},
+{
+"en": "I think Pak Pak's hungry!"
+},
+{
+"en": "Oh... uh, really?"
+},
+{
+"self": true
+},
+{
+"en": "I... I see... Well, shall we be off...?"
+},
+{
+"en": "So why are you looking for this demon, anyhow?"
+},
+{
+"en": "...?"
+}
+]
+},
+{
+"id": 7960,
+"file": "MSGD8004.PRG",
+"pages": [
+"I... I see... Well, shall we be off...?"
+],
+"choice": null,
+"jp": "は　はいじゃあ行きましょうか",
+"context": [
+{
+"en": "I think Pak Pak's hungry!"
+},
+{
+"en": "Oh... uh, really?"
+},
+{
+"en": "Uh-huh. It's not good to go demon hunting on an empty stomach!"
+},
+{
+"self": true
+},
+{
+"en": "So why are you looking for this demon, anyhow?"
+},
+{
+"en": "...?"
+},
+{
+"en": "What I mean is, what will you do when you find it?"
+}
+]
+},
+{
+"id": 7961,
+"file": "MSGD8004.PRG",
+"pages": [
+"So why are you looking for this demon, anyhow?"
+],
+"choice": null,
+"jp": "シ⑥マルはオニ〓してどうするんⅥ？",
+"context": [
+{
+"en": "Oh... uh, really?"
+},
+{
+"en": "Uh-huh. It's not good to go demon hunting on an empty stomach!"
+},
+{
+"en": "I... I see... Well, shall we be off...?"
+},
+{
+"self": true
+},
+{
+"en": "...?"
+},
+{
+"en": "What I mean is, what will you do when you find it?"
+},
+{
+"en": "Well... I plan to kill it."
+}
+]
+},
+{
+"id": 7962,
+"file": "MSGD8004.PRG",
+"pages": [
+"What I mean is, what will you do when you find it?"
+],
+"choice": null,
+"jp": "だからオニに会ッたらドウスル？",
+"context": [
+{
+"en": "I... I see... Well, shall we be off...?"
+},
+{
+"en": "So why are you looking for this demon, anyhow?"
+},
+{
+"en": "...?"
+},
+{
+"self": true
+},
+{
+"en": "Well... I plan to kill it."
+},
+{
+"en": "Hmmm... okay... (I don't get that...)"
+},
+{
+"en": "Is... is it here?"
+}
+]
+},
+{
+"id": 7963,
+"file": "MSGD8004.PRG",
+"pages": [
+"Well... I plan to kill it."
+],
+"choice": null,
+"jp": "・・・・とりあえず・・・斬ります・・・",
+"context": [
+{
+"en": "So why are you looking for this demon, anyhow?"
+},
+{
+"en": "...?"
+},
+{
+"en": "What I mean is, what will you do when you find it?"
+},
+{
+"self": true
+},
+{
+"en": "Hmmm... okay... (I don't get that...)"
+},
+{
+"en": "Is... is it here?"
+},
+{
+"en": "Well, we're starting from here."
+}
+]
+},
+{
+"id": 7964,
+"file": "MSGD8004.PRG",
+"pages": [
+"Hmmm... okay... (I don't get that...)"
+],
+"choice": null,
+"jp": "ふーン斬るのか・・・（何だかよく解ってない）",
+"context": [
+{
+"en": "...?"
+},
+{
+"en": "What I mean is, what will you do when you find it?"
+},
+{
+"en": "Well... I plan to kill it."
+},
+{
+"self": true
+},
+{
+"en": "Is... is it here?"
+},
+{
+"en": "Well, we're starting from here."
+},
+{
+"en": "Starting?!"
+}
+]
+},
+{
+"id": 7965,
+"file": "MSGD8004.PRG",
+"pages": [
+"Is... is it here?"
+],
+"choice": null,
+"jp": "ここに・・いるんですか？",
+"context": [
+{
+"en": "What I mean is, what will you do when you find it?"
+},
+{
+"en": "Well... I plan to kill it."
+},
+{
+"en": "Hmmm... okay... (I don't get that...)"
+},
+{
+"self": true
+},
+{
+"en": "Well, we're starting from here."
+},
+{
+"en": "Starting?!"
+},
+{
+"en": "Sorry..."
+}
+]
+},
+{
+"id": 7966,
+"file": "MSGD8004.PRG",
+"pages": [
+"Well, we're starting from here."
+],
+"choice": null,
+"jp": "とりあえず　ココから行くゾ",
+"context": [
+{
+"en": "Well... I plan to kill it."
+},
+{
+"en": "Hmmm... okay... (I don't get that...)"
+},
+{
+"en": "Is... is it here?"
+},
+{
+"self": true
+},
+{
+"en": "Starting?!"
+},
+{
+"en": "Sorry..."
+},
+{
+"en": "Excuse us...!!"
+}
+]
+},
+{
+"id": 7967,
+"file": "MSGD8004.PRG",
+"pages": [
+"Starting?!"
+],
+"choice": null,
+"jp": "と　とりあえずッスか！？",
+"context": [
+{
+"en": "Hmmm... okay... (I don't get that...)"
+},
+{
+"en": "Is... is it here?"
+},
+{
+"en": "Well, we're starting from here."
+},
+{
+"self": true
+},
+{
+"en": "Sorry..."
+},
+{
+"en": "Excuse us...!!"
+},
+{
+"en": "Hey! What's up, Shizumaru?"
+}
+]
+},
+{
+"id": 7968,
+"file": "MSGD8004.PRG",
+"pages": [
+"Sorry..."
+],
+"choice": null,
+"jp": "すみません",
+"context": [
+{
+"en": "Is... is it here?"
+},
+{
+"en": "Well, we're starting from here."
+},
+{
+"en": "Starting?!"
+},
+{
+"self": true
+},
+{
+"en": "Excuse us...!!"
+},
+{
+"en": "Hey! What's up, Shizumaru?"
+},
+{
+"en": "Bring out the demon! We're gonna kill it."
+}
+]
+},
+{
+"id": 7969,
+"file": "MSGD8004.PRG",
+"pages": [
+"Excuse us...!!"
+],
+"choice": null,
+"jp": "たのもータノモー",
+"context": [
+{
+"en": "Well, we're starting from here."
+},
+{
+"en": "Starting?!"
+},
+{
+"en": "Sorry..."
+},
+{
+"self": true
+},
+{
+"en": "Hey! What's up, Shizumaru?"
+},
+{
+"en": "Bring out the demon! We're gonna kill it."
+},
+{
+"en": "Demon... wait, demon?!"
+}
+]
+},
+{
+"id": 7970,
+"file": "MSGD8004.PRG",
+"pages": [
+"Hey! What's up, Shizumaru?"
+],
+"choice": null,
+"jp": "ＨＥＹ？どうしたんだい　閑丸？",
+"context": [
+{
+"en": "Starting?!"
+},
+{
+"en": "Sorry..."
+},
+{
+"en": "Excuse us...!!"
+},
+{
+"self": true
+},
+{
+"en": "Bring out the demon! We're gonna kill it."
+},
+{
+"en": "Demon... wait, demon?!"
+},
+{
+"en": "Hey... demon?! Shizumaru! What's this about a demon?!"
+}
+]
+},
+{
+"id": 7971,
+"file": "MSGD8004.PRG",
+"pages": [
+"Bring out the demon! We're gonna kill it."
+],
+"choice": null,
+"jp": "オニ出せーオニーオニを斬るゾー",
+"context": [
+{
+"en": "Sorry..."
+},
+{
+"en": "Excuse us...!!"
+},
+{
+"en": "Hey! What's up, Shizumaru?"
+},
+{
+"self": true
+},
+{
+"en": "Demon... wait, demon?!"
+},
+{
+"en": "Hey... demon?! Shizumaru! What's this about a demon?!"
+},
+{
+"en": "I-I thought you understood what we were looking for."
+}
+]
+},
+{
+"id": 7972,
+"file": "MSGD8004.PRG",
+"pages": [
+"Demon... wait, demon?!"
+],
+"choice": null,
+"jp": "オニ・・・オニというと？？",
+"context": [
+{
+"en": "Excuse us...!!"
+},
+{
+"en": "Hey! What's up, Shizumaru?"
+},
+{
+"en": "Bring out the demon! We're gonna kill it."
+},
+{
+"self": true
+},
+{
+"en": "Hey... demon?! Shizumaru! What's this about a demon?!"
+},
+{
+"en": "I-I thought you understood what we were looking for."
+},
+{
+"en": "Something to kill?"
+}
+]
+},
+{
+"id": 7973,
+"file": "MSGD8004.PRG",
+"pages": [
+"Hey... demon?! Shizumaru! What's this about a demon?!"
+],
+"choice": null,
+"jp": "ン・・・？？　オニ・・・！？シ⑥マル！！　オニって！？",
+"context": [
+{
+"en": "Hey! What's up, Shizumaru?"
+},
+{
+"en": "Bring out the demon! We're gonna kill it."
+},
+{
+"en": "Demon... wait, demon?!"
+},
+{
+"self": true
+},
+{
+"en": "I-I thought you understood what we were looking for."
+},
+{
+"en": "Something to kill?"
+},
+{
+"en": "No!"
+}
+]
+},
+{
+"id": 7974,
+"file": "MSGD8004.PRG",
+"pages": [
+"I-I thought you understood what we were looking for."
+],
+"choice": null,
+"jp": "オ　オニが何か解ってなかったんですか？",
+"context": [
+{
+"en": "Bring out the demon! We're gonna kill it."
+},
+{
+"en": "Demon... wait, demon?!"
+},
+{
+"en": "Hey... demon?! Shizumaru! What's this about a demon?!"
+},
+{
+"self": true
+},
+{
+"en": "Something to kill?"
+},
+{
+"en": "No!"
+},
+{
+"en": "...?!"
+}
+]
+},
+{
+"id": 7975,
+"file": "MSGD8004.PRG",
+"pages": [
+"Something to kill?"
+],
+"choice": null,
+"jp": "斬るモノ？",
+"context": [
+{
+"en": "Demon... wait, demon?!"
+},
+{
+"en": "Hey... demon?! Shizumaru! What's this about a demon?!"
+},
+{
+"en": "I-I thought you understood what we were looking for."
+},
+{
+"self": true
+},
+{
+"en": "No!"
+},
+{
+"en": "...?!"
+},
+{
+"en": "It must be here somewhere..."
+}
+]
+},
+{
+"id": 7976,
+"file": "MSGD8004.PRG",
+"pages": [
+"No!"
+],
+"choice": null,
+"jp": "そうじゃなくて！！",
+"context": [
+{
+"en": "Hey... demon?! Shizumaru! What's this about a demon?!"
+},
+{
+"en": "I-I thought you understood what we were looking for."
+},
+{
+"en": "Something to kill?"
+},
+{
+"self": true
+},
+{
+"en": "...?!"
+},
+{
+"en": "It must be here somewhere..."
+},
+{
+"en": "Oh, I didn't know it was here! Hey, kid!"
+}
+]
+},
+{
+"id": 7977,
+"file": "MSGD8004.PRG",
+"pages": [
+"It must be here somewhere..."
+],
+"choice": null,
+"jp": "オニというのはですね・・・・・・",
+"context": [
+{
+"en": "Something to kill?"
+},
+{
+"en": "No!"
+},
+{
+"en": "...?!"
+},
+{
+"self": true
+},
+{
+"en": "Oh, I didn't know it was here! Hey, kid!"
+},
+{
+"en": "Sir?!"
+},
+{
+"en": "Leave this to me! I'll take care of this demon...!! Go, Poppy!"
+}
+]
+},
+{
+"id": 7978,
+"file": "MSGD8004.PRG",
+"pages": [
+"Oh, I didn't know it was here! Hey, kid!"
+],
+"choice": null,
+"jp": "ＯＨ！　そんなヤツがいたとは！！ＢＯＹ！！",
+"context": [
+{
+"en": "No!"
+},
+{
+"en": "...?!"
+},
+{
+"en": "It must be here somewhere..."
+},
+{
+"self": true
+},
+{
+"en": "Sir?!"
+},
+{
+"en": "Leave this to me! I'll take care of this demon...!! Go, Poppy!"
+},
+{
+"en": "He's gone..."
+}
+]
+},
+{
+"id": 7979,
+"file": "MSGD8004.PRG",
+"pages": [
+"Sir?!"
+],
+"choice": null,
+"jp": "はい！？",
+"context": [
+{
+"en": "...?!"
+},
+{
+"en": "It must be here somewhere..."
+},
+{
+"en": "Oh, I didn't know it was here! Hey, kid!"
+},
+{
+"self": true
+},
+{
+"en": "Leave this to me! I'll take care of this demon...!! Go, Poppy!"
+},
+{
+"en": "He's gone..."
+},
+{
+"en": "..."
+}
+]
+},
+{
+"id": 7980,
+"file": "MSGD8004.PRG",
+"pages": [
+"Leave this to me! I'll take care of this demon...!! Go, Poppy!"
+],
+"choice": null,
+"jp": "まかせてくれ！！オニは必ず倒してやる・・！！！　ＧＯ　パピィ！",
+"context": [
+{
+"en": "It must be here somewhere..."
+},
+{
+"en": "Oh, I didn't know it was here! Hey, kid!"
+},
+{
+"en": "Sir?!"
+},
+{
+"self": true
+},
+{
+"en": "He's gone..."
+},
+{
+"en": "..."
+},
+{
+"en": "I wonder where it went..."
+}
+]
+},
+{
+"id": 7981,
+"file": "MSGD8004.PRG",
+"pages": [
+"He's gone..."
+],
+"choice": null,
+"jp": "・・いっちゃいました・・ね・・",
+"context": [
+{
+"en": "Oh, I didn't know it was here! Hey, kid!"
+},
+{
+"en": "Sir?!"
+},
+{
+"en": "Leave this to me! I'll take care of this demon...!! Go, Poppy!"
+},
+{
+"self": true
+},
+{
+"en": "..."
+},
+{
+"en": "I wonder where it went..."
+},
+{
+"en": "I guess... that wasn't the demon?"
+}
+]
+},
+{
+"id": 7982,
+"file": "MSGD8004.PRG",
+"pages": [
+"I wonder where it went..."
+],
+"choice": null,
+"jp": "どこへ行ったんでしょう・・かね？",
+"context": [
+{
+"en": "Leave this to me! I'll take care of this demon...!! Go, Poppy!"
+},
+{
+"en": "He's gone..."
+},
+{
+"en": "..."
+},
+{
+"self": true
+},
+{
+"en": "I guess... that wasn't the demon?"
+},
+{
+"en": "Do you know where the demon is at all...?"
+},
+{
+"en": "Still haven't found it, huh?"
+}
+]
+},
+{
+"id": 7983,
+"file": "MSGD8004.PRG",
+"pages": [
+"I guess... that wasn't the demon?"
+],
+"choice": null,
+"jp": "オニ・・・じゃナイのか？",
+"context": [
+{
+"en": "He's gone..."
+},
+{
+"en": "..."
+},
+{
+"en": "I wonder where it went..."
+},
+{
+"self": true
+},
+{
+"en": "Do you know where the demon is at all...?"
+},
+{
+"en": "Still haven't found it, huh?"
+},
+{
+"en": "Grrr... he's the demon!"
+}
+]
+},
+{
+"id": 7984,
+"file": "MSGD8004.PRG",
+"pages": [
+"Do you know where the demon is at all...?"
+],
+"choice": null,
+"jp": "・・・オニってどこにいるのか・・知ってるんですか・・ねぇ・・",
+"context": [
+{
+"en": "..."
+},
+{
+"en": "I wonder where it went..."
+},
+{
+"en": "I guess... that wasn't the demon?"
+},
+{
+"self": true
+},
+{
+"en": "Still haven't found it, huh?"
+},
+{
+"en": "Grrr... he's the demon!"
+},
+{
+"en": "Don't let yourself be fooled..."
+}
+]
+},
+{
+"id": 7985,
+"file": "MSGD8004.PRG",
+"pages": [
+"Still haven't found it, huh?"
+],
+"choice": null,
+"jp": "・・・なかなか見つかりませんね",
+"context": [
+{
+"en": "I wonder where it went..."
+},
+{
+"en": "I guess... that wasn't the demon?"
+},
+{
+"en": "Do you know where the demon is at all...?"
+},
+{
+"self": true
+},
+{
+"en": "Grrr... he's the demon!"
+},
+{
+"en": "Don't let yourself be fooled..."
+},
+{
+"en": "Shizumaru! The demon! The demon!!"
+}
+]
+},
+{
+"id": 7986,
+"file": "MSGD8004.PRG",
+"pages": [
+"Grrr... he's the demon!"
+],
+"choice": null,
+"jp": "・・・くぅ～アイツは鬼だゼ！！",
+"context": [
+{
+"en": "I guess... that wasn't the demon?"
+},
+{
+"en": "Do you know where the demon is at all...?"
+},
+{
+"en": "Still haven't found it, huh?"
+},
+{
+"self": true
+},
+{
+"en": "Don't let yourself be fooled..."
+},
+{
+"en": "Shizumaru! The demon! The demon!!"
+},
+{
+"en": "Right..."
+}
+]
+},
+{
+"id": 7987,
+"file": "MSGD8004.PRG",
+"pages": [
+"Don't let yourself be fooled..."
+],
+"choice": null,
+"jp": "だまされるお主が悪いのであろう",
+"context": [
+{
+"en": "Do you know where the demon is at all...?"
+},
+{
+"en": "Still haven't found it, huh?"
+},
+{
+"en": "Grrr... he's the demon!"
+},
+{
+"self": true
+},
+{
+"en": "Shizumaru! The demon! The demon!!"
+},
+{
+"en": "Right..."
+},
+{
+"en": "I'm sorry!"
+}
+]
+},
+{
+"id": 7988,
+"file": "MSGD8004.PRG",
+"pages": [
+"Shizumaru! The demon! The demon!!"
+],
+"choice": null,
+"jp": "シ⑥マル！！オニ！！　オニ！！",
+"context": [
+{
+"en": "Still haven't found it, huh?"
+},
+{
+"en": "Grrr... he's the demon!"
+},
+{
+"en": "Don't let yourself be fooled..."
+},
+{
+"self": true
+},
+{
+"en": "Right..."
+},
+{
+"en": "I'm sorry!"
+},
+{
+"en": "Huh? What's wrong, Shizumaru?"
+}
+]
+},
+{
+"id": 7989,
+"file": "MSGD8004.PRG",
+"pages": [
+"Right..."
+],
+"choice": null,
+"jp": "う　うん",
+"context": [
+{
+"en": "Grrr... he's the demon!"
+},
+{
+"en": "Don't let yourself be fooled..."
+},
+{
+"en": "Shizumaru! The demon! The demon!!"
+},
+{
+"self": true
+},
+{
+"en": "I'm sorry!"
+},
+{
+"en": "Huh? What's wrong, Shizumaru?"
+},
+{
+"en": "Um... about the demon..."
+}
+]
+},
+{
+"id": 7990,
+"file": "MSGD8004.PRG",
+"pages": [
+"I'm sorry!"
+],
+"choice": null,
+"jp": "すみません！！",
+"context": [
+{
+"en": "Don't let yourself be fooled..."
+},
+{
+"en": "Shizumaru! The demon! The demon!!"
+},
+{
+"en": "Right..."
+},
+{
+"self": true
+},
+{
+"en": "Huh? What's wrong, Shizumaru?"
+},
+{
+"en": "Um... about the demon..."
+},
+{
+"en": "Oh, that... You should check out the drapery store in north Kyo... You might learn something useful there..."
+}
+]
+},
+{
+"id": 7991,
+"file": "MSGD8004.PRG",
+"pages": [
+"Huh? What's wrong, Shizumaru?"
+],
+"choice": null,
+"jp": "！？　おう　どうした閑丸？",
+"context": [
+{
+"en": "Shizumaru! The demon! The demon!!"
+},
+{
+"en": "Right..."
+},
+{
+"en": "I'm sorry!"
+},
+{
+"self": true
+},
+{
+"en": "Um... about the demon..."
+},
+{
+"en": "Oh, that... You should check out the drapery store in north Kyo... You might learn something useful there..."
+},
+{
+"en": "Excuse me, then... and thank you very much."
+}
+]
+},
+{
+"id": 7992,
+"file": "MSGD8004.PRG",
+"pages": [
+"Um... about the demon..."
+],
+"choice": null,
+"jp": "あの・・・オニって・・・",
+"context": [
+{
+"en": "Right..."
+},
+{
+"en": "I'm sorry!"
+},
+{
+"en": "Huh? What's wrong, Shizumaru?"
+},
+{
+"self": true
+},
+{
+"en": "Oh, that... You should check out the drapery store in north Kyo... You might learn something useful there..."
+},
+{
+"en": "Excuse me, then... and thank you very much."
+},
+{
+"en": "Come on, Shizumaru! To the drapery store!!"
+}
+]
+},
+{
+"id": 7993,
+"file": "MSGD8004.PRG",
+"pages": [
+"Oh, that... You should check out the drapery store in north Kyo... You might learn something useful there..."
+],
+"choice": null,
+"jp": "ああ　そのコトか・・・この北町にある呉服屋に行ってみな・・・あとはおのずと解るだろう・・・",
+"context": [
+{
+"en": "I'm sorry!"
+},
+{
+"en": "Huh? What's wrong, Shizumaru?"
+},
+{
+"en": "Um... about the demon..."
+},
+{
+"self": true
+},
+{
+"en": "Excuse me, then... and thank you very much."
+},
+{
+"en": "Come on, Shizumaru! To the drapery store!!"
+},
+{
+"en": "All right, let's go..."
+}
+]
+},
+{
+"id": 7994,
+"file": "MSGD8004.PRG",
+"pages": [
+"Excuse me, then... and thank you very much."
+],
+"choice": null,
+"jp": "すみませんありがとうございます",
+"context": [
+{
+"en": "Huh? What's wrong, Shizumaru?"
+},
+{
+"en": "Um... about the demon..."
+},
+{
+"en": "Oh, that... You should check out the drapery store in north Kyo... You might learn something useful there..."
+},
+{
+"self": true
+},
+{
+"en": "Come on, Shizumaru! To the drapery store!!"
+},
+{
+"en": "All right, let's go..."
+},
+{
+"en": "Let's gooooo!!"
+}
+]
+},
+{
+"id": 7995,
+"file": "MSGD8004.PRG",
+"pages": [
+"Come on, Shizumaru! To the drapery store!!"
+],
+"choice": null,
+"jp": "シ⑥マル！！ゴフクヤに行く！！",
+"context": [
+{
+"en": "Um... about the demon..."
+},
+{
+"en": "Oh, that... You should check out the drapery store in north Kyo... You might learn something useful there..."
+},
+{
+"en": "Excuse me, then... and thank you very much."
+},
+{
+"self": true
+},
+{
+"en": "All right, let's go..."
+},
+{
+"en": "Let's gooooo!!"
+},
+{
+"en": "Um... didn't I just say that...?"
+}
+]
+},
+{
+"id": 7996,
+"file": "MSGD8004.PRG",
+"pages": [
+"All right, let's go..."
+],
+"choice": null,
+"jp": "それじゃあとりあえず行きましょうか",
+"context": [
+{
+"en": "Oh, that... You should check out the drapery store in north Kyo... You might learn something useful there..."
+},
+{
+"en": "Excuse me, then... and thank you very much."
+},
+{
+"en": "Come on, Shizumaru! To the drapery store!!"
+},
+{
+"self": true
+},
+{
+"en": "Let's gooooo!!"
+},
+{
+"en": "Um... didn't I just say that...?"
+},
+{
+"en": "(huff, puff...)"
+}
+]
+},
+{
+"id": 7997,
+"file": "MSGD8004.PRG",
+"pages": [
+"Let's gooooo!!"
+],
+"choice": null,
+"jp": "行こー行こー　ゴフク！！",
+"context": [
+{
+"en": "Excuse me, then... and thank you very much."
+},
+{
+"en": "Come on, Shizumaru! To the drapery store!!"
+},
+{
+"en": "All right, let's go..."
+},
+{
+"self": true
+},
+{
+"en": "Um... didn't I just say that...?"
+},
+{
+"en": "(huff, puff...)"
+},
+{
+"en": "You're a demon, aren't you?! Sorry about this!"
+}
+]
+},
+{
+"id": 7998,
+"file": "MSGD8004.PRG",
+"pages": [
+"Um... didn't I just say that...?"
+],
+"choice": null,
+"jp": "・・・・さぁ・・・行こうかな・・・と・・・",
+"context": [
+{
+"en": "Come on, Shizumaru! To the drapery store!!"
+},
+{
+"en": "All right, let's go..."
+},
+{
+"en": "Let's gooooo!!"
+},
+{
+"self": true
+},
+{
+"en": "(huff, puff...)"
+},
+{
+"en": "You're a demon, aren't you?! Sorry about this!"
+},
+{
+"en": "Wh... what...?!"
+}
+]
+},
+{
+"id": 7999,
+"file": "MSGD8004.PRG",
+"pages": [
+"(huff, puff...)"
+],
+"choice": null,
+"jp": "ふぅ・・・ふぅ・・・・・・",
+"context": [
+{
+"en": "All right, let's go..."
+},
+{
+"en": "Let's gooooo!!"
+},
+{
+"en": "Um... didn't I just say that...?"
+},
+{
+"self": true
+},
+{
+"en": "You're a demon, aren't you?! Sorry about this!"
+},
+{
+"en": "Wh... what...?!"
+},
+{
+"en": "I must kill the demon..."
+}
+]
+},
+{
+"id": 8000,
+"file": "MSGD8004.PRG",
+"pages": [
+"You're a demon, aren't you?! Sorry about this!"
+],
+"choice": null,
+"jp": "あなたオニですね！！ごめんなさい！！",
+"context": [
+{
+"en": "Let's gooooo!!"
+},
+{
+"en": "Um... didn't I just say that...?"
+},
+{
+"en": "(huff, puff...)"
+},
+{
+"self": true
+},
+{
+"en": "Wh... what...?!"
+},
+{
+"en": "I must kill the demon..."
+},
+{
+"en": "Yes?!"
+}
+]
+},
+{
+"id": 8001,
+"file": "MSGD8004.PRG",
+"pages": [
+"Wh... what...?!"
+],
+"choice": null,
+"jp": "な　何を・・・！？",
+"context": [
+{
+"en": "Um... didn't I just say that...?"
+},
+{
+"en": "(huff, puff...)"
+},
+{
+"en": "You're a demon, aren't you?! Sorry about this!"
+},
+{
+"self": true
+},
+{
+"en": "I must kill the demon..."
+},
+{
+"en": "Yes?!"
+},
+{
+"en": "Shizumaru! Is the demon in there?!"
+}
+]
+},
+{
+"id": 8002,
+"file": "MSGD8004.PRG",
+"pages": [
+"I must kill the demon..."
+],
+"choice": null,
+"jp": "オニは斬らなければ・・・",
+"context": [
+{
+"en": "(huff, puff...)"
+},
+{
+"en": "You're a demon, aren't you?! Sorry about this!"
+},
+{
+"en": "Wh... what...?!"
+},
+{
+"self": true
+},
+{
+"en": "Yes?!"
+},
+{
+"en": "Shizumaru! Is the demon in there?!"
+},
+{
+"en": "So you're finally here..."
+}
+]
+},
+{
+"id": 8003,
+"file": "MSGD8004.PRG",
+"pages": [
+"Yes?!"
+],
+"choice": null,
+"jp": "はい！？",
+"context": [
+{
+"en": "You're a demon, aren't you?! Sorry about this!"
+},
+{
+"en": "Wh... what...?!"
+},
+{
+"en": "I must kill the demon..."
+},
+{
+"self": true
+},
+{
+"en": "Shizumaru! Is the demon in there?!"
+},
+{
+"en": "So you're finally here..."
+},
+{
+"en": "Wha... what?!"
+}
+]
+},
+{
+"id": 8004,
+"file": "MSGD8004.PRG",
+"pages": [
+"Shizumaru! Is the demon in there?!"
+],
+"choice": null,
+"jp": "シ⑥マル！！オニいたか！？",
+"context": [
+{
+"en": "Wh... what...?!"
+},
+{
+"en": "I must kill the demon..."
+},
+{
+"en": "Yes?!"
+},
+{
+"self": true
+},
+{
+"en": "So you're finally here..."
+},
+{
+"en": "Wha... what?!"
+},
+{
+"en": "It's no big deal... don't worry about it. Let's kill the demon!"
+}
+]
+},
+{
+"id": 8005,
+"file": "MSGD8004.PRG",
+"pages": [
+"So you're finally here..."
+],
+"choice": null,
+"jp": "・・・やっと来たか・・・",
+"context": [
+{
+"en": "I must kill the demon..."
+},
+{
+"en": "Yes?!"
+},
+{
+"en": "Shizumaru! Is the demon in there?!"
+},
+{
+"self": true
+},
+{
+"en": "Wha... what?!"
+},
+{
+"en": "It's no big deal... don't worry about it. Let's kill the demon!"
+},
+{
+"en": "Whoa, whoa! Hold on a second! What's this about a demon?"
+}
+]
+},
+{
+"id": 8006,
+"file": "MSGD8004.PRG",
+"pages": [
+"It's no big deal... don't worry about it. Let's kill the demon!"
+],
+"choice": null,
+"jp": "いいッス気にしなくて・・・オニ斬ります！！",
+"context": [
+{
+"en": "Shizumaru! Is the demon in there?!"
+},
+{
+"en": "So you're finally here..."
+},
+{
+"en": "Wha... what?!"
+},
+{
+"self": true
+},
+{
+"en": "Whoa, whoa! Hold on a second! What's this about a demon?"
+},
+{
+"en": "You're not a demon? But... Mister Haohmaru said the guy in the drapery store was..."
+},
+{
+"en": "Oh, that again..."
+}
+]
+},
+{
+"id": 8007,
+"file": "MSGD8004.PRG",
+"pages": [
+"Whoa, whoa! Hold on a second! What's this about a demon?"
+],
+"choice": null,
+"jp": "うわ～！！ちょっと待って下さい何のコトですかオニって？",
+"context": [
+{
+"en": "So you're finally here..."
+},
+{
+"en": "Wha... what?!"
+},
+{
+"en": "It's no big deal... don't worry about it. Let's kill the demon!"
+},
+{
+"self": true
+},
+{
+"en": "You're not a demon? But... Mister Haohmaru said the guy in the drapery store was..."
+},
+{
+"en": "Oh, that again..."
+},
+{
+"en": "What do you mean?!"
+}
+]
+},
+{
+"id": 8008,
+"file": "MSGD8004.PRG",
+"pages": [
+"You're not a demon? But... Mister Haohmaru said the guy in the drapery store was..."
+],
+"choice": null,
+"jp": "オニじゃないんですか？覇王丸さんが呉服屋にいる人はオニって・・・",
+"context": [
+{
+"en": "Wha... what?!"
+},
+{
+"en": "It's no big deal... don't worry about it. Let's kill the demon!"
+},
+{
+"en": "Whoa, whoa! Hold on a second! What's this about a demon?"
+},
+{
+"self": true
+},
+{
+"en": "Oh, that again..."
+},
+{
+"en": "What do you mean?!"
+},
+{
+"en": "Well, to be honest, I've seen gambling upstairs for a while... Won quite a lot from a pair of rather rash young folk, too... Even if... well, I cheated."
+}
+]
+},
+{
+"id": 8009,
+"file": "MSGD8004.PRG",
+"pages": [
+"Oh, that again..."
+],
+"choice": null,
+"jp": "ああ　そのコトですかい・・・",
+"context": [
+{
+"en": "It's no big deal... don't worry about it. Let's kill the demon!"
+},
+{
+"en": "Whoa, whoa! Hold on a second! What's this about a demon?"
+},
+{
+"en": "You're not a demon? But... Mister Haohmaru said the guy in the drapery store was..."
+},
+{
+"self": true
+},
+{
+"en": "What do you mean?!"
+},
+{
+"en": "Well, to be honest, I've seen gambling upstairs for a while... Won quite a lot from a pair of rather rash young folk, too... Even if... well, I cheated."
+},
+{
+"en": "..."
+}
+]
+},
+{
+"id": 8010,
+"file": "MSGD8004.PRG",
+"pages": [
+"Well, to be honest, I've seen gambling upstairs for a while... Won quite a lot from a pair of rather rash young folk, too... Even if... well, I cheated."
+],
+"choice": null,
+"jp": "実は　さっきまで二階で博打をやってましてね・・・２人の若い侍さんからめちゃめちゃ勝たしてもらったんですよ・・・その・・・イカサマでね",
+"context": [
+{
+"en": "You're not a demon? But... Mister Haohmaru said the guy in the drapery store was..."
+},
+{
+"en": "Oh, that again..."
+},
+{
+"en": "What do you mean?!"
+},
+{
+"self": true
+},
+{
+"en": "..."
+},
+{
+"en": "I guess I got so caught up in how much I'd won... I got caught... and well, here I am. Since then, I've just been working here..."
+},
+{
+"en": "..."
+}
+]
+},
+{
+"id": 8011,
+"file": "MSGD8004.PRG",
+"pages": [
+"I guess I got so caught up in how much I'd won... I got caught... and well, here I am. Since then, I've just been working here..."
+],
+"choice": null,
+"jp": "・・・その後調子に乗りすぎちまってイカサマだってばれて身ぐるみはがされちまって・・・それで　今はここでタⅥ働きさせられてる次第で・・",
+"context": [
+{
+"en": "What do you mean?!"
+},
+{
+"en": "Well, to be honest, I've seen gambling upstairs for a while... Won quite a lot from a pair of rather rash young folk, too... Even if... well, I cheated."
+},
+{
+"en": "..."
+},
+{
+"self": true
+},
+{
+"en": "..."
+},
+{
+"en": "So... are you listening?"
+},
+{
+"en": "You're... not a demon, then?"
+}
+]
+},
+{
+"id": 8012,
+"file": "MSGD8004.PRG",
+"pages": [
+"So... are you listening?"
+],
+"choice": null,
+"jp": "だからね・・・って聞いてる？",
+"context": [
+{
+"en": "..."
+},
+{
+"en": "I guess I got so caught up in how much I'd won... I got caught... and well, here I am. Since then, I've just been working here..."
+},
+{
+"en": "..."
+},
+{
+"self": true
+},
+{
+"en": "You're... not a demon, then?"
+},
+{
+"en": "Well... I should get back to the washing..."
+},
+{
+"en": "..."
+}
+]
+},
+{
+"id": 8013,
+"file": "MSGD8004.PRG",
+"pages": [
+"You're... not a demon, then?"
+],
+"choice": null,
+"jp": "オニじゃないんですか？",
+"context": [
+{
+"en": "I guess I got so caught up in how much I'd won... I got caught... and well, here I am. Since then, I've just been working here..."
+},
+{
+"en": "..."
+},
+{
+"en": "So... are you listening?"
+},
+{
+"self": true
+},
+{
+"en": "Well... I should get back to the washing..."
+},
+{
+"en": "..."
+},
+{
+"en": "Are you going to give up...?"
+}
+]
+},
+{
+"id": 8014,
+"file": "MSGD8004.PRG",
+"pages": [
+"Well... I should get back to the washing..."
+],
+"choice": null,
+"jp": "・・・多分・・・あ　洗〓早く洗わなきゃ・・・",
+"context": [
+{
+"en": "..."
+},
+{
+"en": "So... are you listening?"
+},
+{
+"en": "You're... not a demon, then?"
+},
+{
+"self": true
+},
+{
+"en": "..."
+},
+{
+"en": "Are you going to give up...?"
+},
+{
+"en": "I don't think this guy is the demon... Or at least, not the one I've been looking for..."
+}
+]
+},
+{
+"id": 8015,
+"file": "MSGD8004.PRG",
+"pages": [
+"Are you going to give up...?"
+],
+"choice": null,
+"jp": "オニ・・・あきらめるのか？",
+"context": [
+{
+"en": "You're... not a demon, then?"
+},
+{
+"en": "Well... I should get back to the washing..."
+},
+{
+"en": "..."
+},
+{
+"self": true
+},
+{
+"en": "I don't think this guy is the demon... Or at least, not the one I've been looking for..."
+},
+{
+"en": "Okay..."
+},
+{
+"en": "I think... I think I'm going to leave. It doesn't look like the demon's around here. Thanks for your help, though..."
+}
+]
+},
+{
+"id": 8016,
+"file": "MSGD8004.PRG",
+"pages": [
+"I don't think this guy is the demon... Or at least, not the one I've been looking for..."
+],
+"choice": null,
+"jp": "この人は・・・もうオニじゃない・・・らしいそれに僕の〓してるオニとは・・・ちょっと違う・・・と思う",
+"context": [
+{
+"en": "Well... I should get back to the washing..."
+},
+{
+"en": "..."
+},
+{
+"en": "Are you going to give up...?"
+},
+{
+"self": true
+},
+{
+"en": "Okay..."
+},
+{
+"en": "I think... I think I'm going to leave. It doesn't look like the demon's around here. Thanks for your help, though..."
+},
+{
+"en": "All right..."
+}
+]
+},
+{
+"id": 8017,
+"file": "MSGD8004.PRG",
+"pages": [
+"I think... I think I'm going to leave. It doesn't look like the demon's around here. Thanks for your help, though..."
+],
+"choice": null,
+"jp": "僕・・・また旅に出るよどうやらここには鬼はいないようだ今までありがとう・・・",
+"context": [
+{
+"en": "Are you going to give up...?"
+},
+{
+"en": "I don't think this guy is the demon... Or at least, not the one I've been looking for..."
+},
+{
+"en": "Okay..."
+},
+{
+"self": true
+},
+{
+"en": "All right..."
+},
+{
+"en": "I'm in your debt..."
+},
+{
+"en": "Heh heh heh... you take care, okay?"
+}
+]
+},
+{
+"id": 8018,
+"file": "MSGD8004.PRG",
+"pages": [
+"I'm in your debt..."
+],
+"choice": null,
+"jp": "・・・世話になったね",
+"context": [
+{
+"en": "Okay..."
+},
+{
+"en": "I think... I think I'm going to leave. It doesn't look like the demon's around here. Thanks for your help, though..."
+},
+{
+"en": "All right..."
+},
+{
+"self": true
+},
+{
+"en": "Heh heh heh... you take care, okay?"
+},
+{
+"en": "I will... You too..."
+},
+{
+"en": "Meanwhile..."
+}
+]
+},
+{
+"id": 8019,
+"file": "MSGD8004.PRG",
+"pages": [
+"Heh heh heh... you take care, okay?"
+],
+"choice": null,
+"jp": "・・・へへへ・・・シ⑥マルも元気ナ！！",
+"context": [
+{
+"en": "I think... I think I'm going to leave. It doesn't look like the demon's around here. Thanks for your help, though..."
+},
+{
+"en": "All right..."
+},
+{
+"en": "I'm in your debt..."
+},
+{
+"self": true
+},
+{
+"en": "I will... You too..."
+},
+{
+"en": "Meanwhile..."
+},
+{
+"en": "Ook ook... (Cham Cham...) Oop ook ook... (The demon's... dead...) Ook ook ook ook oop. (So where are you...)"
+}
+]
+},
+{
+"id": 8020,
+"file": "MSGD8004.PRG",
+"pages": [
+"I will... You too..."
+],
+"choice": null,
+"jp": "うんそれじゃあ・・・",
+"context": [
+{
+"en": "All right..."
+},
+{
+"en": "I'm in your debt..."
+},
+{
+"en": "Heh heh heh... you take care, okay?"
+},
+{
+"self": true
+},
+{
+"en": "Meanwhile..."
+},
+{
+"en": "Ook ook... (Cham Cham...) Oop ook ook... (The demon's... dead...) Ook ook ook ook oop. (So where are you...)"
+},
+{
+"en": "Ook ook... oop. (When will I get my body back?) Oop ook ook ook... (Soon, I hope...)"
+}
+]
+},
+{
+"id": 8021,
+"file": "MSGD8004.PRG",
+"pages": [
+"Meanwhile..."
+],
+"choice": null,
+"jp": "一方パクパク（タムタム）は・・・",
+"context": [
+{
+"en": "I'm in your debt..."
+},
+{
+"en": "Heh heh heh... you take care, okay?"
+},
+{
+"en": "I will... You too..."
+},
+{
+"self": true
+},
+{
+"en": "Ook ook... (Cham Cham...) Oop ook ook... (The demon's... dead...) Ook ook ook ook oop. (So where are you...)"
+},
+{
+"en": "Ook ook... oop. (When will I get my body back?) Oop ook ook ook... (Soon, I hope...)"
+},
+{
+"en": "Ook! Oop oooookkkk!! (But I'm right here...!!)"
+}
+]
+},
+{
+"id": 8022,
+"file": "MSGD8004.PRG",
+"pages": [
+"Ook ook... (Cham Cham...) Oop ook ook... (The demon's... dead...) Ook ook ook ook oop. (So where are you...)"
+],
+"choice": null,
+"jp": "キーキ・・・（チャムチャム・・・）ウッキー　ウキィーキー（オニ・・・タオシタゾ・・・）ムキーキー　キーッキーッキー（マⅥ・・・コナイ・カ・・・）",
+"context": [
+{
+"en": "Heh heh heh... you take care, okay?"
+},
+{
+"en": "I will... You too..."
+},
+{
+"en": "Meanwhile..."
+},
+{
+"self": true
+},
+{
+"en": "Ook ook... oop. (When will I get my body back?) Oop ook ook ook... (Soon, I hope...)"
+},
+{
+"en": "Ook! Oop oooookkkk!! (But I'm right here...!!)"
+},
+{
+"en": "I'm an adult, dammit!"
+}
+]
+},
+{
+"id": 8023,
+"file": "MSGD8004.PRG",
+"pages": [
+"Ook ook... oop. (When will I get my body back?) Oop ook ook ook... (Soon, I hope...)"
+],
+"choice": null,
+"jp": "ウッキー　キキー・・・（・・・イツモドルノカ・・・）ムッキー　キー（タムタムノ・・・カラⅥ・・・）キーッキーッキー（ハァ・・・アノコロハヨカッタ）",
+"context": [
+{
+"en": "I will... You too..."
+},
+{
+"en": "Meanwhile..."
+},
+{
+"en": "Ook ook... (Cham Cham...) Oop ook ook... (The demon's... dead...) Ook ook ook ook oop. (So where are you...)"
+},
+{
+"self": true
+},
+{
+"en": "Ook! Oop oooookkkk!! (But I'm right here...!!)"
+},
+{
+"en": "I'm an adult, dammit!"
+}
+]
+},
+{
+"id": 8024,
+"file": "MSGD8004.PRG",
+"pages": [
+"I'm an adult, dammit!"
+],
+"choice": null,
+"jp": "由里はもう大人っチ！！",
+"context": [
+{
+"en": "Ook ook... (Cham Cham...) Oop ook ook... (The demon's... dead...) Ook ook ook ook oop. (So where are you...)"
+},
+{
+"en": "Ook ook... oop. (When will I get my body back?) Oop ook ook ook... (Soon, I hope...)"
+},
+{
+"en": "Ook! Oop oooookkkk!! (But I'm right here...!!)"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 8025,
+"file": "MSGD8005.PRG",
+"pages": [
+"Well, in southern Kyo... there been something suspicious around the Hashimoto Theatre... Maybe you should look there...?"
+],
+"choice": null,
+"jp": "・・・北町のぉ・・・ワシの古い連れの調べでは橋本座の辺りがあやしいそうなまずは　そこを調べてはどうかな",
+"context": [
+{
+"en": "I still haven't done anything... It's no use running... No use..."
+},
+{
+"en": "... I really don't need anything here. I'll look elsewhere."
+},
+{
+"en": "It's closed... I'll look somewhere else."
+},
+{
+"self": true
+},
+{
+"en": "Umm...!!"
+},
+{
+"en": "Psychoboo-ruga hikari hanachi Athenanosugata terashi dasuno"
+},
+{
+"en": "I'm Asamiya Athena! I'm a Psycho Sold... you're not interested... I'm a singing and dancing idol singer. Who are you?"
+}
+]
+},
+{
+"id": 8026,
+"file": "MSGD8005.PRG",
+"pages": [
+"Umm...!!"
+],
+"choice": null,
+"jp": "あの・・・！！！",
+"context": [
+{
+"en": "... I really don't need anything here. I'll look elsewhere."
+},
+{
+"en": "It's closed... I'll look somewhere else."
+},
+{
+"en": "Well, in southern Kyo... there been something suspicious around the Hashimoto Theatre... Maybe you should look there...?"
+},
+{
+"self": true
+},
+{
+"en": "Psychoboo-ruga hikari hanachi Athenanosugata terashi dasuno"
+},
+{
+"en": "I'm Asamiya Athena! I'm a Psycho Sold... you're not interested... I'm a singing and dancing idol singer. Who are you?"
+},
+{
+"en": "I'm Hisame Shizumaru. Lately, I've just been..."
+}
+]
+},
+{
+"id": 8027,
+"file": "MSGD8005.PRG",
+"pages": [
+"Psychoboo-ruga hikari hanachi Athenanosugata terashi dasuno"
+],
+"choice": null,
+"jp": "〓サイコホールが　光　放ちあてなの姿　照らしだすの",
+"context": [
+{
+"en": "It's closed... I'll look somewhere else."
+},
+{
+"en": "Well, in southern Kyo... there been something suspicious around the Hashimoto Theatre... Maybe you should look there...?"
+},
+{
+"en": "Umm...!!"
+},
+{
+"self": true
+},
+{
+"en": "I'm Asamiya Athena! I'm a Psycho Sold... you're not interested... I'm a singing and dancing idol singer. Who are you?"
+},
+{
+"en": "I'm Hisame Shizumaru. Lately, I've just been..."
+},
+{
+"en": "Hey... what'd you think of that song...?"
+}
+]
+},
+{
+"id": 8028,
+"file": "MSGD8005.PRG",
+"pages": [
+"I'm Asamiya Athena! I'm a Psycho Sold... you're not interested... I'm a singing and dancing idol singer. Who are you?"
+],
+"choice": null,
+"jp": "私は阿沙宮あてなサイコソル・・・じゃなくて歌って踊れるアイドルよ君は？",
+"context": [
+{
+"en": "Well, in southern Kyo... there been something suspicious around the Hashimoto Theatre... Maybe you should look there...?"
+},
+{
+"en": "Umm...!!"
+},
+{
+"en": "Psychoboo-ruga hikari hanachi Athenanosugata terashi dasuno"
+},
+{
+"self": true
+},
+{
+"en": "I'm Hisame Shizumaru. Lately, I've just been..."
+},
+{
+"en": "Hey... what'd you think of that song...?"
+},
+{
+"en": "Thank you. I'm getting a little tired of singing alone, though. I've been thinking I might try to find a partner. Would you look for one for me?"
+}
+]
+},
+{
+"id": 8029,
+"file": "MSGD8005.PRG",
+"pages": [
+"I'm Hisame Shizumaru. Lately, I've just been..."
+],
+"choice": null,
+"jp": "僕は〓〓閑丸実は最近の・・・",
+"context": [
+{
+"en": "Umm...!!"
+},
+{
+"en": "Psychoboo-ruga hikari hanachi Athenanosugata terashi dasuno"
+},
+{
+"en": "I'm Asamiya Athena! I'm a Psycho Sold... you're not interested... I'm a singing and dancing idol singer. Who are you?"
+},
+{
+"self": true
+},
+{
+"en": "Hey... what'd you think of that song...?"
+},
+{
+"en": "Thank you. I'm getting a little tired of singing alone, though. I've been thinking I might try to find a partner. Would you look for one for me?"
+},
+{
+"en": "Hmmm... I'm not too surprised. It needs more than just me... Otherwise I'll never turn it into the greatest song ever."
+}
+]
+},
+{
+"id": 8030,
+"file": "MSGD8005.PRG",
+"pages": [
+"Hey... what'd you think of that song...?"
+],
+"choice": {
+"kind": "yn",
+"options": [
+"It was good",
+"Not a fan"
+],
+"max_len": 12
+},
+"jp": "ねぇ　さっきの歌なんだけど・・・どう思う？良かったイマイチ",
+"context": [
+{
+"en": "Psychoboo-ruga hikari hanachi Athenanosugata terashi dasuno"
+},
+{
+"en": "I'm Asamiya Athena! I'm a Psycho Sold... you're not interested... I'm a singing and dancing idol singer. Who are you?"
+},
+{
+"en": "I'm Hisame Shizumaru. Lately, I've just been..."
+},
+{
+"self": true
+},
+{
+"en": "Thank you. I'm getting a little tired of singing alone, though. I've been thinking I might try to find a partner. Would you look for one for me?"
+},
+{
+"en": "Hmmm... I'm not too surprised. It needs more than just me... Otherwise I'll never turn it into the greatest song ever."
+},
+{
+"en": "Um, well... (Greatest song ever...?)"
+}
+]
+},
+{
+"id": 8031,
+"file": "MSGD8005.PRG",
+"pages": [
+"Thank you. I'm getting a little tired of singing alone, though. I've been thinking I might try to find a partner. Would you look for one for me?"
+],
+"choice": {
+"kind": "yn",
+"options": [
+"Yes",
+"No"
+],
+"max_len": 12
+},
+"jp": "ありがとうでも　そろそろ一人で歌うのもあきてきちゃったからパートナーを〓そうかと思っていたの閑丸君　〓してきてくれる？はいいいえ",
+"context": [
+{
+"en": "I'm Asamiya Athena! I'm a Psycho Sold... you're not interested... I'm a singing and dancing idol singer. Who are you?"
+},
+{
+"en": "I'm Hisame Shizumaru. Lately, I've just been..."
+},
+{
+"en": "Hey... what'd you think of that song...?"
+},
+{
+"self": true
+},
+{
+"en": "Hmmm... I'm not too surprised. It needs more than just me... Otherwise I'll never turn it into the greatest song ever."
+},
+{
+"en": "Um, well... (Greatest song ever...?)"
+},
+{
+"en": "I know! It might not be bad to sing in a group for a change... Would you look for one for me, Shizumaru?"
+}
+]
+},
+{
+"id": 8032,
+"file": "MSGD8005.PRG",
+"pages": [
+"Hmmm... I'm not too surprised. It needs more than just me... Otherwise I'll never turn it into the greatest song ever."
+],
+"choice": null,
+"jp": "う～ん　やっはりさすがの私でもこれだけ強力な歌になると一人で歌うのにも限界があるわね",
+"context": [
+{
+"en": "I'm Hisame Shizumaru. Lately, I've just been..."
+},
+{
+"en": "Hey... what'd you think of that song...?"
+},
+{
+"en": "Thank you. I'm getting a little tired of singing alone, though. I've been thinking I might try to find a partner. Would you look for one for me?"
+},
+{
+"self": true
+},
+{
+"en": "Um, well... (Greatest song ever...?)"
+},
+{
+"en": "I know! It might not be bad to sing in a group for a change... Would you look for one for me, Shizumaru?"
+},
+{
+"en": "You will? Thank you!!"
+}
+]
+},
+{
+"id": 8033,
+"file": "MSGD8005.PRG",
+"pages": [
+"Um, well... (Greatest song ever...?)"
+],
+"choice": null,
+"jp": "いや　あの・・・（強力な歌・・・？）",
+"context": [
+{
+"en": "Hey... what'd you think of that song...?"
+},
+{
+"en": "Thank you. I'm getting a little tired of singing alone, though. I've been thinking I might try to find a partner. Would you look for one for me?"
+},
+{
+"en": "Hmmm... I'm not too surprised. It needs more than just me... Otherwise I'll never turn it into the greatest song ever."
+},
+{
+"self": true
+},
+{
+"en": "I know! It might not be bad to sing in a group for a change... Would you look for one for me, Shizumaru?"
+},
+{
+"en": "You will? Thank you!!"
+},
+{
+"en": "... (Oh, well...)"
+}
+]
+},
+{
+"id": 8034,
+"file": "MSGD8005.PRG",
+"pages": [
+"I know! It might not be bad to sing in a group for a change... Would you look for one for me, Shizumaru?"
+],
+"choice": {
+"kind": "yn",
+"options": [
+"Yes",
+"No"
+],
+"max_len": 12
+},
+"jp": "・・・そうだ！一度グループで歌うのも悪くわないわ閑丸君　〓してきてくれる？はいいいえ",
+"context": [
+{
+"en": "Thank you. I'm getting a little tired of singing alone, though. I've been thinking I might try to find a partner. Would you look for one for me?"
+},
+{
+"en": "Hmmm... I'm not too surprised. It needs more than just me... Otherwise I'll never turn it into the greatest song ever."
+},
+{
+"en": "Um, well... (Greatest song ever...?)"
+},
+{
+"self": true
+},
+{
+"en": "You will? Thank you!!"
+},
+{
+"en": "... (Oh, well...)"
+},
+{
+"en": "Oh, come on... pleeeeaaase?"
+}
+]
+},
+{
+"id": 8035,
+"file": "MSGD8005.PRG",
+"pages": [
+"You will? Thank you!!"
+],
+"choice": null,
+"jp": "ほんと！　ありがとう！じゃあ　お願いね",
+"context": [
+{
+"en": "Hmmm... I'm not too surprised. It needs more than just me... Otherwise I'll never turn it into the greatest song ever."
+},
+{
+"en": "Um, well... (Greatest song ever...?)"
+},
+{
+"en": "I know! It might not be bad to sing in a group for a change... Would you look for one for me, Shizumaru?"
+},
+{
+"self": true
+},
+{
+"en": "... (Oh, well...)"
+},
+{
+"en": "Oh, come on... pleeeeaaase?"
+},
+{
+"en": "Hurry and find someone... I'll be thinking up some new dance moves."
+}
+]
+},
+{
+"id": 8036,
+"file": "MSGD8005.PRG",
+"pages": [
+"... (Oh, well...)"
+],
+"choice": null,
+"jp": "・・・・・・（まあ　いいか）",
+"context": [
+{
+"en": "Um, well... (Greatest song ever...?)"
+},
+{
+"en": "I know! It might not be bad to sing in a group for a change... Would you look for one for me, Shizumaru?"
+},
+{
+"en": "You will? Thank you!!"
+},
+{
+"self": true
+},
+{
+"en": "Oh, come on... pleeeeaaase?"
+},
+{
+"en": "Hurry and find someone... I'll be thinking up some new dance moves."
+},
+{
+"en": "Hmm? What's wrong?"
+}
+]
+},
+{
+"id": 8037,
+"file": "MSGD8005.PRG",
+"pages": [
+"Oh, come on... pleeeeaaase?"
+],
+"choice": {
+"kind": "yn",
+"options": [
+"Yes",
+"No"
+],
+"max_len": 12
+},
+"jp": "そんなこといわないで・・・ね？探してきてくれる？はいいいえ",
+"context": [
+{
+"en": "I know! It might not be bad to sing in a group for a change... Would you look for one for me, Shizumaru?"
+},
+{
+"en": "You will? Thank you!!"
+},
+{
+"en": "... (Oh, well...)"
+},
+{
+"self": true
+},
+{
+"en": "Hurry and find someone... I'll be thinking up some new dance moves."
+},
+{
+"en": "Hmm? What's wrong?"
+},
+{
+"en": "Err... well, I..."
+}
+]
+},
+{
+"id": 8038,
+"file": "MSGD8005.PRG",
+"pages": [
+"Hurry and find someone... I'll be thinking up some new dance moves."
+],
+"choice": null,
+"jp": "早く〓してきてね私は　新しい振り付けを考えておくから",
+"context": [
+{
+"en": "You will? Thank you!!"
+},
+{
+"en": "... (Oh, well...)"
+},
+{
+"en": "Oh, come on... pleeeeaaase?"
+},
+{
+"self": true
+},
+{
+"en": "Hmm? What's wrong?"
+},
+{
+"en": "Err... well, I..."
+},
+{
+"en": "Ohh! It's Athena! I'll be ready in a flash! Just wait outside, okay?"
+}
+]
+},
+{
+"id": 8039,
+"file": "MSGD8005.PRG",
+"pages": [
+"Hmm? What's wrong?"
+],
+"choice": null,
+"jp": "あら？どうしたの閑丸さん？",
+"context": [
+{
+"en": "... (Oh, well...)"
+},
+{
+"en": "Oh, come on... pleeeeaaase?"
+},
+{
+"en": "Hurry and find someone... I'll be thinking up some new dance moves."
+},
+{
+"self": true
+},
+{
+"en": "Err... well, I..."
+},
+{
+"en": "Ohh! It's Athena! I'll be ready in a flash! Just wait outside, okay?"
+},
+{
+"en": "All right..."
+}
+]
+},
+{
+"id": 8040,
+"file": "MSGD8005.PRG",
+"pages": [
+"Err... well, I..."
+],
+"choice": null,
+"jp": "実は・・・・・・・・・なんです",
+"context": [
+{
+"en": "Oh, come on... pleeeeaaase?"
+},
+{
+"en": "Hurry and find someone... I'll be thinking up some new dance moves."
+},
+{
+"en": "Hmm? What's wrong?"
+},
+{
+"self": true
+},
+{
+"en": "Ohh! It's Athena! I'll be ready in a flash! Just wait outside, okay?"
+},
+{
+"en": "All right..."
+},
+{
+"en": ". . . . . . . . . . . . . . . . . . . . . . . . Wow, Nakoruru's taking her time. I wonder what happened...?"
+}
+]
+},
+{
+"id": 8041,
+"file": "MSGD8005.PRG",
+"pages": [
+"Ohh! It's Athena! I'll be ready in a flash! Just wait outside, okay?"
+],
+"choice": null,
+"jp": "まあ！　あてなさんが！！すぐに準備するので外で待っていて下さい",
+"context": [
+{
+"en": "Hurry and find someone... I'll be thinking up some new dance moves."
+},
+{
+"en": "Hmm? What's wrong?"
+},
+{
+"en": "Err... well, I..."
+},
+{
+"self": true
+},
+{
+"en": "All right..."
+},
+{
+"en": ". . . . . . . . . . . . . . . . . . . . . . . . Wow, Nakoruru's taking her time. I wonder what happened...?"
+},
+{
+"en": "Check in on her?"
+}
+]
+},
+{
+"id": 8042,
+"file": "MSGD8005.PRG",
+"pages": [
+". . . . . . . . . . . . . . . . . . . . . . . . Wow, Nakoruru's taking her time. I wonder what happened...?"
+],
+"choice": null,
+"jp": "・・・・・・・・・・・・・・・・・・・・・・・・遅いな　ナコルルさん？どうしたんだろう？",
+"context": [
+{
+"en": "Err... well, I..."
+},
+{
+"en": "Ohh! It's Athena! I'll be ready in a flash! Just wait outside, okay?"
+},
+{
+"en": "All right..."
+},
+{
+"self": true
+},
+{
+"en": "Check in on her?"
+},
+{
+"en": "It takes girls a little while to get ready... I think I'll just wait a bit longer."
+},
+{
+"en": "Miss Nakoruru...? Is everything all right?"
+}
+]
+},
+{
+"id": 8043,
+"file": "MSGD8005.PRG",
+"pages": [
+"Check in on her?"
+],
+"choice": {
+"kind": "yn",
+"options": [
+"Yes",
+"No"
+],
+"max_len": 12
+},
+"jp": "様子を見に行く？はいいいえ",
+"context": [
+{
+"en": "Ohh! It's Athena! I'll be ready in a flash! Just wait outside, okay?"
+},
+{
+"en": "All right..."
+},
+{
+"en": ". . . . . . . . . . . . . . . . . . . . . . . . Wow, Nakoruru's taking her time. I wonder what happened...?"
+},
+{
+"self": true
+},
+{
+"en": "It takes girls a little while to get ready... I think I'll just wait a bit longer."
+},
+{
+"en": "Miss Nakoruru...? Is everything all right?"
+},
+{
+"en": ". . . . . . . . . . . ."
+}
+]
+},
+{
+"id": 8044,
+"file": "MSGD8005.PRG",
+"pages": [
+"It takes girls a little while to get ready... I think I'll just wait a bit longer."
+],
+"choice": null,
+"jp": "女性は支度に時間が掛かるっていうし・・・もう少し待ってみよう　うん",
+"context": [
+{
+"en": "All right..."
+},
+{
+"en": ". . . . . . . . . . . . . . . . . . . . . . . . Wow, Nakoruru's taking her time. I wonder what happened...?"
+},
+{
+"en": "Check in on her?"
+},
+{
+"self": true
+},
+{
+"en": "Miss Nakoruru...? Is everything all right?"
+},
+{
+"en": ". . . . . . . . . . . ."
+},
+{
+"en": "What in the world...? She's totally frostbitten... What could have done this...?"
+}
+]
+},
+{
+"id": 8045,
+"file": "MSGD8005.PRG",
+"pages": [
+"Miss Nakoruru...? Is everything all right?"
+],
+"choice": null,
+"jp": "あっ！　ナコルルさん？どうしたんですか？",
+"context": [
+{
+"en": ". . . . . . . . . . . . . . . . . . . . . . . . Wow, Nakoruru's taking her time. I wonder what happened...?"
+},
+{
+"en": "Check in on her?"
+},
+{
+"en": "It takes girls a little while to get ready... I think I'll just wait a bit longer."
+},
+{
+"self": true
+},
+{
+"en": ". . . . . . . . . . . ."
+},
+{
+"en": "What in the world...? She's totally frostbitten... What could have done this...?"
+},
+{
+"en": "Um, excuse me..."
+}
+]
+},
+{
+"id": 8046,
+"file": "MSGD8005.PRG",
+"pages": [
+". . . . . . . . . . . ."
+],
+"choice": null,
+"jp": "・・・・・・・・・・・・",
+"context": [
+{
+"en": "Check in on her?"
+},
+{
+"en": "It takes girls a little while to get ready... I think I'll just wait a bit longer."
+},
+{
+"en": "Miss Nakoruru...? Is everything all right?"
+},
+{
+"self": true
+},
+{
+"en": "What in the world...? She's totally frostbitten... What could have done this...?"
+},
+{
+"en": "Um, excuse me..."
+},
+{
+"en": "I'm Cham Cham, and this is my buddy, Pak Pak!"
+}
+]
+},
+{
+"id": 8047,
+"file": "MSGD8005.PRG",
+"pages": [
+"What in the world...? She's totally frostbitten... What could have done this...?"
+],
+"choice": null,
+"jp": "こ　これは？　・・・ひどい全身がしもやけだいったい・・・何があったんだ？",
+"context": [
+{
+"en": "It takes girls a little while to get ready... I think I'll just wait a bit longer."
+},
+{
+"en": "Miss Nakoruru...? Is everything all right?"
+},
+{
+"en": ". . . . . . . . . . . ."
+},
+{
+"self": true
+},
+{
+"en": "Um, excuse me..."
+},
+{
+"en": "I'm Cham Cham, and this is my buddy, Pak Pak!"
+},
+{
+"en": "I'm Hisame Shizumaru. Well... umm... I..."
+}
+]
+},
+{
+"id": 8048,
+"file": "MSGD8005.PRG",
+"pages": [
+"Um, excuse me..."
+],
+"choice": null,
+"jp": "あの　すいません",
+"context": [
+{
+"en": "Miss Nakoruru...? Is everything all right?"
+},
+{
+"en": ". . . . . . . . . . . ."
+},
+{
+"en": "What in the world...? She's totally frostbitten... What could have done this...?"
+},
+{
+"self": true
+},
+{
+"en": "I'm Cham Cham, and this is my buddy, Pak Pak!"
+},
+{
+"en": "I'm Hisame Shizumaru. Well... umm... I..."
+},
+{
+"en": "Hmmm... I don't really get it, but I like to sing..."
+}
+]
+},
+{
+"id": 8049,
+"file": "MSGD8005.PRG",
+"pages": [
+"I'm Cham Cham, and this is my buddy, Pak Pak!"
+],
+"choice": null,
+"jp": "ホクはチャムチャムこいつは子分のパクパクだよ",
+"context": [
+{
+"en": ". . . . . . . . . . . ."
+},
+{
+"en": "What in the world...? She's totally frostbitten... What could have done this...?"
+},
+{
+"en": "Um, excuse me..."
+},
+{
+"self": true
+},
+{
+"en": "I'm Hisame Shizumaru. Well... umm... I..."
+},
+{
+"en": "Hmmm... I don't really get it, but I like to sing..."
+},
+{
+"en": "Okay..."
+}
+]
+},
+{
+"id": 8050,
+"file": "MSGD8005.PRG",
+"pages": [
+"I'm Hisame Shizumaru. Well... umm... I..."
+],
+"choice": null,
+"jp": "僕は〓〓閑丸実は・・・・・・・・・なんだけど・・・",
+"context": [
+{
+"en": "What in the world...? She's totally frostbitten... What could have done this...?"
+},
+{
+"en": "Um, excuse me..."
+},
+{
+"en": "I'm Cham Cham, and this is my buddy, Pak Pak!"
+},
+{
+"self": true
+},
+{
+"en": "Hmmm... I don't really get it, but I like to sing..."
+},
+{
+"en": "Okay..."
+},
+{
+"en": "It sounds like fun! I'll give it a try!"
+}
+]
+},
+{
+"id": 8051,
+"file": "MSGD8005.PRG",
+"pages": [
+"Hmmm... I don't really get it, but I like to sing..."
+],
+"choice": null,
+"jp": "ウーン　よくわかんないケド歌えばいいンだよね？",
+"context": [
+{
+"en": "Um, excuse me..."
+},
+{
+"en": "I'm Cham Cham, and this is my buddy, Pak Pak!"
+},
+{
+"en": "I'm Hisame Shizumaru. Well... umm... I..."
+},
+{
+"self": true
+},
+{
+"en": "Okay..."
+},
+{
+"en": "It sounds like fun! I'll give it a try!"
+},
+{
+"en": "Really?! Okay, then let's go see Athena...!"
+}
+]
+},
+{
+"id": 8052,
+"file": "MSGD8005.PRG",
+"pages": [
+"It sounds like fun! I'll give it a try!"
+],
+"choice": null,
+"jp": "面白そうだからホク　やッてみる！！",
+"context": [
+{
+"en": "I'm Hisame Shizumaru. Well... umm... I..."
+},
+{
+"en": "Hmmm... I don't really get it, but I like to sing..."
+},
+{
+"en": "Okay..."
+},
+{
+"self": true
+},
+{
+"en": "Really?! Okay, then let's go see Athena...!"
+},
+{
+"en": "Okay! Let's go, Pak Pak!"
+},
+{
+"en": "Ook ook!"
+}
+]
+},
+{
+"id": 8053,
+"file": "MSGD8005.PRG",
+"pages": [
+"Really?! Okay, then let's go see Athena...!"
+],
+"choice": null,
+"jp": "本当ですか？！じゃあ　あてなさんのところに行きましょう",
+"context": [
+{
+"en": "Hmmm... I don't really get it, but I like to sing..."
+},
+{
+"en": "Okay..."
+},
+{
+"en": "It sounds like fun! I'll give it a try!"
+},
+{
+"self": true
+},
+{
+"en": "Okay! Let's go, Pak Pak!"
+},
+{
+"en": "Ook ook!"
+},
+{
+"en": "I wonder if this is going to be okay... Oh, I should get going, too..."
+}
+]
+},
+{
+"id": 8054,
+"file": "MSGD8005.PRG",
+"pages": [
+"I wonder if this is going to be okay... Oh, I should get going, too..."
+],
+"choice": null,
+"jp": "・・・大丈夫かなぁあ　僕も行かなきゃ",
+"context": [
+{
+"en": "Really?! Okay, then let's go see Athena...!"
+},
+{
+"en": "Okay! Let's go, Pak Pak!"
+},
+{
+"en": "Ook ook!"
+},
+{
+"self": true
+},
+{
+"en": "Oh! What's that?!"
+},
+{
+"en": "What's wrong, Miss Cham Cham?"
+},
+{
+"en": "Ne... netariro... kuwakake..."
+}
+]
+},
+{
+"id": 8055,
+"file": "MSGD8005.PRG",
+"pages": [
+"Oh! What's that?!"
+],
+"choice": null,
+"jp": "あっ！　あれは？！",
+"context": [
+{
+"en": "Okay! Let's go, Pak Pak!"
+},
+{
+"en": "Ook ook!"
+},
+{
+"en": "I wonder if this is going to be okay... Oh, I should get going, too..."
+},
+{
+"self": true
+},
+{
+"en": "What's wrong, Miss Cham Cham?"
+},
+{
+"en": "Ne... netariro... kuwakake..."
+},
+{
+"en": "No... she's covered in ice..."
+}
+]
+},
+{
+"id": 8056,
+"file": "MSGD8005.PRG",
+"pages": [
+"What's wrong, Miss Cham Cham?"
+],
+"choice": null,
+"jp": "どうしたんです？チャムチャムさん？",
+"context": [
+{
+"en": "Ook ook!"
+},
+{
+"en": "I wonder if this is going to be okay... Oh, I should get going, too..."
+},
+{
+"en": "Oh! What's that?!"
+},
+{
+"self": true
+},
+{
+"en": "Ne... netariro... kuwakake..."
+},
+{
+"en": "No... she's covered in ice..."
+},
+{
+"en": "How weird..."
+}
+]
+},
+{
+"id": 8057,
+"file": "MSGD8005.PRG",
+"pages": [
+"Ne... netariro... kuwakake..."
+],
+"choice": null,
+"jp": "ネ　ネタリロ・・・・・・クワカケ・・・",
+"context": [
+{
+"en": "I wonder if this is going to be okay... Oh, I should get going, too..."
+},
+{
+"en": "Oh! What's that?!"
+},
+{
+"en": "What's wrong, Miss Cham Cham?"
+},
+{
+"self": true
+},
+{
+"en": "No... she's covered in ice..."
+},
+{
+"en": "How weird..."
+},
+{
+"en": "Oh, well... I should look for someone else, then."
+}
+]
+},
+{
+"id": 8058,
+"file": "MSGD8005.PRG",
+"pages": [
+"No... she's covered in ice..."
+],
+"choice": null,
+"jp": "うっ・・・全身がしもやけだ",
+"context": [
+{
+"en": "Oh! What's that?!"
+},
+{
+"en": "What's wrong, Miss Cham Cham?"
+},
+{
+"en": "Ne... netariro... kuwakake..."
+},
+{
+"self": true
+},
+{
+"en": "How weird..."
+},
+{
+"en": "Oh, well... I should look for someone else, then."
+},
+{
+"en": "Two people now... Weird... maybe I should talk to Athena about it..."
+}
+]
+},
+{
+"id": 8059,
+"file": "MSGD8005.PRG",
+"pages": [
+"How weird..."
+],
+"choice": null,
+"jp": "変だなぁ・・・・・・",
+"context": [
+{
+"en": "What's wrong, Miss Cham Cham?"
+},
+{
+"en": "Ne... netariro... kuwakake..."
+},
+{
+"en": "No... she's covered in ice..."
+},
+{
+"self": true
+},
+{
+"en": "Oh, well... I should look for someone else, then."
+},
+{
+"en": "Two people now... Weird... maybe I should talk to Athena about it..."
+},
+{
+"en": "Oh, what's wrong, Shizumaru?"
+}
+]
+},
+{
+"id": 8060,
+"file": "MSGD8005.PRG",
+"pages": [
+"Oh, well... I should look for someone else, then."
+],
+"choice": null,
+"jp": "まぁ　いいや別の人を〓そう",
+"context": [
+{
+"en": "Ne... netariro... kuwakake..."
+},
+{
+"en": "No... she's covered in ice..."
+},
+{
+"en": "How weird..."
+},
+{
+"self": true
+},
+{
+"en": "Two people now... Weird... maybe I should talk to Athena about it..."
+},
+{
+"en": "Oh, what's wrong, Shizumaru?"
+},
+{
+"en": "Err... well... I..."
+}
+]
+},
+{
+"id": 8061,
+"file": "MSGD8005.PRG",
+"pages": [
+"Two people now... Weird... maybe I should talk to Athena about it..."
+],
+"choice": null,
+"jp": "・・・立て続けに二人も・・・おかしいあてなさんに相談してみよう",
+"context": [
+{
+"en": "No... she's covered in ice..."
+},
+{
+"en": "How weird..."
+},
+{
+"en": "Oh, well... I should look for someone else, then."
+},
+{
+"self": true
+},
+{
+"en": "Oh, what's wrong, Shizumaru?"
+},
+{
+"en": "Err... well... I..."
+},
+{
+"en": "What...? Nakoruru and Cham Cham were both attacked?"
+}
+]
+},
+{
+"id": 8062,
+"file": "MSGD8005.PRG",
+"pages": [
+"Oh, what's wrong, Shizumaru?"
+],
+"choice": null,
+"jp": "あら　閑丸君どうしたの？",
+"context": [
+{
+"en": "How weird..."
+},
+{
+"en": "Oh, well... I should look for someone else, then."
+},
+{
+"en": "Two people now... Weird... maybe I should talk to Athena about it..."
+},
+{
+"self": true
+},
+{
+"en": "Err... well... I..."
+},
+{
+"en": "What...? Nakoruru and Cham Cham were both attacked?"
+},
+{
+"en": "Yes..."
+}
+]
+},
+{
+"id": 8063,
+"file": "MSGD8005.PRG",
+"pages": [
+"Err... well... I..."
+],
+"choice": null,
+"jp": "実は・・・・・・・・・なんです",
+"context": [
+{
+"en": "Oh, well... I should look for someone else, then."
+},
+{
+"en": "Two people now... Weird... maybe I should talk to Athena about it..."
+},
+{
+"en": "Oh, what's wrong, Shizumaru?"
+},
+{
+"self": true
+},
+{
+"en": "What...? Nakoruru and Cham Cham were both attacked?"
+},
+{
+"en": "Yes..."
+},
+{
+"en": ". . . It can't be...?"
+}
+]
+},
+{
+"id": 8064,
+"file": "MSGD8005.PRG",
+"pages": [
+"What...? Nakoruru and Cham Cham were both attacked?"
+],
+"choice": null,
+"jp": "え　ナコルルさんとチャムチャムちゃんが襲われたですって？",
+"context": [
+{
+"en": "Two people now... Weird... maybe I should talk to Athena about it..."
+},
+{
+"en": "Oh, what's wrong, Shizumaru?"
+},
+{
+"en": "Err... well... I..."
+},
+{
+"self": true
+},
+{
+"en": "Yes..."
+},
+{
+"en": ". . . It can't be...?"
+},
+{
+"en": "Miss Athena...?"
+}
+]
+},
+{
+"id": 8065,
+"file": "MSGD8005.PRG",
+"pages": [
+". . . It can't be...?"
+],
+"choice": null,
+"jp": "・・・まさか　もう・・・？",
+"context": [
+{
+"en": "Err... well... I..."
+},
+{
+"en": "What...? Nakoruru and Cham Cham were both attacked?"
+},
+{
+"en": "Yes..."
+},
+{
+"self": true
+},
+{
+"en": "Miss Athena...?"
+},
+{
+"en": "Oh, it's nothing... Could you please keep looking around for me...?"
+},
+{
+"en": "Could you please keep looking around for me...?"
+}
+]
+},
+{
+"id": 8066,
+"file": "MSGD8005.PRG",
+"pages": [
+"Miss Athena...?"
+],
+"choice": null,
+"jp": "あてな・・・さん？",
+"context": [
+{
+"en": "What...? Nakoruru and Cham Cham were both attacked?"
+},
+{
+"en": "Yes..."
+},
+{
+"en": ". . . It can't be...?"
+},
+{
+"self": true
+},
+{
+"en": "Oh, it's nothing... Could you please keep looking around for me...?"
+},
+{
+"en": "Could you please keep looking around for me...?"
+},
+{
+"en": "Um... Miss Rimururu, can I ask you something?"
+}
+]
+},
+{
+"id": 8067,
+"file": "MSGD8005.PRG",
+"pages": [
+"Oh, it's nothing... Could you please keep looking around for me...?"
+],
+"choice": null,
+"jp": "な　なんでもないわ閑丸君　もう少しだけ〓してみてくれる　お願いね",
+"context": [
+{
+"en": "Yes..."
+},
+{
+"en": ". . . It can't be...?"
+},
+{
+"en": "Miss Athena...?"
+},
+{
+"self": true
+},
+{
+"en": "Could you please keep looking around for me...?"
+},
+{
+"en": "Um... Miss Rimururu, can I ask you something?"
+},
+{
+"en": "Sure...!"
+}
+]
+},
+{
+"id": 8068,
+"file": "MSGD8005.PRG",
+"pages": [
+"Could you please keep looking around for me...?"
+],
+"choice": null,
+"jp": "閑丸君　もう少しだけ〓してみてくれる　お願いね",
+"context": [
+{
+"en": ". . . It can't be...?"
+},
+{
+"en": "Miss Athena...?"
+},
+{
+"en": "Oh, it's nothing... Could you please keep looking around for me...?"
+},
+{
+"self": true
+},
+{
+"en": "Um... Miss Rimururu, can I ask you something?"
+},
+{
+"en": "Sure...!"
+},
+{
+"en": "What's gotten you looking so chipper?"
+}
+]
+},
+{
+"id": 8069,
+"file": "MSGD8005.PRG",
+"pages": [
+"Um... Miss Rimururu, can I ask you something?"
+],
+"choice": null,
+"jp": "あの　リムルルさんちょっといいですか？",
+"context": [
+{
+"en": "Miss Athena...?"
+},
+{
+"en": "Oh, it's nothing... Could you please keep looking around for me...?"
+},
+{
+"en": "Could you please keep looking around for me...?"
+},
+{
+"self": true
+},
+{
+"en": "Sure...!"
+},
+{
+"en": "What's gotten you looking so chipper?"
+},
+{
+"en": "Oh, uh, really? You must just be imagining things. What did you need...?"
+}
+]
+},
+{
+"id": 8070,
+"file": "MSGD8005.PRG",
+"pages": [
+"Sure...!"
+],
+"choice": null,
+"jp": "な～に　閑丸？",
+"context": [
+{
+"en": "Oh, it's nothing... Could you please keep looking around for me...?"
+},
+{
+"en": "Could you please keep looking around for me...?"
+},
+{
+"en": "Um... Miss Rimururu, can I ask you something?"
+},
+{
+"self": true
+},
+{
+"en": "What's gotten you looking so chipper?"
+},
+{
+"en": "Oh, uh, really? You must just be imagining things. What did you need...?"
+},
+{
+"en": "Well, actually... I... uh..."
+}
+]
+},
+{
+"id": 8071,
+"file": "MSGD8005.PRG",
+"pages": [
+"What's gotten you looking so chipper?"
+],
+"choice": null,
+"jp": "何か〓しそうですね？",
+"context": [
+{
+"en": "Could you please keep looking around for me...?"
+},
+{
+"en": "Um... Miss Rimururu, can I ask you something?"
+},
+{
+"en": "Sure...!"
+},
+{
+"self": true
+},
+{
+"en": "Oh, uh, really? You must just be imagining things. What did you need...?"
+},
+{
+"en": "Well, actually... I... uh..."
+},
+{
+"en": "Athena needs a partner?! I'll do it!! I've been wanting to, actually!!"
+}
+]
+},
+{
+"id": 8072,
+"file": "MSGD8005.PRG",
+"pages": [
+"Oh, uh, really? You must just be imagining things. What did you need...?"
+],
+"choice": null,
+"jp": "そ　そう・・・気のせいよで　なに？",
+"context": [
+{
+"en": "Um... Miss Rimururu, can I ask you something?"
+},
+{
+"en": "Sure...!"
+},
+{
+"en": "What's gotten you looking so chipper?"
+},
+{
+"self": true
+},
+{
+"en": "Well, actually... I... uh..."
+},
+{
+"en": "Athena needs a partner?! I'll do it!! I've been wanting to, actually!!"
+},
+{
+"en": ". . . . . ."
+}
+]
+},
+{
+"id": 8073,
+"file": "MSGD8005.PRG",
+"pages": [
+"Well, actually... I... uh..."
+],
+"choice": null,
+"jp": "実は・・・・・・・・・・・・・・・・・・なんですけど",
+"context": [
+{
+"en": "Sure...!"
+},
+{
+"en": "What's gotten you looking so chipper?"
+},
+{
+"en": "Oh, uh, really? You must just be imagining things. What did you need...?"
+},
+{
+"self": true
+},
+{
+"en": "Athena needs a partner?! I'll do it!! I've been wanting to, actually!!"
+},
+{
+"en": ". . . . . ."
+},
+{
+"en": ". . . . . ."
+}
+]
+},
+{
+"id": 8074,
+"file": "MSGD8005.PRG",
+"pages": [
+"Athena needs a partner?! I'll do it!! I've been wanting to, actually!!"
+],
+"choice": null,
+"jp": "えっ　あてなさんのパートナー？！やるやる！！やってみたかったんだ～！！！",
+"context": [
+{
+"en": "What's gotten you looking so chipper?"
+},
+{
+"en": "Oh, uh, really? You must just be imagining things. What did you need...?"
+},
+{
+"en": "Well, actually... I... uh..."
+},
+{
+"self": true
+},
+{
+"en": ". . . . . ."
+},
+{
+"en": ". . . . . ."
+},
+{
+"en": ". . . . . ."
+}
+]
+},
+{
+"id": 8075,
+"file": "MSGD8005.PRG",
+"pages": [
+". . . . . ."
+],
+"choice": null,
+"jp": "・・・・・・",
+"context": [
+{
+"en": "Oh, uh, really? You must just be imagining things. What did you need...?"
+},
+{
+"en": "Well, actually... I... uh..."
+},
+{
+"en": "Athena needs a partner?! I'll do it!! I've been wanting to, actually!!"
+},
+{
+"self": true
+},
+{
+"en": ". . . . . ."
+},
+{
+"en": ". . . . . ."
+},
+{
+"en": "Haha... hahahaha... Well, then let's get back over to Athena's place..."
+}
+]
+},
+{
+"id": 8076,
+"file": "MSGD8005.PRG",
+"pages": [
+"Haha... hahahaha... Well, then let's get back over to Athena's place..."
+],
+"choice": null,
+"jp": "あは　あははは・・・じゃ　じゃああてなさんのところに行けばいいのね",
+"context": [
+{
+"en": ". . . . . ."
+},
+{
+"en": ". . . . . ."
+},
+{
+"en": ". . . . . ."
+},
+{
+"self": true
+},
+{
+"en": "Yeah, okay..."
+},
+{
+"en": "Okay... I get it... See you, Shizumaru..."
+},
+{
+"en": "That's... really strange... oh, well... I should get back."
+}
+]
+},
+{
+"id": 8077,
+"file": "MSGD8005.PRG",
+"pages": [
+"Yeah, okay..."
+],
+"choice": null,
+"jp": "はい　そうです・・・",
+"context": [
+{
+"en": ". . . . . ."
+},
+{
+"en": ". . . . . ."
+},
+{
+"en": "Haha... hahahaha... Well, then let's get back over to Athena's place..."
+},
+{
+"self": true
+},
+{
+"en": "Okay... I get it... See you, Shizumaru..."
+},
+{
+"en": "That's... really strange... oh, well... I should get back."
+},
+{
+"en": "Oh, Shizumaru! Thank you so much for all you've done..."
+}
+]
+},
+{
+"id": 8078,
+"file": "MSGD8005.PRG",
+"pages": [
+"Okay... I get it... See you, Shizumaru..."
+],
+"choice": null,
+"jp": "わ　わかったわじゃあね　閑丸",
+"context": [
+{
+"en": ". . . . . ."
+},
+{
+"en": "Haha... hahahaha... Well, then let's get back over to Athena's place..."
+},
+{
+"en": "Yeah, okay..."
+},
+{
+"self": true
+},
+{
+"en": "That's... really strange... oh, well... I should get back."
+},
+{
+"en": "Oh, Shizumaru! Thank you so much for all you've done..."
+},
+{
+"en": "Umm... Miss Athena..."
+}
+]
+},
+{
+"id": 8079,
+"file": "MSGD8005.PRG",
+"pages": [
+"That's... really strange... oh, well... I should get back."
+],
+"choice": null,
+"jp": "・・・・・・あやしい・・・まあ　いいか・・・戻ろう",
+"context": [
+{
+"en": "Haha... hahahaha... Well, then let's get back over to Athena's place..."
+},
+{
+"en": "Yeah, okay..."
+},
+{
+"en": "Okay... I get it... See you, Shizumaru..."
+},
+{
+"self": true
+},
+{
+"en": "Oh, Shizumaru! Thank you so much for all you've done..."
+},
+{
+"en": "Umm... Miss Athena..."
+},
+{
+"en": "What's wrong?"
+}
+]
+},
+{
+"id": 8080,
+"file": "MSGD8005.PRG",
+"pages": [
+"Oh, Shizumaru! Thank you so much for all you've done..."
+],
+"choice": null,
+"jp": "あ　閑丸君　ありがとう〓してきてくれて",
+"context": [
+{
+"en": "Yeah, okay..."
+},
+{
+"en": "Okay... I get it... See you, Shizumaru..."
+},
+{
+"en": "That's... really strange... oh, well... I should get back."
+},
+{
+"self": true
+},
+{
+"en": "Umm... Miss Athena..."
+},
+{
+"en": "What's wrong?"
+},
+{
+"en": "Well... I..."
+}
+]
+},
+{
+"id": 8081,
+"file": "MSGD8005.PRG",
+"pages": [
+"Umm... Miss Athena..."
+],
+"choice": null,
+"jp": "あの・・・あてなさん",
+"context": [
+{
+"en": "Okay... I get it... See you, Shizumaru..."
+},
+{
+"en": "That's... really strange... oh, well... I should get back."
+},
+{
+"en": "Oh, Shizumaru! Thank you so much for all you've done..."
+},
+{
+"self": true
+},
+{
+"en": "What's wrong?"
+},
+{
+"en": "Well... I..."
+},
+{
+"en": "...?"
+}
+]
+},
+{
+"id": 8082,
+"file": "MSGD8005.PRG",
+"pages": [
+"Well... I..."
+],
+"choice": null,
+"jp": "実は・・・その・・・",
+"context": [
+{
+"en": "Oh, Shizumaru! Thank you so much for all you've done..."
+},
+{
+"en": "Umm... Miss Athena..."
+},
+{
+"en": "What's wrong?"
+},
+{
+"self": true
+},
+{
+"en": "...?"
+},
+{
+"en": "Miss Athenaaaa...!"
+},
+{
+"en": "I'm all set...!"
+}
+]
+},
+{
+"id": 8083,
+"file": "MSGD8005.PRG",
+"pages": [
+"Miss Athenaaaa...!"
+],
+"choice": null,
+"jp": "あてなさ～ん",
+"context": [
+{
+"en": "What's wrong?"
+},
+{
+"en": "Well... I..."
+},
+{
+"en": "...?"
+},
+{
+"self": true
+},
+{
+"en": "I'm all set...!"
+},
+{
+"en": "All right, Rimururu! I'll see you later, Shizumaru..."
+},
+{
+"en": "Ah... okay... Oh, well..."
+}
+]
+},
+{
+"id": 8084,
+"file": "MSGD8005.PRG",
+"pages": [
+"I'm all set...!"
+],
+"choice": null,
+"jp": "準備できました～",
+"context": [
+{
+"en": "Well... I..."
+},
+{
+"en": "...?"
+},
+{
+"en": "Miss Athenaaaa...!"
+},
+{
+"self": true
+},
+{
+"en": "All right, Rimururu! I'll see you later, Shizumaru..."
+},
+{
+"en": "Ah... okay... Oh, well..."
+},
+{
+"en": "Welcome, welcoooome! Thank you for coming to the Hashimoto Theatre!! Next up is a genuine, modern super idol!! Presenting Asamiya Athena, and her very cute guest, live! Ladies and gentlemen... here we gooooo! Athena... and Rimururuuuu!"
+}
+]
+},
+{
+"id": 8085,
+"file": "MSGD8005.PRG",
+"pages": [
+"All right, Rimururu! I'll see you later, Shizumaru..."
+],
+"choice": null,
+"jp": "わかったわ　リムルルちゃんまた後でね　閑丸君",
+"context": [
+{
+"en": "...?"
+},
+{
+"en": "Miss Athenaaaa...!"
+},
+{
+"en": "I'm all set...!"
+},
+{
+"self": true
+},
+{
+"en": "Ah... okay... Oh, well..."
+},
+{
+"en": "Welcome, welcoooome! Thank you for coming to the Hashimoto Theatre!! Next up is a genuine, modern super idol!! Presenting Asamiya Athena, and her very cute guest, live! Ladies and gentlemen... here we gooooo! Athena... and Rimururuuuu!"
+},
+{
+"en": "Sai kobo- ruga hikari hanachi"
+}
+]
+},
+{
+"id": 8086,
+"file": "MSGD8005.PRG",
+"pages": [
+"Ah... okay... Oh, well..."
+],
+"choice": null,
+"jp": "あ・・・・・・まあ　いいか",
+"context": [
+{
+"en": "Miss Athenaaaa...!"
+},
+{
+"en": "I'm all set...!"
+},
+{
+"en": "All right, Rimururu! I'll see you later, Shizumaru..."
+},
+{
+"self": true
+},
+{
+"en": "Welcome, welcoooome! Thank you for coming to the Hashimoto Theatre!! Next up is a genuine, modern super idol!! Presenting Asamiya Athena, and her very cute guest, live! Ladies and gentlemen... here we gooooo! Athena... and Rimururuuuu!"
+},
+{
+"en": "Sai kobo- ruga hikari hanachi"
+},
+{
+"en": ". . . . . . . . . . . . Hmmm... looks like there's some resistance..."
+}
+]
+},
+{
+"id": 8087,
+"file": "MSGD8005.PRG",
+"pages": [
+"Welcome, welcoooome! Thank you for coming to the Hashimoto Theatre!! Next up is a genuine, modern super idol!! Presenting Asamiya Athena, and her very cute guest, live! Ladies and gentlemen... here we gooooo! Athena... and Rimururuuuu!"
+],
+"choice": null,
+"jp": "とざい　とお～ざぁい！我が橋本座へようこそのおはこびありがとうございます！！次なるは当世評判のすぅはぁぁあいどる！阿沙宮あてなちゃんと可愛いげすとのらいぶ・しょー！れでぇす　えん　ぜんとるめんひあいーごーあてなちゃん！あ～んどリムルルちゃーん！",
+"context": [
+{
+"en": "I'm all set...!"
+},
+{
+"en": "All right, Rimururu! I'll see you later, Shizumaru..."
+},
+{
+"en": "Ah... okay... Oh, well..."
+},
+{
+"self": true
+},
+{
+"en": "Sai kobo- ruga hikari hanachi"
+},
+{
+"en": ". . . . . . . . . . . . Hmmm... looks like there's some resistance..."
+},
+{
+"en": "...?! What's this I sense?"
+}
+]
+},
+{
+"id": 8088,
+"file": "MSGD8005.PRG",
+"pages": [
+"Sai kobo- ruga hikari hanachi"
+],
+"choice": null,
+"jp": "〓サイコホールが　光　放ち",
+"context": [
+{
+"en": "All right, Rimururu! I'll see you later, Shizumaru..."
+},
+{
+"en": "Ah... okay... Oh, well..."
+},
+{
+"en": "Welcome, welcoooome! Thank you for coming to the Hashimoto Theatre!! Next up is a genuine, modern super idol!! Presenting Asamiya Athena, and her very cute guest, live! Ladies and gentlemen... here we gooooo! Athena... and Rimururuuuu!"
+},
+{
+"self": true
+},
+{
+"en": ". . . . . . . . . . . . Hmmm... looks like there's some resistance..."
+},
+{
+"en": "...?! What's this I sense?"
+},
+{
+"en": "Up there!!"
+}
+]
+},
+{
+"id": 8089,
+"file": "MSGD8005.PRG",
+"pages": [
+". . . . . . . . . . . . Hmmm... looks like there's some resistance..."
+],
+"choice": null,
+"jp": "・・・・・・・・・・・・う～ん（ちょっとていこうあるなぁ）",
+"context": [
+{
+"en": "Ah... okay... Oh, well..."
+},
+{
+"en": "Welcome, welcoooome! Thank you for coming to the Hashimoto Theatre!! Next up is a genuine, modern super idol!! Presenting Asamiya Athena, and her very cute guest, live! Ladies and gentlemen... here we gooooo! Athena... and Rimururuuuu!"
+},
+{
+"en": "Sai kobo- ruga hikari hanachi"
+},
+{
+"self": true
+},
+{
+"en": "...?! What's this I sense?"
+},
+{
+"en": "Up there!!"
+},
+{
+"en": "Rrrrooooooaaarrr!!!!"
+}
+]
+},
+{
+"id": 8090,
+"file": "MSGD8005.PRG",
+"pages": [
+"...?! What's this I sense?"
+],
+"choice": null,
+"jp": "・・・？！　・・・この気配は？",
+"context": [
+{
+"en": "Welcome, welcoooome! Thank you for coming to the Hashimoto Theatre!! Next up is a genuine, modern super idol!! Presenting Asamiya Athena, and her very cute guest, live! Ladies and gentlemen... here we gooooo! Athena... and Rimururuuuu!"
+},
+{
+"en": "Sai kobo- ruga hikari hanachi"
+},
+{
+"en": ". . . . . . . . . . . . Hmmm... looks like there's some resistance..."
+},
+{
+"self": true
+},
+{
+"en": "Up there!!"
+},
+{
+"en": "Rrrrooooooaaarrr!!!!"
+},
+{
+"en": "Aieeee!! It... it's a monster!!"
+}
+]
+},
+{
+"id": 8091,
+"file": "MSGD8005.PRG",
+"pages": [
+"Up there!!"
+],
+"choice": null,
+"jp": "・・・上か？！",
+"context": [
+{
+"en": "Sai kobo- ruga hikari hanachi"
+},
+{
+"en": ". . . . . . . . . . . . Hmmm... looks like there's some resistance..."
+},
+{
+"en": "...?! What's this I sense?"
+},
+{
+"self": true
+},
+{
+"en": "Rrrrooooooaaarrr!!!!"
+},
+{
+"en": "Aieeee!! It... it's a monster!!"
+},
+{
+"en": "Aieeeeee! Help meeee!!"
+}
+]
+},
+{
+"id": 8092,
+"file": "MSGD8005.PRG",
+"pages": [
+"Rrrrooooooaaarrr!!!!"
+],
+"choice": null,
+"jp": "ギャオオオオオン！！",
+"context": [
+{
+"en": ". . . . . . . . . . . . Hmmm... looks like there's some resistance..."
+},
+{
+"en": "...?! What's this I sense?"
+},
+{
+"en": "Up there!!"
+},
+{
+"self": true
+},
+{
+"en": "Aieeee!! It... it's a monster!!"
+},
+{
+"en": "Aieeeeee! Help meeee!!"
+},
+{
+"en": "Is that... a demon?!"
+}
+]
+},
+{
+"id": 8093,
+"file": "MSGD8005.PRG",
+"pages": [
+"Aieeee!! It... it's a monster!!"
+],
+"choice": null,
+"jp": "うわぁぁぁぁっ！ば　ば　化け物だぁ！！",
+"context": [
+{
+"en": "...?! What's this I sense?"
+},
+{
+"en": "Up there!!"
+},
+{
+"en": "Rrrrooooooaaarrr!!!!"
+},
+{
+"self": true
+},
+{
+"en": "Aieeeeee! Help meeee!!"
+},
+{
+"en": "Is that... a demon?!"
+},
+{
+"en": "Rrrooooooaaarrrr!!"
+}
+]
+},
+{
+"id": 8094,
+"file": "MSGD8005.PRG",
+"pages": [
+"Aieeeeee! Help meeee!!"
+],
+"choice": null,
+"jp": "きゃああああっ！！た　た　助けてぇ！！",
+"context": [
+{
+"en": "Up there!!"
+},
+{
+"en": "Rrrrooooooaaarrr!!!!"
+},
+{
+"en": "Aieeee!! It... it's a monster!!"
+},
+{
+"self": true
+},
+{
+"en": "Is that... a demon?!"
+},
+{
+"en": "Rrrooooooaaarrrr!!"
+},
+{
+"en": "We've been waiting for you, monster! Here's where it ends! Let's so, Rimururu! Back me up!"
+}
+]
+},
+{
+"id": 8095,
+"file": "MSGD8005.PRG",
+"pages": [
+"Is that... a demon?!"
+],
+"choice": null,
+"jp": "こいつは・・・魔物？！",
+"context": [
+{
+"en": "Rrrrooooooaaarrr!!!!"
+},
+{
+"en": "Aieeee!! It... it's a monster!!"
+},
+{
+"en": "Aieeeeee! Help meeee!!"
+},
+{
+"self": true
+},
+{
+"en": "Rrrooooooaaarrrr!!"
+},
+{
+"en": "We've been waiting for you, monster! Here's where it ends! Let's so, Rimururu! Back me up!"
+},
+{
+"en": "Oh... okay, Athena!"
+}
+]
+},
+{
+"id": 8096,
+"file": "MSGD8005.PRG",
+"pages": [
+"Rrrooooooaaarrrr!!"
+],
+"choice": null,
+"jp": "ギャオオオオオン！！",
+"context": [
+{
+"en": "Aieeee!! It... it's a monster!!"
+},
+{
+"en": "Aieeeeee! Help meeee!!"
+},
+{
+"en": "Is that... a demon?!"
+},
+{
+"self": true
+},
+{
+"en": "We've been waiting for you, monster! Here's where it ends! Let's so, Rimururu! Back me up!"
+},
+{
+"en": "Oh... okay, Athena!"
+},
+{
+"en": "Sai kobii munokagayaki nokoshi"
+}
+]
+},
+{
+"id": 8097,
+"file": "MSGD8005.PRG",
+"pages": [
+"We've been waiting for you, monster! Here's where it ends! Let's so, Rimururu! Back me up!"
+],
+"choice": null,
+"jp": "待ってたわよ魔物め！今度は逃がさないからね！いくわよ　リムルルちゃん！私に合わせて！！",
+"context": [
+{
+"en": "Aieeeeee! Help meeee!!"
+},
+{
+"en": "Is that... a demon?!"
+},
+{
+"en": "Rrrooooooaaarrrr!!"
+},
+{
+"self": true
+},
+{
+"en": "Oh... okay, Athena!"
+},
+{
+"en": "Sai kobii munokagayaki nokoshi"
+},
+{
+"en": "What on Earth? Is it in pain?!"
+}
+]
+},
+{
+"id": 8098,
+"file": "MSGD8005.PRG",
+"pages": [
+"Oh... okay, Athena!"
+],
+"choice": null,
+"jp": "は　はい　あてなさん！",
+"context": [
+{
+"en": "Is that... a demon?!"
+},
+{
+"en": "Rrrooooooaaarrrr!!"
+},
+{
+"en": "We've been waiting for you, monster! Here's where it ends! Let's so, Rimururu! Back me up!"
+},
+{
+"self": true
+},
+{
+"en": "Sai kobii munokagayaki nokoshi"
+},
+{
+"en": "What on Earth? Is it in pain?!"
+},
+{
+"en": "Now! Let's put an end to this!"
+}
+]
+},
+{
+"id": 8099,
+"file": "MSGD8005.PRG",
+"pages": [
+"Sai kobii munokagayaki nokoshi"
+],
+"choice": null,
+"jp": "〓サイコビームの　輝き　残し",
+"context": [
+{
+"en": "Rrrooooooaaarrrr!!"
+},
+{
+"en": "We've been waiting for you, monster! Here's where it ends! Let's so, Rimururu! Back me up!"
+},
+{
+"en": "Oh... okay, Athena!"
+},
+{
+"self": true
+},
+{
+"en": "What on Earth? Is it in pain?!"
+},
+{
+"en": "Now! Let's put an end to this!"
+},
+{
+"en": "Okay!!"
+}
+]
+},
+{
+"id": 8100,
+"file": "MSGD8005.PRG",
+"pages": [
+"What on Earth? Is it in pain?!"
+],
+"choice": null,
+"jp": "どうしたんだ一体？苦しみだしたぞ？？",
+"context": [
+{
+"en": "We've been waiting for you, monster! Here's where it ends! Let's so, Rimururu! Back me up!"
+},
+{
+"en": "Oh... okay, Athena!"
+},
+{
+"en": "Sai kobii munokagayaki nokoshi"
+},
+{
+"self": true
+},
+{
+"en": "Now! Let's put an end to this!"
+},
+{
+"en": "Okay!!"
+},
+{
+"en": "Rrrooooaaaarrr!!"
+}
+]
+},
+{
+"id": 8101,
+"file": "MSGD8005.PRG",
+"pages": [
+"Now! Let's put an end to this!"
+],
+"choice": null,
+"jp": "今よ　そいつに止めを刺して！！",
+"context": [
+{
+"en": "Oh... okay, Athena!"
+},
+{
+"en": "Sai kobii munokagayaki nokoshi"
+},
+{
+"en": "What on Earth? Is it in pain?!"
+},
+{
+"self": true
+},
+{
+"en": "Okay!!"
+},
+{
+"en": "Rrrooooaaaarrr!!"
+},
+{
+"en": "And so... the next day..."
+}
+]
+},
+{
+"id": 8102,
+"file": "MSGD8005.PRG",
+"pages": [
+"Rrrooooaaaarrr!!"
+],
+"choice": null,
+"jp": "グギャァァァァァ～",
+"context": [
+{
+"en": "What on Earth? Is it in pain?!"
+},
+{
+"en": "Now! Let's put an end to this!"
+},
+{
+"en": "Okay!!"
+},
+{
+"self": true
+},
+{
+"en": "And so... the next day..."
+},
+{
+"en": "A song, you said?"
+},
+{
+"en": "Yes, one to pass down to future generations of Asamiyas. Songs can be used as weapons to fight demons... but... This wasn't easy... I couldn't have done it without help... Especially not without the help of a priestess like Rimururu."
+}
+]
+},
+{
+"id": 8103,
+"file": "MSGD8005.PRG",
+"pages": [
+"And so... the next day..."
+],
+"choice": null,
+"jp": "そして・・・次の日",
+"context": [
+{
+"en": "Now! Let's put an end to this!"
+},
+{
+"en": "Okay!!"
+},
+{
+"en": "Rrrooooaaaarrr!!"
+},
+{
+"self": true
+},
+{
+"en": "A song, you said?"
+},
+{
+"en": "Yes, one to pass down to future generations of Asamiyas. Songs can be used as weapons to fight demons... but... This wasn't easy... I couldn't have done it without help... Especially not without the help of a priestess like Rimururu."
+},
+{
+"en": "Heh heh... but all I did was sing with you..."
+}
+]
+},
+{
+"id": 8104,
+"file": "MSGD8005.PRG",
+"pages": [
+"A song, you said?"
+],
+"choice": null,
+"jp": "歌・・・ですか？",
+"context": [
+{
+"en": "Okay!!"
+},
+{
+"en": "Rrrooooaaaarrr!!"
+},
+{
+"en": "And so... the next day..."
+},
+{
+"self": true
+},
+{
+"en": "Yes, one to pass down to future generations of Asamiyas. Songs can be used as weapons to fight demons... but... This wasn't easy... I couldn't have done it without help... Especially not without the help of a priestess like Rimururu."
+},
+{
+"en": "Heh heh... but all I did was sing with you..."
+},
+{
+"en": "Really...? So all it wanted to do was stop you from singing?"
+}
+]
+},
+{
+"id": 8105,
+"file": "MSGD8005.PRG",
+"pages": [
+"Yes, one to pass down to future generations of Asamiyas. Songs can be used as weapons to fight demons... but... This wasn't easy... I couldn't have done it without help... Especially not without the help of a priestess like Rimururu."
+],
+"choice": null,
+"jp": "ええ・・・阿沙宮の血筋は代々巫女の力を持っていて歌を武器にして魔物と戦うのでも　今回は手強い相手だったので力を貸してくれるパートナーを〓していたのリムルルちゃんみたいな巫女の力を持った人を",
+"context": [
+{
+"en": "Rrrooooaaaarrr!!"
+},
+{
+"en": "And so... the next day..."
+},
+{
+"en": "A song, you said?"
+},
+{
+"self": true
+},
+{
+"en": "Heh heh... but all I did was sing with you..."
+},
+{
+"en": "Really...? So all it wanted to do was stop you from singing?"
+},
+{
+"en": "Yes... well, I didn't think I'd recognize a demon so quickly... I'm sorry, Shizumaru..."
+}
+]
+},
+{
+"id": 8106,
+"file": "MSGD8005.PRG",
+"pages": [
+"Heh heh... but all I did was sing with you..."
+],
+"choice": null,
+"jp": "えへへへでも　私はただあてなさんといっしょに歌いたかったから・・",
+"context": [
+{
+"en": "And so... the next day..."
+},
+{
+"en": "A song, you said?"
+},
+{
+"en": "Yes, one to pass down to future generations of Asamiyas. Songs can be used as weapons to fight demons... but... This wasn't easy... I couldn't have done it without help... Especially not without the help of a priestess like Rimururu."
+},
+{
+"self": true
+},
+{
+"en": "Really...? So all it wanted to do was stop you from singing?"
+},
+{
+"en": "Yes... well, I didn't think I'd recognize a demon so quickly... I'm sorry, Shizumaru..."
+},
+{
+"en": "No... it's quite all right."
+}
+]
+},
+{
+"id": 8107,
+"file": "MSGD8005.PRG",
+"pages": [
+"Really...? So all it wanted to do was stop you from singing?"
+],
+"choice": null,
+"jp": "そうだったんですかじゃあ　二人が襲われたのも魔物がそれを邪魔しようとして・・・",
+"context": [
+{
+"en": "A song, you said?"
+},
+{
+"en": "Yes, one to pass down to future generations of Asamiyas. Songs can be used as weapons to fight demons... but... This wasn't easy... I couldn't have done it without help... Especially not without the help of a priestess like Rimururu."
+},
+{
+"en": "Heh heh... but all I did was sing with you..."
+},
+{
+"self": true
+},
+{
+"en": "Yes... well, I didn't think I'd recognize a demon so quickly... I'm sorry, Shizumaru..."
+},
+{
+"en": "No... it's quite all right."
+},
+{
+"en": "Wha... what...?"
+}
+]
+},
+{
+"id": 8108,
+"file": "MSGD8005.PRG",
+"pages": [
+"Yes... well, I didn't think I'd recognize a demon so quickly... I'm sorry, Shizumaru..."
+],
+"choice": null,
+"jp": "ええ・・・まさか　こんなに早く魔物に気付かれるとは思わなかったからごめんなさいね　閑丸君",
+"context": [
+{
+"en": "Yes, one to pass down to future generations of Asamiyas. Songs can be used as weapons to fight demons... but... This wasn't easy... I couldn't have done it without help... Especially not without the help of a priestess like Rimururu."
+},
+{
+"en": "Heh heh... but all I did was sing with you..."
+},
+{
+"en": "Really...? So all it wanted to do was stop you from singing?"
+},
+{
+"self": true
+},
+{
+"en": "No... it's quite all right."
+},
+{
+"en": "Wha... what...?"
+},
+{
+"en": "I'm sorry I doubted you... but when the others were frozen... I thought you might have been the one behind it..."
+}
+]
+},
+{
+"id": 8109,
+"file": "MSGD8005.PRG",
+"pages": [
+"No... it's quite all right."
+],
+"choice": null,
+"jp": "いいえそれよりもリムルルさん",
+"context": [
+{
+"en": "Heh heh... but all I did was sing with you..."
+},
+{
+"en": "Really...? So all it wanted to do was stop you from singing?"
+},
+{
+"en": "Yes... well, I didn't think I'd recognize a demon so quickly... I'm sorry, Shizumaru..."
+},
+{
+"self": true
+},
+{
+"en": "Wha... what...?"
+},
+{
+"en": "I'm sorry I doubted you... but when the others were frozen... I thought you might have been the one behind it..."
+},
+{
+"en": ". . ."
+}
+]
+},
+{
+"id": 8110,
+"file": "MSGD8005.PRG",
+"pages": [
+"Wha... what...?"
+],
+"choice": null,
+"jp": "な　なにかな？",
+"context": [
+{
+"en": "Really...? So all it wanted to do was stop you from singing?"
+},
+{
+"en": "Yes... well, I didn't think I'd recognize a demon so quickly... I'm sorry, Shizumaru..."
+},
+{
+"en": "No... it's quite all right."
+},
+{
+"self": true
+},
+{
+"en": "I'm sorry I doubted you... but when the others were frozen... I thought you might have been the one behind it..."
+},
+{
+"en": ". . ."
+},
+{
+"en": "What's wrong, Rimururu? You look awfully pale. Besides, Shizumaru handled the demon's flames..."
+}
+]
+},
+{
+"id": 8111,
+"file": "MSGD8005.PRG",
+"pages": [
+"I'm sorry I doubted you... but when the others were frozen... I thought you might have been the one behind it..."
+],
+"choice": null,
+"jp": "疑って御免なさい２人とも凍らされていたんで・・・てっきりリムルルさんの仕業かと・・・",
+"context": [
+{
+"en": "Yes... well, I didn't think I'd recognize a demon so quickly... I'm sorry, Shizumaru..."
+},
+{
+"en": "No... it's quite all right."
+},
+{
+"en": "Wha... what...?"
+},
+{
+"self": true
+},
+{
+"en": ". . ."
+},
+{
+"en": "What's wrong, Rimururu? You look awfully pale. Besides, Shizumaru handled the demon's flames..."
+},
+{
+"en": "Aaaaahhhhhh!!! Ha... hahahaha... umm, it's nothing, really! Right... Shizumaru...?!"
+}
+]
+},
+{
+"id": 8112,
+"file": "MSGD8005.PRG",
+"pages": [
+"What's wrong, Rimururu? You look awfully pale. Besides, Shizumaru handled the demon's flames..."
+],
+"choice": null,
+"jp": "どうしたのリムルルちゃん？顔色悪いわよ？それに閑丸君あの魔物は炎の・・・",
+"context": [
+{
+"en": "Wha... what...?"
+},
+{
+"en": "I'm sorry I doubted you... but when the others were frozen... I thought you might have been the one behind it..."
+},
+{
+"en": ". . ."
+},
+{
+"self": true
+},
+{
+"en": "Aaaaahhhhhh!!! Ha... hahahaha... umm, it's nothing, really! Right... Shizumaru...?!"
+},
+{
+"en": "(Well... that's not suspicious at all...) (Oh, well... it's all over and done with...)"
+},
+{
+"en": "Haha... hahahaha..."
+}
+]
+},
+{
+"id": 8113,
+"file": "MSGD8005.PRG",
+"pages": [
+"Aaaaahhhhhh!!! Ha... hahahaha... umm, it's nothing, really! Right... Shizumaru...?!"
+],
+"choice": null,
+"jp": "わーーーーーーーっ！！！あは　あははは・・・な　な　なんでもないですよね　シ・⑥・マ・ル！（ジロッ！！）",
+"context": [
+{
+"en": "I'm sorry I doubted you... but when the others were frozen... I thought you might have been the one behind it..."
+},
+{
+"en": ". . ."
+},
+{
+"en": "What's wrong, Rimururu? You look awfully pale. Besides, Shizumaru handled the demon's flames..."
+},
+{
+"self": true
+},
+{
+"en": "(Well... that's not suspicious at all...) (Oh, well... it's all over and done with...)"
+},
+{
+"en": "Haha... hahahaha..."
+},
+{
+"en": "Heheh... heheheheh..."
+}
+]
+},
+{
+"id": 8114,
+"file": "MSGD8005.PRG",
+"pages": [
+"(Well... that's not suspicious at all...) (Oh, well... it's all over and done with...)"
+],
+"choice": null,
+"jp": "・・・・・・（あ　あやしい　まさか・・・）（まぁ　いいか）（事件は解決したんだし・・・）",
+"context": [
+{
+"en": ". . ."
+},
+{
+"en": "What's wrong, Rimururu? You look awfully pale. Besides, Shizumaru handled the demon's flames..."
+},
+{
+"en": "Aaaaahhhhhh!!! Ha... hahahaha... umm, it's nothing, really! Right... Shizumaru...?!"
+},
+{
+"self": true
+},
+{
+"en": "Haha... hahahaha..."
+},
+{
+"en": "Heheh... heheheheh..."
+},
+{
+"en": "...? What's going on, you two? You're acting strangely."
+}
+]
+},
+{
+"id": 8115,
+"file": "MSGD8005.PRG",
+"pages": [
+"Haha... hahahaha..."
+],
+"choice": null,
+"jp": "あは　あはははは・・・",
+"context": [
+{
+"en": "What's wrong, Rimururu? You look awfully pale. Besides, Shizumaru handled the demon's flames..."
+},
+{
+"en": "Aaaaahhhhhh!!! Ha... hahahaha... umm, it's nothing, really! Right... Shizumaru...?!"
+},
+{
+"en": "(Well... that's not suspicious at all...) (Oh, well... it's all over and done with...)"
+},
+{
+"self": true
+},
+{
+"en": "Heheh... heheheheh..."
+},
+{
+"en": "...? What's going on, you two? You're acting strangely."
+},
+{
+"en": "Haha... hahahaha... I really should be going. Well, if you'll excuse me..."
+}
+]
+},
+{
+"id": 8116,
+"file": "MSGD8005.PRG",
+"pages": [
+"Heheh... heheheheh..."
+],
+"choice": null,
+"jp": "えへ　えへへへへ・・・",
+"context": [
+{
+"en": "Aaaaahhhhhh!!! Ha... hahahaha... umm, it's nothing, really! Right... Shizumaru...?!"
+},
+{
+"en": "(Well... that's not suspicious at all...) (Oh, well... it's all over and done with...)"
+},
+{
+"en": "Haha... hahahaha..."
+},
+{
+"self": true
+},
+{
+"en": "...? What's going on, you two? You're acting strangely."
+},
+{
+"en": "Haha... hahahaha... I really should be going. Well, if you'll excuse me..."
+},
+{
+"en": "He certainly is a strange one, isn't he, Rimururu...?"
+}
+]
+},
+{
+"id": 8117,
+"file": "MSGD8005.PRG",
+"pages": [
+"...? What's going on, you two? You're acting strangely."
+],
+"choice": null,
+"jp": "・・・・・・？どうしたの二人とも？　変よ",
+"context": [
+{
+"en": "(Well... that's not suspicious at all...) (Oh, well... it's all over and done with...)"
+},
+{
+"en": "Haha... hahahaha..."
+},
+{
+"en": "Heheh... heheheheh..."
+},
+{
+"self": true
+},
+{
+"en": "Haha... hahahaha... I really should be going. Well, if you'll excuse me..."
+},
+{
+"en": "He certainly is a strange one, isn't he, Rimururu...?"
+},
+{
+"en": "Y-yeah, he is... hahaha..."
+}
+]
+},
+{
+"id": 8118,
+"file": "MSGD8005.PRG",
+"pages": [
+"Haha... hahahaha... I really should be going. Well, if you'll excuse me..."
+],
+"choice": null,
+"jp": "あは　あはははは僕もう行かなきゃじゃあ　失礼します",
+"context": [
+{
+"en": "Haha... hahahaha..."
+},
+{
+"en": "Heheh... heheheheh..."
+},
+{
+"en": "...? What's going on, you two? You're acting strangely."
+},
+{
+"self": true
+},
+{
+"en": "He certainly is a strange one, isn't he, Rimururu...?"
+},
+{
+"en": "Y-yeah, he is... hahaha..."
+},
+{
+"en": "And thank you, Rimururu..."
+}
+]
+},
+{
+"id": 8119,
+"file": "MSGD8005.PRG",
+"pages": [
+"He certainly is a strange one, isn't he, Rimururu...?"
+],
+"choice": null,
+"jp": "・・・変な子？ねぇ　リムルルちゃん",
+"context": [
+{
+"en": "Heheh... heheheheh..."
+},
+{
+"en": "...? What's going on, you two? You're acting strangely."
+},
+{
+"en": "Haha... hahahaha... I really should be going. Well, if you'll excuse me..."
+},
+{
+"self": true
+},
+{
+"en": "Y-yeah, he is... hahaha..."
+},
+{
+"en": "And thank you, Rimururu..."
+},
+{
+"en": "Oh, I was happy to help!"
+}
+]
+},
+{
+"id": 8120,
+"file": "MSGD8005.PRG",
+"pages": [
+"Y-yeah, he is... hahaha..."
+],
+"choice": null,
+"jp": "そ　そうですねあはははは",
+"context": [
+{
+"en": "...? What's going on, you two? You're acting strangely."
+},
+{
+"en": "Haha... hahahaha... I really should be going. Well, if you'll excuse me..."
+},
+{
+"en": "He certainly is a strange one, isn't he, Rimururu...?"
+},
+{
+"self": true
+},
+{
+"en": "And thank you, Rimururu..."
+},
+{
+"en": "Oh, I was happy to help!"
+},
+{
+"en": "I'm sorry, Nakoruru... and you, too, Cham Cham... Tee hee hee!"
+}
+]
+},
+{
+"id": 8121,
+"file": "MSGD8005.PRG",
+"pages": [
+"And thank you, Rimururu..."
+],
+"choice": null,
+"jp": "ありがとう　リムルルちゃん",
+"context": [
+{
+"en": "Haha... hahahaha... I really should be going. Well, if you'll excuse me..."
+},
+{
+"en": "He certainly is a strange one, isn't he, Rimururu...?"
+},
+{
+"en": "Y-yeah, he is... hahaha..."
+},
+{
+"self": true
+},
+{
+"en": "Oh, I was happy to help!"
+},
+{
+"en": "I'm sorry, Nakoruru... and you, too, Cham Cham... Tee hee hee!"
+},
+{
+"en": "Ook! Oop oooookkkk!! (But I'm right here...!!)"
+}
+]
+},
+{
+"id": 8122,
+"file": "MSGD8005.PRG",
+"pages": [
+"Oh, I was happy to help!"
+],
+"choice": null,
+"jp": "わ　私こそ〓しかったです！",
+"context": [
+{
+"en": "He certainly is a strange one, isn't he, Rimururu...?"
+},
+{
+"en": "Y-yeah, he is... hahaha..."
+},
+{
+"en": "And thank you, Rimururu..."
+},
+{
+"self": true
+},
+{
+"en": "I'm sorry, Nakoruru... and you, too, Cham Cham... Tee hee hee!"
+},
+{
+"en": "Ook! Oop oooookkkk!! (But I'm right here...!!)"
+},
+{
+"en": "Athenanosugata terashi dasuno"
+}
+]
+},
+{
+"id": 8123,
+"file": "MSGD8005.PRG",
+"pages": [
+"I'm sorry, Nakoruru... and you, too, Cham Cham... Tee hee hee!"
+],
+"choice": null,
+"jp": "お姉ちゃん　チャムチャムごめんね・・・・・・えへへへ",
+"context": [
+{
+"en": "Y-yeah, he is... hahaha..."
+},
+{
+"en": "And thank you, Rimururu..."
+},
+{
+"en": "Oh, I was happy to help!"
+},
+{
+"self": true
+},
+{
+"en": "Ook! Oop oooookkkk!! (But I'm right here...!!)"
+},
+{
+"en": "Athenanosugata terashi dasuno"
+},
+{
+"en": "Sai koso- doga yami osai te Athenawayume o sukui dasuno. . ."
+}
+]
+},
+{
+"id": 8124,
+"file": "MSGD8005.PRG",
+"pages": [
+"Athenanosugata terashi dasuno"
+],
+"choice": null,
+"jp": "〓あてなの姿　照らしだすの",
+"context": [
+{
+"en": "Oh, I was happy to help!"
+},
+{
+"en": "I'm sorry, Nakoruru... and you, too, Cham Cham... Tee hee hee!"
+},
+{
+"en": "Ook! Oop oooookkkk!! (But I'm right here...!!)"
+},
+{
+"self": true
+},
+{
+"en": "Sai koso- doga yami osai te Athenawayume o sukui dasuno. . ."
+},
+{
+"en": "Athenawamirai o motome tabidats u..."
+},
+{
+"en": "Hurry up, Shizumaru!!"
+}
+]
+},
+{
+"id": 8125,
+"file": "MSGD8005.PRG",
+"pages": [
+"Sai koso- doga yami osai te Athenawayume o sukui dasuno. . ."
+],
+"choice": null,
+"jp": "〓　　　〓　　　〓　　　〓〓　　　〓　　　〓　　　〓〓　　　〓　　　〓　　　〓〓　　　〓　　　〓　　　〓〓サイコソードが　闇を裂いてあてなは夢を　救いだすの・・・",
+"context": [
+{
+"en": "I'm sorry, Nakoruru... and you, too, Cham Cham... Tee hee hee!"
+},
+{
+"en": "Ook! Oop oooookkkk!! (But I'm right here...!!)"
+},
+{
+"en": "Athenanosugata terashi dasuno"
+},
+{
+"self": true
+},
+{
+"en": "Athenawamirai o motome tabidats u..."
+},
+{
+"en": "Hurry up, Shizumaru!!"
+},
+{
+"en": "I'm an adult, dammit!"
+}
+]
+},
+{
+"id": 8126,
+"file": "MSGD8005.PRG",
+"pages": [
+"Athenawamirai o motome tabidats u..."
+],
+"choice": null,
+"jp": "〓あてなは未来を求め　旅立つ・・",
+"context": [
+{
+"en": "Ook! Oop oooookkkk!! (But I'm right here...!!)"
+},
+{
+"en": "Athenanosugata terashi dasuno"
+},
+{
+"en": "Sai koso- doga yami osai te Athenawayume o sukui dasuno. . ."
+},
+{
+"self": true
+},
+{
+"en": "Hurry up, Shizumaru!!"
+},
+{
+"en": "I'm an adult, dammit!"
+},
+{
+"en": "Don't be nervous... Stay calm. .. Focus your mind... and go!"
+}
+]
+},
+{
+"id": 8127,
+"file": "MSGD8005.PRG",
+"pages": [
+"Hurry up, Shizumaru!!"
+],
+"choice": null,
+"jp": "閑丸　早く！！",
+"context": [
+{
+"en": "Athenanosugata terashi dasuno"
+},
+{
+"en": "Sai koso- doga yami osai te Athenawayume o sukui dasuno. . ."
+},
+{
+"en": "Athenawamirai o motome tabidats u..."
+},
+{
+"self": true
+},
+{
+"en": "I'm an adult, dammit!"
+},
+{
+"en": "Don't be nervous... Stay calm. .. Focus your mind... and go!"
+}
+]
+},
+{
+"id": 8128,
+"file": "MSGD8005.PRG",
+"pages": [
+"Don't be nervous... Stay calm. .. Focus your mind... and go!"
+],
+"choice": null,
+"jp": "あわてないで　落ち着いて・・・精神を集中して・・・いくわよ！",
+"context": [
+{
+"en": "Athenawamirai o motome tabidats u..."
+},
+{
+"en": "Hurry up, Shizumaru!!"
+},
+{
+"en": "I'm an adult, dammit!"
+},
+{
+"self": true
+}
+]
+}
+]

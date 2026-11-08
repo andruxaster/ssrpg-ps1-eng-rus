@@ -1,0 +1,10826 @@
+[
+{
+"id": 2034,
+"file": "MSGD1210.PRG",
+"pages": [
+"Is... is that the Sky Castle?! Amakusa's in there?"
+],
+"choice": null,
+"jp": "あ　あれが天空城！？天草はあそこか？",
+"context": [
+{
+"en": "What's that...?"
+},
+{
+"en": "Huh? What's that?"
+},
+{
+"en": "What's that...?!"
+},
+{
+"self": true
+},
+{
+"en": "Is that the Sky Castle?! Curse you, Amakusa!"
+},
+{
+"en": "That's the Sky Castle..."
+},
+{
+"en": "Is that the Sky Castle?!"
+}
+]
+},
+{
+"id": 2035,
+"file": "MSGD1210.PRG",
+"pages": [
+"Is that the Sky Castle?! Curse you, Amakusa!"
+],
+"choice": null,
+"jp": "あれが　天空城！？天草め！",
+"context": [
+{
+"en": "Huh? What's that?"
+},
+{
+"en": "What's that...?!"
+},
+{
+"en": "Is... is that the Sky Castle?! Amakusa's in there?"
+},
+{
+"self": true
+},
+{
+"en": "That's the Sky Castle..."
+},
+{
+"en": "Is that the Sky Castle?!"
+},
+{
+"en": "Whoa! Is that the Sky Castle?"
+}
+]
+},
+{
+"id": 2036,
+"file": "MSGD1210.PRG",
+"pages": [
+"That's the Sky Castle..."
+],
+"choice": null,
+"jp": "あれが　天空城・・・",
+"context": [
+{
+"en": "What's that...?!"
+},
+{
+"en": "Is... is that the Sky Castle?! Amakusa's in there?"
+},
+{
+"en": "Is that the Sky Castle?! Curse you, Amakusa!"
+},
+{
+"self": true
+},
+{
+"en": "Is that the Sky Castle?!"
+},
+{
+"en": "Whoa! Is that the Sky Castle?"
+},
+{
+"en": "Jesus...! That's the Sky Castle!"
+}
+]
+},
+{
+"id": 2037,
+"file": "MSGD1210.PRG",
+"pages": [
+"Is that the Sky Castle?!"
+],
+"choice": null,
+"jp": "あれが　天空城なの！？",
+"context": [
+{
+"en": "Is... is that the Sky Castle?! Amakusa's in there?"
+},
+{
+"en": "Is that the Sky Castle?! Curse you, Amakusa!"
+},
+{
+"en": "That's the Sky Castle..."
+},
+{
+"self": true
+},
+{
+"en": "Whoa! Is that the Sky Castle?"
+},
+{
+"en": "Jesus...! That's the Sky Castle!"
+},
+{
+"en": "Soon now, very soon... Lord Amakusa will remake the world! But some interlopers have shown up here on the mountain..."
+}
+]
+},
+{
+"id": 2038,
+"file": "MSGD1210.PRG",
+"pages": [
+"Whoa! Is that the Sky Castle?"
+],
+"choice": null,
+"jp": "ヒェ～！テンクージョーッて　あれぇ！？",
+"context": [
+{
+"en": "Is that the Sky Castle?! Curse you, Amakusa!"
+},
+{
+"en": "That's the Sky Castle..."
+},
+{
+"en": "Is that the Sky Castle?!"
+},
+{
+"self": true
+},
+{
+"en": "Jesus...! That's the Sky Castle!"
+},
+{
+"en": "Soon now, very soon... Lord Amakusa will remake the world! But some interlopers have shown up here on the mountain..."
+},
+{
+"en": "I wonder what's taking Master Shichikai Doushi so long... Eh? Don't you know who Shichikai Doushi is? He's a fine man, he is! One of Amakusa's most trusted aides!"
+}
+]
+},
+{
+"id": 2039,
+"file": "MSGD1210.PRG",
+"pages": [
+"Jesus...! That's the Sky Castle!"
+],
+"choice": null,
+"jp": "ジーサス・・・あれが　天空城！？",
+"context": [
+{
+"en": "That's the Sky Castle..."
+},
+{
+"en": "Is that the Sky Castle?!"
+},
+{
+"en": "Whoa! Is that the Sky Castle?"
+},
+{
+"self": true
+},
+{
+"en": "Soon now, very soon... Lord Amakusa will remake the world! But some interlopers have shown up here on the mountain..."
+},
+{
+"en": "I wonder what's taking Master Shichikai Doushi so long... Eh? Don't you know who Shichikai Doushi is? He's a fine man, he is! One of Amakusa's most trusted aides!"
+},
+{
+"en": "Turn back..."
+}
+]
+},
+{
+"id": 2040,
+"file": "MSGD1210.PRG",
+"pages": [
+"Soon now, very soon... Lord Amakusa will remake the world! But some interlopers have shown up here on the mountain..."
+],
+"choice": null,
+"jp": "もうすぐ　天草様の大事な大事な世直しが始まるんだ関係ねぇヤツはこの山に入っちゃなんねえ",
+"context": [
+{
+"en": "Is that the Sky Castle?!"
+},
+{
+"en": "Whoa! Is that the Sky Castle?"
+},
+{
+"en": "Jesus...! That's the Sky Castle!"
+},
+{
+"self": true
+},
+{
+"en": "I wonder what's taking Master Shichikai Doushi so long... Eh? Don't you know who Shichikai Doushi is? He's a fine man, he is! One of Amakusa's most trusted aides!"
+},
+{
+"en": "Turn back..."
+},
+{
+"en": "That's what he plans to use to take over the world?! / Oh, no... no chance. I'm not letting that happen! / But how am I supposed to get up there...?"
+}
+]
+},
+{
+"id": 2041,
+"file": "MSGD1210.PRG",
+"pages": [
+"I wonder what's taking Master Shichikai Doushi so long... Eh? Don't you know who Shichikai Doushi is? He's a fine man, he is! One of Amakusa's most trusted aides!"
+],
+"choice": null,
+"jp": "・・・はやく七界道士様いらっしゃらないかな・・・？七界道士様を知らないのか？天草様という偉い方の手伝いをなさっている　頼もしいお方よぉ！",
+"context": [
+{
+"en": "Whoa! Is that the Sky Castle?"
+},
+{
+"en": "Jesus...! That's the Sky Castle!"
+},
+{
+"en": "Soon now, very soon... Lord Amakusa will remake the world! But some interlopers have shown up here on the mountain..."
+},
+{
+"self": true
+},
+{
+"en": "Turn back..."
+},
+{
+"en": "That's what he plans to use to take over the world?! / Oh, no... no chance. I'm not letting that happen! / But how am I supposed to get up there...?"
+},
+{
+"en": "Damn you, Amakusa!! / Now how am I supposed to get over there?"
+}
+]
+},
+{
+"id": 2042,
+"file": "MSGD1210.PRG",
+"pages": [
+"Turn back..."
+],
+"choice": null,
+"jp": "・・・帰れ・・・",
+"context": [
+{
+"en": "Jesus...! That's the Sky Castle!"
+},
+{
+"en": "Soon now, very soon... Lord Amakusa will remake the world! But some interlopers have shown up here on the mountain..."
+},
+{
+"en": "I wonder what's taking Master Shichikai Doushi so long... Eh? Don't you know who Shichikai Doushi is? He's a fine man, he is! One of Amakusa's most trusted aides!"
+},
+{
+"self": true
+},
+{
+"en": "That's what he plans to use to take over the world?! / Oh, no... no chance. I'm not letting that happen! / But how am I supposed to get up there...?"
+},
+{
+"en": "Damn you, Amakusa!! / Now how am I supposed to get over there?"
+},
+{
+"en": "That's what he plans to use to take over the world?! / (cough cough)... I will not allow that to happen! / But... what should I do now...?"
+}
+]
+},
+{
+"id": 2043,
+"file": "MSGD1210.PRG",
+"pages": [
+"That's what he plans to use to take over the world?!",
+"Oh, no... no chance. I'm not letting that happen!",
+"But how am I supposed to get up there...?"
+],
+"choice": null,
+"jp": "あんなもので地上を破壊するってのか！？させるかぁ・・・そんなこと　絶対にさせるかぁ！だが　どうしたら・・・あそこにいる天草のもとへ行ける？",
+"context": [
+{
+"en": "Soon now, very soon... Lord Amakusa will remake the world! But some interlopers have shown up here on the mountain..."
+},
+{
+"en": "I wonder what's taking Master Shichikai Doushi so long... Eh? Don't you know who Shichikai Doushi is? He's a fine man, he is! One of Amakusa's most trusted aides!"
+},
+{
+"en": "Turn back..."
+},
+{
+"self": true
+},
+{
+"en": "Damn you, Amakusa!! / Now how am I supposed to get over there?"
+},
+{
+"en": "That's what he plans to use to take over the world?! / (cough cough)... I will not allow that to happen! / But... what should I do now...?"
+},
+{
+"en": "Incredible... I've never heard Mother Nature scream so! / I have to stop him... but how...?"
+}
+]
+},
+{
+"id": 2044,
+"file": "MSGD1210.PRG",
+"pages": [
+"Damn you, Amakusa!!",
+"Now how am I supposed to get over there?"
+],
+"choice": null,
+"jp": "くそ！天草め！どうやって　あそこに行く？",
+"context": [
+{
+"en": "I wonder what's taking Master Shichikai Doushi so long... Eh? Don't you know who Shichikai Doushi is? He's a fine man, he is! One of Amakusa's most trusted aides!"
+},
+{
+"en": "Turn back..."
+},
+{
+"en": "That's what he plans to use to take over the world?! / Oh, no... no chance. I'm not letting that happen! / But how am I supposed to get up there...?"
+},
+{
+"self": true
+},
+{
+"en": "That's what he plans to use to take over the world?! / (cough cough)... I will not allow that to happen! / But... what should I do now...?"
+},
+{
+"en": "Incredible... I've never heard Mother Nature scream so! / I have to stop him... but how...?"
+},
+{
+"en": "Oh, no! That's no good! / You can't do this, Amakusa! But how do I get up there...?"
+}
+]
+},
+{
+"id": 2045,
+"file": "MSGD1210.PRG",
+"pages": [
+"That's what he plans to use to take over the world?!",
+"(cough cough)... I will not allow that to happen!",
+"But... what should I do now...?"
+],
+"choice": null,
+"jp": "あれで地上を破壊するつもりか・・・ゴフォ　ゴホ・・・させるわけにはいかぬ！だが・・・だが　どうすればいい？",
+"context": [
+{
+"en": "Turn back..."
+},
+{
+"en": "That's what he plans to use to take over the world?! / Oh, no... no chance. I'm not letting that happen! / But how am I supposed to get up there...?"
+},
+{
+"en": "Damn you, Amakusa!! / Now how am I supposed to get over there?"
+},
+{
+"self": true
+},
+{
+"en": "Incredible... I've never heard Mother Nature scream so! / I have to stop him... but how...?"
+},
+{
+"en": "Oh, no! That's no good! / You can't do this, Amakusa! But how do I get up there...?"
+},
+{
+"en": "Something must be done... Amakusa has to be stopped! / Trouble is... how to reach that castle?"
+}
+]
+},
+{
+"id": 2046,
+"file": "MSGD1210.PRG",
+"pages": [
+"Incredible... I've never heard Mother Nature scream so!",
+"I have to stop him... but how...?"
+],
+"choice": null,
+"jp": "信じられない・・・大自然の悲鳴が　こんなにも！何とかして止めないと・・・でも　どうすれば・・・",
+"context": [
+{
+"en": "That's what he plans to use to take over the world?! / Oh, no... no chance. I'm not letting that happen! / But how am I supposed to get up there...?"
+},
+{
+"en": "Damn you, Amakusa!! / Now how am I supposed to get over there?"
+},
+{
+"en": "That's what he plans to use to take over the world?! / (cough cough)... I will not allow that to happen! / But... what should I do now...?"
+},
+{
+"self": true
+},
+{
+"en": "Oh, no! That's no good! / You can't do this, Amakusa! But how do I get up there...?"
+},
+{
+"en": "Something must be done... Amakusa has to be stopped! / Trouble is... how to reach that castle?"
+},
+{
+"en": "Please stop Lord Amakusa..."
+}
+]
+},
+{
+"id": 2047,
+"file": "MSGD1210.PRG",
+"pages": [
+"Oh, no! That's no good!",
+"You can't do this, Amakusa! But how do I get up there...?"
+],
+"choice": null,
+"jp": "キョウアクだぞ！サイアクだぞ！Ⅵメだぞ　天草！・・・でも　ホク飛べないンだよ！",
+"context": [
+{
+"en": "Damn you, Amakusa!! / Now how am I supposed to get over there?"
+},
+{
+"en": "That's what he plans to use to take over the world?! / (cough cough)... I will not allow that to happen! / But... what should I do now...?"
+},
+{
+"en": "Incredible... I've never heard Mother Nature scream so! / I have to stop him... but how...?"
+},
+{
+"self": true
+},
+{
+"en": "Something must be done... Amakusa has to be stopped! / Trouble is... how to reach that castle?"
+},
+{
+"en": "Please stop Lord Amakusa..."
+},
+{
+"en": "Lady Toki...?!"
+}
+]
+},
+{
+"id": 2048,
+"file": "MSGD1210.PRG",
+"pages": [
+"Something must be done... Amakusa has to be stopped!",
+"Trouble is... how to reach that castle?"
+],
+"choice": null,
+"jp": "何とかして・・・天草を止めなくては！・・・だが　どうすれば・・・あの城に行けるんだ？",
+"context": [
+{
+"en": "That's what he plans to use to take over the world?! / (cough cough)... I will not allow that to happen! / But... what should I do now...?"
+},
+{
+"en": "Incredible... I've never heard Mother Nature scream so! / I have to stop him... but how...?"
+},
+{
+"en": "Oh, no! That's no good! / You can't do this, Amakusa! But how do I get up there...?"
+},
+{
+"self": true
+},
+{
+"en": "Please stop Lord Amakusa..."
+},
+{
+"en": "Lady Toki...?!"
+},
+{
+"en": "Toki...?"
+}
+]
+},
+{
+"id": 2049,
+"file": "MSGD1210.PRG",
+"pages": [
+"Please stop Lord Amakusa..."
+],
+"choice": null,
+"jp": "天草様を止めてください・・・",
+"context": [
+{
+"en": "Incredible... I've never heard Mother Nature scream so! / I have to stop him... but how...?"
+},
+{
+"en": "Oh, no! That's no good! / You can't do this, Amakusa! But how do I get up there...?"
+},
+{
+"en": "Something must be done... Amakusa has to be stopped! / Trouble is... how to reach that castle?"
+},
+{
+"self": true
+},
+{
+"en": "Lady Toki...?!"
+},
+{
+"en": "Toki...?"
+},
+{
+"en": "Toki...?"
+}
+]
+},
+{
+"id": 2050,
+"file": "MSGD1210.PRG",
+"pages": [
+"Lady Toki...?!"
+],
+"choice": null,
+"jp": "時姫！？　おまえ？",
+"context": [
+{
+"en": "Oh, no! That's no good! / You can't do this, Amakusa! But how do I get up there...?"
+},
+{
+"en": "Something must be done... Amakusa has to be stopped! / Trouble is... how to reach that castle?"
+},
+{
+"en": "Please stop Lord Amakusa..."
+},
+{
+"self": true
+},
+{
+"en": "Toki...?"
+},
+{
+"en": "Toki...?"
+},
+{
+"en": "Lady Toki?!"
+}
+]
+},
+{
+"id": 2051,
+"file": "MSGD1210.PRG",
+"pages": [
+"Toki...?"
+],
+"choice": null,
+"jp": "時姫！？",
+"context": [
+{
+"en": "Something must be done... Amakusa has to be stopped! / Trouble is... how to reach that castle?"
+},
+{
+"en": "Please stop Lord Amakusa..."
+},
+{
+"en": "Lady Toki...?!"
+},
+{
+"self": true
+},
+{
+"en": "Toki...?"
+},
+{
+"en": "Lady Toki?!"
+},
+{
+"en": "Huh? Miss Toki?"
+}
+]
+},
+{
+"id": 2052,
+"file": "MSGD1210.PRG",
+"pages": [
+"Lady Toki?!"
+],
+"choice": null,
+"jp": "時姫さん！？",
+"context": [
+{
+"en": "Lady Toki...?!"
+},
+{
+"en": "Toki...?"
+},
+{
+"en": "Toki...?"
+},
+{
+"self": true
+},
+{
+"en": "Huh? Miss Toki?"
+},
+{
+"en": "Toki...?"
+},
+{
+"en": "My sins have been forgiven... I beg you... / Lord Amakusa's soul... must be sent beyond..."
+}
+]
+},
+{
+"id": 2053,
+"file": "MSGD1210.PRG",
+"pages": [
+"Huh? Miss Toki?"
+],
+"choice": null,
+"jp": "あれェ～？時姫だ？",
+"context": [
+{
+"en": "Toki...?"
+},
+{
+"en": "Toki...?"
+},
+{
+"en": "Lady Toki?!"
+},
+{
+"self": true
+},
+{
+"en": "Toki...?"
+},
+{
+"en": "My sins have been forgiven... I beg you... / Lord Amakusa's soul... must be sent beyond..."
+},
+{
+"en": "Only you... can possibly save him..."
+}
+]
+},
+{
+"id": 2054,
+"file": "MSGD1210.PRG",
+"pages": [
+"My sins have been forgiven... I beg you...",
+"Lord Amakusa's soul... must be sent beyond..."
+],
+"choice": null,
+"jp": "天はわたしを許してくださいましたお願いします天草様の魂も天に召されて欲しいのです・・・",
+"context": [
+{
+"en": "Lady Toki?!"
+},
+{
+"en": "Huh? Miss Toki?"
+},
+{
+"en": "Toki...?"
+},
+{
+"self": true
+},
+{
+"en": "Only you... can possibly save him..."
+},
+{
+"en": "No, no, no! This place belongs to Shichikai Doushi...! What? He is?!"
+},
+{
+"en": "Aieeeeeee!!"
+}
+]
+},
+{
+"id": 2055,
+"file": "MSGD1210.PRG",
+"pages": [
+"Only you... can possibly save him..."
+],
+"choice": null,
+"jp": "あなたがたの力でどうか天草様を・・・",
+"context": [
+{
+"en": "Huh? Miss Toki?"
+},
+{
+"en": "Toki...?"
+},
+{
+"en": "My sins have been forgiven... I beg you... / Lord Amakusa's soul... must be sent beyond..."
+},
+{
+"self": true
+},
+{
+"en": "No, no, no! This place belongs to Shichikai Doushi...! What? He is?!"
+},
+{
+"en": "Aieeeeeee!!"
+}
+]
+},
+{
+"id": 2056,
+"file": "MSGD1210.PRG",
+"pages": [
+"No, no, no! This place belongs to Shichikai Doushi...! What? He is?!"
+],
+"choice": null,
+"jp": "だめだだめだ！ここは七界道士様が・・・え？七界道士様が！？",
+"context": [
+{
+"en": "Toki...?"
+},
+{
+"en": "My sins have been forgiven... I beg you... / Lord Amakusa's soul... must be sent beyond..."
+},
+{
+"en": "Only you... can possibly save him..."
+},
+{
+"self": true
+},
+{
+"en": "Aieeeeeee!!"
+}
+]
+},
+{
+"id": 2057,
+"file": "MSGD1210.PRG",
+"pages": [
+"Aieeeeeee!!"
+],
+"choice": null,
+"jp": "・・・ひええええええっっ！",
+"context": [
+{
+"en": "My sins have been forgiven... I beg you... / Lord Amakusa's soul... must be sent beyond..."
+},
+{
+"en": "Only you... can possibly save him..."
+},
+{
+"en": "No, no, no! This place belongs to Shichikai Doushi...! What? He is?!"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 2058,
+"file": "MSGD1220.PRG",
+"pages": [
+"Oh ho ho!",
+"You come to Kyushu seeking new power, do you?"
+],
+"choice": null,
+"jp": "ふぉっふぉっふぉっこの太宰府に新たな力を求めて来たのだな？",
+"context": [
+{
+"self": true
+},
+{
+"en": "But you are already stronger than I could possibly make you. It's no use, I'm afraid..."
+},
+{
+"en": "Are you prepared to train?"
+},
+{
+"en": "Then see how you fare against this..."
+}
+]
+},
+{
+"id": 2059,
+"file": "MSGD1220.PRG",
+"pages": [
+"But you are already stronger than I could possibly make you. It's no use, I'm afraid..."
+],
+"choice": null,
+"jp": "しかし　この地ではそれ以上の力も技も得ることはできんムⅥじゃ　無〓じゃ",
+"context": [
+{
+"en": "Oh ho ho! / You come to Kyushu seeking new power, do you?"
+},
+{
+"self": true
+},
+{
+"en": "Are you prepared to train?"
+},
+{
+"en": "Then see how you fare against this..."
+},
+{
+"en": "Heh... too afraid to take the chance, are you..?"
+}
+]
+},
+{
+"id": 2060,
+"file": "MSGD1220.PRG",
+"pages": [
+"Then see how you fare against this..."
+],
+"choice": null,
+"jp": "では　コイツと戦ってみい",
+"context": [
+{
+"en": "Oh ho ho! / You come to Kyushu seeking new power, do you?"
+},
+{
+"en": "But you are already stronger than I could possibly make you. It's no use, I'm afraid..."
+},
+{
+"en": "Are you prepared to train?"
+},
+{
+"self": true
+},
+{
+"en": "Heh... too afraid to take the chance, are you..?"
+},
+{
+"en": "Hmm... not bad... not bad at all."
+},
+{
+"en": "Be sure to keep up your strength!"
+}
+]
+},
+{
+"id": 2061,
+"file": "MSGD1220.PRG",
+"pages": [
+"Heh... too afraid to take the chance, are you..?"
+],
+"choice": null,
+"jp": "ふん・・・やめるのか　いくじなしが",
+"context": [
+{
+"en": "But you are already stronger than I could possibly make you. It's no use, I'm afraid..."
+},
+{
+"en": "Are you prepared to train?"
+},
+{
+"en": "Then see how you fare against this..."
+},
+{
+"self": true
+},
+{
+"en": "Hmm... not bad... not bad at all."
+},
+{
+"en": "Be sure to keep up your strength!"
+},
+{
+"en": "You simply aren't strong enough for this..."
+}
+]
+},
+{
+"id": 2062,
+"file": "MSGD1220.PRG",
+"pages": [
+"Hmm... not bad... not bad at all."
+],
+"choice": null,
+"jp": "ふん　やるもんだの",
+"context": [
+{
+"en": "Are you prepared to train?"
+},
+{
+"en": "Then see how you fare against this..."
+},
+{
+"en": "Heh... too afraid to take the chance, are you..?"
+},
+{
+"self": true
+},
+{
+"en": "Be sure to keep up your strength!"
+},
+{
+"en": "You simply aren't strong enough for this..."
+},
+{
+"en": "What do you want? Your business here is concluded..."
+}
+]
+},
+{
+"id": 2063,
+"file": "MSGD1220.PRG",
+"pages": [
+"Be sure to keep up your strength!"
+],
+"choice": null,
+"jp": "せいぜい・・・がんばれや",
+"context": [
+{
+"en": "Then see how you fare against this..."
+},
+{
+"en": "Heh... too afraid to take the chance, are you..?"
+},
+{
+"en": "Hmm... not bad... not bad at all."
+},
+{
+"self": true
+},
+{
+"en": "You simply aren't strong enough for this..."
+},
+{
+"en": "What do you want? Your business here is concluded..."
+}
+]
+},
+{
+"id": 2064,
+"file": "MSGD1220.PRG",
+"pages": [
+"You simply aren't strong enough for this..."
+],
+"choice": null,
+"jp": "力が足りんの・・・力が　の！",
+"context": [
+{
+"en": "Heh... too afraid to take the chance, are you..?"
+},
+{
+"en": "Hmm... not bad... not bad at all."
+},
+{
+"en": "Be sure to keep up your strength!"
+},
+{
+"self": true
+},
+{
+"en": "What do you want? Your business here is concluded..."
+}
+]
+},
+{
+"id": 2065,
+"file": "MSGD1220.PRG",
+"pages": [
+"What do you want? Your business here is concluded..."
+],
+"choice": null,
+"jp": "何しに来た？ここはもう用済みのはずじゃがの",
+"context": [
+{
+"en": "Hmm... not bad... not bad at all."
+},
+{
+"en": "Be sure to keep up your strength!"
+},
+{
+"en": "You simply aren't strong enough for this..."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 2066,
+"file": "MSGD1260.PRG",
+"pages": [
+"Nice weather today, eh, Tam Tam?"
+],
+"choice": null,
+"jp": "いい天気だな～　タムタム！",
+"context": [
+{
+"self": true
+},
+{
+"en": "The weather's taken a turn for the worse all of a sudden... Where are you off to, Cham Cham?"
+},
+{
+"en": "Pak Pak, wait up!"
+},
+{
+"en": "I can't feel the soothing grace of the Palenque Stone anymore. I don't feel good about this..."
+}
+]
+},
+{
+"id": 2067,
+"file": "MSGD1260.PRG",
+"pages": [
+"The weather's taken a turn for the worse all of a sudden... Where are you off to, Cham Cham?"
+],
+"choice": null,
+"jp": "急に天気が悪くなったな・・・どこへお出かけだい？チャムチャム",
+"context": [
+{
+"en": "Nice weather today, eh, Tam Tam?"
+},
+{
+"self": true
+},
+{
+"en": "Pak Pak, wait up!"
+},
+{
+"en": "I can't feel the soothing grace of the Palenque Stone anymore. I don't feel good about this..."
+},
+{
+"en": "Yes, the sacred Palenque Stone, our gift from the Great One... / I will watch over it... it is my duty as a warrior!"
+}
+]
+},
+{
+"id": 2068,
+"file": "MSGD1260.PRG",
+"pages": [
+"Pak Pak, wait up!"
+],
+"choice": null,
+"jp": "まてェ～！　パクパク～！",
+"context": [
+{
+"en": "Nice weather today, eh, Tam Tam?"
+},
+{
+"en": "The weather's taken a turn for the worse all of a sudden... Where are you off to, Cham Cham?"
+},
+{
+"self": true
+},
+{
+"en": "I can't feel the soothing grace of the Palenque Stone anymore. I don't feel good about this..."
+},
+{
+"en": "Yes, the sacred Palenque Stone, our gift from the Great One... / I will watch over it... it is my duty as a warrior!"
+},
+{
+"en": "I sense evil on the wind... As if the mountains themselves were shaking in fear..."
+}
+]
+},
+{
+"id": 2069,
+"file": "MSGD1260.PRG",
+"pages": [
+"I can't feel the soothing grace of the Palenque Stone anymore. I don't feel good about this..."
+],
+"choice": null,
+"jp": "パレンケストーンの恵みが・・・暖かさが感じられない・・・何だかイヤな予感がするわ",
+"context": [
+{
+"en": "Nice weather today, eh, Tam Tam?"
+},
+{
+"en": "The weather's taken a turn for the worse all of a sudden... Where are you off to, Cham Cham?"
+},
+{
+"en": "Pak Pak, wait up!"
+},
+{
+"self": true
+},
+{
+"en": "Yes, the sacred Palenque Stone, our gift from the Great One... / I will watch over it... it is my duty as a warrior!"
+},
+{
+"en": "I sense evil on the wind... As if the mountains themselves were shaking in fear..."
+},
+{
+"en": "The great Quetzalcoatl smiles upon us this day."
+}
+]
+},
+{
+"id": 2070,
+"file": "MSGD1260.PRG",
+"pages": [
+"Yes, the sacred Palenque Stone, our gift from the Great One...",
+"I will watch over it... it is my duty as a warrior!"
+],
+"choice": null,
+"jp": "ケツアルクアトル様に授かりし聖石パレンケストーン・・・タムタム　守る・・・戦士の使命！",
+"context": [
+{
+"en": "The weather's taken a turn for the worse all of a sudden... Where are you off to, Cham Cham?"
+},
+{
+"en": "Pak Pak, wait up!"
+},
+{
+"en": "I can't feel the soothing grace of the Palenque Stone anymore. I don't feel good about this..."
+},
+{
+"self": true
+},
+{
+"en": "I sense evil on the wind... As if the mountains themselves were shaking in fear..."
+},
+{
+"en": "The great Quetzalcoatl smiles upon us this day."
+},
+{
+"en": "If Lord Quetzalcoatl is angry, disaster will soon be upon us!"
+}
+]
+},
+{
+"id": 2071,
+"file": "MSGD1260.PRG",
+"pages": [
+"I sense evil on the wind... As if the mountains themselves were shaking in fear..."
+],
+"choice": null,
+"jp": "何だかイヤな予感がするわハレハレ山が震えている・・・",
+"context": [
+{
+"en": "Pak Pak, wait up!"
+},
+{
+"en": "I can't feel the soothing grace of the Palenque Stone anymore. I don't feel good about this..."
+},
+{
+"en": "Yes, the sacred Palenque Stone, our gift from the Great One... / I will watch over it... it is my duty as a warrior!"
+},
+{
+"self": true
+},
+{
+"en": "The great Quetzalcoatl smiles upon us this day."
+},
+{
+"en": "If Lord Quetzalcoatl is angry, disaster will soon be upon us!"
+},
+{
+"en": "Tam Tam... sacred warrior of the great Quetzalcoatl... Protect the Palenque Stone and deliver us from evil!"
+}
+]
+},
+{
+"id": 2072,
+"file": "MSGD1260.PRG",
+"pages": [
+"The great Quetzalcoatl smiles upon us this day."
+],
+"choice": null,
+"jp": "ケツアルクアトル様は今日も　機嫌がいいようだね",
+"context": [
+{
+"en": "I can't feel the soothing grace of the Palenque Stone anymore. I don't feel good about this..."
+},
+{
+"en": "Yes, the sacred Palenque Stone, our gift from the Great One... / I will watch over it... it is my duty as a warrior!"
+},
+{
+"en": "I sense evil on the wind... As if the mountains themselves were shaking in fear..."
+},
+{
+"self": true
+},
+{
+"en": "If Lord Quetzalcoatl is angry, disaster will soon be upon us!"
+},
+{
+"en": "Tam Tam... sacred warrior of the great Quetzalcoatl... Protect the Palenque Stone and deliver us from evil!"
+},
+{
+"en": "Hey, Cham Cham... do you know where Tam Tam is?"
+}
+]
+},
+{
+"id": 2073,
+"file": "MSGD1260.PRG",
+"pages": [
+"If Lord Quetzalcoatl is angry, disaster will soon be upon us!"
+],
+"choice": null,
+"jp": "ケツアルクアトル様がお怒りじゃきっと　大きな災厄が来るぞ！",
+"context": [
+{
+"en": "Yes, the sacred Palenque Stone, our gift from the Great One... / I will watch over it... it is my duty as a warrior!"
+},
+{
+"en": "I sense evil on the wind... As if the mountains themselves were shaking in fear..."
+},
+{
+"en": "The great Quetzalcoatl smiles upon us this day."
+},
+{
+"self": true
+},
+{
+"en": "Tam Tam... sacred warrior of the great Quetzalcoatl... Protect the Palenque Stone and deliver us from evil!"
+},
+{
+"en": "Hey, Cham Cham... do you know where Tam Tam is?"
+},
+{
+"en": "Hiya, Tam Tam. Have you seen Cham Cham anywhere around? / No, Chona Chona. Not since you two ran past me earlier. / Oh... I wonder where she went."
+}
+]
+},
+{
+"id": 2074,
+"file": "MSGD1260.PRG",
+"pages": [
+"Tam Tam... sacred warrior of the great Quetzalcoatl... Protect the Palenque Stone and deliver us from evil!"
+],
+"choice": null,
+"jp": "我らが神ケツアルクアトルの戦士タムタムよ・・・聖石パレンケストーンを守りこの地の平和を守ってくれ！",
+"context": [
+{
+"en": "I sense evil on the wind... As if the mountains themselves were shaking in fear..."
+},
+{
+"en": "The great Quetzalcoatl smiles upon us this day."
+},
+{
+"en": "If Lord Quetzalcoatl is angry, disaster will soon be upon us!"
+},
+{
+"self": true
+},
+{
+"en": "Hey, Cham Cham... do you know where Tam Tam is?"
+},
+{
+"en": "Hiya, Tam Tam. Have you seen Cham Cham anywhere around? / No, Chona Chona. Not since you two ran past me earlier. / Oh... I wonder where she went."
+},
+{
+"en": "What's wrong, Cham Cham? Why don't you want to play?"
+}
+]
+},
+{
+"id": 2075,
+"file": "MSGD1260.PRG",
+"pages": [
+"Hey, Cham Cham... do you know where Tam Tam is?"
+],
+"choice": null,
+"jp": "ねえ　チャムチャムタムタムどこ行った～？",
+"context": [
+{
+"en": "The great Quetzalcoatl smiles upon us this day."
+},
+{
+"en": "If Lord Quetzalcoatl is angry, disaster will soon be upon us!"
+},
+{
+"en": "Tam Tam... sacred warrior of the great Quetzalcoatl... Protect the Palenque Stone and deliver us from evil!"
+},
+{
+"self": true
+},
+{
+"en": "Hiya, Tam Tam. Have you seen Cham Cham anywhere around? / No, Chona Chona. Not since you two ran past me earlier. / Oh... I wonder where she went."
+},
+{
+"en": "What's wrong, Cham Cham? Why don't you want to play?"
+},
+{
+"en": "D 1 3"
+}
+]
+},
+{
+"id": 2076,
+"file": "MSGD1260.PRG",
+"pages": [
+"Hiya, Tam Tam. Have you seen Cham Cham anywhere around?",
+"No, Chona Chona. Not since you two ran past me earlier.",
+"Oh... I wonder where she went."
+],
+"choice": null,
+"jp": "こんにちは　タムタムチャムチャム　見かけなかった？いや・・・　チョナチョナ君と遊んでいると思っていたよそっかぁ・・・どこに行ったのかなぁ？",
+"context": [
+{
+"en": "If Lord Quetzalcoatl is angry, disaster will soon be upon us!"
+},
+{
+"en": "Tam Tam... sacred warrior of the great Quetzalcoatl... Protect the Palenque Stone and deliver us from evil!"
+},
+{
+"en": "Hey, Cham Cham... do you know where Tam Tam is?"
+},
+{
+"self": true
+},
+{
+"en": "What's wrong, Cham Cham? Why don't you want to play?"
+},
+{
+"en": "D 1 3"
+},
+{
+"en": "You mean to say that not only is the Palenque Stone missing, but so is Tam Tam?! Hmmm... something suspicious is definitely going on here."
+}
+]
+},
+{
+"id": 2077,
+"file": "MSGD1260.PRG",
+"pages": [
+"What's wrong, Cham Cham? Why don't you want to play?"
+],
+"choice": null,
+"jp": "どうしたのチャムチャム？遊ぼうよぉ～",
+"context": [
+{
+"en": "Tam Tam... sacred warrior of the great Quetzalcoatl... Protect the Palenque Stone and deliver us from evil!"
+},
+{
+"en": "Hey, Cham Cham... do you know where Tam Tam is?"
+},
+{
+"en": "Hiya, Tam Tam. Have you seen Cham Cham anywhere around? / No, Chona Chona. Not since you two ran past me earlier. / Oh... I wonder where she went."
+},
+{
+"self": true
+},
+{
+"en": "D 1 3"
+},
+{
+"en": "You mean to say that not only is the Palenque Stone missing, but so is Tam Tam?! Hmmm... something suspicious is definitely going on here."
+},
+{
+"en": "Cham Cham... You must go to Halehale Mountain to visit the sun god. Listen to the divine message of Lord Quetzalcoatl... With Tam Tam missing, you are the only one who can do it."
+}
+]
+},
+{
+"id": 2078,
+"file": "MSGD1260.PRG",
+"pages": [
+"You mean to say that not only is the Palenque Stone missing, but so is Tam Tam?! Hmmm... something suspicious is definitely going on here."
+],
+"choice": null,
+"jp": "パレンケストーンが無くなりタムタムの姿が見えぬだと！？ふうむ・・・？　わからぬいったいなにが起きたというのだ？",
+"context": [
+{
+"en": "Hiya, Tam Tam. Have you seen Cham Cham anywhere around? / No, Chona Chona. Not since you two ran past me earlier. / Oh... I wonder where she went."
+},
+{
+"en": "What's wrong, Cham Cham? Why don't you want to play?"
+},
+{
+"en": "D 1 3"
+},
+{
+"self": true
+},
+{
+"en": "Cham Cham... You must go to Halehale Mountain to visit the sun god. Listen to the divine message of Lord Quetzalcoatl... With Tam Tam missing, you are the only one who can do it."
+},
+{
+"en": "Halehale Mountain to the north looks harder to see than usual. I wonder why that is...?"
+},
+{
+"en": "What's wrong, Cham Cham? Are you tired?"
+}
+]
+},
+{
+"id": 2079,
+"file": "MSGD1260.PRG",
+"pages": [
+"Cham Cham... You must go to Halehale Mountain to visit the sun god. Listen to the divine message of Lord Quetzalcoatl... With Tam Tam missing, you are the only one who can do it."
+],
+"choice": null,
+"jp": "チャムチャムよすまぬがハレハレ山の太陽神殿に行きケツアルクアトル様にお告げを聞いてきてくれ・・・タムタムのいない今おまえだけが頼りなのだ",
+"context": [
+{
+"en": "What's wrong, Cham Cham? Why don't you want to play?"
+},
+{
+"en": "D 1 3"
+},
+{
+"en": "You mean to say that not only is the Palenque Stone missing, but so is Tam Tam?! Hmmm... something suspicious is definitely going on here."
+},
+{
+"self": true
+},
+{
+"en": "Halehale Mountain to the north looks harder to see than usual. I wonder why that is...?"
+},
+{
+"en": "What's wrong, Cham Cham? Are you tired?"
+},
+{
+"en": "Hmm... well, that's unusual. Rest for now, and you can hear the divine message tomorrow."
+}
+]
+},
+{
+"id": 2080,
+"file": "MSGD1260.PRG",
+"pages": [
+"Halehale Mountain to the north looks harder to see than usual. I wonder why that is...?"
+],
+"choice": null,
+"jp": "村の北にそびえるハレハレ山がいつもよりも遠くに見えるのだなぜだろうか？",
+"context": [
+{
+"en": "D 1 3"
+},
+{
+"en": "You mean to say that not only is the Palenque Stone missing, but so is Tam Tam?! Hmmm... something suspicious is definitely going on here."
+},
+{
+"en": "Cham Cham... You must go to Halehale Mountain to visit the sun god. Listen to the divine message of Lord Quetzalcoatl... With Tam Tam missing, you are the only one who can do it."
+},
+{
+"self": true
+},
+{
+"en": "What's wrong, Cham Cham? Are you tired?"
+},
+{
+"en": "Hmm... well, that's unusual. Rest for now, and you can hear the divine message tomorrow."
+},
+{
+"en": "I know you're feeling well, but try not to push yourself."
+}
+]
+},
+{
+"id": 2081,
+"file": "MSGD1260.PRG",
+"pages": [
+"What's wrong, Cham Cham? Are you tired?"
+],
+"choice": {
+"kind": "yn",
+"options": [
+"Yes",
+"No"
+],
+"max_len": 12
+},
+"jp": "どうしたチャムチャムつかれているのか？はいいいえ",
+"context": [
+{
+"en": "You mean to say that not only is the Palenque Stone missing, but so is Tam Tam?! Hmmm... something suspicious is definitely going on here."
+},
+{
+"en": "Cham Cham... You must go to Halehale Mountain to visit the sun god. Listen to the divine message of Lord Quetzalcoatl... With Tam Tam missing, you are the only one who can do it."
+},
+{
+"en": "Halehale Mountain to the north looks harder to see than usual. I wonder why that is...?"
+},
+{
+"self": true
+},
+{
+"en": "Hmm... well, that's unusual. Rest for now, and you can hear the divine message tomorrow."
+},
+{
+"en": "I know you're feeling well, but try not to push yourself."
+},
+{
+"en": "D 2 0"
+}
+]
+},
+{
+"id": 2082,
+"file": "MSGD1260.PRG",
+"pages": [
+"Hmm... well, that's unusual. Rest for now, and you can hear the divine message tomorrow."
+],
+"choice": null,
+"jp": "ふむめずらしいこともあるもんじゃでは今日はよく寝て明日しっかりお告げを聞きに行ってくれ",
+"context": [
+{
+"en": "Cham Cham... You must go to Halehale Mountain to visit the sun god. Listen to the divine message of Lord Quetzalcoatl... With Tam Tam missing, you are the only one who can do it."
+},
+{
+"en": "Halehale Mountain to the north looks harder to see than usual. I wonder why that is...?"
+},
+{
+"en": "What's wrong, Cham Cham? Are you tired?"
+},
+{
+"self": true
+},
+{
+"en": "I know you're feeling well, but try not to push yourself."
+},
+{
+"en": "D 2 0"
+},
+{
+"en": "Who are you?!"
+}
+]
+},
+{
+"id": 2083,
+"file": "MSGD1260.PRG",
+"pages": [
+"I know you're feeling well, but try not to push yourself."
+],
+"choice": null,
+"jp": "元気なのは　わかったが無理はするでないぞ",
+"context": [
+{
+"en": "Halehale Mountain to the north looks harder to see than usual. I wonder why that is...?"
+},
+{
+"en": "What's wrong, Cham Cham? Are you tired?"
+},
+{
+"en": "Hmm... well, that's unusual. Rest for now, and you can hear the divine message tomorrow."
+},
+{
+"self": true
+},
+{
+"en": "D 2 0"
+},
+{
+"en": "Who are you?!"
+},
+{
+"en": "My name is Amakusa Shiro Tokisada. / Your people hold a treasure known as the Palenque Stone... / It has power over the forces of nature and life itself. / I have come to claim that power and make it my own!"
+}
+]
+},
+{
+"id": 2084,
+"file": "MSGD1260.PRG",
+"pages": [
+"My name is Amakusa Shiro Tokisada.",
+"Your people hold a treasure known as the Palenque Stone...",
+"It has power over the forces of nature and life itself.",
+"I have come to claim that power and make it my own!"
+],
+"choice": null,
+"jp": "我は　天草四郎時貞大自然の生命と破壊の力の結晶聖石パレンケストーン・・・その力　この天草四郎のもとで使わせてもらうことにした！",
+"context": [
+{
+"en": "I know you're feeling well, but try not to push yourself."
+},
+{
+"en": "D 2 0"
+},
+{
+"en": "Who are you?!"
+},
+{
+"self": true
+},
+{
+"en": "I will not let that happen!"
+},
+{
+"en": "Huh...?! I... I can't move!"
+},
+{
+"en": "Hahaha... and now, that power is mine to command!"
+}
+]
+},
+{
+"id": 2085,
+"file": "MSGD1260.PRG",
+"pages": [
+"I will not let that happen!"
+],
+"choice": null,
+"jp": "そのようなこと・・・タムタム　許さない！",
+"context": [
+{
+"en": "D 2 0"
+},
+{
+"en": "Who are you?!"
+},
+{
+"en": "My name is Amakusa Shiro Tokisada. / Your people hold a treasure known as the Palenque Stone... / It has power over the forces of nature and life itself. / I have come to claim that power and make it my own!"
+},
+{
+"self": true
+},
+{
+"en": "Huh...?! I... I can't move!"
+},
+{
+"en": "Hahaha... and now, that power is mine to command!"
+},
+{
+"en": "Damn it! Wa... wait!"
+}
+]
+},
+{
+"id": 2086,
+"file": "MSGD1260.PRG",
+"pages": [
+"Huh...?! I... I can't move!"
+],
+"choice": null,
+"jp": "？　・・・・何！？うっ　動けない！　バカな！？",
+"context": [
+{
+"en": "Who are you?!"
+},
+{
+"en": "My name is Amakusa Shiro Tokisada. / Your people hold a treasure known as the Palenque Stone... / It has power over the forces of nature and life itself. / I have come to claim that power and make it my own!"
+},
+{
+"en": "I will not let that happen!"
+},
+{
+"self": true
+},
+{
+"en": "Hahaha... and now, that power is mine to command!"
+},
+{
+"en": "Damn it! Wa... wait!"
+},
+{
+"en": "Hahahahahahaha!"
+}
+]
+},
+{
+"id": 2087,
+"file": "MSGD1260.PRG",
+"pages": [
+"Hahaha... and now, that power is mine to command!"
+],
+"choice": null,
+"jp": "クックックッ　パレンケストーンは確かにいただいた！",
+"context": [
+{
+"en": "My name is Amakusa Shiro Tokisada. / Your people hold a treasure known as the Palenque Stone... / It has power over the forces of nature and life itself. / I have come to claim that power and make it my own!"
+},
+{
+"en": "I will not let that happen!"
+},
+{
+"en": "Huh...?! I... I can't move!"
+},
+{
+"self": true
+},
+{
+"en": "Damn it! Wa... wait!"
+},
+{
+"en": "Hahahahahahaha!"
+},
+{
+"en": "This is terrible... / What will I tell the great Lord Quetzalcoatl and the villagers?"
+}
+]
+},
+{
+"id": 2088,
+"file": "MSGD1260.PRG",
+"pages": [
+"Damn it! Wa... wait!"
+],
+"choice": null,
+"jp": "くっ！・・・ま　待て！",
+"context": [
+{
+"en": "I will not let that happen!"
+},
+{
+"en": "Huh...?! I... I can't move!"
+},
+{
+"en": "Hahaha... and now, that power is mine to command!"
+},
+{
+"self": true
+},
+{
+"en": "Hahahahahahaha!"
+},
+{
+"en": "This is terrible... / What will I tell the great Lord Quetzalcoatl and the villagers?"
+},
+{
+"en": "Tam Tam... hear me..."
+}
+]
+},
+{
+"id": 2089,
+"file": "MSGD1260.PRG",
+"pages": [
+"Hahahahahahaha!"
+],
+"choice": null,
+"jp": "ハハハハハハハ！",
+"context": [
+{
+"en": "Huh...?! I... I can't move!"
+},
+{
+"en": "Hahaha... and now, that power is mine to command!"
+},
+{
+"en": "Damn it! Wa... wait!"
+},
+{
+"self": true
+},
+{
+"en": "This is terrible... / What will I tell the great Lord Quetzalcoatl and the villagers?"
+},
+{
+"en": "Tam Tam... hear me..."
+},
+{
+"en": "That voice! Lord Quetzalcoatl?!"
+}
+]
+},
+{
+"id": 2090,
+"file": "MSGD1260.PRG",
+"pages": [
+"This is terrible...",
+"What will I tell the great Lord Quetzalcoatl and the villagers?"
+],
+"choice": null,
+"jp": "なんということだ・・・ケツアルクアトル様や村のみんなに・・・何と言えばいいんだ！？",
+"context": [
+{
+"en": "Hahaha... and now, that power is mine to command!"
+},
+{
+"en": "Damn it! Wa... wait!"
+},
+{
+"en": "Hahahahahahaha!"
+},
+{
+"self": true
+},
+{
+"en": "Tam Tam... hear me..."
+},
+{
+"en": "That voice! Lord Quetzalcoatl?!"
+},
+{
+"en": "You must answer for failing to protect the Palenque Stone..."
+}
+]
+},
+{
+"id": 2091,
+"file": "MSGD1260.PRG",
+"pages": [
+"Tam Tam... hear me..."
+],
+"choice": null,
+"jp": "タムタム・・・タムタムよ・・・",
+"context": [
+{
+"en": "Damn it! Wa... wait!"
+},
+{
+"en": "Hahahahahahaha!"
+},
+{
+"en": "This is terrible... / What will I tell the great Lord Quetzalcoatl and the villagers?"
+},
+{
+"self": true
+},
+{
+"en": "That voice! Lord Quetzalcoatl?!"
+},
+{
+"en": "You must answer for failing to protect the Palenque Stone..."
+},
+{
+"en": "I beg your forgiveness, my lord. Please take my life as payment!"
+}
+]
+},
+{
+"id": 2092,
+"file": "MSGD1260.PRG",
+"pages": [
+"That voice! Lord Quetzalcoatl?!"
+],
+"choice": null,
+"jp": "おお！ケツアルクアトル様の声が！？",
+"context": [
+{
+"en": "Hahahahahahaha!"
+},
+{
+"en": "This is terrible... / What will I tell the great Lord Quetzalcoatl and the villagers?"
+},
+{
+"en": "Tam Tam... hear me..."
+},
+{
+"self": true
+},
+{
+"en": "You must answer for failing to protect the Palenque Stone..."
+},
+{
+"en": "I beg your forgiveness, my lord. Please take my life as payment!"
+},
+{
+"en": "You shall be punished, but not with your death!"
+}
+]
+},
+{
+"id": 2093,
+"file": "MSGD1260.PRG",
+"pages": [
+"You must answer for failing to protect the Palenque Stone..."
+],
+"choice": null,
+"jp": "パレンケストーンの輝きをなぜ守れなかった・・・",
+"context": [
+{
+"en": "This is terrible... / What will I tell the great Lord Quetzalcoatl and the villagers?"
+},
+{
+"en": "Tam Tam... hear me..."
+},
+{
+"en": "That voice! Lord Quetzalcoatl?!"
+},
+{
+"self": true
+},
+{
+"en": "I beg your forgiveness, my lord. Please take my life as payment!"
+},
+{
+"en": "You shall be punished, but not with your death!"
+},
+{
+"en": "Huh...? Aaaaarrggghh!"
+}
+]
+},
+{
+"id": 2094,
+"file": "MSGD1260.PRG",
+"pages": [
+"I beg your forgiveness, my lord. Please take my life as payment!"
+],
+"choice": null,
+"jp": "どうか　お許しを・・・タムタム　命にかえて取り戻す！",
+"context": [
+{
+"en": "Tam Tam... hear me..."
+},
+{
+"en": "That voice! Lord Quetzalcoatl?!"
+},
+{
+"en": "You must answer for failing to protect the Palenque Stone..."
+},
+{
+"self": true
+},
+{
+"en": "You shall be punished, but not with your death!"
+},
+{
+"en": "Huh...? Aaaaarrggghh!"
+},
+{
+"en": "Ook ook?!"
+}
+]
+},
+{
+"id": 2095,
+"file": "MSGD1260.PRG",
+"pages": [
+"You shall be punished, but not with your death!"
+],
+"choice": null,
+"jp": "おまえに課すべきはつとめを果たせぬ　罰なり！",
+"context": [
+{
+"en": "That voice! Lord Quetzalcoatl?!"
+},
+{
+"en": "You must answer for failing to protect the Palenque Stone..."
+},
+{
+"en": "I beg your forgiveness, my lord. Please take my life as payment!"
+},
+{
+"self": true
+},
+{
+"en": "Huh...? Aaaaarrggghh!"
+},
+{
+"en": "Ook ook?!"
+},
+{
+"en": "Go forth, and atone for your sin in this new form!"
+}
+]
+},
+{
+"id": 2096,
+"file": "MSGD1260.PRG",
+"pages": [
+"Huh...? Aaaaarrggghh!"
+],
+"choice": null,
+"jp": "うう・・・うわぁぁぁああ！",
+"context": [
+{
+"en": "You must answer for failing to protect the Palenque Stone..."
+},
+{
+"en": "I beg your forgiveness, my lord. Please take my life as payment!"
+},
+{
+"en": "You shall be punished, but not with your death!"
+},
+{
+"self": true
+},
+{
+"en": "Ook ook?!"
+},
+{
+"en": "Go forth, and atone for your sin in this new form!"
+},
+{
+"en": "Tam Taaaaaaaam!"
+}
+]
+},
+{
+"id": 2097,
+"file": "MSGD1260.PRG",
+"pages": [
+"Go forth, and atone for your sin in this new form!"
+],
+"choice": null,
+"jp": "その身をもって　償うがよい！",
+"context": [
+{
+"en": "You shall be punished, but not with your death!"
+},
+{
+"en": "Huh...? Aaaaarrggghh!"
+},
+{
+"en": "Ook ook?!"
+},
+{
+"self": true
+},
+{
+"en": "Tam Taaaaaaaam!"
+},
+{
+"en": "Huh...? Where did he go? / Do you know, Pak Pak?"
+},
+{
+"en": "Oop! Oop ook! / (Cham Cham!! It's me!)"
+}
+]
+},
+{
+"id": 2098,
+"file": "MSGD1260.PRG",
+"pages": [
+"Tam Taaaaaaaam!"
+],
+"choice": null,
+"jp": "タム兄ちゃ～ン！",
+"context": [
+{
+"en": "Huh...? Aaaaarrggghh!"
+},
+{
+"en": "Ook ook?!"
+},
+{
+"en": "Go forth, and atone for your sin in this new form!"
+},
+{
+"self": true
+},
+{
+"en": "Huh...? Where did he go? / Do you know, Pak Pak?"
+},
+{
+"en": "Oop! Oop ook! / (Cham Cham!! It's me!)"
+},
+{
+"en": "I'm not sure... Huh...?"
+}
+]
+},
+{
+"id": 2099,
+"file": "MSGD1260.PRG",
+"pages": [
+"Huh...? Where did he go?",
+"Do you know, Pak Pak?"
+],
+"choice": null,
+"jp": "あれえ？　タム兄ちゃンはどこ？パクパク知らない？",
+"context": [
+{
+"en": "Ook ook?!"
+},
+{
+"en": "Go forth, and atone for your sin in this new form!"
+},
+{
+"en": "Tam Taaaaaaaam!"
+},
+{
+"self": true
+},
+{
+"en": "Oop! Oop ook! / (Cham Cham!! It's me!)"
+},
+{
+"en": "I'm not sure... Huh...?"
+},
+{
+"en": "The Palenque Stone's gone!"
+}
+]
+},
+{
+"id": 2100,
+"file": "MSGD1260.PRG",
+"pages": [
+"Oop! Oop ook!",
+"(Cham Cham!! It's me!)"
+],
+"choice": null,
+"jp": "ウキキキ！　ウキ！（オレだ！！　チャムチャム！）",
+"context": [
+{
+"en": "Go forth, and atone for your sin in this new form!"
+},
+{
+"en": "Tam Taaaaaaaam!"
+},
+{
+"en": "Huh...? Where did he go? / Do you know, Pak Pak?"
+},
+{
+"self": true
+},
+{
+"en": "I'm not sure... Huh...?"
+},
+{
+"en": "The Palenque Stone's gone!"
+},
+{
+"en": "Oooook! Oop ook ook ook!! / (It was stolen!)"
+}
+]
+},
+{
+"id": 2101,
+"file": "MSGD1260.PRG",
+"pages": [
+"I'm not sure... Huh...?"
+],
+"choice": null,
+"jp": "知らないンだぁ・・・あれッ？",
+"context": [
+{
+"en": "Tam Taaaaaaaam!"
+},
+{
+"en": "Huh...? Where did he go? / Do you know, Pak Pak?"
+},
+{
+"en": "Oop! Oop ook! / (Cham Cham!! It's me!)"
+},
+{
+"self": true
+},
+{
+"en": "The Palenque Stone's gone!"
+},
+{
+"en": "Oooook! Oop ook ook ook!! / (It was stolen!)"
+},
+{
+"en": "I wonder what happened...? / Come on, Pak Pak! Let's find my brother!"
+}
+]
+},
+{
+"id": 2102,
+"file": "MSGD1260.PRG",
+"pages": [
+"The Palenque Stone's gone!"
+],
+"choice": null,
+"jp": "パレンケストーンがない！？",
+"context": [
+{
+"en": "Huh...? Where did he go? / Do you know, Pak Pak?"
+},
+{
+"en": "Oop! Oop ook! / (Cham Cham!! It's me!)"
+},
+{
+"en": "I'm not sure... Huh...?"
+},
+{
+"self": true
+},
+{
+"en": "Oooook! Oop ook ook ook!! / (It was stolen!)"
+},
+{
+"en": "I wonder what happened...? / Come on, Pak Pak! Let's find my brother!"
+},
+{
+"en": "Oop ook..."
+}
+]
+},
+{
+"id": 2103,
+"file": "MSGD1260.PRG",
+"pages": [
+"Oooook! Oop ook ook ook!!",
+"(It was stolen!)"
+],
+"choice": null,
+"jp": "ウキキキキ！　ウキッキッキ！（奪われてしまったのだ！）",
+"context": [
+{
+"en": "Oop! Oop ook! / (Cham Cham!! It's me!)"
+},
+{
+"en": "I'm not sure... Huh...?"
+},
+{
+"en": "The Palenque Stone's gone!"
+},
+{
+"self": true
+},
+{
+"en": "I wonder what happened...? / Come on, Pak Pak! Let's find my brother!"
+},
+{
+"en": "Oop ook..."
+},
+{
+"en": "Hey, want to try an Infusion? Only 1500GP each!"
+}
+]
+},
+{
+"id": 2104,
+"file": "MSGD1260.PRG",
+"pages": [
+"I wonder what happened...?",
+"Come on, Pak Pak! Let's find my brother!"
+],
+"choice": null,
+"jp": "いッたいどうしたンだろう？おいで　パクパク！タム兄ちゃンを探そう！",
+"context": [
+{
+"en": "I'm not sure... Huh...?"
+},
+{
+"en": "The Palenque Stone's gone!"
+},
+{
+"en": "Oooook! Oop ook ook ook!! / (It was stolen!)"
+},
+{
+"self": true
+},
+{
+"en": "Oop ook..."
+},
+{
+"en": "Hey, want to try an Infusion? Only 1500GP each!"
+},
+{
+"en": "This is Greenhell's specialty! Ultra-nasty, but effective! Super-effective, even! Try it when you're feeling weak, and it'll pop you right up!"
+}
+]
+},
+{
+"id": 2105,
+"file": "MSGD1260.PRG",
+"pages": [
+"Oop ook..."
+],
+"choice": null,
+"jp": "キキィ・・・・・・",
+"context": [
+{
+"en": "The Palenque Stone's gone!"
+},
+{
+"en": "Oooook! Oop ook ook ook!! / (It was stolen!)"
+},
+{
+"en": "I wonder what happened...? / Come on, Pak Pak! Let's find my brother!"
+},
+{
+"self": true
+},
+{
+"en": "Hey, want to try an Infusion? Only 1500GP each!"
+},
+{
+"en": "This is Greenhell's specialty! Ultra-nasty, but effective! Super-effective, even! Try it when you're feeling weak, and it'll pop you right up!"
+},
+{
+"en": "What? You hate bitter stuff? Hah, just like a kid!"
+}
+]
+},
+{
+"id": 2106,
+"file": "MSGD1260.PRG",
+"pages": [
+"Hey, want to try an Infusion? Only 1500GP each!"
+],
+"choice": {
+"kind": "yn",
+"options": [
+"Yes",
+"No"
+],
+"max_len": 12
+},
+"jp": "ね！　ね！　あんたどう？この〓じ薬　買わない？ね！　金１５００でいいね！買う買わない",
+"context": [
+{
+"en": "Oooook! Oop ook ook ook!! / (It was stolen!)"
+},
+{
+"en": "I wonder what happened...? / Come on, Pak Pak! Let's find my brother!"
+},
+{
+"en": "Oop ook..."
+},
+{
+"self": true
+},
+{
+"en": "This is Greenhell's specialty! Ultra-nasty, but effective! Super-effective, even! Try it when you're feeling weak, and it'll pop you right up!"
+},
+{
+"en": "What? You hate bitter stuff? Hah, just like a kid!"
+},
+{
+"en": "You can't afford it! Shoo! Shoo! No freeloaders in my store!"
+}
+]
+},
+{
+"id": 2107,
+"file": "MSGD1260.PRG",
+"pages": [
+"This is Greenhell's specialty! Ultra-nasty, but effective! Super-effective, even! Try it when you're feeling weak, and it'll pop you right up!"
+],
+"choice": null,
+"jp": "グリーンヘル特産ね！超マ⑥ーいクスリだけど　ね！チョー効くね！疲れたときは　これ飲んでね体力アップね！",
+"context": [
+{
+"en": "I wonder what happened...? / Come on, Pak Pak! Let's find my brother!"
+},
+{
+"en": "Oop ook..."
+},
+{
+"en": "Hey, want to try an Infusion? Only 1500GP each!"
+},
+{
+"self": true
+},
+{
+"en": "What? You hate bitter stuff? Hah, just like a kid!"
+},
+{
+"en": "You can't afford it! Shoo! Shoo! No freeloaders in my store!"
+},
+{
+"en": "Oh, too bad! You've got so much, you can't carry any more!"
+}
+]
+},
+{
+"id": 2108,
+"file": "MSGD1260.PRG",
+"pages": [
+"What? You hate bitter stuff? Hah, just like a kid!"
+],
+"choice": null,
+"jp": "なんね！　苦いのⅥメ？コドモだね！？",
+"context": [
+{
+"en": "Oop ook..."
+},
+{
+"en": "Hey, want to try an Infusion? Only 1500GP each!"
+},
+{
+"en": "This is Greenhell's specialty! Ultra-nasty, but effective! Super-effective, even! Try it when you're feeling weak, and it'll pop you right up!"
+},
+{
+"self": true
+},
+{
+"en": "You can't afford it! Shoo! Shoo! No freeloaders in my store!"
+},
+{
+"en": "Oh, too bad! You've got so much, you can't carry any more!"
+}
+]
+},
+{
+"id": 2109,
+"file": "MSGD1260.PRG",
+"pages": [
+"You can't afford it! Shoo! Shoo! No freeloaders in my store!"
+],
+"choice": null,
+"jp": "お金がないとね！　Ⅵメ！　ね！ずうずうしいね！　プン！　プン！",
+"context": [
+{
+"en": "Hey, want to try an Infusion? Only 1500GP each!"
+},
+{
+"en": "This is Greenhell's specialty! Ultra-nasty, but effective! Super-effective, even! Try it when you're feeling weak, and it'll pop you right up!"
+},
+{
+"en": "What? You hate bitter stuff? Hah, just like a kid!"
+},
+{
+"self": true
+},
+{
+"en": "Oh, too bad! You've got so much, you can't carry any more!"
+}
+]
+},
+{
+"id": 2110,
+"file": "MSGD1260.PRG",
+"pages": [
+"Oh, too bad! You've got so much, you can't carry any more!"
+],
+"choice": null,
+"jp": "残念ね！　そんなにね！たくさんね！　持てないね！",
+"context": [
+{
+"en": "This is Greenhell's specialty! Ultra-nasty, but effective! Super-effective, even! Try it when you're feeling weak, and it'll pop you right up!"
+},
+{
+"en": "What? You hate bitter stuff? Hah, just like a kid!"
+},
+{
+"en": "You can't afford it! Shoo! Shoo! No freeloaders in my store!"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 2111,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 3 4"
+],
+"choice": null,
+"jp": "Ｄ３４",
+"context": [
+{
+"en": "D 3 1"
+},
+{
+"en": "D 3 2"
+},
+{
+"en": "D 3 3"
+},
+{
+"self": true
+},
+{
+"en": "D 3 5"
+},
+{
+"en": "D 3 6"
+},
+{
+"en": "D 3 7"
+}
+]
+},
+{
+"id": 2112,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 3 7"
+],
+"choice": null,
+"jp": "Ｄ３７",
+"context": [
+{
+"en": "D 3 4"
+},
+{
+"en": "D 3 5"
+},
+{
+"en": "D 3 6"
+},
+{
+"self": true
+},
+{
+"en": "D 3 8"
+},
+{
+"en": "D 3 9"
+},
+{
+"en": "D 4 0"
+}
+]
+},
+{
+"id": 2113,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 3 8"
+],
+"choice": null,
+"jp": "Ｄ３８",
+"context": [
+{
+"en": "D 3 5"
+},
+{
+"en": "D 3 6"
+},
+{
+"en": "D 3 7"
+},
+{
+"self": true
+},
+{
+"en": "D 3 9"
+},
+{
+"en": "D 4 0"
+},
+{
+"en": "D 4 1"
+}
+]
+},
+{
+"id": 2114,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 4 0"
+],
+"choice": null,
+"jp": "Ｄ４０",
+"context": [
+{
+"en": "D 3 7"
+},
+{
+"en": "D 3 8"
+},
+{
+"en": "D 3 9"
+},
+{
+"self": true
+},
+{
+"en": "D 4 1"
+},
+{
+"en": "D 4 2"
+},
+{
+"en": "D 4 3"
+}
+]
+},
+{
+"id": 2115,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 4 1"
+],
+"choice": null,
+"jp": "Ｄ４１",
+"context": [
+{
+"en": "D 3 8"
+},
+{
+"en": "D 3 9"
+},
+{
+"en": "D 4 0"
+},
+{
+"self": true
+},
+{
+"en": "D 4 2"
+},
+{
+"en": "D 4 3"
+},
+{
+"en": "D 4 4"
+}
+]
+},
+{
+"id": 2116,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 4 2"
+],
+"choice": null,
+"jp": "Ｄ４２",
+"context": [
+{
+"en": "D 3 9"
+},
+{
+"en": "D 4 0"
+},
+{
+"en": "D 4 1"
+},
+{
+"self": true
+},
+{
+"en": "D 4 3"
+},
+{
+"en": "D 4 4"
+},
+{
+"en": "D 4 5"
+}
+]
+},
+{
+"id": 2117,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 5 0"
+],
+"choice": null,
+"jp": "Ｄ５０",
+"context": [
+{
+"en": "D 4 7"
+},
+{
+"en": "D 4 8"
+},
+{
+"en": "D 4 9"
+},
+{
+"self": true
+},
+{
+"en": "D 5 1"
+},
+{
+"en": "D 5 2"
+},
+{
+"en": "D 5 3"
+}
+]
+},
+{
+"id": 2118,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 5 1"
+],
+"choice": null,
+"jp": "Ｄ５１",
+"context": [
+{
+"en": "D 4 8"
+},
+{
+"en": "D 4 9"
+},
+{
+"en": "D 5 0"
+},
+{
+"self": true
+},
+{
+"en": "D 5 2"
+},
+{
+"en": "D 5 3"
+},
+{
+"en": "D 5 4"
+}
+]
+},
+{
+"id": 2119,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 5 2"
+],
+"choice": null,
+"jp": "Ｄ５２",
+"context": [
+{
+"en": "D 4 9"
+},
+{
+"en": "D 5 0"
+},
+{
+"en": "D 5 1"
+},
+{
+"self": true
+},
+{
+"en": "D 5 3"
+},
+{
+"en": "D 5 4"
+},
+{
+"en": "D 5 5"
+}
+]
+},
+{
+"id": 2120,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 5 3"
+],
+"choice": null,
+"jp": "Ｄ５３",
+"context": [
+{
+"en": "D 5 0"
+},
+{
+"en": "D 5 1"
+},
+{
+"en": "D 5 2"
+},
+{
+"self": true
+},
+{
+"en": "D 5 4"
+},
+{
+"en": "D 5 5"
+},
+{
+"en": "D 5 6"
+}
+]
+},
+{
+"id": 2121,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 5 5"
+],
+"choice": null,
+"jp": "Ｄ５５",
+"context": [
+{
+"en": "D 5 2"
+},
+{
+"en": "D 5 3"
+},
+{
+"en": "D 5 4"
+},
+{
+"self": true
+},
+{
+"en": "D 5 6"
+},
+{
+"en": "D 5 7"
+},
+{
+"en": "D 5 8"
+}
+]
+},
+{
+"id": 2122,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 5 6"
+],
+"choice": null,
+"jp": "Ｄ５６",
+"context": [
+{
+"en": "D 5 3"
+},
+{
+"en": "D 5 4"
+},
+{
+"en": "D 5 5"
+},
+{
+"self": true
+},
+{
+"en": "D 5 7"
+},
+{
+"en": "D 5 8"
+},
+{
+"en": "D 5 9"
+}
+]
+},
+{
+"id": 2123,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 5 7"
+],
+"choice": null,
+"jp": "Ｄ５７",
+"context": [
+{
+"en": "D 5 4"
+},
+{
+"en": "D 5 5"
+},
+{
+"en": "D 5 6"
+},
+{
+"self": true
+},
+{
+"en": "D 5 8"
+},
+{
+"en": "D 5 9"
+},
+{
+"en": "D 6 0"
+}
+]
+},
+{
+"id": 2124,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 5 8"
+],
+"choice": null,
+"jp": "Ｄ５８",
+"context": [
+{
+"en": "D 5 5"
+},
+{
+"en": "D 5 6"
+},
+{
+"en": "D 5 7"
+},
+{
+"self": true
+},
+{
+"en": "D 5 9"
+},
+{
+"en": "D 6 0"
+},
+{
+"en": "D 6 1"
+}
+]
+},
+{
+"id": 2125,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 5 9"
+],
+"choice": null,
+"jp": "Ｄ５９",
+"context": [
+{
+"en": "D 5 6"
+},
+{
+"en": "D 5 7"
+},
+{
+"en": "D 5 8"
+},
+{
+"self": true
+},
+{
+"en": "D 6 0"
+},
+{
+"en": "D 6 1"
+},
+{
+"en": "D 6 2"
+}
+]
+},
+{
+"id": 2126,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 6 0"
+],
+"choice": null,
+"jp": "Ｄ６０",
+"context": [
+{
+"en": "D 5 7"
+},
+{
+"en": "D 5 8"
+},
+{
+"en": "D 5 9"
+},
+{
+"self": true
+},
+{
+"en": "D 6 1"
+},
+{
+"en": "D 6 2"
+},
+{
+"en": "D 6 3"
+}
+]
+},
+{
+"id": 2127,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 6 1"
+],
+"choice": null,
+"jp": "Ｄ６１",
+"context": [
+{
+"en": "D 5 8"
+},
+{
+"en": "D 5 9"
+},
+{
+"en": "D 6 0"
+},
+{
+"self": true
+},
+{
+"en": "D 6 2"
+},
+{
+"en": "D 6 3"
+},
+{
+"en": "D 6 4"
+}
+]
+},
+{
+"id": 2128,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 6 2"
+],
+"choice": null,
+"jp": "Ｄ６２",
+"context": [
+{
+"en": "D 5 9"
+},
+{
+"en": "D 6 0"
+},
+{
+"en": "D 6 1"
+},
+{
+"self": true
+},
+{
+"en": "D 6 3"
+},
+{
+"en": "D 6 4"
+},
+{
+"en": "D 6 5"
+}
+]
+},
+{
+"id": 2129,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 6 3"
+],
+"choice": null,
+"jp": "Ｄ６３",
+"context": [
+{
+"en": "D 6 0"
+},
+{
+"en": "D 6 1"
+},
+{
+"en": "D 6 2"
+},
+{
+"self": true
+},
+{
+"en": "D 6 4"
+},
+{
+"en": "D 6 5"
+},
+{
+"en": "D 6 6"
+}
+]
+},
+{
+"id": 2130,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 6 4"
+],
+"choice": null,
+"jp": "Ｄ６４",
+"context": [
+{
+"en": "D 6 1"
+},
+{
+"en": "D 6 2"
+},
+{
+"en": "D 6 3"
+},
+{
+"self": true
+},
+{
+"en": "D 6 5"
+},
+{
+"en": "D 6 6"
+},
+{
+"en": "D 6 7"
+}
+]
+},
+{
+"id": 2131,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 6 5"
+],
+"choice": null,
+"jp": "Ｄ６５",
+"context": [
+{
+"en": "D 6 2"
+},
+{
+"en": "D 6 3"
+},
+{
+"en": "D 6 4"
+},
+{
+"self": true
+},
+{
+"en": "D 6 6"
+},
+{
+"en": "D 6 7"
+},
+{
+"en": "D 6 8"
+}
+]
+},
+{
+"id": 2132,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 6 6"
+],
+"choice": null,
+"jp": "Ｄ６６",
+"context": [
+{
+"en": "D 6 3"
+},
+{
+"en": "D 6 4"
+},
+{
+"en": "D 6 5"
+},
+{
+"self": true
+},
+{
+"en": "D 6 7"
+},
+{
+"en": "D 6 8"
+},
+{
+"en": "D 6 9"
+}
+]
+},
+{
+"id": 2133,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 6 7"
+],
+"choice": null,
+"jp": "Ｄ６７",
+"context": [
+{
+"en": "D 6 4"
+},
+{
+"en": "D 6 5"
+},
+{
+"en": "D 6 6"
+},
+{
+"self": true
+},
+{
+"en": "D 6 8"
+},
+{
+"en": "D 6 9"
+},
+{
+"en": "D 7 0"
+}
+]
+},
+{
+"id": 2134,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 6 8"
+],
+"choice": null,
+"jp": "Ｄ６８",
+"context": [
+{
+"en": "D 6 5"
+},
+{
+"en": "D 6 6"
+},
+{
+"en": "D 6 7"
+},
+{
+"self": true
+},
+{
+"en": "D 6 9"
+},
+{
+"en": "D 7 0"
+},
+{
+"en": "D 7 1"
+}
+]
+},
+{
+"id": 2135,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 6 9"
+],
+"choice": null,
+"jp": "Ｄ６９",
+"context": [
+{
+"en": "D 6 6"
+},
+{
+"en": "D 6 7"
+},
+{
+"en": "D 6 8"
+},
+{
+"self": true
+},
+{
+"en": "D 7 0"
+},
+{
+"en": "D 7 1"
+},
+{
+"en": "D 7 2"
+}
+]
+},
+{
+"id": 2136,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 7 0"
+],
+"choice": null,
+"jp": "Ｄ７０",
+"context": [
+{
+"en": "D 6 7"
+},
+{
+"en": "D 6 8"
+},
+{
+"en": "D 6 9"
+},
+{
+"self": true
+},
+{
+"en": "D 7 1"
+},
+{
+"en": "D 7 2"
+},
+{
+"en": "D 7 3"
+}
+]
+},
+{
+"id": 2137,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 7 1"
+],
+"choice": null,
+"jp": "Ｄ７１",
+"context": [
+{
+"en": "D 6 8"
+},
+{
+"en": "D 6 9"
+},
+{
+"en": "D 7 0"
+},
+{
+"self": true
+},
+{
+"en": "D 7 2"
+},
+{
+"en": "D 7 3"
+},
+{
+"en": "D 7 4"
+}
+]
+},
+{
+"id": 2138,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 7 2"
+],
+"choice": null,
+"jp": "Ｄ７２",
+"context": [
+{
+"en": "D 6 9"
+},
+{
+"en": "D 7 0"
+},
+{
+"en": "D 7 1"
+},
+{
+"self": true
+},
+{
+"en": "D 7 3"
+},
+{
+"en": "D 7 4"
+},
+{
+"en": "D 7 5"
+}
+]
+},
+{
+"id": 2139,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 7 4"
+],
+"choice": null,
+"jp": "Ｄ７４",
+"context": [
+{
+"en": "D 7 1"
+},
+{
+"en": "D 7 2"
+},
+{
+"en": "D 7 3"
+},
+{
+"self": true
+},
+{
+"en": "D 7 5"
+},
+{
+"en": "D 7 6"
+},
+{
+"en": "D 7 7"
+}
+]
+},
+{
+"id": 2140,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 7 5"
+],
+"choice": null,
+"jp": "Ｄ７５",
+"context": [
+{
+"en": "D 7 2"
+},
+{
+"en": "D 7 3"
+},
+{
+"en": "D 7 4"
+},
+{
+"self": true
+},
+{
+"en": "D 7 6"
+},
+{
+"en": "D 7 7"
+},
+{
+"en": "D 7 8"
+}
+]
+},
+{
+"id": 2141,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 7 6"
+],
+"choice": null,
+"jp": "Ｄ７６",
+"context": [
+{
+"en": "D 7 3"
+},
+{
+"en": "D 7 4"
+},
+{
+"en": "D 7 5"
+},
+{
+"self": true
+},
+{
+"en": "D 7 7"
+},
+{
+"en": "D 7 8"
+},
+{
+"en": "D 7 9"
+}
+]
+},
+{
+"id": 2142,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 7 8"
+],
+"choice": null,
+"jp": "Ｄ７８",
+"context": [
+{
+"en": "D 7 5"
+},
+{
+"en": "D 7 6"
+},
+{
+"en": "D 7 7"
+},
+{
+"self": true
+},
+{
+"en": "D 7 9"
+},
+{
+"en": "D 8 0"
+},
+{
+"en": "D 8 1"
+}
+]
+},
+{
+"id": 2143,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 7 9"
+],
+"choice": null,
+"jp": "Ｄ７９",
+"context": [
+{
+"en": "D 7 6"
+},
+{
+"en": "D 7 7"
+},
+{
+"en": "D 7 8"
+},
+{
+"self": true
+},
+{
+"en": "D 8 0"
+},
+{
+"en": "D 8 1"
+},
+{
+"en": "D 8 2"
+}
+]
+},
+{
+"id": 2144,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 8 0"
+],
+"choice": null,
+"jp": "Ｄ８０",
+"context": [
+{
+"en": "D 7 7"
+},
+{
+"en": "D 7 8"
+},
+{
+"en": "D 7 9"
+},
+{
+"self": true
+},
+{
+"en": "D 8 1"
+},
+{
+"en": "D 8 2"
+},
+{
+"en": "D 8 3"
+}
+]
+},
+{
+"id": 2145,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 8 1"
+],
+"choice": null,
+"jp": "Ｄ８１",
+"context": [
+{
+"en": "D 7 8"
+},
+{
+"en": "D 7 9"
+},
+{
+"en": "D 8 0"
+},
+{
+"self": true
+},
+{
+"en": "D 8 2"
+},
+{
+"en": "D 8 3"
+},
+{
+"en": "D 8 4"
+}
+]
+},
+{
+"id": 2146,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 8 2"
+],
+"choice": null,
+"jp": "Ｄ８２",
+"context": [
+{
+"en": "D 7 9"
+},
+{
+"en": "D 8 0"
+},
+{
+"en": "D 8 1"
+},
+{
+"self": true
+},
+{
+"en": "D 8 3"
+},
+{
+"en": "D 8 4"
+},
+{
+"en": "D 8 5"
+}
+]
+},
+{
+"id": 2147,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 8 3"
+],
+"choice": null,
+"jp": "Ｄ８３",
+"context": [
+{
+"en": "D 8 0"
+},
+{
+"en": "D 8 1"
+},
+{
+"en": "D 8 2"
+},
+{
+"self": true
+},
+{
+"en": "D 8 4"
+},
+{
+"en": "D 8 5"
+},
+{
+"en": "D 8 6"
+}
+]
+},
+{
+"id": 2148,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 8 4"
+],
+"choice": null,
+"jp": "Ｄ８４",
+"context": [
+{
+"en": "D 8 1"
+},
+{
+"en": "D 8 2"
+},
+{
+"en": "D 8 3"
+},
+{
+"self": true
+},
+{
+"en": "D 8 5"
+},
+{
+"en": "D 8 6"
+},
+{
+"en": "D 8 7"
+}
+]
+},
+{
+"id": 2149,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 8 6"
+],
+"choice": null,
+"jp": "Ｄ８６",
+"context": [
+{
+"en": "D 8 3"
+},
+{
+"en": "D 8 4"
+},
+{
+"en": "D 8 5"
+},
+{
+"self": true
+},
+{
+"en": "D 8 7"
+},
+{
+"en": "D 8 8"
+},
+{
+"en": "D 8 9"
+}
+]
+},
+{
+"id": 2150,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 9 0"
+],
+"choice": null,
+"jp": "Ｄ９０",
+"context": [
+{
+"en": "D 8 7"
+},
+{
+"en": "D 8 8"
+},
+{
+"en": "D 8 9"
+},
+{
+"self": true
+},
+{
+"en": "D 9 1"
+},
+{
+"en": "D 9 2"
+},
+{
+"en": "D 9 3"
+}
+]
+},
+{
+"id": 2151,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 9 2"
+],
+"choice": null,
+"jp": "Ｄ９２",
+"context": [
+{
+"en": "D 8 9"
+},
+{
+"en": "D 9 0"
+},
+{
+"en": "D 9 1"
+},
+{
+"self": true
+},
+{
+"en": "D 9 3"
+},
+{
+"en": "D 9 4"
+},
+{
+"en": "D 9 5"
+}
+]
+},
+{
+"id": 2152,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 9 3"
+],
+"choice": null,
+"jp": "Ｄ９３",
+"context": [
+{
+"en": "D 9 0"
+},
+{
+"en": "D 9 1"
+},
+{
+"en": "D 9 2"
+},
+{
+"self": true
+},
+{
+"en": "D 9 4"
+},
+{
+"en": "D 9 5"
+},
+{
+"en": "D 9 6"
+}
+]
+},
+{
+"id": 2153,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 9 4"
+],
+"choice": null,
+"jp": "Ｄ９４",
+"context": [
+{
+"en": "D 9 1"
+},
+{
+"en": "D 9 2"
+},
+{
+"en": "D 9 3"
+},
+{
+"self": true
+},
+{
+"en": "D 9 5"
+},
+{
+"en": "D 9 6"
+},
+{
+"en": "D 9 7"
+}
+]
+},
+{
+"id": 2154,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 9 5"
+],
+"choice": null,
+"jp": "Ｄ９５",
+"context": [
+{
+"en": "D 9 2"
+},
+{
+"en": "D 9 3"
+},
+{
+"en": "D 9 4"
+},
+{
+"self": true
+},
+{
+"en": "D 9 6"
+},
+{
+"en": "D 9 7"
+},
+{
+"en": "D 9 8"
+}
+]
+},
+{
+"id": 2155,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 9 6"
+],
+"choice": null,
+"jp": "Ｄ９６",
+"context": [
+{
+"en": "D 9 3"
+},
+{
+"en": "D 9 4"
+},
+{
+"en": "D 9 5"
+},
+{
+"self": true
+},
+{
+"en": "D 9 7"
+},
+{
+"en": "D 9 8"
+},
+{
+"en": "D 9 9"
+}
+]
+},
+{
+"id": 2156,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 9 7"
+],
+"choice": null,
+"jp": "Ｄ９７",
+"context": [
+{
+"en": "D 9 4"
+},
+{
+"en": "D 9 5"
+},
+{
+"en": "D 9 6"
+},
+{
+"self": true
+},
+{
+"en": "D 9 8"
+},
+{
+"en": "D 9 9"
+},
+{
+"en": "D 1 0 0"
+}
+]
+},
+{
+"id": 2157,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 9 8"
+],
+"choice": null,
+"jp": "Ｄ９８",
+"context": [
+{
+"en": "D 9 5"
+},
+{
+"en": "D 9 6"
+},
+{
+"en": "D 9 7"
+},
+{
+"self": true
+},
+{
+"en": "D 9 9"
+},
+{
+"en": "D 1 0 0"
+},
+{
+"en": "D 1 0 1"
+}
+]
+},
+{
+"id": 2158,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 9 9"
+],
+"choice": null,
+"jp": "Ｄ９９",
+"context": [
+{
+"en": "D 9 6"
+},
+{
+"en": "D 9 7"
+},
+{
+"en": "D 9 8"
+},
+{
+"self": true
+},
+{
+"en": "D 1 0 0"
+},
+{
+"en": "D 1 0 1"
+},
+{
+"en": "D 1 0 2"
+}
+]
+},
+{
+"id": 2159,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 1 0 0"
+],
+"choice": null,
+"jp": "Ｄ１００",
+"context": [
+{
+"en": "D 9 7"
+},
+{
+"en": "D 9 8"
+},
+{
+"en": "D 9 9"
+},
+{
+"self": true
+},
+{
+"en": "D 1 0 1"
+},
+{
+"en": "D 1 0 2"
+},
+{
+"en": "D 1 0 3"
+}
+]
+},
+{
+"id": 2160,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 1 0 1"
+],
+"choice": null,
+"jp": "Ｄ１０１",
+"context": [
+{
+"en": "D 9 8"
+},
+{
+"en": "D 9 9"
+},
+{
+"en": "D 1 0 0"
+},
+{
+"self": true
+},
+{
+"en": "D 1 0 2"
+},
+{
+"en": "D 1 0 3"
+},
+{
+"en": "D 1 0 4"
+}
+]
+},
+{
+"id": 2161,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 1 0 2"
+],
+"choice": null,
+"jp": "Ｄ１０２",
+"context": [
+{
+"en": "D 9 9"
+},
+{
+"en": "D 1 0 0"
+},
+{
+"en": "D 1 0 1"
+},
+{
+"self": true
+},
+{
+"en": "D 1 0 3"
+},
+{
+"en": "D 1 0 4"
+},
+{
+"en": "D 1 0 5"
+}
+]
+},
+{
+"id": 2162,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 1 0 3"
+],
+"choice": null,
+"jp": "Ｄ１０３",
+"context": [
+{
+"en": "D 1 0 0"
+},
+{
+"en": "D 1 0 1"
+},
+{
+"en": "D 1 0 2"
+},
+{
+"self": true
+},
+{
+"en": "D 1 0 4"
+},
+{
+"en": "D 1 0 5"
+},
+{
+"en": "D 1 0 6"
+}
+]
+},
+{
+"id": 2163,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 1 0 5"
+],
+"choice": null,
+"jp": "Ｄ１０５",
+"context": [
+{
+"en": "D 1 0 2"
+},
+{
+"en": "D 1 0 3"
+},
+{
+"en": "D 1 0 4"
+},
+{
+"self": true
+},
+{
+"en": "D 1 0 6"
+},
+{
+"en": "D 1 0 7"
+},
+{
+"en": "D 1 0 8"
+}
+]
+},
+{
+"id": 2164,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 1 0 6"
+],
+"choice": null,
+"jp": "Ｄ１０６",
+"context": [
+{
+"en": "D 1 0 3"
+},
+{
+"en": "D 1 0 4"
+},
+{
+"en": "D 1 0 5"
+},
+{
+"self": true
+},
+{
+"en": "D 1 0 7"
+},
+{
+"en": "D 1 0 8"
+},
+{
+"en": "D 1 0 9"
+}
+]
+},
+{
+"id": 2165,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 1 0 7"
+],
+"choice": null,
+"jp": "Ｄ１０７",
+"context": [
+{
+"en": "D 1 0 4"
+},
+{
+"en": "D 1 0 5"
+},
+{
+"en": "D 1 0 6"
+},
+{
+"self": true
+},
+{
+"en": "D 1 0 8"
+},
+{
+"en": "D 1 0 9"
+},
+{
+"en": "D 1 1 0"
+}
+]
+},
+{
+"id": 2166,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 1 0 9"
+],
+"choice": null,
+"jp": "Ｄ１０９",
+"context": [
+{
+"en": "D 1 0 6"
+},
+{
+"en": "D 1 0 7"
+},
+{
+"en": "D 1 0 8"
+},
+{
+"self": true
+},
+{
+"en": "D 1 1 0"
+},
+{
+"en": "D 1 1 1"
+},
+{
+"en": "D 1 1 2"
+}
+]
+},
+{
+"id": 2167,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 1 1 0"
+],
+"choice": null,
+"jp": "Ｄ１１０",
+"context": [
+{
+"en": "D 1 0 7"
+},
+{
+"en": "D 1 0 8"
+},
+{
+"en": "D 1 0 9"
+},
+{
+"self": true
+},
+{
+"en": "D 1 1 1"
+},
+{
+"en": "D 1 1 2"
+},
+{
+"en": "D 1 1 3"
+}
+]
+},
+{
+"id": 2168,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 1 1 1"
+],
+"choice": null,
+"jp": "Ｄ１１１",
+"context": [
+{
+"en": "D 1 0 8"
+},
+{
+"en": "D 1 0 9"
+},
+{
+"en": "D 1 1 0"
+},
+{
+"self": true
+},
+{
+"en": "D 1 1 2"
+},
+{
+"en": "D 1 1 3"
+},
+{
+"en": "D 1 1 4"
+}
+]
+},
+{
+"id": 2169,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 1 1 2"
+],
+"choice": null,
+"jp": "Ｄ１１２",
+"context": [
+{
+"en": "D 1 0 9"
+},
+{
+"en": "D 1 1 0"
+},
+{
+"en": "D 1 1 1"
+},
+{
+"self": true
+},
+{
+"en": "D 1 1 3"
+},
+{
+"en": "D 1 1 4"
+},
+{
+"en": "D 1 1 5"
+}
+]
+},
+{
+"id": 2170,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 1 1 3"
+],
+"choice": null,
+"jp": "Ｄ１１３",
+"context": [
+{
+"en": "D 1 1 0"
+},
+{
+"en": "D 1 1 1"
+},
+{
+"en": "D 1 1 2"
+},
+{
+"self": true
+},
+{
+"en": "D 1 1 4"
+},
+{
+"en": "D 1 1 5"
+},
+{
+"en": "D 1 1 6"
+}
+]
+},
+{
+"id": 2171,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 1 1 4"
+],
+"choice": null,
+"jp": "Ｄ１１４",
+"context": [
+{
+"en": "D 1 1 1"
+},
+{
+"en": "D 1 1 2"
+},
+{
+"en": "D 1 1 3"
+},
+{
+"self": true
+},
+{
+"en": "D 1 1 5"
+},
+{
+"en": "D 1 1 6"
+},
+{
+"en": "D 1 1 7"
+}
+]
+},
+{
+"id": 2172,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 1 1 5"
+],
+"choice": null,
+"jp": "Ｄ１１５",
+"context": [
+{
+"en": "D 1 1 2"
+},
+{
+"en": "D 1 1 3"
+},
+{
+"en": "D 1 1 4"
+},
+{
+"self": true
+},
+{
+"en": "D 1 1 6"
+},
+{
+"en": "D 1 1 7"
+},
+{
+"en": "D 1 1 8"
+}
+]
+},
+{
+"id": 2173,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 1 1 6"
+],
+"choice": null,
+"jp": "Ｄ１１６",
+"context": [
+{
+"en": "D 1 1 3"
+},
+{
+"en": "D 1 1 4"
+},
+{
+"en": "D 1 1 5"
+},
+{
+"self": true
+},
+{
+"en": "D 1 1 7"
+},
+{
+"en": "D 1 1 8"
+},
+{
+"en": "D 1 1 9"
+}
+]
+},
+{
+"id": 2174,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 1 1 7"
+],
+"choice": null,
+"jp": "Ｄ１１７",
+"context": [
+{
+"en": "D 1 1 4"
+},
+{
+"en": "D 1 1 5"
+},
+{
+"en": "D 1 1 6"
+},
+{
+"self": true
+},
+{
+"en": "D 1 1 8"
+},
+{
+"en": "D 1 1 9"
+},
+{
+"en": "D 1 2 0"
+}
+]
+},
+{
+"id": 2175,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 1 1 8"
+],
+"choice": null,
+"jp": "Ｄ１１８",
+"context": [
+{
+"en": "D 1 1 5"
+},
+{
+"en": "D 1 1 6"
+},
+{
+"en": "D 1 1 7"
+},
+{
+"self": true
+},
+{
+"en": "D 1 1 9"
+},
+{
+"en": "D 1 2 0"
+},
+{
+"en": "D 1 2 1"
+}
+]
+},
+{
+"id": 2176,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 1 1 9"
+],
+"choice": null,
+"jp": "Ｄ１１９",
+"context": [
+{
+"en": "D 1 1 6"
+},
+{
+"en": "D 1 1 7"
+},
+{
+"en": "D 1 1 8"
+},
+{
+"self": true
+},
+{
+"en": "D 1 2 0"
+},
+{
+"en": "D 1 2 1"
+},
+{
+"en": "D 1 2 2"
+}
+]
+},
+{
+"id": 2177,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 1 3 6"
+],
+"choice": null,
+"jp": "Ｄ１３６",
+"context": [
+{
+"en": "D 1 3 3"
+},
+{
+"en": "D 1 3 4"
+},
+{
+"en": "D 1 3 5"
+},
+{
+"self": true
+},
+{
+"en": "D 1 3 7"
+},
+{
+"en": "D 1 3 8"
+},
+{
+"en": "D 1 3 9"
+}
+]
+},
+{
+"id": 2178,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 1 3 7"
+],
+"choice": null,
+"jp": "Ｄ１３７",
+"context": [
+{
+"en": "D 1 3 4"
+},
+{
+"en": "D 1 3 5"
+},
+{
+"en": "D 1 3 6"
+},
+{
+"self": true
+},
+{
+"en": "D 1 3 8"
+},
+{
+"en": "D 1 3 9"
+},
+{
+"en": "D 1 4 0"
+}
+]
+},
+{
+"id": 2179,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 1 3 8"
+],
+"choice": null,
+"jp": "Ｄ１３８",
+"context": [
+{
+"en": "D 1 3 5"
+},
+{
+"en": "D 1 3 6"
+},
+{
+"en": "D 1 3 7"
+},
+{
+"self": true
+},
+{
+"en": "D 1 3 9"
+},
+{
+"en": "D 1 4 0"
+},
+{
+"en": "D 1 4 1"
+}
+]
+},
+{
+"id": 2180,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 1 3 9"
+],
+"choice": null,
+"jp": "Ｄ１３９",
+"context": [
+{
+"en": "D 1 3 6"
+},
+{
+"en": "D 1 3 7"
+},
+{
+"en": "D 1 3 8"
+},
+{
+"self": true
+},
+{
+"en": "D 1 4 0"
+},
+{
+"en": "D 1 4 1"
+},
+{
+"en": "Whoa! Tam Tam...?! How'd you get here?!"
+}
+]
+},
+{
+"id": 2181,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 1 4 0"
+],
+"choice": null,
+"jp": "Ｄ１４０",
+"context": [
+{
+"en": "D 1 3 7"
+},
+{
+"en": "D 1 3 8"
+},
+{
+"en": "D 1 3 9"
+},
+{
+"self": true
+},
+{
+"en": "D 1 4 1"
+},
+{
+"en": "Whoa! Tam Tam...?! How'd you get here?!"
+},
+{
+"en": "You've grown very strong, dear sister! / I never would have thought you capable of saving me..."
+}
+]
+},
+{
+"id": 2182,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 1 4 1"
+],
+"choice": null,
+"jp": "Ｄ１４１",
+"context": [
+{
+"en": "D 1 3 8"
+},
+{
+"en": "D 1 3 9"
+},
+{
+"en": "D 1 4 0"
+},
+{
+"self": true
+},
+{
+"en": "Whoa! Tam Tam...?! How'd you get here?!"
+},
+{
+"en": "You've grown very strong, dear sister! / I never would have thought you capable of saving me..."
+},
+{
+"en": "D 1 4 4"
+}
+]
+},
+{
+"id": 2183,
+"file": "MSGD1300.PRG",
+"pages": [
+"Whoa! Tam Tam...?! How'd you get here?!"
+],
+"choice": null,
+"jp": "あああ？　タム兄ちゃン？どうして　どうして？",
+"context": [
+{
+"en": "D 1 3 9"
+},
+{
+"en": "D 1 4 0"
+},
+{
+"en": "D 1 4 1"
+},
+{
+"self": true
+},
+{
+"en": "You've grown very strong, dear sister! / I never would have thought you capable of saving me..."
+},
+{
+"en": "D 1 4 4"
+},
+{
+"en": "D 1 4 5"
+}
+]
+},
+{
+"id": 2184,
+"file": "MSGD1300.PRG",
+"pages": [
+"You've grown very strong, dear sister!",
+"I never would have thought you capable of saving me..."
+],
+"choice": null,
+"jp": "チャムチャム　強くなった！まさか　おまえに助けられるとは",
+"context": [
+{
+"en": "D 1 4 0"
+},
+{
+"en": "D 1 4 1"
+},
+{
+"en": "Whoa! Tam Tam...?! How'd you get here?!"
+},
+{
+"self": true
+},
+{
+"en": "D 1 4 4"
+},
+{
+"en": "D 1 4 5"
+},
+{
+"en": "So it's finally over..."
+}
+]
+},
+{
+"id": 2185,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 1 4 4"
+],
+"choice": null,
+"jp": "Ｄ１４４",
+"context": [
+{
+"en": "D 1 4 1"
+},
+{
+"en": "Whoa! Tam Tam...?! How'd you get here?!"
+},
+{
+"en": "You've grown very strong, dear sister! / I never would have thought you capable of saving me..."
+},
+{
+"self": true
+},
+{
+"en": "D 1 4 5"
+},
+{
+"en": "So it's finally over..."
+},
+{
+"en": "So it's finally over..."
+}
+]
+},
+{
+"id": 2186,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 1 4 5"
+],
+"choice": null,
+"jp": "Ｄ１４５",
+"context": [
+{
+"en": "Whoa! Tam Tam...?! How'd you get here?!"
+},
+{
+"en": "You've grown very strong, dear sister! / I never would have thought you capable of saving me..."
+},
+{
+"en": "D 1 4 4"
+},
+{
+"self": true
+},
+{
+"en": "So it's finally over..."
+},
+{
+"en": "So it's finally over..."
+},
+{
+"en": "This is Suruga Bay... I didn't realize we'd flown this far."
+}
+]
+},
+{
+"id": 2187,
+"file": "MSGD1300.PRG",
+"pages": [
+"So it's finally over..."
+],
+"choice": null,
+"jp": "ようやく終わったな",
+"context": [
+{
+"en": "You've grown very strong, dear sister! / I never would have thought you capable of saving me..."
+},
+{
+"en": "D 1 4 4"
+},
+{
+"en": "D 1 4 5"
+},
+{
+"self": true
+},
+{
+"en": "So it's finally over..."
+},
+{
+"en": "This is Suruga Bay... I didn't realize we'd flown this far."
+},
+{
+"en": "Oh! That's Mount Fuji! How'd we fly all the way here?"
+}
+]
+},
+{
+"id": 2188,
+"file": "MSGD1300.PRG",
+"pages": [
+"This is Suruga Bay... I didn't realize we'd flown this far."
+],
+"choice": null,
+"jp": "こりゃ駿河の沖だぜ・・・こんなとこまで飛んできたのか",
+"context": [
+{
+"en": "D 1 4 5"
+},
+{
+"en": "So it's finally over..."
+},
+{
+"en": "So it's finally over..."
+},
+{
+"self": true
+},
+{
+"en": "Oh! That's Mount Fuji! How'd we fly all the way here?"
+},
+{
+"en": "Where are we? Is that Mount Fuji there?"
+},
+{
+"en": "That's... Mount Fuji! / So this must be Suruga Bay...? I didn't think we'd come so far."
+}
+]
+},
+{
+"id": 2189,
+"file": "MSGD1300.PRG",
+"pages": [
+"Oh! That's Mount Fuji! How'd we fly all the way here?"
+],
+"choice": null,
+"jp": "ＯＨ！　マウント・フジだ！こんなとこまで飛んできたのか",
+"context": [
+{
+"en": "So it's finally over..."
+},
+{
+"en": "So it's finally over..."
+},
+{
+"en": "This is Suruga Bay... I didn't realize we'd flown this far."
+},
+{
+"self": true
+},
+{
+"en": "Where are we? Is that Mount Fuji there?"
+},
+{
+"en": "That's... Mount Fuji! / So this must be Suruga Bay...? I didn't think we'd come so far."
+},
+{
+"en": "Is this Suruga Bay...? I didn't think we'd flown so far."
+}
+]
+},
+{
+"id": 2190,
+"file": "MSGD1300.PRG",
+"pages": [
+"Where are we? Is that Mount Fuji there?"
+],
+"choice": null,
+"jp": "ここ　どこォ？あれ　フジヤマ？",
+"context": [
+{
+"en": "So it's finally over..."
+},
+{
+"en": "This is Suruga Bay... I didn't realize we'd flown this far."
+},
+{
+"en": "Oh! That's Mount Fuji! How'd we fly all the way here?"
+},
+{
+"self": true
+},
+{
+"en": "That's... Mount Fuji! / So this must be Suruga Bay...? I didn't think we'd come so far."
+},
+{
+"en": "Is this Suruga Bay...? I didn't think we'd flown so far."
+},
+{
+"en": "Hmph, I wasn't expecting to wind up in Suruga Bay..."
+}
+]
+},
+{
+"id": 2191,
+"file": "MSGD1300.PRG",
+"pages": [
+"That's... Mount Fuji!",
+"So this must be Suruga Bay...? I didn't think we'd come so far."
+],
+"choice": null,
+"jp": "あれは・・・富士山！ここは駿河の沖なの？こんなとこまで飛んできたのね",
+"context": [
+{
+"en": "This is Suruga Bay... I didn't realize we'd flown this far."
+},
+{
+"en": "Oh! That's Mount Fuji! How'd we fly all the way here?"
+},
+{
+"en": "Where are we? Is that Mount Fuji there?"
+},
+{
+"self": true
+},
+{
+"en": "Is this Suruga Bay...? I didn't think we'd flown so far."
+},
+{
+"en": "Hmph, I wasn't expecting to wind up in Suruga Bay..."
+},
+{
+"en": "So it's finally over..."
+}
+]
+},
+{
+"id": 2192,
+"file": "MSGD1300.PRG",
+"pages": [
+"Is this Suruga Bay...? I didn't think we'd flown so far."
+],
+"choice": null,
+"jp": "ここは駿河の沖か？こんなところまで飛んできたのか",
+"context": [
+{
+"en": "Oh! That's Mount Fuji! How'd we fly all the way here?"
+},
+{
+"en": "Where are we? Is that Mount Fuji there?"
+},
+{
+"en": "That's... Mount Fuji! / So this must be Suruga Bay...? I didn't think we'd come so far."
+},
+{
+"self": true
+},
+{
+"en": "Hmph, I wasn't expecting to wind up in Suruga Bay..."
+},
+{
+"en": "So it's finally over..."
+},
+{
+"en": "Well, that settles that..."
+}
+]
+},
+{
+"id": 2193,
+"file": "MSGD1300.PRG",
+"pages": [
+"Hmph, I wasn't expecting to wind up in Suruga Bay..."
+],
+"choice": null,
+"jp": "駿河の沖とはな",
+"context": [
+{
+"en": "Where are we? Is that Mount Fuji there?"
+},
+{
+"en": "That's... Mount Fuji! / So this must be Suruga Bay...? I didn't think we'd come so far."
+},
+{
+"en": "Is this Suruga Bay...? I didn't think we'd flown so far."
+},
+{
+"self": true
+},
+{
+"en": "So it's finally over..."
+},
+{
+"en": "Well, that settles that..."
+},
+{
+"en": "So it's finally over..."
+}
+]
+},
+{
+"id": 2194,
+"file": "MSGD1300.PRG",
+"pages": [
+"Well, that settles that..."
+],
+"choice": null,
+"jp": "ようやく終わったな",
+"context": [
+{
+"en": "Is this Suruga Bay...? I didn't think we'd flown so far."
+},
+{
+"en": "Hmph, I wasn't expecting to wind up in Suruga Bay..."
+},
+{
+"en": "So it's finally over..."
+},
+{
+"self": true
+},
+{
+"en": "So it's finally over..."
+},
+{
+"en": "So it's finally over..."
+},
+{
+"en": "So it's finally over..."
+}
+]
+},
+{
+"id": 2195,
+"file": "MSGD1300.PRG",
+"pages": [
+"It's finally over!"
+],
+"choice": null,
+"jp": "やっと　終わったね！",
+"context": [
+{
+"en": "So it's finally over..."
+},
+{
+"en": "So it's finally over..."
+},
+{
+"en": "So it's finally over..."
+},
+{
+"self": true
+},
+{
+"en": "D 1 6 0"
+},
+{
+"en": "I guess it's over now... right, Nakoruru?"
+},
+{
+"en": "Hmm... well, it's not really over, though... / As long as I've got some tough opponents to face... / My path is always going to continue..."
+}
+]
+},
+{
+"id": 2196,
+"file": "MSGD1300.PRG",
+"pages": [
+"I guess it's over now... right, Nakoruru?"
+],
+"choice": null,
+"jp": "やっと　終わったね姉さん・・・",
+"context": [
+{
+"en": "So it's finally over..."
+},
+{
+"en": "It's finally over!"
+},
+{
+"en": "D 1 6 0"
+},
+{
+"self": true
+},
+{
+"en": "Hmm... well, it's not really over, though... / As long as I've got some tough opponents to face... / My path is always going to continue..."
+},
+{
+"en": "The fight for justice is never- ending... / So I guess Poppy and I will have to keep up our strength!"
+},
+{
+"en": "Thanks, you guys! / Now I can go home to Greenhell with my brother, Tam Tam!"
+}
+]
+},
+{
+"id": 2197,
+"file": "MSGD1300.PRG",
+"pages": [
+"Hmm... well, it's not really over, though...",
+"As long as I've got some tough opponents to face...",
+"My path is always going to continue..."
+],
+"choice": null,
+"jp": "まあな・・・だが　終わりじゃねえ・・・強い奴がいるかぎり俺の道に終わりはねぇ・・・",
+"context": [
+{
+"en": "It's finally over!"
+},
+{
+"en": "D 1 6 0"
+},
+{
+"en": "I guess it's over now... right, Nakoruru?"
+},
+{
+"self": true
+},
+{
+"en": "The fight for justice is never- ending... / So I guess Poppy and I will have to keep up our strength!"
+},
+{
+"en": "Thanks, you guys! / Now I can go home to Greenhell with my brother, Tam Tam!"
+},
+{
+"en": "Yes, now we can go home."
+}
+]
+},
+{
+"id": 2198,
+"file": "MSGD1300.PRG",
+"pages": [
+"The fight for justice is never- ending...",
+"So I guess Poppy and I will have to keep up our strength!"
+],
+"choice": null,
+"jp": "正義のための戦いに終わりはないこれからもオレとパピィの戦いは続くのさ",
+"context": [
+{
+"en": "D 1 6 0"
+},
+{
+"en": "I guess it's over now... right, Nakoruru?"
+},
+{
+"en": "Hmm... well, it's not really over, though... / As long as I've got some tough opponents to face... / My path is always going to continue..."
+},
+{
+"self": true
+},
+{
+"en": "Thanks, you guys! / Now I can go home to Greenhell with my brother, Tam Tam!"
+},
+{
+"en": "Yes, now we can go home."
+},
+{
+"en": "No..."
+}
+]
+},
+{
+"id": 2199,
+"file": "MSGD1300.PRG",
+"pages": [
+"Thanks, you guys!",
+"Now I can go home to Greenhell with my brother, Tam Tam!"
+],
+"choice": null,
+"jp": "ありがとうだ　みンな！これで　タム兄ちゃンと一緒にグリーンヘルに帰れるゾ！",
+"context": [
+{
+"en": "I guess it's over now... right, Nakoruru?"
+},
+{
+"en": "Hmm... well, it's not really over, though... / As long as I've got some tough opponents to face... / My path is always going to continue..."
+},
+{
+"en": "The fight for justice is never- ending... / So I guess Poppy and I will have to keep up our strength!"
+},
+{
+"self": true
+},
+{
+"en": "Yes, now we can go home."
+},
+{
+"en": "No..."
+},
+{
+"en": "What's that...? Ah, I see... / Amakusa... looks like you can finally go home..."
+}
+]
+},
+{
+"id": 2200,
+"file": "MSGD1300.PRG",
+"pages": [
+"Yes, now we can go home."
+],
+"choice": null,
+"jp": "ええ　これで帰れるわ",
+"context": [
+{
+"en": "Hmm... well, it's not really over, though... / As long as I've got some tough opponents to face... / My path is always going to continue..."
+},
+{
+"en": "The fight for justice is never- ending... / So I guess Poppy and I will have to keep up our strength!"
+},
+{
+"en": "Thanks, you guys! / Now I can go home to Greenhell with my brother, Tam Tam!"
+},
+{
+"self": true
+},
+{
+"en": "No..."
+},
+{
+"en": "What's that...? Ah, I see... / Amakusa... looks like you can finally go home..."
+},
+{
+"en": "D 1 6 8"
+}
+]
+},
+{
+"id": 2201,
+"file": "MSGD1300.PRG",
+"pages": [
+"No..."
+],
+"choice": null,
+"jp": "いや・・・・・・",
+"context": [
+{
+"en": "The fight for justice is never- ending... / So I guess Poppy and I will have to keep up our strength!"
+},
+{
+"en": "Thanks, you guys! / Now I can go home to Greenhell with my brother, Tam Tam!"
+},
+{
+"en": "Yes, now we can go home."
+},
+{
+"self": true
+},
+{
+"en": "What's that...? Ah, I see... / Amakusa... looks like you can finally go home..."
+},
+{
+"en": "D 1 6 8"
+},
+{
+"en": "D 1 6 9"
+}
+]
+},
+{
+"id": 2202,
+"file": "MSGD1300.PRG",
+"pages": [
+"What's that...? Ah, I see...",
+"Amakusa... looks like you can finally go home..."
+],
+"choice": null,
+"jp": "あれは・・・？・・・そうかいようやく　行けるんだな・・・天草・・・・・・",
+"context": [
+{
+"en": "Thanks, you guys! / Now I can go home to Greenhell with my brother, Tam Tam!"
+},
+{
+"en": "Yes, now we can go home."
+},
+{
+"en": "No..."
+},
+{
+"self": true
+},
+{
+"en": "D 1 6 8"
+},
+{
+"en": "D 1 6 9"
+},
+{
+"en": "Huh? What's that?"
+}
+]
+},
+{
+"id": 2203,
+"file": "MSGD1300.PRG",
+"pages": [
+"The freed soul... is returning to the bosom of the gods."
+],
+"choice": null,
+"jp": "救われた魂が・・・・・・神の元に帰ろうとしている",
+"context": [
+{
+"en": "D 1 6 8"
+},
+{
+"en": "D 1 6 9"
+},
+{
+"en": "Huh? What's that?"
+},
+{
+"self": true
+},
+{
+"en": "Did I... set that mournful spirit free?"
+},
+{
+"en": "That's... Amakusa Shiro! / Thank goodness..."
+},
+{
+"en": "What's that...? / Ahh... so you found your way again, eh, Amakusa?"
+}
+]
+},
+{
+"id": 2204,
+"file": "MSGD1300.PRG",
+"pages": [
+"Did I... set that mournful spirit free?"
+],
+"choice": null,
+"jp": "わたしは　あの哀しい魂を・・・救えたのかしら？",
+"context": [
+{
+"en": "D 1 6 9"
+},
+{
+"en": "Huh? What's that?"
+},
+{
+"en": "The freed soul... is returning to the bosom of the gods."
+},
+{
+"self": true
+},
+{
+"en": "That's... Amakusa Shiro! / Thank goodness..."
+},
+{
+"en": "What's that...? / Ahh... so you found your way again, eh, Amakusa?"
+},
+{
+"en": "Huh... I guess the old ghost is moving on to the next world. / Hmph... well, it's no concern of mine."
+}
+]
+},
+{
+"id": 2205,
+"file": "MSGD1300.PRG",
+"pages": [
+"That's... Amakusa Shiro!",
+"Thank goodness..."
+],
+"choice": null,
+"jp": "あれは・・・天草四郎！・・・よかった",
+"context": [
+{
+"en": "Huh? What's that?"
+},
+{
+"en": "The freed soul... is returning to the bosom of the gods."
+},
+{
+"en": "Did I... set that mournful spirit free?"
+},
+{
+"self": true
+},
+{
+"en": "What's that...? / Ahh... so you found your way again, eh, Amakusa?"
+},
+{
+"en": "Huh... I guess the old ghost is moving on to the next world. / Hmph... well, it's no concern of mine."
+},
+{
+"en": "So... who's going to be my next target...?"
+}
+]
+},
+{
+"id": 2206,
+"file": "MSGD1300.PRG",
+"pages": [
+"What's that...?",
+"Ahh... so you found your way again, eh, Amakusa?"
+],
+"choice": null,
+"jp": "あれは！そうか　おまえは見つけたのだな天草・・・・・・",
+"context": [
+{
+"en": "The freed soul... is returning to the bosom of the gods."
+},
+{
+"en": "Did I... set that mournful spirit free?"
+},
+{
+"en": "That's... Amakusa Shiro! / Thank goodness..."
+},
+{
+"self": true
+},
+{
+"en": "Huh... I guess the old ghost is moving on to the next world. / Hmph... well, it's no concern of mine."
+},
+{
+"en": "So... who's going to be my next target...?"
+},
+{
+"en": "D 1 7 7"
+}
+]
+},
+{
+"id": 2207,
+"file": "MSGD1300.PRG",
+"pages": [
+"Huh... I guess the old ghost is moving on to the next world.",
+"Hmph... well, it's no concern of mine."
+],
+"choice": null,
+"jp": "ほう・・・怨霊もあの世とやらに行くのかふんっ　俺には無縁な話だな",
+"context": [
+{
+"en": "Did I... set that mournful spirit free?"
+},
+{
+"en": "That's... Amakusa Shiro! / Thank goodness..."
+},
+{
+"en": "What's that...? / Ahh... so you found your way again, eh, Amakusa?"
+},
+{
+"self": true
+},
+{
+"en": "So... who's going to be my next target...?"
+},
+{
+"en": "D 1 7 7"
+},
+{
+"en": "D 1 7 8"
+}
+]
+},
+{
+"id": 2208,
+"file": "MSGD1300.PRG",
+"pages": [
+"So... who's going to be my next target...?"
+],
+"choice": null,
+"jp": "さて・・・今度は誰を　斬ってみるか？",
+"context": [
+{
+"en": "That's... Amakusa Shiro! / Thank goodness..."
+},
+{
+"en": "What's that...? / Ahh... so you found your way again, eh, Amakusa?"
+},
+{
+"en": "Huh... I guess the old ghost is moving on to the next world. / Hmph... well, it's no concern of mine."
+},
+{
+"self": true
+},
+{
+"en": "D 1 7 7"
+},
+{
+"en": "D 1 7 8"
+},
+{
+"en": "D 1 7 9"
+}
+]
+},
+{
+"id": 2209,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 1 7 9"
+],
+"choice": null,
+"jp": "Ｄ１７９",
+"context": [
+{
+"en": "So... who's going to be my next target...?"
+},
+{
+"en": "D 1 7 7"
+},
+{
+"en": "D 1 7 8"
+},
+{
+"self": true
+},
+{
+"en": "D 1 8 0"
+},
+{
+"en": "D 1 8 1"
+},
+{
+"en": "D 1 8 2"
+}
+]
+},
+{
+"id": 2210,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 1 8 0"
+],
+"choice": null,
+"jp": "Ｄ１８０",
+"context": [
+{
+"en": "D 1 7 7"
+},
+{
+"en": "D 1 7 8"
+},
+{
+"en": "D 1 7 9"
+},
+{
+"self": true
+},
+{
+"en": "D 1 8 1"
+},
+{
+"en": "D 1 8 2"
+},
+{
+"en": "D 1 8 3"
+}
+]
+},
+{
+"id": 2211,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 1 8 1"
+],
+"choice": null,
+"jp": "Ｄ１８１",
+"context": [
+{
+"en": "D 1 7 8"
+},
+{
+"en": "D 1 7 9"
+},
+{
+"en": "D 1 8 0"
+},
+{
+"self": true
+},
+{
+"en": "D 1 8 2"
+},
+{
+"en": "D 1 8 3"
+},
+{
+"en": "D 1 8 4"
+}
+]
+},
+{
+"id": 2212,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 1 8 2"
+],
+"choice": null,
+"jp": "Ｄ１８２",
+"context": [
+{
+"en": "D 1 7 9"
+},
+{
+"en": "D 1 8 0"
+},
+{
+"en": "D 1 8 1"
+},
+{
+"self": true
+},
+{
+"en": "D 1 8 3"
+},
+{
+"en": "D 1 8 4"
+},
+{
+"en": "D 1 8 5"
+}
+]
+},
+{
+"id": 2213,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 1 8 3"
+],
+"choice": null,
+"jp": "Ｄ１８３",
+"context": [
+{
+"en": "D 1 8 0"
+},
+{
+"en": "D 1 8 1"
+},
+{
+"en": "D 1 8 2"
+},
+{
+"self": true
+},
+{
+"en": "D 1 8 4"
+},
+{
+"en": "D 1 8 5"
+},
+{
+"en": "D 1 8 6"
+}
+]
+},
+{
+"id": 2214,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 1 8 4"
+],
+"choice": null,
+"jp": "Ｄ１８４",
+"context": [
+{
+"en": "D 1 8 1"
+},
+{
+"en": "D 1 8 2"
+},
+{
+"en": "D 1 8 3"
+},
+{
+"self": true
+},
+{
+"en": "D 1 8 5"
+},
+{
+"en": "D 1 8 6"
+},
+{
+"en": "D 1 8 7"
+}
+]
+},
+{
+"id": 2215,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 1 8 5"
+],
+"choice": null,
+"jp": "Ｄ１８５",
+"context": [
+{
+"en": "D 1 8 2"
+},
+{
+"en": "D 1 8 3"
+},
+{
+"en": "D 1 8 4"
+},
+{
+"self": true
+},
+{
+"en": "D 1 8 6"
+},
+{
+"en": "D 1 8 7"
+},
+{
+"en": "D 1 8 8"
+}
+]
+},
+{
+"id": 2216,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 1 8 6"
+],
+"choice": null,
+"jp": "Ｄ１８６",
+"context": [
+{
+"en": "D 1 8 3"
+},
+{
+"en": "D 1 8 4"
+},
+{
+"en": "D 1 8 5"
+},
+{
+"self": true
+},
+{
+"en": "D 1 8 7"
+},
+{
+"en": "D 1 8 8"
+},
+{
+"en": "D 1 8 9"
+}
+]
+},
+{
+"id": 2217,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 1 8 7"
+],
+"choice": null,
+"jp": "Ｄ１８７",
+"context": [
+{
+"en": "D 1 8 4"
+},
+{
+"en": "D 1 8 5"
+},
+{
+"en": "D 1 8 6"
+},
+{
+"self": true
+},
+{
+"en": "D 1 8 8"
+},
+{
+"en": "D 1 8 9"
+},
+{
+"en": "D 1 9 0"
+}
+]
+},
+{
+"id": 2218,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 1 8 8"
+],
+"choice": null,
+"jp": "Ｄ１８８",
+"context": [
+{
+"en": "D 1 8 5"
+},
+{
+"en": "D 1 8 6"
+},
+{
+"en": "D 1 8 7"
+},
+{
+"self": true
+},
+{
+"en": "D 1 8 9"
+},
+{
+"en": "D 1 9 0"
+},
+{
+"en": "D 1 9 1"
+}
+]
+},
+{
+"id": 2219,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 1 8 9"
+],
+"choice": null,
+"jp": "Ｄ１８９",
+"context": [
+{
+"en": "D 1 8 6"
+},
+{
+"en": "D 1 8 7"
+},
+{
+"en": "D 1 8 8"
+},
+{
+"self": true
+},
+{
+"en": "D 1 9 0"
+},
+{
+"en": "D 1 9 1"
+},
+{
+"en": "D 1 9 2"
+}
+]
+},
+{
+"id": 2220,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 1 9 0"
+],
+"choice": null,
+"jp": "Ｄ１９０",
+"context": [
+{
+"en": "D 1 8 7"
+},
+{
+"en": "D 1 8 8"
+},
+{
+"en": "D 1 8 9"
+},
+{
+"self": true
+},
+{
+"en": "D 1 9 1"
+},
+{
+"en": "D 1 9 2"
+},
+{
+"en": "D 1 9 3"
+}
+]
+},
+{
+"id": 2221,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 1 9 1"
+],
+"choice": null,
+"jp": "Ｄ１９１",
+"context": [
+{
+"en": "D 1 8 8"
+},
+{
+"en": "D 1 8 9"
+},
+{
+"en": "D 1 9 0"
+},
+{
+"self": true
+},
+{
+"en": "D 1 9 2"
+},
+{
+"en": "D 1 9 3"
+},
+{
+"en": "D 1 9 4"
+}
+]
+},
+{
+"id": 2222,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 1 9 2"
+],
+"choice": null,
+"jp": "Ｄ１９２",
+"context": [
+{
+"en": "D 1 8 9"
+},
+{
+"en": "D 1 9 0"
+},
+{
+"en": "D 1 9 1"
+},
+{
+"self": true
+},
+{
+"en": "D 1 9 3"
+},
+{
+"en": "D 1 9 4"
+},
+{
+"en": "D 1 9 5"
+}
+]
+},
+{
+"id": 2223,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 1 9 3"
+],
+"choice": null,
+"jp": "Ｄ１９３",
+"context": [
+{
+"en": "D 1 9 0"
+},
+{
+"en": "D 1 9 1"
+},
+{
+"en": "D 1 9 2"
+},
+{
+"self": true
+},
+{
+"en": "D 1 9 4"
+},
+{
+"en": "D 1 9 5"
+},
+{
+"en": "D 1 9 6"
+}
+]
+},
+{
+"id": 2224,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 1 9 4"
+],
+"choice": null,
+"jp": "Ｄ１９４",
+"context": [
+{
+"en": "D 1 9 1"
+},
+{
+"en": "D 1 9 2"
+},
+{
+"en": "D 1 9 3"
+},
+{
+"self": true
+},
+{
+"en": "D 1 9 5"
+},
+{
+"en": "D 1 9 6"
+},
+{
+"en": "D 1 9 7"
+}
+]
+},
+{
+"id": 2225,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 1 9 5"
+],
+"choice": null,
+"jp": "Ｄ１９５",
+"context": [
+{
+"en": "D 1 9 2"
+},
+{
+"en": "D 1 9 3"
+},
+{
+"en": "D 1 9 4"
+},
+{
+"self": true
+},
+{
+"en": "D 1 9 6"
+},
+{
+"en": "D 1 9 7"
+},
+{
+"en": "D 1 9 8"
+}
+]
+},
+{
+"id": 2226,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 1 9 6"
+],
+"choice": null,
+"jp": "Ｄ１９６",
+"context": [
+{
+"en": "D 1 9 3"
+},
+{
+"en": "D 1 9 4"
+},
+{
+"en": "D 1 9 5"
+},
+{
+"self": true
+},
+{
+"en": "D 1 9 7"
+},
+{
+"en": "D 1 9 8"
+},
+{
+"en": "D 1 9 9"
+}
+]
+},
+{
+"id": 2227,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 1 9 7"
+],
+"choice": null,
+"jp": "Ｄ１９７",
+"context": [
+{
+"en": "D 1 9 4"
+},
+{
+"en": "D 1 9 5"
+},
+{
+"en": "D 1 9 6"
+},
+{
+"self": true
+},
+{
+"en": "D 1 9 8"
+},
+{
+"en": "D 1 9 9"
+},
+{
+"en": "D 2 0 0"
+}
+]
+},
+{
+"id": 2228,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 1 9 8"
+],
+"choice": null,
+"jp": "Ｄ１９８",
+"context": [
+{
+"en": "D 1 9 5"
+},
+{
+"en": "D 1 9 6"
+},
+{
+"en": "D 1 9 7"
+},
+{
+"self": true
+},
+{
+"en": "D 1 9 9"
+},
+{
+"en": "D 2 0 0"
+},
+{
+"en": "D 2 0 1"
+}
+]
+},
+{
+"id": 2229,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 1 9 9"
+],
+"choice": null,
+"jp": "Ｄ１９９",
+"context": [
+{
+"en": "D 1 9 6"
+},
+{
+"en": "D 1 9 7"
+},
+{
+"en": "D 1 9 8"
+},
+{
+"self": true
+},
+{
+"en": "D 2 0 0"
+},
+{
+"en": "D 2 0 1"
+},
+{
+"en": "D 2 0 2"
+}
+]
+},
+{
+"id": 2230,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 2 0 0"
+],
+"choice": null,
+"jp": "Ｄ２００",
+"context": [
+{
+"en": "D 1 9 7"
+},
+{
+"en": "D 1 9 8"
+},
+{
+"en": "D 1 9 9"
+},
+{
+"self": true
+},
+{
+"en": "D 2 0 1"
+},
+{
+"en": "D 2 0 2"
+},
+{
+"en": "D 2 0 3"
+}
+]
+},
+{
+"id": 2231,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 2 0 1"
+],
+"choice": null,
+"jp": "Ｄ２０１",
+"context": [
+{
+"en": "D 1 9 8"
+},
+{
+"en": "D 1 9 9"
+},
+{
+"en": "D 2 0 0"
+},
+{
+"self": true
+},
+{
+"en": "D 2 0 2"
+},
+{
+"en": "D 2 0 3"
+},
+{
+"en": "D 2 0 4"
+}
+]
+},
+{
+"id": 2232,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 2 0 2"
+],
+"choice": null,
+"jp": "Ｄ２０２",
+"context": [
+{
+"en": "D 1 9 9"
+},
+{
+"en": "D 2 0 0"
+},
+{
+"en": "D 2 0 1"
+},
+{
+"self": true
+},
+{
+"en": "D 2 0 3"
+},
+{
+"en": "D 2 0 4"
+},
+{
+"en": "D 2 0 5"
+}
+]
+},
+{
+"id": 2233,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 2 0 3"
+],
+"choice": null,
+"jp": "Ｄ２０３",
+"context": [
+{
+"en": "D 2 0 0"
+},
+{
+"en": "D 2 0 1"
+},
+{
+"en": "D 2 0 2"
+},
+{
+"self": true
+},
+{
+"en": "D 2 0 4"
+},
+{
+"en": "D 2 0 5"
+},
+{
+"en": "D 2 0 6"
+}
+]
+},
+{
+"id": 2234,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 2 0 4"
+],
+"choice": null,
+"jp": "Ｄ２０４",
+"context": [
+{
+"en": "D 2 0 1"
+},
+{
+"en": "D 2 0 2"
+},
+{
+"en": "D 2 0 3"
+},
+{
+"self": true
+},
+{
+"en": "D 2 0 5"
+},
+{
+"en": "D 2 0 6"
+},
+{
+"en": "D 2 0 7"
+}
+]
+},
+{
+"id": 2235,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 2 0 5"
+],
+"choice": null,
+"jp": "Ｄ２０５",
+"context": [
+{
+"en": "D 2 0 2"
+},
+{
+"en": "D 2 0 3"
+},
+{
+"en": "D 2 0 4"
+},
+{
+"self": true
+},
+{
+"en": "D 2 0 6"
+},
+{
+"en": "D 2 0 7"
+},
+{
+"en": "Master Hanzo...? How are you holding up?"
+}
+]
+},
+{
+"id": 2236,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 2 0 6"
+],
+"choice": null,
+"jp": "Ｄ２０６",
+"context": [
+{
+"en": "D 2 0 3"
+},
+{
+"en": "D 2 0 4"
+},
+{
+"en": "D 2 0 5"
+},
+{
+"self": true
+},
+{
+"en": "D 2 0 7"
+},
+{
+"en": "Master Hanzo...? How are you holding up?"
+},
+{
+"en": "I'm fine... and my personal grudge has been settled. / I will be all right. But I did want to congratulate you. / You fought very well against Amakusa!"
+}
+]
+},
+{
+"id": 2237,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 2 0 7"
+],
+"choice": null,
+"jp": "Ｄ２０７",
+"context": [
+{
+"en": "D 2 0 4"
+},
+{
+"en": "D 2 0 5"
+},
+{
+"en": "D 2 0 6"
+},
+{
+"self": true
+},
+{
+"en": "Master Hanzo...? How are you holding up?"
+},
+{
+"en": "I'm fine... and my personal grudge has been settled. / I will be all right. But I did want to congratulate you. / You fought very well against Amakusa!"
+},
+{
+"en": "But... I mean... what about Shinzo...?"
+}
+]
+},
+{
+"id": 2238,
+"file": "MSGD1300.PRG",
+"pages": [
+"Master Hanzo...? How are you holding up?"
+],
+"choice": null,
+"jp": "半蔵殿　お体は・・・もう良いのですか？",
+"context": [
+{
+"en": "D 2 0 5"
+},
+{
+"en": "D 2 0 6"
+},
+{
+"en": "D 2 0 7"
+},
+{
+"self": true
+},
+{
+"en": "I'm fine... and my personal grudge has been settled. / I will be all right. But I did want to congratulate you. / You fought very well against Amakusa!"
+},
+{
+"en": "But... I mean... what about Shinzo...?"
+},
+{
+"en": "I believe his soul has been set free..."
+}
+]
+},
+{
+"id": 2239,
+"file": "MSGD1300.PRG",
+"pages": [
+"I'm fine... and my personal grudge has been settled.",
+"I will be all right. But I did want to congratulate you.",
+"You fought very well against Amakusa!"
+],
+"choice": null,
+"jp": "うむ　私怨という暗黒から解き放たれることができた・・・もう大丈夫だそれにしても　ガルフォードよくぞ　天草を倒してくれた！",
+"context": [
+{
+"en": "D 2 0 6"
+},
+{
+"en": "D 2 0 7"
+},
+{
+"en": "Master Hanzo...? How are you holding up?"
+},
+{
+"self": true
+},
+{
+"en": "But... I mean... what about Shinzo...?"
+},
+{
+"en": "I believe his soul has been set free..."
+},
+{
+"en": "Thank God..."
+}
+]
+},
+{
+"id": 2240,
+"file": "MSGD1300.PRG",
+"pages": [
+"But... I mean... what about Shinzo...?"
+],
+"choice": null,
+"jp": "でも・・・・・・真蔵殿は・・・・・・",
+"context": [
+{
+"en": "D 2 0 7"
+},
+{
+"en": "Master Hanzo...? How are you holding up?"
+},
+{
+"en": "I'm fine... and my personal grudge has been settled. / I will be all right. But I did want to congratulate you. / You fought very well against Amakusa!"
+},
+{
+"self": true
+},
+{
+"en": "I believe his soul has been set free..."
+},
+{
+"en": "Thank God..."
+},
+{
+"en": "I believe his soul has been set free, along with Amakusa's..."
+}
+]
+},
+{
+"id": 2241,
+"file": "MSGD1300.PRG",
+"pages": [
+"I believe his soul has been set free..."
+],
+"choice": null,
+"jp": "どうやら　真蔵の魂は救われたようだ・・・",
+"context": [
+{
+"en": "Master Hanzo...? How are you holding up?"
+},
+{
+"en": "I'm fine... and my personal grudge has been settled. / I will be all right. But I did want to congratulate you. / You fought very well against Amakusa!"
+},
+{
+"en": "But... I mean... what about Shinzo...?"
+},
+{
+"self": true
+},
+{
+"en": "Thank God..."
+},
+{
+"en": "I believe his soul has been set free, along with Amakusa's..."
+},
+{
+"en": "Thank God... it's better for both of them..."
+}
+]
+},
+{
+"id": 2242,
+"file": "MSGD1300.PRG",
+"pages": [
+"Thank God..."
+],
+"choice": null,
+"jp": "よかったな・・・真蔵殿",
+"context": [
+{
+"en": "I'm fine... and my personal grudge has been settled. / I will be all right. But I did want to congratulate you. / You fought very well against Amakusa!"
+},
+{
+"en": "But... I mean... what about Shinzo...?"
+},
+{
+"en": "I believe his soul has been set free..."
+},
+{
+"self": true
+},
+{
+"en": "I believe his soul has been set free, along with Amakusa's..."
+},
+{
+"en": "Thank God... it's better for both of them..."
+},
+{
+"en": "Oh, hey... the Palenque Stone..."
+}
+]
+},
+{
+"id": 2243,
+"file": "MSGD1300.PRG",
+"pages": [
+"I believe his soul has been set free, along with Amakusa's..."
+],
+"choice": null,
+"jp": "どうやら　真蔵の魂は天草と共に救われたようだ・・・",
+"context": [
+{
+"en": "But... I mean... what about Shinzo...?"
+},
+{
+"en": "I believe his soul has been set free..."
+},
+{
+"en": "Thank God..."
+},
+{
+"self": true
+},
+{
+"en": "Thank God... it's better for both of them..."
+},
+{
+"en": "Oh, hey... the Palenque Stone..."
+},
+{
+"en": "That's some good luck, Cham Cham..."
+}
+]
+},
+{
+"id": 2244,
+"file": "MSGD1300.PRG",
+"pages": [
+"Thank God... it's better for both of them..."
+],
+"choice": null,
+"jp": "よかったな・・・真蔵殿・・・天草・・・",
+"context": [
+{
+"en": "I believe his soul has been set free..."
+},
+{
+"en": "Thank God..."
+},
+{
+"en": "I believe his soul has been set free, along with Amakusa's..."
+},
+{
+"self": true
+},
+{
+"en": "Oh, hey... the Palenque Stone..."
+},
+{
+"en": "That's some good luck, Cham Cham..."
+},
+{
+"en": "I'm so happy for you, Cham Cham."
+}
+]
+},
+{
+"id": 2245,
+"file": "MSGD1300.PRG",
+"pages": [
+"Oh, hey... the Palenque Stone..."
+],
+"choice": null,
+"jp": "あれ　パレンケストーンが・・・",
+"context": [
+{
+"en": "Thank God..."
+},
+{
+"en": "I believe his soul has been set free, along with Amakusa's..."
+},
+{
+"en": "Thank God... it's better for both of them..."
+},
+{
+"self": true
+},
+{
+"en": "That's some good luck, Cham Cham..."
+},
+{
+"en": "I'm so happy for you, Cham Cham."
+},
+{
+"en": "Lucky break there, Cham Cham..."
+}
+]
+},
+{
+"id": 2246,
+"file": "MSGD1300.PRG",
+"pages": [
+"That's some good luck, Cham Cham..."
+],
+"choice": null,
+"jp": "よかったな　チャムチャム",
+"context": [
+{
+"en": "I believe his soul has been set free, along with Amakusa's..."
+},
+{
+"en": "Thank God... it's better for both of them..."
+},
+{
+"en": "Oh, hey... the Palenque Stone..."
+},
+{
+"self": true
+},
+{
+"en": "I'm so happy for you, Cham Cham."
+},
+{
+"en": "Lucky break there, Cham Cham..."
+},
+{
+"en": "An excellent turn of events, Cham Cham!"
+}
+]
+},
+{
+"id": 2247,
+"file": "MSGD1300.PRG",
+"pages": [
+"I'm so happy for you, Cham Cham."
+],
+"choice": null,
+"jp": "よかったわね　チャムチャム",
+"context": [
+{
+"en": "Thank God... it's better for both of them..."
+},
+{
+"en": "Oh, hey... the Palenque Stone..."
+},
+{
+"en": "That's some good luck, Cham Cham..."
+},
+{
+"self": true
+},
+{
+"en": "Lucky break there, Cham Cham..."
+},
+{
+"en": "An excellent turn of events, Cham Cham!"
+},
+{
+"en": "D 2 2 0"
+}
+]
+},
+{
+"id": 2248,
+"file": "MSGD1300.PRG",
+"pages": [
+"Lucky break there, Cham Cham..."
+],
+"choice": null,
+"jp": "よかったね　チャムチャム",
+"context": [
+{
+"en": "Oh, hey... the Palenque Stone..."
+},
+{
+"en": "That's some good luck, Cham Cham..."
+},
+{
+"en": "I'm so happy for you, Cham Cham."
+},
+{
+"self": true
+},
+{
+"en": "An excellent turn of events, Cham Cham!"
+},
+{
+"en": "D 2 2 0"
+},
+{
+"en": "D 2 2 1"
+}
+]
+},
+{
+"id": 2249,
+"file": "MSGD1300.PRG",
+"pages": [
+"An excellent turn of events, Cham Cham!"
+],
+"choice": null,
+"jp": "あっはれ～　よかったのぉチャムチャム",
+"context": [
+{
+"en": "That's some good luck, Cham Cham..."
+},
+{
+"en": "I'm so happy for you, Cham Cham."
+},
+{
+"en": "Lucky break there, Cham Cham..."
+},
+{
+"self": true
+},
+{
+"en": "D 2 2 0"
+},
+{
+"en": "D 2 2 1"
+},
+{
+"en": "D 2 2 2"
+}
+]
+},
+{
+"id": 2250,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 2 2 0"
+],
+"choice": null,
+"jp": "Ｄ２２０",
+"context": [
+{
+"en": "I'm so happy for you, Cham Cham."
+},
+{
+"en": "Lucky break there, Cham Cham..."
+},
+{
+"en": "An excellent turn of events, Cham Cham!"
+},
+{
+"self": true
+},
+{
+"en": "D 2 2 1"
+},
+{
+"en": "D 2 2 2"
+},
+{
+"en": "D 2 2 3"
+}
+]
+},
+{
+"id": 2251,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 2 2 1"
+],
+"choice": null,
+"jp": "Ｄ２２１",
+"context": [
+{
+"en": "Lucky break there, Cham Cham..."
+},
+{
+"en": "An excellent turn of events, Cham Cham!"
+},
+{
+"en": "D 2 2 0"
+},
+{
+"self": true
+},
+{
+"en": "D 2 2 2"
+},
+{
+"en": "D 2 2 3"
+},
+{
+"en": "D 2 2 4"
+}
+]
+},
+{
+"id": 2252,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 2 2 2"
+],
+"choice": null,
+"jp": "Ｄ２２２",
+"context": [
+{
+"en": "An excellent turn of events, Cham Cham!"
+},
+{
+"en": "D 2 2 0"
+},
+{
+"en": "D 2 2 1"
+},
+{
+"self": true
+},
+{
+"en": "D 2 2 3"
+},
+{
+"en": "D 2 2 4"
+},
+{
+"en": "D 2 2 5"
+}
+]
+},
+{
+"id": 2253,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 2 2 3"
+],
+"choice": null,
+"jp": "Ｄ２２３",
+"context": [
+{
+"en": "D 2 2 0"
+},
+{
+"en": "D 2 2 1"
+},
+{
+"en": "D 2 2 2"
+},
+{
+"self": true
+},
+{
+"en": "D 2 2 4"
+},
+{
+"en": "D 2 2 5"
+},
+{
+"en": "I doubt I'm done seeing the world yet... / Never know what tomorrow's gonna bring, right?"
+}
+]
+},
+{
+"id": 2254,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 2 2 4"
+],
+"choice": null,
+"jp": "Ｄ２２４",
+"context": [
+{
+"en": "D 2 2 1"
+},
+{
+"en": "D 2 2 2"
+},
+{
+"en": "D 2 2 3"
+},
+{
+"self": true
+},
+{
+"en": "D 2 2 5"
+},
+{
+"en": "I doubt I'm done seeing the world yet... / Never know what tomorrow's gonna bring, right?"
+},
+{
+"en": "I will go ever onward... so long as breath remains in my body... / I shall find the Perfect Flower, and present it to my love..."
+}
+]
+},
+{
+"id": 2255,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 2 2 5"
+],
+"choice": null,
+"jp": "Ｄ２２５",
+"context": [
+{
+"en": "D 2 2 2"
+},
+{
+"en": "D 2 2 3"
+},
+{
+"en": "D 2 2 4"
+},
+{
+"self": true
+},
+{
+"en": "I doubt I'm done seeing the world yet... / Never know what tomorrow's gonna bring, right?"
+},
+{
+"en": "I will go ever onward... so long as breath remains in my body... / I shall find the Perfect Flower, and present it to my love..."
+},
+{
+"en": "Father... this is what you wanted, isn't it?"
+}
+]
+},
+{
+"id": 2256,
+"file": "MSGD1300.PRG",
+"pages": [
+"I doubt I'm done seeing the world yet...",
+"Never know what tomorrow's gonna bring, right?"
+],
+"choice": null,
+"jp": "俺の旅に終わりはないささて　その道は武士か修羅か・・・",
+"context": [
+{
+"en": "D 2 2 3"
+},
+{
+"en": "D 2 2 4"
+},
+{
+"en": "D 2 2 5"
+},
+{
+"self": true
+},
+{
+"en": "I will go ever onward... so long as breath remains in my body... / I shall find the Perfect Flower, and present it to my love..."
+},
+{
+"en": "Father... this is what you wanted, isn't it?"
+},
+{
+"en": "All right, Cham Cham!"
+}
+]
+},
+{
+"id": 2257,
+"file": "MSGD1300.PRG",
+"pages": [
+"I will go ever onward... so long as breath remains in my body...",
+"I shall find the Perfect Flower, and present it to my love..."
+],
+"choice": null,
+"jp": "わたしの旅はこれからも続くのですこの命の続く限り・・・究極の花をもとめて・・・愛しき人の笑顔をかてに・・・",
+"context": [
+{
+"en": "D 2 2 4"
+},
+{
+"en": "D 2 2 5"
+},
+{
+"en": "I doubt I'm done seeing the world yet... / Never know what tomorrow's gonna bring, right?"
+},
+{
+"self": true
+},
+{
+"en": "Father... this is what you wanted, isn't it?"
+},
+{
+"en": "All right, Cham Cham!"
+},
+{
+"en": "All right, Cham Cham!"
+}
+]
+},
+{
+"id": 2258,
+"file": "MSGD1300.PRG",
+"pages": [
+"Father... this is what you wanted, isn't it?"
+],
+"choice": null,
+"jp": "父さん・・・これで　いいんですよね",
+"context": [
+{
+"en": "D 2 2 5"
+},
+{
+"en": "I doubt I'm done seeing the world yet... / Never know what tomorrow's gonna bring, right?"
+},
+{
+"en": "I will go ever onward... so long as breath remains in my body... / I shall find the Perfect Flower, and present it to my love..."
+},
+{
+"self": true
+},
+{
+"en": "All right, Cham Cham!"
+},
+{
+"en": "All right, Cham Cham!"
+},
+{
+"en": "D 2 3 1"
+}
+]
+},
+{
+"id": 2259,
+"file": "MSGD1300.PRG",
+"pages": [
+"All right, Cham Cham!"
+],
+"choice": null,
+"jp": "よかったな　チャムチャム",
+"context": [
+{
+"en": "I doubt I'm done seeing the world yet... / Never know what tomorrow's gonna bring, right?"
+},
+{
+"en": "I will go ever onward... so long as breath remains in my body... / I shall find the Perfect Flower, and present it to my love..."
+},
+{
+"en": "Father... this is what you wanted, isn't it?"
+},
+{
+"self": true
+},
+{
+"en": "All right, Cham Cham!"
+},
+{
+"en": "D 2 3 1"
+},
+{
+"en": "D 2 3 2"
+}
+]
+},
+{
+"id": 2260,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 2 3 1"
+],
+"choice": null,
+"jp": "Ｄ２３１",
+"context": [
+{
+"en": "Father... this is what you wanted, isn't it?"
+},
+{
+"en": "All right, Cham Cham!"
+},
+{
+"en": "All right, Cham Cham!"
+},
+{
+"self": true
+},
+{
+"en": "D 2 3 2"
+},
+{
+"en": "D 2 3 3"
+},
+{
+"en": "D 2 3 4"
+}
+]
+},
+{
+"id": 2261,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 2 3 2"
+],
+"choice": null,
+"jp": "Ｄ２３２",
+"context": [
+{
+"en": "All right, Cham Cham!"
+},
+{
+"en": "All right, Cham Cham!"
+},
+{
+"en": "D 2 3 1"
+},
+{
+"self": true
+},
+{
+"en": "D 2 3 3"
+},
+{
+"en": "D 2 3 4"
+},
+{
+"en": "D 2 3 5"
+}
+]
+},
+{
+"id": 2262,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 2 3 3"
+],
+"choice": null,
+"jp": "Ｄ２３３",
+"context": [
+{
+"en": "All right, Cham Cham!"
+},
+{
+"en": "D 2 3 1"
+},
+{
+"en": "D 2 3 2"
+},
+{
+"self": true
+},
+{
+"en": "D 2 3 4"
+},
+{
+"en": "D 2 3 5"
+},
+{
+"en": "D 2 3 6"
+}
+]
+},
+{
+"id": 2263,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 2 3 4"
+],
+"choice": null,
+"jp": "Ｄ２３４",
+"context": [
+{
+"en": "D 2 3 1"
+},
+{
+"en": "D 2 3 2"
+},
+{
+"en": "D 2 3 3"
+},
+{
+"self": true
+},
+{
+"en": "D 2 3 5"
+},
+{
+"en": "D 2 3 6"
+},
+{
+"en": "D 2 3 7"
+}
+]
+},
+{
+"id": 2264,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 2 3 5"
+],
+"choice": null,
+"jp": "Ｄ２３５",
+"context": [
+{
+"en": "D 2 3 2"
+},
+{
+"en": "D 2 3 3"
+},
+{
+"en": "D 2 3 4"
+},
+{
+"self": true
+},
+{
+"en": "D 2 3 6"
+},
+{
+"en": "D 2 3 7"
+},
+{
+"en": "D 2 3 8"
+}
+]
+},
+{
+"id": 2265,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 2 3 6"
+],
+"choice": null,
+"jp": "Ｄ２３６",
+"context": [
+{
+"en": "D 2 3 3"
+},
+{
+"en": "D 2 3 4"
+},
+{
+"en": "D 2 3 5"
+},
+{
+"self": true
+},
+{
+"en": "D 2 3 7"
+},
+{
+"en": "D 2 3 8"
+},
+{
+"en": "D 2 3 9"
+}
+]
+},
+{
+"id": 2266,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 2 3 7"
+],
+"choice": null,
+"jp": "Ｄ２３７",
+"context": [
+{
+"en": "D 2 3 4"
+},
+{
+"en": "D 2 3 5"
+},
+{
+"en": "D 2 3 6"
+},
+{
+"self": true
+},
+{
+"en": "D 2 3 8"
+},
+{
+"en": "D 2 3 9"
+},
+{
+"en": "D 2 4 0"
+}
+]
+},
+{
+"id": 2267,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 2 3 8"
+],
+"choice": null,
+"jp": "Ｄ２３８",
+"context": [
+{
+"en": "D 2 3 5"
+},
+{
+"en": "D 2 3 6"
+},
+{
+"en": "D 2 3 7"
+},
+{
+"self": true
+},
+{
+"en": "D 2 3 9"
+},
+{
+"en": "D 2 4 0"
+},
+{
+"en": "D 2 4 1"
+}
+]
+},
+{
+"id": 2268,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 2 3 9"
+],
+"choice": null,
+"jp": "Ｄ２３９",
+"context": [
+{
+"en": "D 2 3 6"
+},
+{
+"en": "D 2 3 7"
+},
+{
+"en": "D 2 3 8"
+},
+{
+"self": true
+},
+{
+"en": "D 2 4 0"
+},
+{
+"en": "D 2 4 1"
+},
+{
+"en": "D 2 4 2"
+}
+]
+},
+{
+"id": 2269,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 2 4 0"
+],
+"choice": null,
+"jp": "Ｄ２４０",
+"context": [
+{
+"en": "D 2 3 7"
+},
+{
+"en": "D 2 3 8"
+},
+{
+"en": "D 2 3 9"
+},
+{
+"self": true
+},
+{
+"en": "D 2 4 1"
+},
+{
+"en": "D 2 4 2"
+},
+{
+"en": "D 2 4 3"
+}
+]
+},
+{
+"id": 2270,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 2 4 1"
+],
+"choice": null,
+"jp": "Ｄ２４１",
+"context": [
+{
+"en": "D 2 3 8"
+},
+{
+"en": "D 2 3 9"
+},
+{
+"en": "D 2 4 0"
+},
+{
+"self": true
+},
+{
+"en": "D 2 4 2"
+},
+{
+"en": "D 2 4 3"
+},
+{
+"en": "D 2 4 4"
+}
+]
+},
+{
+"id": 2271,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 2 4 2"
+],
+"choice": null,
+"jp": "Ｄ２４２",
+"context": [
+{
+"en": "D 2 3 9"
+},
+{
+"en": "D 2 4 0"
+},
+{
+"en": "D 2 4 1"
+},
+{
+"self": true
+},
+{
+"en": "D 2 4 3"
+},
+{
+"en": "D 2 4 4"
+},
+{
+"en": "D 2 4 5"
+}
+]
+},
+{
+"id": 2272,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 2 4 3"
+],
+"choice": null,
+"jp": "Ｄ２４３",
+"context": [
+{
+"en": "D 2 4 0"
+},
+{
+"en": "D 2 4 1"
+},
+{
+"en": "D 2 4 2"
+},
+{
+"self": true
+},
+{
+"en": "D 2 4 4"
+},
+{
+"en": "D 2 4 5"
+},
+{
+"en": "D 2 4 6"
+}
+]
+},
+{
+"id": 2273,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 2 4 4"
+],
+"choice": null,
+"jp": "Ｄ２４４",
+"context": [
+{
+"en": "D 2 4 1"
+},
+{
+"en": "D 2 4 2"
+},
+{
+"en": "D 2 4 3"
+},
+{
+"self": true
+},
+{
+"en": "D 2 4 5"
+},
+{
+"en": "D 2 4 6"
+},
+{
+"en": "D 2 4 7"
+}
+]
+},
+{
+"id": 2274,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 2 4 5"
+],
+"choice": null,
+"jp": "Ｄ２４５",
+"context": [
+{
+"en": "D 2 4 2"
+},
+{
+"en": "D 2 4 3"
+},
+{
+"en": "D 2 4 4"
+},
+{
+"self": true
+},
+{
+"en": "D 2 4 6"
+},
+{
+"en": "D 2 4 7"
+},
+{
+"en": "D 2 4 8"
+}
+]
+},
+{
+"id": 2275,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 2 4 6"
+],
+"choice": null,
+"jp": "Ｄ２４６",
+"context": [
+{
+"en": "D 2 4 3"
+},
+{
+"en": "D 2 4 4"
+},
+{
+"en": "D 2 4 5"
+},
+{
+"self": true
+},
+{
+"en": "D 2 4 7"
+},
+{
+"en": "D 2 4 8"
+},
+{
+"en": "D 2 4 9"
+}
+]
+},
+{
+"id": 2276,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 2 4 7"
+],
+"choice": null,
+"jp": "Ｄ２４７",
+"context": [
+{
+"en": "D 2 4 4"
+},
+{
+"en": "D 2 4 5"
+},
+{
+"en": "D 2 4 6"
+},
+{
+"self": true
+},
+{
+"en": "D 2 4 8"
+},
+{
+"en": "D 2 4 9"
+},
+{
+"en": "D 2 5 0"
+}
+]
+},
+{
+"id": 2277,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 2 4 8"
+],
+"choice": null,
+"jp": "Ｄ２４８",
+"context": [
+{
+"en": "D 2 4 5"
+},
+{
+"en": "D 2 4 6"
+},
+{
+"en": "D 2 4 7"
+},
+{
+"self": true
+},
+{
+"en": "D 2 4 9"
+},
+{
+"en": "D 2 5 0"
+},
+{
+"en": "D 2 5 1"
+}
+]
+},
+{
+"id": 2278,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 2 4 9"
+],
+"choice": null,
+"jp": "Ｄ２４９",
+"context": [
+{
+"en": "D 2 4 6"
+},
+{
+"en": "D 2 4 7"
+},
+{
+"en": "D 2 4 8"
+},
+{
+"self": true
+},
+{
+"en": "D 2 5 0"
+},
+{
+"en": "D 2 5 1"
+},
+{
+"en": "D 2 5 2"
+}
+]
+},
+{
+"id": 2279,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 2 5 0"
+],
+"choice": null,
+"jp": "Ｄ２５０",
+"context": [
+{
+"en": "D 2 4 7"
+},
+{
+"en": "D 2 4 8"
+},
+{
+"en": "D 2 4 9"
+},
+{
+"self": true
+},
+{
+"en": "D 2 5 1"
+},
+{
+"en": "D 2 5 2"
+},
+{
+"en": "D 2 5 3"
+}
+]
+},
+{
+"id": 2280,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 2 5 1"
+],
+"choice": null,
+"jp": "Ｄ２５１",
+"context": [
+{
+"en": "D 2 4 8"
+},
+{
+"en": "D 2 4 9"
+},
+{
+"en": "D 2 5 0"
+},
+{
+"self": true
+},
+{
+"en": "D 2 5 2"
+},
+{
+"en": "D 2 5 3"
+},
+{
+"en": "D 2 5 4"
+}
+]
+},
+{
+"id": 2281,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 2 5 2"
+],
+"choice": null,
+"jp": "Ｄ２５２",
+"context": [
+{
+"en": "D 2 4 9"
+},
+{
+"en": "D 2 5 0"
+},
+{
+"en": "D 2 5 1"
+},
+{
+"self": true
+},
+{
+"en": "D 2 5 3"
+},
+{
+"en": "D 2 5 4"
+},
+{
+"en": "D 2 5 5"
+}
+]
+},
+{
+"id": 2282,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 2 5 3"
+],
+"choice": null,
+"jp": "Ｄ２５３",
+"context": [
+{
+"en": "D 2 5 0"
+},
+{
+"en": "D 2 5 1"
+},
+{
+"en": "D 2 5 2"
+},
+{
+"self": true
+},
+{
+"en": "D 2 5 4"
+},
+{
+"en": "D 2 5 5"
+},
+{
+"en": "D 2 5 6"
+}
+]
+},
+{
+"id": 2283,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 2 5 4"
+],
+"choice": null,
+"jp": "Ｄ２５４",
+"context": [
+{
+"en": "D 2 5 1"
+},
+{
+"en": "D 2 5 2"
+},
+{
+"en": "D 2 5 3"
+},
+{
+"self": true
+},
+{
+"en": "D 2 5 5"
+},
+{
+"en": "D 2 5 6"
+},
+{
+"en": "D 2 5 7"
+}
+]
+},
+{
+"id": 2284,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 2 5 5"
+],
+"choice": null,
+"jp": "Ｄ２５５",
+"context": [
+{
+"en": "D 2 5 2"
+},
+{
+"en": "D 2 5 3"
+},
+{
+"en": "D 2 5 4"
+},
+{
+"self": true
+},
+{
+"en": "D 2 5 6"
+},
+{
+"en": "D 2 5 7"
+},
+{
+"en": "Amakusa Shiro Tokisada has returned to the heavens. What drove him to such madness? Will it reveal itself? None can currently say. But to be a samurai takes courage. Spirit means the will to believe in oneself and others. And so another story of the boundless blue sky begins..."
+}
+]
+},
+{
+"id": 2285,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 2 5 6"
+],
+"choice": null,
+"jp": "Ｄ２５６",
+"context": [
+{
+"en": "D 2 5 3"
+},
+{
+"en": "D 2 5 4"
+},
+{
+"en": "D 2 5 5"
+},
+{
+"self": true
+},
+{
+"en": "D 2 5 7"
+},
+{
+"en": "Amakusa Shiro Tokisada has returned to the heavens. What drove him to such madness? Will it reveal itself? None can currently say. But to be a samurai takes courage. Spirit means the will to believe in oneself and others. And so another story of the boundless blue sky begins..."
+}
+]
+},
+{
+"id": 2286,
+"file": "MSGD1300.PRG",
+"pages": [
+"D 2 5 7"
+],
+"choice": null,
+"jp": "Ｄ２５７",
+"context": [
+{
+"en": "D 2 5 4"
+},
+{
+"en": "D 2 5 5"
+},
+{
+"en": "D 2 5 6"
+},
+{
+"self": true
+},
+{
+"en": "Amakusa Shiro Tokisada has returned to the heavens. What drove him to such madness? Will it reveal itself? None can currently say. But to be a samurai takes courage. Spirit means the will to believe in oneself and others. And so another story of the boundless blue sky begins..."
+}
+]
+},
+{
+"id": 2287,
+"file": "MSGD1300.PRG",
+"pages": [
+"Amakusa Shiro Tokisada has returned to the heavens. What drove him to such madness? Will it reveal itself? None can currently say. But to be a samurai takes courage. Spirit means the will to believe in oneself and others. And so another story of the boundless blue sky begins..."
+],
+"choice": null,
+"jp": "",
+"context": [
+{
+"en": "D 2 5 5"
+},
+{
+"en": "D 2 5 6"
+},
+{
+"en": "D 2 5 7"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 2288,
+"file": "MSGD2040.PRG",
+"pages": [
+"Why in the world would you come all the way here...?",
+"Were you worried about me?"
+],
+"choice": null,
+"jp": "どうしたの？こんなところまで追いかけてくるなんてびっくりするじゃない",
+"context": [
+{
+"en": "Shikuruu?"
+},
+{
+"self": true
+},
+{
+"en": "I can't bring both of you with me, I'm afraid. / I need one of you to watch over Kamuy Kotan."
+},
+{
+"en": "I'm sorry, Shikuruu... I need you to watch the village, okay?"
+},
+{
+"en": "All right, come on, Shikuruu! I'm sorry, Mamahaha... / Please watch over the village for me!"
+}
+]
+},
+{
+"id": 2289,
+"file": "MSGD2040.PRG",
+"pages": [
+"If I bring both of you along, who'll watch over the village?"
+],
+"choice": {
+"kind": "yn",
+"options": [
+"Bring Mamahaha",
+"Bring Shikuruu"
+],
+"max_len": 12
+},
+"jp": "ママハハもシクルゥもいないのならカムイコタンを守れないわママハハを連れていくシクルゥを連れていく",
+"context": [
+{
+"en": "All right, come on, Shikuruu! I'm sorry, Mamahaha... / Please watch over the village for me!"
+},
+{
+"en": "Mamahaha!"
+},
+{
+"en": "Were you worried about me? Thank you..."
+},
+{
+"self": true
+},
+{
+"en": "I'm sorry, Mamahaha... I need you to watch the village, okay?"
+},
+{
+"en": "All right, come on, Mamahaha! I'm sorry, Shikuruu... / Please watch over the village for me!"
+},
+{
+"en": "This shrine here honors a time, long ago, when a fearful and mighty demon was sealed away here on Osorezan. It was built in the memory of she who performed the exorcism, and those who followed her..."
+}
+]
+},
+{
+"id": 2290,
+"file": "MSGD2040.PRG",
+"pages": [
+"This shrine here honors a time, long ago, when a fearful and mighty demon was sealed away here on Osorezan. It was built in the memory of she who performed the exorcism, and those who followed her..."
+],
+"choice": null,
+"jp": "このほこらは・・・昔　この恐山にそれは恐ろしい狂魔王が復活しようとしたときにそれを封印してくださった偉い行者様の従者様がのちになって建ててくださったものなんじゃ・・・・・・",
+"context": [
+{
+"en": "If I bring both of you along, who'll watch over the village?"
+},
+{
+"en": "I'm sorry, Mamahaha... I need you to watch the village, okay?"
+},
+{
+"en": "All right, come on, Mamahaha! I'm sorry, Shikuruu... / Please watch over the village for me!"
+},
+{
+"self": true
+},
+{
+"en": "A powerful sense of evil is rising from deep in the Earth. I think Osorezan is about to blow..."
+},
+{
+"en": "GP per night. Would you like to stay?"
+},
+{
+"en": "Sleep well, then..."
+}
+]
+},
+{
+"id": 2291,
+"file": "MSGD2040.PRG",
+"pages": [
+"A powerful sense of evil is rising from deep in the Earth. I think Osorezan is about to blow..."
+],
+"choice": null,
+"jp": "とてつもない邪悪な気が地の底より吹き上がりこの恐山に満ちておる・・・",
+"context": [
+{
+"en": "I'm sorry, Mamahaha... I need you to watch the village, okay?"
+},
+{
+"en": "All right, come on, Mamahaha! I'm sorry, Shikuruu... / Please watch over the village for me!"
+},
+{
+"en": "This shrine here honors a time, long ago, when a fearful and mighty demon was sealed away here on Osorezan. It was built in the memory of she who performed the exorcism, and those who followed her..."
+},
+{
+"self": true
+},
+{
+"en": "GP per night. Would you like to stay?"
+},
+{
+"en": "Sleep well, then..."
+},
+{
+"en": "You don't have enough money..."
+}
+]
+},
+{
+"id": 2292,
+"file": "MSGD2040.PRG",
+"pages": [
+"How would you like to buy a Seer Gem? Only 100GP each..."
+],
+"choice": {
+"kind": "yn",
+"options": [
+"Yes",
+"No"
+],
+"max_len": 12
+},
+"jp": "どうだい　この由緒ある〓玉を買わんか？金１００でええぞ買う買わない",
+"context": [
+{
+"en": "GP per night. Would you like to stay?"
+},
+{
+"en": "Sleep well, then..."
+},
+{
+"en": "You don't have enough money..."
+},
+{
+"self": true
+},
+{
+"en": "Excellent!"
+},
+{
+"en": "Oh... well, that's too bad..."
+},
+{
+"en": "You shouldn't try to buy things you know you can't afford..."
+}
+]
+},
+{
+"id": 2293,
+"file": "MSGD2040.PRG",
+"pages": [
+"Excellent!"
+],
+"choice": null,
+"jp": "おまえさん　お目が高いの！",
+"context": [
+{
+"en": "Sleep well, then..."
+},
+{
+"en": "You don't have enough money..."
+},
+{
+"en": "How would you like to buy a Seer Gem? Only 100GP each..."
+},
+{
+"self": true
+},
+{
+"en": "Oh... well, that's too bad..."
+},
+{
+"en": "You shouldn't try to buy things you know you can't afford..."
+},
+{
+"en": "Oh, dear... you can't carry any more."
+}
+]
+},
+{
+"id": 2294,
+"file": "MSGD2040.PRG",
+"pages": [
+"Oh... well, that's too bad..."
+],
+"choice": null,
+"jp": "なんだ　残念じゃの・・・",
+"context": [
+{
+"en": "You don't have enough money..."
+},
+{
+"en": "How would you like to buy a Seer Gem? Only 100GP each..."
+},
+{
+"en": "Excellent!"
+},
+{
+"self": true
+},
+{
+"en": "You shouldn't try to buy things you know you can't afford..."
+},
+{
+"en": "Oh, dear... you can't carry any more."
+},
+{
+"en": "Keeee!"
+}
+]
+},
+{
+"id": 2295,
+"file": "MSGD2040.PRG",
+"pages": [
+"Grrrr..."
+],
+"choice": null,
+"jp": "クゥ～ン",
+"context": [
+{
+"en": "You shouldn't try to buy things you know you can't afford..."
+},
+{
+"en": "Oh, dear... you can't carry any more."
+},
+{
+"en": "Keeee!"
+},
+{
+"self": true
+},
+{
+"en": "The wheel of fate turns ever onward... Where destiny leads, those who can must follow..."
+},
+{
+"en": "I see... well, come again sometime..."
+},
+{
+"en": "Thank you very much..."
+}
+]
+},
+{
+"id": 2296,
+"file": "MSGD2040.PRG",
+"pages": [
+"The wheel of fate turns ever onward... Where destiny leads, those who can must follow..."
+],
+"choice": null,
+"jp": "因果は巡るものじゃ・・・流れ　導かれ〓ることのできるものじゃ・・・",
+"context": [
+{
+"en": "Oh, dear... you can't carry any more."
+},
+{
+"en": "Keeee!"
+},
+{
+"en": "Grrrr..."
+},
+{
+"self": true
+},
+{
+"en": "I see... well, come again sometime..."
+},
+{
+"en": "Thank you very much..."
+},
+{
+"en": "This is Osorezan. Keep away from the mountain's summit!"
+}
+]
+},
+{
+"id": 2297,
+"file": "MSGD2040.PRG",
+"pages": [
+"I see... well, come again sometime..."
+],
+"choice": null,
+"jp": "そうかいまたくるがいい・・・",
+"context": [
+{
+"en": "Keeee!"
+},
+{
+"en": "Grrrr..."
+},
+{
+"en": "The wheel of fate turns ever onward... Where destiny leads, those who can must follow..."
+},
+{
+"self": true
+},
+{
+"en": "Thank you very much..."
+},
+{
+"en": "This is Osorezan. Keep away from the mountain's summit!"
+},
+{
+"en": "D 2 7"
+}
+]
+},
+{
+"id": 2298,
+"file": "MSGD2040.PRG",
+"pages": [
+"This is Osorezan. Keep away from the mountain's summit!"
+],
+"choice": null,
+"jp": "ここは　恐山山頂には　近づくべからずと　書いてある",
+"context": [
+{
+"en": "The wheel of fate turns ever onward... Where destiny leads, those who can must follow..."
+},
+{
+"en": "I see... well, come again sometime..."
+},
+{
+"en": "Thank you very much..."
+},
+{
+"self": true
+},
+{
+"en": "D 2 7"
+},
+{
+"en": "D 2 8"
+},
+{
+"en": "So now even Hell itself knows the fury of my dancing!"
+}
+]
+},
+{
+"id": 2299,
+"file": "MSGD2040.PRG",
+"pages": [
+"So now even Hell itself knows the fury of my dancing!"
+],
+"choice": null,
+"jp": "我が舞　魔界にも通じたか・・・",
+"context": [
+{
+"en": "This is Osorezan. Keep away from the mountain's summit!"
+},
+{
+"en": "D 2 7"
+},
+{
+"en": "D 2 8"
+},
+{
+"self": true
+},
+{
+"en": "It wasn't easy... but I did my best!"
+},
+{
+"en": "With the leader of the demons defeated... I can return home."
+},
+{
+"en": "The leader of the demons has been killed... / And yet, my journey is not yet over..."
+}
+]
+},
+{
+"id": 2300,
+"file": "MSGD2040.PRG",
+"pages": [
+"It wasn't easy... but I did my best!"
+],
+"choice": null,
+"jp": "つらかったけど・・・私・・・頑張ったよね！",
+"context": [
+{
+"en": "D 2 7"
+},
+{
+"en": "D 2 8"
+},
+{
+"en": "So now even Hell itself knows the fury of my dancing!"
+},
+{
+"self": true
+},
+{
+"en": "With the leader of the demons defeated... I can return home."
+},
+{
+"en": "The leader of the demons has been killed... / And yet, my journey is not yet over..."
+},
+{
+"en": "Justice wins again! Mission complete!"
+}
+]
+},
+{
+"id": 2301,
+"file": "MSGD2040.PRG",
+"pages": [
+"With the leader of the demons defeated... I can return home."
+],
+"choice": null,
+"jp": "元凶　確かに斬った・・・これで祖国に帰れる・・・",
+"context": [
+{
+"en": "D 2 8"
+},
+{
+"en": "So now even Hell itself knows the fury of my dancing!"
+},
+{
+"en": "It wasn't easy... but I did my best!"
+},
+{
+"self": true
+},
+{
+"en": "The leader of the demons has been killed... / And yet, my journey is not yet over..."
+},
+{
+"en": "Justice wins again! Mission complete!"
+},
+{
+"en": "Wow... Mother Nature is so delighted! / Can't you feel it...?"
+}
+]
+},
+{
+"id": 2302,
+"file": "MSGD2040.PRG",
+"pages": [
+"The leader of the demons has been killed...",
+"And yet, my journey is not yet over..."
+],
+"choice": null,
+"jp": "元凶は斬った・・・だが私の旅は終わらない",
+"context": [
+{
+"en": "So now even Hell itself knows the fury of my dancing!"
+},
+{
+"en": "It wasn't easy... but I did my best!"
+},
+{
+"en": "With the leader of the demons defeated... I can return home."
+},
+{
+"self": true
+},
+{
+"en": "Justice wins again! Mission complete!"
+},
+{
+"en": "Wow... Mother Nature is so delighted! / Can't you feel it...?"
+},
+{
+"en": "Awesome! We did it! Now I can go home and play for weeks!"
+}
+]
+},
+{
+"id": 2303,
+"file": "MSGD2040.PRG",
+"pages": [
+"Justice wins again! Mission complete!"
+],
+"choice": null,
+"jp": "正義は必ず勝つ！任務完了！",
+"context": [
+{
+"en": "It wasn't easy... but I did my best!"
+},
+{
+"en": "With the leader of the demons defeated... I can return home."
+},
+{
+"en": "The leader of the demons has been killed... / And yet, my journey is not yet over..."
+},
+{
+"self": true
+},
+{
+"en": "Wow... Mother Nature is so delighted! / Can't you feel it...?"
+},
+{
+"en": "Awesome! We did it! Now I can go home and play for weeks!"
+},
+{
+"en": "That was some fine training, no doubt... / I'd be lying if I said I wasn't tired, though..."
+}
+]
+},
+{
+"id": 2304,
+"file": "MSGD2040.PRG",
+"pages": [
+"Wow... Mother Nature is so delighted!",
+"Can't you feel it...?"
+],
+"choice": null,
+"jp": "うわぁ大自然がこんなに喜んでいます！感じませんか？",
+"context": [
+{
+"en": "With the leader of the demons defeated... I can return home."
+},
+{
+"en": "The leader of the demons has been killed... / And yet, my journey is not yet over..."
+},
+{
+"en": "Justice wins again! Mission complete!"
+},
+{
+"self": true
+},
+{
+"en": "Awesome! We did it! Now I can go home and play for weeks!"
+},
+{
+"en": "That was some fine training, no doubt... / I'd be lying if I said I wasn't tired, though..."
+},
+{
+"en": "D 3 7"
+}
+]
+},
+{
+"id": 2305,
+"file": "MSGD2040.PRG",
+"pages": [
+"Awesome! We did it! Now I can go home and play for weeks!"
+],
+"choice": null,
+"jp": "すごいゾ！　やッつけたゾ！村に帰ッて　いっはい遊ぶゾ！",
+"context": [
+{
+"en": "The leader of the demons has been killed... / And yet, my journey is not yet over..."
+},
+{
+"en": "Justice wins again! Mission complete!"
+},
+{
+"en": "Wow... Mother Nature is so delighted! / Can't you feel it...?"
+},
+{
+"self": true
+},
+{
+"en": "That was some fine training, no doubt... / I'd be lying if I said I wasn't tired, though..."
+},
+{
+"en": "D 3 7"
+},
+{
+"en": "All right! Nice going, guys!"
+}
+]
+},
+{
+"id": 2306,
+"file": "MSGD2040.PRG",
+"pages": [
+"That was some fine training, no doubt...",
+"I'd be lying if I said I wasn't tired, though..."
+],
+"choice": null,
+"jp": "いい修行になった・・・しかしちっと　疲れたぜ・・・",
+"context": [
+{
+"en": "Justice wins again! Mission complete!"
+},
+{
+"en": "Wow... Mother Nature is so delighted! / Can't you feel it...?"
+},
+{
+"en": "Awesome! We did it! Now I can go home and play for weeks!"
+},
+{
+"self": true
+},
+{
+"en": "D 3 7"
+},
+{
+"en": "All right! Nice going, guys!"
+},
+{
+"en": "It's really over..."
+}
+]
+},
+{
+"id": 2307,
+"file": "MSGD2040.PRG",
+"pages": [
+"All right! Nice going, guys!"
+],
+"choice": null,
+"jp": "ああまったく　よくやってくれたぜ！",
+"context": [
+{
+"en": "Awesome! We did it! Now I can go home and play for weeks!"
+},
+{
+"en": "That was some fine training, no doubt... / I'd be lying if I said I wasn't tired, though..."
+},
+{
+"en": "D 3 7"
+},
+{
+"self": true
+},
+{
+"en": "It's really over..."
+},
+{
+"en": "Looks like... / But what the hell was that thing?"
+},
+{
+"en": "Humanity's fear... despair... death... / And the demons' resentment and hatred... all made flesh."
+}
+]
+},
+{
+"id": 2308,
+"file": "MSGD2040.PRG",
+"pages": [
+"It's really over..."
+],
+"choice": null,
+"jp": "本当に終わったんだな・・・",
+"context": [
+{
+"en": "That was some fine training, no doubt... / I'd be lying if I said I wasn't tired, though..."
+},
+{
+"en": "D 3 7"
+},
+{
+"en": "All right! Nice going, guys!"
+},
+{
+"self": true
+},
+{
+"en": "Looks like... / But what the hell was that thing?"
+},
+{
+"en": "Humanity's fear... despair... death... / And the demons' resentment and hatred... all made flesh."
+},
+{
+"en": "The legendary Dark Lord... Ambrosia. / That may indeed be what you faced..."
+}
+]
+},
+{
+"id": 2309,
+"file": "MSGD2040.PRG",
+"pages": [
+"Looks like...",
+"But what the hell was that thing?"
+],
+"choice": null,
+"jp": "そうとも・・・・・・ありゃ　何だったんだ？",
+"context": [
+{
+"en": "D 3 7"
+},
+{
+"en": "All right! Nice going, guys!"
+},
+{
+"en": "It's really over..."
+},
+{
+"self": true
+},
+{
+"en": "Humanity's fear... despair... death... / And the demons' resentment and hatred... all made flesh."
+},
+{
+"en": "The legendary Dark Lord... Ambrosia. / That may indeed be what you faced..."
+},
+{
+"en": "Master?! Where were you off hiding?"
+}
+]
+},
+{
+"id": 2310,
+"file": "MSGD2040.PRG",
+"pages": [
+"Humanity's fear... despair... death...",
+"And the demons' resentment and hatred... all made flesh."
+],
+"choice": null,
+"jp": "人の恐怖　絶望　死・・・そして魔物たちの憎悪や怨念・・・それらが集まった形・・・",
+"context": [
+{
+"en": "All right! Nice going, guys!"
+},
+{
+"en": "It's really over..."
+},
+{
+"en": "Looks like... / But what the hell was that thing?"
+},
+{
+"self": true
+},
+{
+"en": "The legendary Dark Lord... Ambrosia. / That may indeed be what you faced..."
+},
+{
+"en": "Master?! Where were you off hiding?"
+},
+{
+"en": "Do you think so poorly of me that you don't think I worry? / Was that not excellent training...?"
+}
+]
+},
+{
+"id": 2311,
+"file": "MSGD2040.PRG",
+"pages": [
+"The legendary Dark Lord... Ambrosia.",
+"That may indeed be what you faced..."
+],
+"choice": null,
+"jp": "伝説の狂魔王・・・アンプロジアかもしれんなおぬしらが戦った相手は・・・",
+"context": [
+{
+"en": "It's really over..."
+},
+{
+"en": "Looks like... / But what the hell was that thing?"
+},
+{
+"en": "Humanity's fear... despair... death... / And the demons' resentment and hatred... all made flesh."
+},
+{
+"self": true
+},
+{
+"en": "Master?! Where were you off hiding?"
+},
+{
+"en": "Do you think so poorly of me that you don't think I worry? / Was that not excellent training...?"
+},
+{
+"en": "Yeah, well... maybe."
+}
+]
+},
+{
+"id": 2312,
+"file": "MSGD2040.PRG",
+"pages": [
+"Master?! Where were you off hiding?"
+],
+"choice": null,
+"jp": "どこに隠れていた！　師匠！",
+"context": [
+{
+"en": "Looks like... / But what the hell was that thing?"
+},
+{
+"en": "Humanity's fear... despair... death... / And the demons' resentment and hatred... all made flesh."
+},
+{
+"en": "The legendary Dark Lord... Ambrosia. / That may indeed be what you faced..."
+},
+{
+"self": true
+},
+{
+"en": "Do you think so poorly of me that you don't think I worry? / Was that not excellent training...?"
+},
+{
+"en": "Yeah, well... maybe."
+},
+{
+"en": "I don't know..."
+}
+]
+},
+{
+"id": 2313,
+"file": "MSGD2040.PRG",
+"pages": [
+"Do you think so poorly of me that you don't think I worry?",
+"Was that not excellent training...?"
+],
+"choice": null,
+"jp": "人聞きの悪い・・・ワシの親心がわからぬか？良い修行になったじゃろうて・・・",
+"context": [
+{
+"en": "Humanity's fear... despair... death... / And the demons' resentment and hatred... all made flesh."
+},
+{
+"en": "The legendary Dark Lord... Ambrosia. / That may indeed be what you faced..."
+},
+{
+"en": "Master?! Where were you off hiding?"
+},
+{
+"self": true
+},
+{
+"en": "Yeah, well... maybe."
+},
+{
+"en": "I don't know..."
+},
+{
+"en": "None of that talk! Now's the time to have fun! / Perhaps... give some thought to finding someone to love!"
+}
+]
+},
+{
+"id": 2314,
+"file": "MSGD2040.PRG",
+"pages": [
+"Yeah, well... maybe."
+],
+"choice": null,
+"jp": "ま　それは・・・それ・・・だ・・・",
+"context": [
+{
+"en": "The legendary Dark Lord... Ambrosia. / That may indeed be what you faced..."
+},
+{
+"en": "Master?! Where were you off hiding?"
+},
+{
+"en": "Do you think so poorly of me that you don't think I worry? / Was that not excellent training...?"
+},
+{
+"self": true
+},
+{
+"en": "I don't know..."
+},
+{
+"en": "None of that talk! Now's the time to have fun! / Perhaps... give some thought to finding someone to love!"
+},
+{
+"en": "..."
+}
+]
+},
+{
+"id": 2315,
+"file": "MSGD2040.PRG",
+"pages": [
+"I don't know..."
+],
+"choice": null,
+"jp": "さあな・・・",
+"context": [
+{
+"en": "Master?! Where were you off hiding?"
+},
+{
+"en": "Do you think so poorly of me that you don't think I worry? / Was that not excellent training...?"
+},
+{
+"en": "Yeah, well... maybe."
+},
+{
+"self": true
+},
+{
+"en": "None of that talk! Now's the time to have fun! / Perhaps... give some thought to finding someone to love!"
+},
+{
+"en": "..."
+},
+{
+"en": "Don't let him get to you, Reon. Or else you've already lost."
+}
+]
+},
+{
+"id": 2316,
+"file": "MSGD2040.PRG",
+"pages": [
+"None of that talk! Now's the time to have fun!",
+"Perhaps... give some thought to finding someone to love!"
+],
+"choice": null,
+"jp": "それはイカンな！　ちっとは遊べ！特におぬし・・・おなごであるなら恋をしろ　恋を！",
+"context": [
+{
+"en": "Do you think so poorly of me that you don't think I worry? / Was that not excellent training...?"
+},
+{
+"en": "Yeah, well... maybe."
+},
+{
+"en": "I don't know..."
+},
+{
+"self": true
+},
+{
+"en": "..."
+},
+{
+"en": "Don't let him get to you, Reon. Or else you've already lost."
+},
+{
+"en": "?"
+}
+]
+},
+{
+"id": 2317,
+"file": "MSGD2040.PRG",
+"pages": [
+"Don't let him get to you, Reon. Or else you've already lost."
+],
+"choice": null,
+"jp": "気にするな・・・鈴音・・・気にすると・・・負けだ・・・",
+"context": [
+{
+"en": "I don't know..."
+},
+{
+"en": "None of that talk! Now's the time to have fun! / Perhaps... give some thought to finding someone to love!"
+},
+{
+"en": "..."
+},
+{
+"self": true
+},
+{
+"en": "?"
+},
+{
+"en": "Hohohoho! You've learned much, Haohmaru!"
+},
+{
+"en": "You know it!"
+}
+]
+},
+{
+"id": 2318,
+"file": "MSGD2040.PRG",
+"pages": [
+"?"
+],
+"choice": null,
+"jp": "？",
+"context": [
+{
+"en": "None of that talk! Now's the time to have fun! / Perhaps... give some thought to finding someone to love!"
+},
+{
+"en": "..."
+},
+{
+"en": "Don't let him get to you, Reon. Or else you've already lost."
+},
+{
+"self": true
+},
+{
+"en": "Hohohoho! You've learned much, Haohmaru!"
+},
+{
+"en": "You know it!"
+},
+{
+"en": "Thanks, everyone! I owe all of you!"
+}
+]
+},
+{
+"id": 2319,
+"file": "MSGD2040.PRG",
+"pages": [
+"Hohohoho! You've learned much, Haohmaru!"
+],
+"choice": null,
+"jp": "ふぉふぉふぉふぉ！極めたな・・・覇王丸！",
+"context": [
+{
+"en": "..."
+},
+{
+"en": "Don't let him get to you, Reon. Or else you've already lost."
+},
+{
+"en": "?"
+},
+{
+"self": true
+},
+{
+"en": "You know it!"
+},
+{
+"en": "Thanks, everyone! I owe all of you!"
+},
+{
+"en": "D 5 4"
+}
+]
+},
+{
+"id": 2320,
+"file": "MSGD2040.PRG",
+"pages": [
+"You know it!"
+],
+"choice": null,
+"jp": "おう！！",
+"context": [
+{
+"en": "Don't let him get to you, Reon. Or else you've already lost."
+},
+{
+"en": "?"
+},
+{
+"en": "Hohohoho! You've learned much, Haohmaru!"
+},
+{
+"self": true
+},
+{
+"en": "Thanks, everyone! I owe all of you!"
+},
+{
+"en": "D 5 4"
+},
+{
+"en": "It's really over..."
+}
+]
+},
+{
+"id": 2321,
+"file": "MSGD2040.PRG",
+"pages": [
+"Thanks, everyone! I owe all of you!"
+],
+"choice": null,
+"jp": "みんな本当にありがとう！",
+"context": [
+{
+"en": "?"
+},
+{
+"en": "Hohohoho! You've learned much, Haohmaru!"
+},
+{
+"en": "You know it!"
+},
+{
+"self": true
+},
+{
+"en": "D 5 4"
+},
+{
+"en": "It's really over..."
+},
+{
+"en": "Yes..."
+}
+]
+},
+{
+"id": 2322,
+"file": "MSGD2040.PRG",
+"pages": [
+"Master Nicotine! Are you all right?"
+],
+"choice": null,
+"jp": "ご無事でしたか！　和狆様！",
+"context": [
+{
+"en": "Yes..."
+},
+{
+"en": "Humanity's fear... despair... death... / And the demons' resentment and hatred... all made flesh."
+},
+{
+"en": "The legendary Dark Lord... Ambrosia. / That may indeed be what you faced..."
+},
+{
+"self": true
+},
+{
+"en": "Well, I won't be killed quite that easily... hohohoho! / Mother Nature protected me, you know."
+},
+{
+"en": "Thank goodness...! I'm so glad!"
+},
+{
+"en": "All my life, I've only lived to defeat Mizuki... / Without that... I feel empty."
+}
+]
+},
+{
+"id": 2323,
+"file": "MSGD2040.PRG",
+"pages": [
+"Well, I won't be killed quite that easily... hohohoho!",
+"Mother Nature protected me, you know."
+],
+"choice": null,
+"jp": "簡単には死なんよ・・・ふぉふぉふぉふぉ大自然が守ってくれたよ",
+"context": [
+{
+"en": "Humanity's fear... despair... death... / And the demons' resentment and hatred... all made flesh."
+},
+{
+"en": "The legendary Dark Lord... Ambrosia. / That may indeed be what you faced..."
+},
+{
+"en": "Master Nicotine! Are you all right?"
+},
+{
+"self": true
+},
+{
+"en": "Thank goodness...! I'm so glad!"
+},
+{
+"en": "All my life, I've only lived to defeat Mizuki... / Without that... I feel empty."
+},
+{
+"en": "None of that talk! Now's the time to have fun! / Perhaps... give some thought to finding someone to love!"
+}
+]
+},
+{
+"id": 2324,
+"file": "MSGD2040.PRG",
+"pages": [
+"Thank goodness...! I'm so glad!"
+],
+"choice": null,
+"jp": "良かった・・・本当に　良かった！",
+"context": [
+{
+"en": "The legendary Dark Lord... Ambrosia. / That may indeed be what you faced..."
+},
+{
+"en": "Master Nicotine! Are you all right?"
+},
+{
+"en": "Well, I won't be killed quite that easily... hohohoho! / Mother Nature protected me, you know."
+},
+{
+"self": true
+},
+{
+"en": "All my life, I've only lived to defeat Mizuki... / Without that... I feel empty."
+},
+{
+"en": "None of that talk! Now's the time to have fun! / Perhaps... give some thought to finding someone to love!"
+},
+{
+"en": "..."
+}
+]
+},
+{
+"id": 2325,
+"file": "MSGD2040.PRG",
+"pages": [
+"All my life, I've only lived to defeat Mizuki...",
+"Without that... I feel empty."
+],
+"choice": null,
+"jp": "さあな・・・俺にはミツキと戦うための修行しか無かったからな・・・今は真っ白さ",
+"context": [
+{
+"en": "Master Nicotine! Are you all right?"
+},
+{
+"en": "Well, I won't be killed quite that easily... hohohoho! / Mother Nature protected me, you know."
+},
+{
+"en": "Thank goodness...! I'm so glad!"
+},
+{
+"self": true
+},
+{
+"en": "None of that talk! Now's the time to have fun! / Perhaps... give some thought to finding someone to love!"
+},
+{
+"en": "..."
+},
+{
+"en": "Master Nicotine! Please, watch what you say! / You're upsetting her!"
+}
+]
+},
+{
+"id": 2326,
+"file": "MSGD2040.PRG",
+"pages": [
+"Master Nicotine! Please, watch what you say!",
+"You're upsetting her!"
+],
+"choice": null,
+"jp": "和狆様！言葉に気をつけてください鈴音が困ってます！",
+"context": [
+{
+"en": "All my life, I've only lived to defeat Mizuki... / Without that... I feel empty."
+},
+{
+"en": "None of that talk! Now's the time to have fun! / Perhaps... give some thought to finding someone to love!"
+},
+{
+"en": "..."
+},
+{
+"self": true
+},
+{
+"en": "Oh, my! A thousand pardons, my dear!"
+},
+{
+"en": "Reon..."
+},
+{
+"en": "Yeah..."
+}
+]
+},
+{
+"id": 2327,
+"file": "MSGD2040.PRG",
+"pages": [
+"Oh, my! A thousand pardons, my dear!"
+],
+"choice": null,
+"jp": "これはしたり！すまんすまん！",
+"context": [
+{
+"en": "None of that talk! Now's the time to have fun! / Perhaps... give some thought to finding someone to love!"
+},
+{
+"en": "..."
+},
+{
+"en": "Master Nicotine! Please, watch what you say! / You're upsetting her!"
+},
+{
+"self": true
+},
+{
+"en": "Reon..."
+},
+{
+"en": "Yeah..."
+},
+{
+"en": "Hohohoho!"
+}
+]
+},
+{
+"id": 2328,
+"file": "MSGD2040.PRG",
+"pages": [
+"Reon..."
+],
+"choice": null,
+"jp": "鈴音・・・",
+"context": [
+{
+"en": "..."
+},
+{
+"en": "Master Nicotine! Please, watch what you say! / You're upsetting her!"
+},
+{
+"en": "Oh, my! A thousand pardons, my dear!"
+},
+{
+"self": true
+},
+{
+"en": "Yeah..."
+},
+{
+"en": "Hohohoho!"
+},
+{
+"en": "Okay!"
+}
+]
+},
+{
+"id": 2329,
+"file": "MSGD2040.PRG",
+"pages": [
+"Yeah..."
+],
+"choice": null,
+"jp": "ああ",
+"context": [
+{
+"en": "Master Nicotine! Please, watch what you say! / You're upsetting her!"
+},
+{
+"en": "Oh, my! A thousand pardons, my dear!"
+},
+{
+"en": "Reon..."
+},
+{
+"self": true
+},
+{
+"en": "Hohohoho!"
+},
+{
+"en": "Okay!"
+},
+{
+"en": "Nice work, you two! Thanks for your support!"
+}
+]
+},
+{
+"id": 2330,
+"file": "MSGD2040.PRG",
+"pages": [
+"Hohohoho!"
+],
+"choice": null,
+"jp": "ふぉふぉふぉふぉ！",
+"context": [
+{
+"en": "Oh, my! A thousand pardons, my dear!"
+},
+{
+"en": "Reon..."
+},
+{
+"en": "Yeah..."
+},
+{
+"self": true
+},
+{
+"en": "Okay!"
+},
+{
+"en": "Nice work, you two! Thanks for your support!"
+},
+{
+"en": "D 7 2"
+}
+]
+},
+{
+"id": 2331,
+"file": "MSGD2040.PRG",
+"pages": [
+"Okay!"
+],
+"choice": null,
+"jp": "はい！",
+"context": [
+{
+"en": "Reon..."
+},
+{
+"en": "Yeah..."
+},
+{
+"en": "Hohohoho!"
+},
+{
+"self": true
+},
+{
+"en": "Nice work, you two! Thanks for your support!"
+},
+{
+"en": "D 7 2"
+},
+{
+"en": "It's really over..."
+}
+]
+},
+{
+"id": 2332,
+"file": "MSGD2040.PRG",
+"pages": [
+"Nice work, you two! Thanks for your support!"
+],
+"choice": null,
+"jp": "グッドサポート　本当にサンキュウベリマッチ！！",
+"context": [
+{
+"en": "Yeah..."
+},
+{
+"en": "Hohohoho!"
+},
+{
+"en": "Okay!"
+},
+{
+"self": true
+},
+{
+"en": "D 7 2"
+},
+{
+"en": "It's really over..."
+},
+{
+"en": "Yeah..."
+}
+]
+},
+{
+"id": 2333,
+"file": "MSGD2040.PRG",
+"pages": [
+"Master Nicotine? Are you all right?!"
+],
+"choice": null,
+"jp": "ご無事でしたか！　和狆殿！",
+"context": [
+{
+"en": "Yeah..."
+},
+{
+"en": "Humanity's fear... despair... death... / And the demons' resentment and hatred... all made flesh."
+},
+{
+"en": "The legendary Dark Lord... Ambrosia. / That may indeed be what you faced..."
+},
+{
+"self": true
+},
+{
+"en": "Well, I certainly won't be taken out that easily... hohohoho!"
+},
+{
+"en": "Well, thank goodness!"
+},
+{
+"en": "All my life, I've only lived to defeat Mizuki... / Without that... I feel empty."
+}
+]
+},
+{
+"id": 2334,
+"file": "MSGD2040.PRG",
+"pages": [
+"Well, I certainly won't be taken out that easily... hohohoho!"
+],
+"choice": null,
+"jp": "簡単には死ねんよ・・・ふぉふぉふぉふぉ",
+"context": [
+{
+"en": "Humanity's fear... despair... death... / And the demons' resentment and hatred... all made flesh."
+},
+{
+"en": "The legendary Dark Lord... Ambrosia. / That may indeed be what you faced..."
+},
+{
+"en": "Master Nicotine? Are you all right?!"
+},
+{
+"self": true
+},
+{
+"en": "Well, thank goodness!"
+},
+{
+"en": "All my life, I've only lived to defeat Mizuki... / Without that... I feel empty."
+},
+{
+"en": "None of that talk! Now's the time to have fun! / Perhaps... give some thought to finding someone to love!"
+}
+]
+},
+{
+"id": 2335,
+"file": "MSGD2040.PRG",
+"pages": [
+"Well, thank goodness!"
+],
+"choice": null,
+"jp": "それは良かった！",
+"context": [
+{
+"en": "The legendary Dark Lord... Ambrosia. / That may indeed be what you faced..."
+},
+{
+"en": "Master Nicotine? Are you all right?!"
+},
+{
+"en": "Well, I certainly won't be taken out that easily... hohohoho!"
+},
+{
+"self": true
+},
+{
+"en": "All my life, I've only lived to defeat Mizuki... / Without that... I feel empty."
+},
+{
+"en": "None of that talk! Now's the time to have fun! / Perhaps... give some thought to finding someone to love!"
+},
+{
+"en": "..."
+}
+]
+},
+{
+"id": 2336,
+"file": "MSGD2040.PRG",
+"pages": [
+"No, no, no! Reon's a samurai, fighting for justice!",
+"No man would be worthy of her, Master Nicotine!",
+"You shouldn't make bad jokes!"
+],
+"choice": null,
+"jp": "ノーノーノーノー！鈴音は正義のサムライだ！立派な男に向かって失礼ですよ！　和狆殿バッドジョークはＮＯですヨ！",
+"context": [
+{
+"en": "All my life, I've only lived to defeat Mizuki... / Without that... I feel empty."
+},
+{
+"en": "None of that talk! Now's the time to have fun! / Perhaps... give some thought to finding someone to love!"
+},
+{
+"en": "..."
+},
+{
+"self": true
+},
+{
+"en": "Hohohoho! Sorry, sorry..."
+},
+{
+"en": "Okay!"
+},
+{
+"en": "That was awesome, guys! Totally great! / Now I can go back to Greenhell!"
+}
+]
+},
+{
+"id": 2337,
+"file": "MSGD2040.PRG",
+"pages": [
+"Hohohoho! Sorry, sorry..."
+],
+"choice": null,
+"jp": "ふぉふぉふぉふぉ！すまんすまん",
+"context": [
+{
+"en": "None of that talk! Now's the time to have fun! / Perhaps... give some thought to finding someone to love!"
+},
+{
+"en": "..."
+},
+{
+"en": "No, no, no! Reon's a samurai, fighting for justice! / No man would be worthy of her, Master Nicotine! / You shouldn't make bad jokes!"
+},
+{
+"self": true
+},
+{
+"en": "Okay!"
+},
+{
+"en": "That was awesome, guys! Totally great! / Now I can go back to Greenhell!"
+},
+{
+"en": "It's really over..."
+}
+]
+},
+{
+"id": 2338,
+"file": "MSGD2040.PRG",
+"pages": [
+"That was awesome, guys! Totally great!",
+"Now I can go back to Greenhell!"
+],
+"choice": null,
+"jp": "みンなすごいゾ！　すごいゾ！グリーンヘルに帰るゾ！！",
+"context": [
+{
+"en": "No, no, no! Reon's a samurai, fighting for justice! / No man would be worthy of her, Master Nicotine! / You shouldn't make bad jokes!"
+},
+{
+"en": "Hohohoho! Sorry, sorry..."
+},
+{
+"en": "Okay!"
+},
+{
+"self": true
+},
+{
+"en": "It's really over..."
+},
+{
+"en": "So you should look a lot happier than you do, Reon! / Are you listening? And what was that thing, anyway?"
+},
+{
+"en": "Humanity's fear... despair... death... / And the demons' resentment and hatred... all made flesh."
+}
+]
+},
+{
+"id": 2339,
+"file": "MSGD2040.PRG",
+"pages": [
+"So you should look a lot happier than you do, Reon!",
+"Are you listening? And what was that thing, anyway?"
+],
+"choice": null,
+"jp": "だから鈴音ももッと喜べよぉ！そうだ！聞いてもいいか？あれは何だッたンだぁ？",
+"context": [
+{
+"en": "Okay!"
+},
+{
+"en": "That was awesome, guys! Totally great! / Now I can go back to Greenhell!"
+},
+{
+"en": "It's really over..."
+},
+{
+"self": true
+},
+{
+"en": "Humanity's fear... despair... death... / And the demons' resentment and hatred... all made flesh."
+},
+{
+"en": "The legendary Dark Lord... Ambrosia. / That may indeed be what you faced..."
+},
+{
+"en": "Where have you been hiding, Mister Nicotine?"
+}
+]
+},
+{
+"id": 2340,
+"file": "MSGD2040.PRG",
+"pages": [
+"Where have you been hiding, Mister Nicotine?"
+],
+"choice": null,
+"jp": "どこに隠れていた！　じいちゃン！",
+"context": [
+{
+"en": "So you should look a lot happier than you do, Reon! / Are you listening? And what was that thing, anyway?"
+},
+{
+"en": "Humanity's fear... despair... death... / And the demons' resentment and hatred... all made flesh."
+},
+{
+"en": "The legendary Dark Lord... Ambrosia. / That may indeed be what you faced..."
+},
+{
+"self": true
+},
+{
+"en": "Now, I wasn't hiding. / I stayed out of your way, so I could hold back and observe..."
+},
+{
+"en": "Really??"
+},
+{
+"en": "All my life, I've only lived to defeat Mizuki... / Without that... I feel empty."
+}
+]
+},
+{
+"id": 2341,
+"file": "MSGD2040.PRG",
+"pages": [
+"Now, I wasn't hiding.",
+"I stayed out of your way, so I could hold back and observe..."
+],
+"choice": null,
+"jp": "隠れていた訳ではないぞ・・・チャムチャムの邪魔にならないよう離れて見ていたんだぞ・・・",
+"context": [
+{
+"en": "Humanity's fear... despair... death... / And the demons' resentment and hatred... all made flesh."
+},
+{
+"en": "The legendary Dark Lord... Ambrosia. / That may indeed be what you faced..."
+},
+{
+"en": "Where have you been hiding, Mister Nicotine?"
+},
+{
+"self": true
+},
+{
+"en": "Really??"
+},
+{
+"en": "All my life, I've only lived to defeat Mizuki... / Without that... I feel empty."
+},
+{
+"en": "Now, none of that! Now's the time to cut loose! / Especially you... / Every woman deserves a good love affair, full of passion!"
+}
+]
+},
+{
+"id": 2342,
+"file": "MSGD2040.PRG",
+"pages": [
+"Really??"
+],
+"choice": null,
+"jp": "ほンとかぁ？？？？",
+"context": [
+{
+"en": "The legendary Dark Lord... Ambrosia. / That may indeed be what you faced..."
+},
+{
+"en": "Where have you been hiding, Mister Nicotine?"
+},
+{
+"en": "Now, I wasn't hiding. / I stayed out of your way, so I could hold back and observe..."
+},
+{
+"self": true
+},
+{
+"en": "All my life, I've only lived to defeat Mizuki... / Without that... I feel empty."
+},
+{
+"en": "Now, none of that! Now's the time to cut loose! / Especially you... / Every woman deserves a good love affair, full of passion!"
+},
+{
+"en": "..."
+}
+]
+},
+{
+"id": 2343,
+"file": "MSGD2040.PRG",
+"pages": [
+"Now, none of that! Now's the time to cut loose!",
+"Especially you...",
+"Every woman deserves a good love affair, full of passion!"
+],
+"choice": null,
+"jp": "それはイカンな！ちっとは遊べ！特におぬし・・・おなごであるなら恋をしろ　恋を！",
+"context": [
+{
+"en": "Now, I wasn't hiding. / I stayed out of your way, so I could hold back and observe..."
+},
+{
+"en": "Really??"
+},
+{
+"en": "All my life, I've only lived to defeat Mizuki... / Without that... I feel empty."
+},
+{
+"self": true
+},
+{
+"en": "..."
+},
+{
+"en": "Passion? Passion fruit?? Is it yummy?"
+},
+{
+"en": "...?"
+}
+]
+},
+{
+"id": 2344,
+"file": "MSGD2040.PRG",
+"pages": [
+"Passion? Passion fruit?? Is it yummy?"
+],
+"choice": null,
+"jp": "こい？　コイ？？？うまいのか？",
+"context": [
+{
+"en": "All my life, I've only lived to defeat Mizuki... / Without that... I feel empty."
+},
+{
+"en": "Now, none of that! Now's the time to cut loose! / Especially you... / Every woman deserves a good love affair, full of passion!"
+},
+{
+"en": "..."
+},
+{
+"self": true
+},
+{
+"en": "...?"
+},
+{
+"en": "Hohohoho! Well, yes, I suppose so, in a manner of speaking!"
+},
+{
+"en": "Where is it? I wanna try it!"
+}
+]
+},
+{
+"id": 2345,
+"file": "MSGD2040.PRG",
+"pages": [
+"...?"
+],
+"choice": null,
+"jp": "・・・？",
+"context": [
+{
+"en": "Now, none of that! Now's the time to cut loose! / Especially you... / Every woman deserves a good love affair, full of passion!"
+},
+{
+"en": "..."
+},
+{
+"en": "Passion? Passion fruit?? Is it yummy?"
+},
+{
+"self": true
+},
+{
+"en": "Hohohoho! Well, yes, I suppose so, in a manner of speaking!"
+},
+{
+"en": "Where is it? I wanna try it!"
+},
+{
+"en": "It's a secret...!"
+}
+]
+},
+{
+"id": 2346,
+"file": "MSGD2040.PRG",
+"pages": [
+"Hohohoho! Well, yes, I suppose so, in a manner of speaking!"
+],
+"choice": null,
+"jp": "ふぉふぉふぉふぉ！それはそれはうまいものだ！",
+"context": [
+{
+"en": "..."
+},
+{
+"en": "Passion? Passion fruit?? Is it yummy?"
+},
+{
+"en": "...?"
+},
+{
+"self": true
+},
+{
+"en": "Where is it? I wanna try it!"
+},
+{
+"en": "It's a secret...!"
+},
+{
+"en": "... / Okay, then, I'm going to Itsasecret!"
+}
+]
+},
+{
+"id": 2347,
+"file": "MSGD2040.PRG",
+"pages": [
+"Where is it? I wanna try it!"
+],
+"choice": null,
+"jp": "どこに！　どこにいる！ソイツ！",
+"context": [
+{
+"en": "Passion? Passion fruit?? Is it yummy?"
+},
+{
+"en": "...?"
+},
+{
+"en": "Hohohoho! Well, yes, I suppose so, in a manner of speaking!"
+},
+{
+"self": true
+},
+{
+"en": "It's a secret...!"
+},
+{
+"en": "... / Okay, then, I'm going to Itsasecret!"
+},
+{
+"en": "Well, before you do that... let me say, congratulations! / You've saved the world, Cham Cham! / Now, why don't we head home...?"
+}
+]
+},
+{
+"id": 2348,
+"file": "MSGD2040.PRG",
+"pages": [
+"It's a secret...!"
+],
+"choice": null,
+"jp": "内緒じゃ！",
+"context": [
+{
+"en": "...?"
+},
+{
+"en": "Hohohoho! Well, yes, I suppose so, in a manner of speaking!"
+},
+{
+"en": "Where is it? I wanna try it!"
+},
+{
+"self": true
+},
+{
+"en": "... / Okay, then, I'm going to Itsasecret!"
+},
+{
+"en": "Well, before you do that... let me say, congratulations! / You've saved the world, Cham Cham! / Now, why don't we head home...?"
+},
+{
+"en": "Okay!"
+}
+]
+},
+{
+"id": 2349,
+"file": "MSGD2040.PRG",
+"pages": [
+"...",
+"Okay, then, I'm going to Itsasecret!"
+],
+"choice": null,
+"jp": "・・・・・・よし　決めた！ホクはナイショッて国に行くゾ！",
+"context": [
+{
+"en": "Hohohoho! Well, yes, I suppose so, in a manner of speaking!"
+},
+{
+"en": "Where is it? I wanna try it!"
+},
+{
+"en": "It's a secret...!"
+},
+{
+"self": true
+},
+{
+"en": "Well, before you do that... let me say, congratulations! / You've saved the world, Cham Cham! / Now, why don't we head home...?"
+},
+{
+"en": "Okay!"
+},
+{
+"en": "I appreciate all your help in coming so far..."
+}
+]
+},
+{
+"id": 2350,
+"file": "MSGD2040.PRG",
+"pages": [
+"Well, before you do that... let me say, congratulations!",
+"You've saved the world, Cham Cham!",
+"Now, why don't we head home...?"
+],
+"choice": null,
+"jp": "そんなことより・・・よくぞやった！　あっはれじゃ！チャムチャム！これでこの世は救われた・・・さてと戻るとするか・・・",
+"context": [
+{
+"en": "Where is it? I wanna try it!"
+},
+{
+"en": "It's a secret...!"
+},
+{
+"en": "... / Okay, then, I'm going to Itsasecret!"
+},
+{
+"self": true
+},
+{
+"en": "Okay!"
+},
+{
+"en": "I appreciate all your help in coming so far..."
+},
+{
+"en": "It's really over..."
+}
+]
+},
+{
+"id": 2351,
+"file": "MSGD2040.PRG",
+"pages": [
+"I appreciate all your help in coming so far..."
+],
+"choice": null,
+"jp": "よくぞこの私に　ここまでつき合ってくれた・・・",
+"context": [
+{
+"en": "... / Okay, then, I'm going to Itsasecret!"
+},
+{
+"en": "Well, before you do that... let me say, congratulations! / You've saved the world, Cham Cham! / Now, why don't we head home...?"
+},
+{
+"en": "Okay!"
+},
+{
+"self": true
+},
+{
+"en": "It's really over..."
+},
+{
+"en": "So it seems..."
+},
+{
+"en": "Humanity's fear... despair... death... / And the demons' resentment and hatred... all made flesh."
+}
+]
+},
+{
+"id": 2352,
+"file": "MSGD2040.PRG",
+"pages": [
+"So it seems..."
+],
+"choice": null,
+"jp": "そうとも・・・",
+"context": [
+{
+"en": "Okay!"
+},
+{
+"en": "I appreciate all your help in coming so far..."
+},
+{
+"en": "It's really over..."
+},
+{
+"self": true
+},
+{
+"en": "Humanity's fear... despair... death... / And the demons' resentment and hatred... all made flesh."
+},
+{
+"en": "The legendary Dark Lord... Ambrosia. / That may indeed be what you faced..."
+},
+{
+"en": "Sir Nicotine! You're all right!"
+}
+]
+},
+{
+"id": 2353,
+"file": "MSGD2040.PRG",
+"pages": [
+"Sir Nicotine! You're all right!"
+],
+"choice": null,
+"jp": "ご無事でしたか！　和狆殿！",
+"context": [
+{
+"en": "So it seems..."
+},
+{
+"en": "Humanity's fear... despair... death... / And the demons' resentment and hatred... all made flesh."
+},
+{
+"en": "The legendary Dark Lord... Ambrosia. / That may indeed be what you faced..."
+},
+{
+"self": true
+},
+{
+"en": "Well, I certainly won't be taken out that easily... hohohoho!"
+},
+{
+"en": "That is a relief to hear..."
+},
+{
+"en": "All my life, I've only lived to defeat Mizuki... / Without that... I feel empty."
+}
+]
+},
+{
+"id": 2354,
+"file": "MSGD2040.PRG",
+"pages": [
+"That is a relief to hear..."
+],
+"choice": null,
+"jp": "それは何より・・・",
+"context": [
+{
+"en": "The legendary Dark Lord... Ambrosia. / That may indeed be what you faced..."
+},
+{
+"en": "Sir Nicotine! You're all right!"
+},
+{
+"en": "Well, I certainly won't be taken out that easily... hohohoho!"
+},
+{
+"self": true
+},
+{
+"en": "All my life, I've only lived to defeat Mizuki... / Without that... I feel empty."
+},
+{
+"en": "None of that talk! Now's the time to have fun! / Perhaps... give some thought to finding someone to love!"
+},
+{
+"en": ". . ."
+}
+]
+},
+{
+"id": 2355,
+"file": "MSGD2040.PRG",
+"pages": [
+". . ."
+],
+"choice": null,
+"jp": "・・・",
+"context": [
+{
+"en": "That is a relief to hear..."
+},
+{
+"en": "All my life, I've only lived to defeat Mizuki... / Without that... I feel empty."
+},
+{
+"en": "None of that talk! Now's the time to have fun! / Perhaps... give some thought to finding someone to love!"
+},
+{
+"self": true
+},
+{
+"en": "Sir Nicotine!"
+},
+{
+"en": "Hohohoho! Sorry, sorry..."
+},
+{
+"en": "Yes..."
+}
+]
+},
+{
+"id": 2356,
+"file": "MSGD2040.PRG",
+"pages": [
+"Sir Nicotine!"
+],
+"choice": null,
+"jp": "和狆殿！",
+"context": [
+{
+"en": "All my life, I've only lived to defeat Mizuki... / Without that... I feel empty."
+},
+{
+"en": "None of that talk! Now's the time to have fun! / Perhaps... give some thought to finding someone to love!"
+},
+{
+"en": ". . ."
+},
+{
+"self": true
+},
+{
+"en": "Hohohoho! Sorry, sorry..."
+},
+{
+"en": "Yes..."
+},
+{
+"en": "At the journey's end, a dark night everlasting, / yet a rainbow shines. Tachibana Ukyo"
+}
+]
+},
+{
+"id": 2357,
+"file": "MSGD2040.PRG",
+"pages": [
+"At the journey's end, a dark night everlasting,",
+"yet a rainbow shines. Tachibana Ukyo"
+],
+"choice": null,
+"jp": "我ゆくは　妖花に惑いし　魔街道想いつのらす　虹の微笑み　　　　　　　　橘　右京",
+"context": [
+{
+"en": "Sir Nicotine!"
+},
+{
+"en": "Hohohoho! Sorry, sorry..."
+},
+{
+"en": "Yes..."
+},
+{
+"self": true
+},
+{
+"en": "It's really over..."
+},
+{
+"en": "Yeah..."
+},
+{
+"en": "Genjuro... I want to thank you."
+}
+]
+},
+{
+"id": 2358,
+"file": "MSGD2040.PRG",
+"pages": [
+"Genjuro... I want to thank you."
+],
+"choice": null,
+"jp": "幻十郎・・・礼を言う",
+"context": [
+{
+"en": "At the journey's end, a dark night everlasting, / yet a rainbow shines. Tachibana Ukyo"
+},
+{
+"en": "It's really over..."
+},
+{
+"en": "Yeah..."
+},
+{
+"self": true
+},
+{
+"en": "Heh... I'll just bet..."
+},
+{
+"en": "A rainbow..."
+},
+{
+"en": "..."
+}
+]
+},
+{
+"id": 2359,
+"file": "MSGD2040.PRG",
+"pages": [
+"Heh... I'll just bet..."
+],
+"choice": null,
+"jp": "ふん・・・何を言い出す・・・",
+"context": [
+{
+"en": "It's really over..."
+},
+{
+"en": "Yeah..."
+},
+{
+"en": "Genjuro... I want to thank you."
+},
+{
+"self": true
+},
+{
+"en": "A rainbow..."
+},
+{
+"en": "..."
+},
+{
+"en": "Humanity's fear... despair... death... / And the demons' resentment and hatred... all made flesh."
+}
+]
+},
+{
+"id": 2360,
+"file": "MSGD2040.PRG",
+"pages": [
+"A rainbow..."
+],
+"choice": null,
+"jp": "虹かぁ・・・",
+"context": [
+{
+"en": "Yeah..."
+},
+{
+"en": "Genjuro... I want to thank you."
+},
+{
+"en": "Heh... I'll just bet..."
+},
+{
+"self": true
+},
+{
+"en": "..."
+},
+{
+"en": "Humanity's fear... despair... death... / And the demons' resentment and hatred... all made flesh."
+},
+{
+"en": "Does that really matter...?"
+}
+]
+},
+{
+"id": 2361,
+"file": "MSGD2040.PRG",
+"pages": [
+"Does that really matter...?"
+],
+"choice": null,
+"jp": "どうでもよいわ・・・",
+"context": [
+{
+"en": "A rainbow..."
+},
+{
+"en": "..."
+},
+{
+"en": "Humanity's fear... despair... death... / And the demons' resentment and hatred... all made flesh."
+},
+{
+"self": true
+},
+{
+"en": "The legendary Dark Lord... Ambrosia. / That may indeed be what you faced..."
+},
+{
+"en": "Sir Nicotine!"
+},
+{
+"en": "Hmph... so you made it out alive..."
+}
+]
+},
+{
+"id": 2362,
+"file": "MSGD2040.PRG",
+"pages": [
+"Hmph... so you made it out alive..."
+],
+"choice": null,
+"jp": "ふん・・・生きておったか・・・",
+"context": [
+{
+"en": "Does that really matter...?"
+},
+{
+"en": "The legendary Dark Lord... Ambrosia. / That may indeed be what you faced..."
+},
+{
+"en": "Sir Nicotine!"
+},
+{
+"self": true
+},
+{
+"en": "Hohohoho! Well, I certainly won't be taken out so easily."
+},
+{
+"en": "So, Reon... what do you plan to do now?"
+},
+{
+"en": "All my life, I've only lived to defeat Mizuki... / Without that... I feel empty."
+}
+]
+},
+{
+"id": 2363,
+"file": "MSGD2040.PRG",
+"pages": [
+"Hohohoho! Well, I certainly won't be taken out so easily."
+],
+"choice": null,
+"jp": "ふぉふぉふぉふぉ！簡単に死にはせん・・・",
+"context": [
+{
+"en": "The legendary Dark Lord... Ambrosia. / That may indeed be what you faced..."
+},
+{
+"en": "Sir Nicotine!"
+},
+{
+"en": "Hmph... so you made it out alive..."
+},
+{
+"self": true
+},
+{
+"en": "So, Reon... what do you plan to do now?"
+},
+{
+"en": "All my life, I've only lived to defeat Mizuki... / Without that... I feel empty."
+},
+{
+"en": "None of that talk! Now's the time to have fun! / Perhaps... give some thought to finding someone to love!"
+}
+]
+},
+{
+"id": 2364,
+"file": "MSGD2040.PRG",
+"pages": [
+"So, Reon... what do you plan to do now?"
+],
+"choice": null,
+"jp": "これからどうするのじゃ　鈴音？",
+"context": [
+{
+"en": "Sir Nicotine!"
+},
+{
+"en": "Hmph... so you made it out alive..."
+},
+{
+"en": "Hohohoho! Well, I certainly won't be taken out so easily."
+},
+{
+"self": true
+},
+{
+"en": "All my life, I've only lived to defeat Mizuki... / Without that... I feel empty."
+},
+{
+"en": "None of that talk! Now's the time to have fun! / Perhaps... give some thought to finding someone to love!"
+},
+{
+"en": "..."
+}
+]
+},
+{
+"id": 2365,
+"file": "MSGD2040.PRG",
+"pages": [
+"Oh, please..."
+],
+"choice": null,
+"jp": "くだらぬ・・・",
+"context": [
+{
+"en": "All my life, I've only lived to defeat Mizuki... / Without that... I feel empty."
+},
+{
+"en": "None of that talk! Now's the time to have fun! / Perhaps... give some thought to finding someone to love!"
+},
+{
+"en": "..."
+},
+{
+"self": true
+},
+{
+"en": "Hohohoho!"
+},
+{
+"en": "Hmph... whatever."
+},
+{
+"en": "As for me..."
+}
+]
+},
+{
+"id": 2366,
+"file": "MSGD2040.PRG",
+"pages": [
+"Hmph... whatever."
+],
+"choice": null,
+"jp": "ふん　勝手にしろ・・・",
+"context": [
+{
+"en": "..."
+},
+{
+"en": "Oh, please..."
+},
+{
+"en": "Hohohoho!"
+},
+{
+"self": true
+},
+{
+"en": "As for me..."
+},
+{
+"en": "I'm going to hunt down and kill Haohmaru!"
+},
+{
+"en": "Hahahahahahaha!"
+}
+]
+},
+{
+"id": 2367,
+"file": "MSGD2040.PRG",
+"pages": [
+"As for me..."
+],
+"choice": null,
+"jp": "オレは・・・",
+"context": [
+{
+"en": "Oh, please..."
+},
+{
+"en": "Hohohoho!"
+},
+{
+"en": "Hmph... whatever."
+},
+{
+"self": true
+},
+{
+"en": "I'm going to hunt down and kill Haohmaru!"
+},
+{
+"en": "Hahahahahahaha!"
+},
+{
+"en": "Shikuruu?"
+}
+]
+},
+{
+"id": 2368,
+"file": "MSGD2040.PRG",
+"pages": [
+"I'm going to hunt down and kill Haohmaru!"
+],
+"choice": null,
+"jp": "覇王丸でも殺しに行くか！",
+"context": [
+{
+"en": "Hohohoho!"
+},
+{
+"en": "Hmph... whatever."
+},
+{
+"en": "As for me..."
+},
+{
+"self": true
+},
+{
+"en": "Hahahahahahaha!"
+},
+{
+"en": "Shikuruu?"
+},
+{
+"en": "Why in the world would you come all the way here...? / Were you worried about me?"
+}
+]
+},
+{
+"id": 2369,
+"file": "MSGD2040.PRG",
+"pages": [
+"Keeeee!"
+],
+"choice": null,
+"jp": "ピィィィ！",
+"context": [
+{
+"en": "Were you worried about me? Thank you..."
+},
+{
+"en": "I'm sorry, Mamahaha... I need you to watch the village, okay?"
+},
+{
+"en": "All right, come on, Mamahaha! I'm sorry, Shikuruu... / Please watch over the village for me!"
+},
+{
+"self": true
+},
+{
+"en": "Grrrr..."
+},
+{
+"en": "D 1 5 3"
+},
+{
+"en": "So now even Hell itself knows the fury of my dancing!"
+}
+]
+},
+{
+"id": 2370,
+"file": "MSGD2040.PRG",
+"pages": [
+"It wasn't easy... but we did it!"
+],
+"choice": null,
+"jp": "つらかったけど・・・私・・・頑張ったよね！",
+"context": [
+{
+"en": "Grrrr..."
+},
+{
+"en": "D 1 5 3"
+},
+{
+"en": "So now even Hell itself knows the fury of my dancing!"
+},
+{
+"self": true
+},
+{
+"en": "With the leader of the demons defeated, I can return home..."
+},
+{
+"en": "The leader of the demons has been killed... / And yet, my journey is not yet over..."
+},
+{
+"en": "Justice wins again! Mission complete!"
+}
+]
+},
+{
+"id": 2371,
+"file": "MSGD2040.PRG",
+"pages": [
+"With the leader of the demons defeated, I can return home..."
+],
+"choice": null,
+"jp": "元凶　確かに斬った・・・これで祖国に帰れる・・・",
+"context": [
+{
+"en": "D 1 5 3"
+},
+{
+"en": "So now even Hell itself knows the fury of my dancing!"
+},
+{
+"en": "It wasn't easy... but we did it!"
+},
+{
+"self": true
+},
+{
+"en": "The leader of the demons has been killed... / And yet, my journey is not yet over..."
+},
+{
+"en": "Justice wins again! Mission complete!"
+},
+{
+"en": "Wow... Mother Nature is so delighted! / Can't you feel it...?"
+}
+]
+},
+{
+"id": 2372,
+"file": "MSGD2040.PRG",
+"pages": [
+"Yeah, that went pretty well!",
+"Ah! Hey, check out the rainbow."
+],
+"choice": null,
+"jp": "ああまったくよくやってくれたぜ！おお！・・・虹が出てやがる",
+"context": [
+{
+"en": "Awesome! We did it! Now I can go home and play for weeks!"
+},
+{
+"en": "That was some fine training, no doubt... / I'd be lying if I said I wasn't tired, though..."
+},
+{
+"en": "D 1 6 2"
+},
+{
+"self": true
+},
+{
+"en": "It's really over..."
+},
+{
+"en": "Yeah... it's over... / Huh? Reon? What's wrong?"
+},
+{
+"en": "Hey! Are you crying...?"
+}
+]
+}
+]

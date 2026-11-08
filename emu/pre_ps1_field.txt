@@ -1,0 +1,153 @@
+run 1200
+press START 10
+run 400
+press A 10
+run 300
+press A 10
+run 300
+press A 10
+run 300
+press A 10
+run 120
+press A 10
+run 120
+press A 10
+run 120
+press A 10
+run 120
+press A 10
+run 120
+press A 10
+run 120
+press A 10
+run 120
+press A 10
+run 120
+press A 10
+run 120
+press A 10
+run 120
+press A 10
+run 120
+press A 10
+run 120
+press A 10
+run 120
+press A 10
+run 120
+press A 10
+run 120
+press A 10
+run 120
+press A 10
+run 120
+press A 10
+run 120
+press A 10
+run 120
+press A 10
+run 120
+press A 10
+run 120
+press A 10
+run 120
+press A 10
+run 120
+press A 10
+run 120
+press A 10
+run 120
+press A 10
+run 120
+press A 10
+run 120
+press A 10
+run 120
+press A 10
+run 120
+press A 10
+run 120
+press A 10
+run 120
+press A 10
+run 120
+press A 10
+run 120
+press A 10
+run 120
+press A 10
+run 120
+press A 10
+run 120
+press A 10
+run 120
+press A 10
+run 120
+press A 10
+run 120
+press A 10
+run 120
+press A 10
+run 120
+press A 10
+run 120
+press A 10
+run 120
+press A 10
+run 120
+press A 10
+run 120
+press A 10
+run 120
+press A 10
+run 120
+press A 10
+run 120
+press A 10
+run 120
+press A 10
+run 120
+press A 10
+run 120
+press A 10
+run 120
+press A 10
+run 120
+press A 10
+run 120
+press A 10
+run 120
+press A 10
+run 120
+press A 10
+run 120
+press A 10
+run 120
+press A 10
+run 120
+press A 10
+run 120
+press A 10
+run 120
+press A 10
+run 120
+press A 10
+run 120
+press A 10
+run 120
+press A 10
+run 120
+press A 10
+run 120
+press A 10
+run 120
+press A 10
+run 120
+press A 10
+run 120
+press A 10
+run 120
+press X 10
+run 60
+press B 10
+run 40

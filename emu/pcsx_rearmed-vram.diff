@@ -1,0 +1,52 @@
+diff --git a/frontend/libretro.c b/frontend/libretro.c
+index 9dd3502..1d6677f 100644
+--- a/frontend/libretro.c
++++ b/frontend/libretro.c
+@@ -2221,10 +2221,13 @@ unsigned retro_get_region(void)
+    return is_pal_mode ? RETRO_REGION_PAL : RETRO_REGION_NTSC;
+ }
+ 
++void *gpu_vram_ptr(void);
+ void *retro_get_memory_data(unsigned id)
+ {
+    switch (id)
+    {
++   case RETRO_MEMORY_VIDEO_RAM:
++      return gpu_vram_ptr();
+    case RETRO_MEMORY_SYSTEM_RAM:
+       return psxRegs.ptrs.psxM;
+    case RETRO_MEMORY_SAVE_RAM:
+@@ -2238,6 +2241,8 @@ size_t retro_get_memory_size(unsigned id)
+ {
+    switch (id)
+    {
++   case RETRO_MEMORY_VIDEO_RAM:
++      return 1024*512*2;
+    case RETRO_MEMORY_SYSTEM_RAM:
+       return 0x200000;
+    case RETRO_MEMORY_SAVE_RAM:
+@@ -3379,6 +3384,7 @@ static void update_input(void)
+          }
+       }
+ 
++      if (ret && getenv("PADDBG")) fprintf(stderr,"ret port %d type %d ret %x\n",i,type,ret);
+       switch (type)
+       {
+       case PSE_PAD_TYPE_GUNCON:
+@@ -3414,6 +3420,7 @@ static void update_input(void)
+          for (j = 0; j < RETRO_PSX_MAP_LEN; j++)
+             if (ret & (1 << j))
+                in_keystate[i] |= retro_psx_map[j];
++         if (in_keystate[i] && getenv("PADDBG")) fprintf(stderr,"port %d type %d ks %x\n",i,type,in_keystate[i]);
+ 
+          // Query analog inputs
+          if (type == PSE_PAD_TYPE_ANALOGJOY || type == PSE_PAD_TYPE_ANALOGPAD)
+diff --git a/plugins/gpulib/gpu.c b/plugins/gpulib/gpu.c
+index f04e3a5..59c61db 100644
+--- a/plugins/gpulib/gpu.c
++++ b/plugins/gpulib/gpu.c
+@@ -1279,3 +1279,4 @@ void SysPrintf(const char *fmt, ...)
+ #endif
+ 
+ // vim:shiftwidth=2:expandtab
++void *gpu_vram_ptr(void){return gpu.vram;}

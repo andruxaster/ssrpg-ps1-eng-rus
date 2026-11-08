@@ -1,0 +1,1269 @@
+{
+ "0": {
+  "pages": [
+   "Surely not... Sieger!",
+   "You don't mean to set off after Mizuki, do you?!"
+  ]
+ },
+ "1": {
+  "pages": [
+   "Attacking Paris, the impregnable fortress city, from underground...",
+   "That St. Germain has no sense of decency at all!"
+  ]
+ },
+ "2": {
+  "pages": [
+   "Whaaat?! The ball's totally ruined?",
+   "Queen Antoinette is a demon?",
+   "The palace is in shambles?",
+   "An evil Arc de Triomphe showed up?",
+   "Ugh! I don't get it at all!"
+  ]
+ },
+ "3": {
+  "pages": [
+   "So the Arc de Triomphe is like, a new tourist spot now...",
+   "But it's kinda scary, so I haven't gone yet...",
+   "Like, you know?"
+  ]
+ },
+ "4": {
+  "pages": [
+   "French bread is tres bien! Come again!",
+   "You feel a little stamina return.",
+   "Queen Antoinette came here from a foreign land to marry...",
+   "Perhaps she was lonely, with no true friends at the palace."
+  ]
+ },
+ "5": {
+  "pages": [
+   "No money? Oh well, what can you do."
+  ]
+ },
+ "6": {
+  "pages": [
+   "Non! Come to France and not eat bread?",
+   "That is a crime, aru...",
+   "Oops, I mean, a crime!"
+  ]
+ },
+ "7": {
+  "pages": [
+   "Tasty, yes? Fresh from the oven!",
+   "Your spirit rose a little!",
+   "Master Lou is the famous head of the Phantom Conjurers troupe.",
+   "He is a kind man, but scary when angry.",
+   "They say he helped form the European Allied Army, too."
+  ]
+ },
+ "8": {
+  "pages": [
+   "Yes, sir! Long live the Emperor!"
+  ]
+ },
+ "9": {
+  "pages": [
+   "Hahaha, it's true! I'm glad we took Lou up on his offer."
+  ]
+ },
+ "10": {
+  "pages": [
+   "Tch... cheap booze after all...",
+   "If I'd taken Lou up on his offer, I'd be..."
+  ]
+ },
+ "11": {
+  "pages": [
+   "Hmph... Go wag your tail at him now, then."
+  ]
+ },
+ "12": {
+  "pages": [
+   "Why, if it isn't Lord Haohmaru!"
+  ]
+ },
+ "13": {
+  "pages": [
+   "Why, if it isn't Lord Ukyo!"
+  ]
+ },
+ "14": {
+  "pages": [
+   "What can I do for you?"
+  ]
+ },
+ "15": {
+  "pages": [
+   "Anything else?"
+  ]
+ },
+ "16": {
+  "pages": [
+   "That's plenty for you."
+  ]
+ },
+ "17": {
+  "pages": [
+   "This person, then?"
+  ]
+ },
+ "18": {
+  "pages": [
+   "How much should I forge it?"
+  ]
+ },
+ "19": {
+  "pages": [
+   "Is there anything else?"
+  ]
+ },
+ "20": {
+  "pages": [
+   "Which one will it be?"
+  ]
+ },
+ "21": {
+  "pages": [
+   "Nobody can equip this!"
+  ]
+ },
+ "22": {
+  "pages": [
+   "Equip it?"
+  ]
+ },
+ "23": {
+  "pages": [
+   "You can't hold any more money!"
+  ]
+ },
+ "24": {
+  "pages": [
+   "You have nothing to sell!"
+  ]
+ },
+ "25": {
+  "pages": [
+   "Head east down this road and you'll find an old temple.",
+   "They say it's haunted, so folks call it the Ghost Temple.",
+   "More importantly, demons are after Paris?",
+   "Is that true?"
+  ]
+ },
+ "26": {
+  "pages": [
+   "I came all this way to see it, and there's no Eiffel Tower yet?",
+   "Seriously? I can't believe it!",
+   "Like, you know?"
+  ]
+ },
+ "27": {
+  "pages": [
+   "You like crocodile meat?",
+   "Me like banana better than crocodile meat!"
+  ]
+ },
+ "28": {
+  "pages": [
+   "French bread is tres bien! Come again!",
+   "You feel a little stamina return.",
+   "Do you know the Ghost Temple? It's east of the palace road.",
+   "It was a monastery long ago, but now nobody's there.",
+   "Because they say it's haunted, you see! Hahaha!"
+  ]
+ },
+ "29": {
+  "pages": [
+   "Tasty, yes? Fresh from the oven!",
+   "Your spirit rose a little!",
+   "Rumor says some fellow named Count St. Germain",
+   "is the boss of the bad guys.",
+   "He uses Magiscience, a fusion of sorcery and science, they say."
+  ]
+ },
+ "30": {
+  "pages": [
+   "Ah, {NAME}... Do you seek power?"
+  ]
+ },
+ "31": {
+  "pages": [
+   "If you like, I can help you train in Master Lou's place."
+  ],
+  "question": "Will you train?",
+  "options": [
+   "Yes",
+   "No"
+  ]
+ },
+ "32": {
+  "pages": [
+   "Then... try fighting this.",
+   "It is Sieger's shadow,",
+   "but even as a shadow it is as strong as the real one. Beware."
+  ]
+ },
+ "33": {
+  "pages": [
+   "Oh, a splendid technique! I have seen it well!",
+   "That hidden skill shall be your fang against evil!",
+   "But never grow proud of your power. Walk the path you believe in."
+  ]
+ },
+ "34": {
+  "pages": [
+   "Haohmaru learned the secret art",
+   "Tenha Senkuzan!"
+  ]
+ },
+ "35": {
+  "pages": [
+   "Nakoruru learned the secret art",
+   "Rera O Kamuy!"
+  ]
+ },
+ "36": {
+  "pages": [
+   "Galford learned the secret art",
+   "Plasma Drive!"
+  ]
+ },
+ "37": {
+  "pages": [
+   "Ukyo Tachibana learned the secret art",
+   "Hiken: Messatsu Mugasumi!"
+  ]
+ },
+ "38": {
+  "pages": [
+   "Genjuro Kibagami learned the secret art",
+   "Onsatsujin!"
+  ]
+ },
+ "39": {
+  "pages": [
+   "Cham Cham learned the secret art",
+   "Circulus Cornu!"
+  ]
+ },
+ "40": {
+  "pages": [
+   "Charlotte learned the secret art",
+   "Ange Defense!"
+  ]
+ },
+ "41": {
+  "pages": [
+   "Kyoshiro Senryo learned the secret art",
+   "Moujishi Renbu!"
+  ]
+ },
+ "42": {
+  "pages": [
+   "Rimururu learned the secret art",
+   "Konru Rakuru!"
+  ]
+ },
+ "43": {
+  "pages": [
+   "Reon of the Gale learned the secret art",
+   "Fusatsu Hozan!"
+  ]
+ },
+ "44": {
+  "pages": [
+   "Hmm? Oh!",
+   "What an avant-garde style!",
+   "Ooh! Marvelous! Marvelous! I'm in ecstasy! I simply must!",
+   "Normally it's 99999999GP, but for you, only 100GP!"
+  ],
+  "question": "Get new clothes?",
+  "options": [
+   "Yes",
+   "No"
+  ]
+ },
+ "45": {
+  "pages": [
+   "Well!",
+   "Eeeeeek!",
+   "You scorn my tres bien designs!",
+   "Hmph! Vermin who don't understand art",
+   "can just go away!"
+  ]
+ },
+ "46": {
+  "pages": [],
+  "question": "Mademoiselle Nakoruru, is it?",
+  "options": [
+   "Yes",
+   "No"
+  ]
+ },
+ "47": {
+  "pages": [],
+  "question": "Monsieur Galford, is it?",
+  "options": [
+   "Yes",
+   "No"
+  ]
+ },
+ "48": {
+  "pages": [],
+  "question": "Mademoiselle Cham, is it?",
+  "options": [
+   "Yes",
+   "No"
+  ]
+ },
+ "49": {
+  "pages": [],
+  "question": "Charlotte, is it?",
+  "options": [
+   "Yes",
+   "No"
+  ]
+ },
+ "50": {
+  "pages": [],
+  "question": "Mademoiselle Rimururu?",
+  "options": [
+   "Yes",
+   "No"
+  ]
+ },
+ "51": {
+  "pages": [
+   "Well! Are you making fun of me?!",
+   "Eeeek! Mock me and I'll bite you!"
+  ]
+ },
+ "52": {
+  "pages": [
+   "Well! You don't even have 100GP?",
+   "Ooh, art always demands its price, you know!",
+   "Ohohohohoho!"
+  ]
+ },
+ "53": {
+  "pages": [
+   "Ohohohoho! Now! What do you think?"
+  ]
+ },
+ "54": {
+  "pages": [
+   "I already know your measurements by heart!",
+   "It should fit even better than your old outfit!"
+  ]
+ },
+ "55": {
+  "pages": [
+   "An outfit like this...",
+   "I can tailor it in the blink of an eye!"
+  ]
+ },
+ "56": {
+  "pages": [
+   "Ohohohoho!",
+   "This kind of design is my specialty!",
+   "You're giving off pheromones",
+   "that could knock any gentleman dead! Ohohohoho!"
+  ]
+ },
+ "57": {
+  "pages": [
+   "My darling Charlotte...",
+   "Ah... how lovely...",
+   "I tried my best to express your nobility and beauty,",
+   "but no beauty surpasses you yourself.",
+   "Ah... Charlotte! You are simply too dazzling!"
+  ]
+ },
+ "58": {
+  "pages": [
+   "Yeah... (I don't really get it.)"
+  ]
+ },
+ "59": {
+  "pages": [
+   "Wow... it's true! Fashionable even in a place like this!"
+  ]
+ },
+ "60": {
+  "pages": [
+   "So jealous! Sister, you look wonderful!"
+  ]
+ },
+ "61": {
+  "pages": [
+   "Truly beautiful...",
+   "Nakoruru, I'd love to see you in a party dress."
+  ]
+ },
+ "62": {
+  "pages": [
+   "Hehe... thank you. Paris is a lovely place!"
+  ]
+ },
+ "63": {
+  "pages": [
+   "Getting a ninja outfit made in Paris...",
+   "That's surreal, and good!"
+  ]
+ },
+ "64": {
+  "pages": [
+   "...I see. Japanese in style, yet unlike any kimono.",
+   "...Truly the work of a master."
+  ]
+ },
+ "65": {
+  "pages": [
+   "Hmm... now that you mention it... Yes, I like it."
+  ]
+ },
+ "66": {
+  "pages": [
+   "Me not really get it, but it soft and comfy!"
+  ]
+ },
+ "67": {
+  "pages": [
+   "She make it match my Chonachona ears!"
+  ]
+ },
+ "68": {
+  "pages": [
+   "M-merci, madame... (This is why I didn't want to come!)"
+  ]
+ },
+ "69": {
+  "pages": [
+   "Hey, Charlotte, clothes from the real Paris sure suit you."
+  ]
+ },
+ "70": {
+  "pages": [
+   "I-is that so... Hahaha...",
+   "Well! Charlotte? Who is this filthy man?"
+  ]
+ },
+ "71": {
+  "pages": [
+   "Ooooh...",
+   "Even the tailoring is different from Japan... Hmmm."
+  ]
+ },
+ "72": {
+  "pages": [
+   "Oh my... Monsieur Kyoshiro...",
+   "For you, and you alone, half price...",
+   "Ooh, such a sturdy body! Such exotic makeup...",
+   "Every bit of you",
+   "stirs my very spirit...",
+   "Um... teehee... I'm still single, you know...",
+   "Nahahaha! I-is that so...",
+   "Naha, nahahaha..."
+  ]
+ },
+ "73": {
+  "pages": [
+   "Yay! New clothes!"
+  ]
+ },
+ "74": {
+  "pages": [
+   "Hehe... Rimururu, you look so pretty."
+  ]
+ },
+ "75": {
+  "pages": [
+   "Really? Yay! Let's go for a walk outside later!"
+  ]
+ },
+ "76": {
+  "pages": [
+   "...No... I'm... fine...",
+   "Reon... you...",
+   "No, it's nothing. Nothing at all...",
+   "Reon, when this is all over, please come to Paris again.",
+   "...I'd like to make some clothes for you...",
+   "Hehe... it's a promise. All right?",
+   "...Y-yes... thank you... very much."
+  ]
+ },
+ "77": {
+  "pages": [
+   "I'm training here in Paris... I wanna see how far",
+   "the smithing I learned in Japan will get me abroad.",
+   "The world sure is big...",
+   "Well, this must be fate. I'll look at yours first."
+  ]
+ },
+ "78": {
+  "pages": [
+   "I hear Japanese swordsmiths are excellent.",
+   "With a sword forged here,",
+   "I'll cut St. Germain down! Hahahaha!"
+  ]
+ },
+ "79": {
+  "pages": [
+   "The swords he forges are excellent... Everyone says so.",
+   "I've been waiting my turn for ages, too."
+  ]
+ },
+ "80": {
+  "pages": [
+   "M-my turn still hasn't come!",
+   "Hurry up! The battle's already begun!"
+  ]
+ },
+ "81": {
+  "pages": [
+   "...Now it's a matter of pride!",
+   "I'll wait as long as it takes!"
+  ]
+ },
+ "82": {
+  "pages": [
+   "Madame Lavoisier's designs are Europe's best! The latest trend!",
+   "Queen Antoinette and royals and nobles of every nation",
+   "all wear clothes she designed!"
+  ]
+ },
+ "83": {
+  "pages": [
+   "Now that there's peace,",
+   "I really have to think about fashion!"
+  ]
+ },
+ "84": {
+  "pages": [
+   "Ahh... I want to wear Madame's clothes to the ball, too!"
+  ]
+ },
+ "85": {
+  "pages": [
+   "If I'd gone to the ball, I'd have been burnt to a crisp...",
+   "But I still want to go to a ball!"
+  ]
+ },
+ "86": {
+  "pages": [
+   "I am Paris's most tres bien fashion designer!",
+   "Madame Lavoisier!"
+  ]
+ },
+ "87": {
+  "pages": [
+   "Paris destroyed?",
+   "A demon attack?",
+   "Do you mean to say that has any",
+   "ill effect on my tres bien sense of style?! Eeeek!"
+  ]
+ },
+ "88": {
+  "pages": [
+   "Peace!",
+   "Tres bien!",
+   "Aaaaah! The inspiration is overflowing!",
+   "If I don't design at least one outfit soon, I'll simply die!"
+  ]
+ },
+ "89": {
+  "pages": [
+   "I am an astrologer...",
+   "From the stars racing across the heavens",
+   "I can read your fate...",
+   "Well? For 50GP, shall I read yours?"
+  ],
+  "question": "Get your fortune read?",
+  "options": [
+   "Yes",
+   "Not interested"
+  ]
+ },
+ "90": {
+  "pages": [
+   "I see... That's fine too. It is your fate."
+  ]
+ },
+ "91": {
+  "pages": [
+   "...I couldn't read how light your purse was.",
+   "Next time, then..."
+  ]
+ },
+ "92": {
+  "pages": [
+   "...Though not by nature, you've grown quite aggressive."
+  ]
+ },
+ "93": {
+  "pages": [
+   "Is it endless unwanted battle? Your soul has grown fierce."
+  ]
+ },
+ "94": {
+  "pages": [
+   "It seems battle has made your soul a fierce one..."
+  ]
+ },
+ "95": {
+  "pages": [
+   "...A very aggressive soul... Born of a love of strife?"
+  ]
+ },
+ "96": {
+  "pages": [
+   "A terribly fierce soul... Do the stars hate you so,",
+   "or do they love you?"
+  ]
+ },
+ "97": {
+  "pages": [
+   "Sharp, both cold and hot!",
+   "Your soul is dangerously aggressive."
+  ]
+ },
+ "98": {
+  "pages": [
+   "Oh... how warm... Your soul is merciful as the Holy Mother."
+  ]
+ },
+ "99": {
+  "pages": [
+   "Oh... to keep such compassion even in battle..."
+  ]
+ },
+ "100": {
+  "pages": [
+   "...Hot, and vast... Your souls are full of compassion."
+  ]
+ },
+ "101": {
+  "pages": [
+   "Your soul leans toward compassion...",
+   "Deeply, deeply..."
+  ]
+ },
+ "102": {
+  "pages": [
+   "Oh! At the heart of a dry soul shines a star of mercy...",
+   "Truly a miracle."
+  ]
+ },
+ "103": {
+  "pages": [
+   "Hmm... your compassion swells, seeking a way out...",
+   "Will it be fortune or misfortune?"
+  ]
+ },
+ "104": {
+  "pages": [
+   "Now then... Mercury has entered Aquarius...",
+   "A new encounter shall guide your fate."
+  ]
+ },
+ "105": {
+  "pages": [
+   "Hmm... the moon in Pisces forms a good angle...",
+   "It says you should readily accept others' requests."
+  ]
+ },
+ "106": {
+  "pages": [
+   "Oho, Venus has begun to retrograde in Scorpio...",
+   "Something is hidden in a lonely place."
+  ]
+ },
+ "107": {
+  "pages": [
+   "Hmm... Mars has returned to Aries...",
+   "Signs of war, of great upheaval!",
+   "Peace shall be broken suddenly.",
+   "Do not let your guard down."
+  ]
+ },
+ "108": {
+  "pages": [
+   "Oh, a time of great change!",
+   "Saturn, Jupiter, and Mars in Aries are forming a fierce alignment.",
+   "The sun holds the key to turning things around... likely you.",
+   "...I'm counting on you."
+  ]
+ },
+ "109": {
+  "pages": [
+   "Hmm... the angle of Saturn and Mars has turned favorable...",
+   "It seems we may live in peace for a while...",
+   "But soon you shall lose a great star...",
+   "Be prepared."
+  ]
+ },
+ "110": {
+  "pages": [
+   "By the way, Paris is at peace now, but",
+   "your journey's end still seems far off...",
+   "Yet a mysterious force of fate is at work in you,",
+   "one that lets you grow by overcoming trials.",
+   "...I hope for the best outcome."
+  ]
+ },
+ "111": {
+  "pages": [
+   "Hmm... yes!",
+   "{NAME}?"
+  ]
+ },
+ "112": {
+  "pages": [
+   "Pardon me, Genjuro...! If you like, let us talk a while.",
+   "Might you tell me about your parents?"
+  ]
+ },
+ "113": {
+  "pages": [
+   "Charlotte... it seems you've been blessed with good friends."
+  ]
+ },
+ "114": {
+  "pages": [
+   "So you came as well.",
+   "I'm not one for places like this.",
+   "Well, do enjoy yourselves."
+  ]
+ },
+ "115": {
+  "pages": [
+   "...",
+   "Earth, you're gonna live a long life.",
+   "Hey, everyone... let's go."
+  ]
+ },
+ "116": {
+  "pages": [
+   "Reon, what wrong? You feel bad?",
+   "Use Reon power to find it good!"
+  ]
+ },
+ "117": {
+  "pages": [
+   "Kiiiii... Kyuru...",
+   "I shall dispose of any who hinder Lord St. Germain! Kiii!",
+   "Now! Lord St. Germain! The De Marche Cannon!",
+   "With your blue, cold flame of love,",
+   "burn me to ashes along with the palace!"
+  ]
+ },
+ "118": {
+  "pages": [
+   "Whoa! Ow!"
+  ]
+ },
+ "119": {
+  "pages": [
+   "Nyaaa..."
+  ]
+ },
+ "120": {
+  "pages": [
+   "Gahahahaha!",
+   "You're a million years too early to beat me!"
+  ]
+ },
+ "121": {
+  "pages": [
+   "Go wash...",
+   "your butt...",
+   "and come back...",
+   "later!!!"
+  ]
+ },
+ "122": {
+  "pages": [
+   "...!",
+   "What? This... malice?",
+   "I can feel it... from in there!"
+  ]
+ },
+ "123": {
+  "pages": [
+   "Ugh... hurry... run...",
+   "Demons from Hell... are... coming...",
+   "Gah!"
+  ]
+ },
+ "124": {
+  "pages": [
+   "Father! It's me! It's Nakoruru!",
+   "What's wrong? What happened?"
+  ]
+ },
+ "125": {
+  "pages": [
+   "Nakoruru... is that... you, Nakoruru?",
+   "Hurry... run...",
+   "From the demon... in the form... of a bear...",
+   "Wenkamuy's... servant..."
+  ]
+ },
+ "126": {
+  "pages": [
+   "Wenkamuy's servant? ...Huh?"
+  ]
+ },
+ "127": {
+  "pages": [
+   "It feels a little warmer...",
+   "Perhaps the sea ice has melted and Kamuy Port is usable now...",
+   "Kamuy Port is southeast of Kamuy Kotan."
+  ]
+ },
+ "128": {
+  "pages": [
+   "S-sister...",
+   "...R-right. Father will come home like always...",
+   "He'll definitely come back... Definitely!"
+  ]
+ },
+ "129": {
+  "pages": [
+   "That's right... Father will definitely come home...",
+   "Definitely!"
+  ]
+ },
+ "130": {
+  "pages": [
+   "What... Mamahaha?",
+   "You're saying Mamahaha came back",
+   "with only the sacred sword Chichiushi?!",
+   "Hmm... hmm... I'm worried too.",
+   "Nakoruru,",
+   "go to the Kamuy Forest at once and search for your father, Rametok!",
+   "...Yes.",
+   "Take the sacred sword Chichiushi with you!",
+   "We're counting on you to find Rametok!"
+  ]
+ },
+ "131": {
+  "pages": [
+   "Oh... you want to come with me too?",
+   "Hehe... I'm happy, but..."
+  ]
+ },
+ "132": {
+  "pages": [
+   "Shikuruu, I'm sorry. Please protect everyone in the village."
+  ]
+ },
+ "133": {
+  "pages": [
+   "All right... come, Shikuruu!",
+   "Mamahaha, I'm sorry. This time you protect the village."
+  ]
+ },
+ "134": {
+  "pages": [
+   "What's wrong? You want to come with me?",
+   "But..."
+  ]
+ },
+ "135": {
+  "pages": [
+   "Hehe, all right then. Mamahaha! Come with me!",
+   "Shikuruu, you protect Kamuy Kotan in our place!"
+  ]
+ },
+ "136": {
+  "pages": [
+   "...An endless, vast snowfield.",
+   "In the land we now call Hokkaido,",
+   "amid the great outdoors, in harmony with Mother Nature,",
+   "there lived a peaceful people."
+  ]
+ },
+ "137": {
+  "pages": [
+   "The name of this village is Kamuy Kotan."
+  ]
+ },
+ "138": {
+  "pages": [
+   "From this little village,",
+   "one girl's fateful journey begins.",
+   "...Yes,",
+   "it was all fate."
+  ]
+ },
+ "139": {
+  "pages": [
+   "Nakoruru's father was a man named Shirakoru.",
+   "Big-hearted and strong... a fine Kamuy warrior who protected nature.",
+   "We called Shirakoru Rametok, the brave one,",
+   "and we were proud of him...",
+   "Nakoruru, now you are the Kamuy warrior.",
+   "Become a fine warrior like your father.",
+   "Polish not only your skills, but your heart."
+  ]
+ },
+ "140": {
+  "pages": [
+   "We live together with nature.",
+   "And the power of evil is eating away at it.",
+   "Wenkamuy, the evil gods, are our enemy!",
+   "Please, defeat Wenkamuy."
+  ]
+ },
+ "141": {
+  "pages": [
+   "Oh, Nakoruru...",
+   "If you're going on a journey, don't forget your herbs."
+  ]
+ },
+ "142": {
+  "pages": [
+   "Oh... sister...",
+   "What about Father? Did you find him?"
+  ]
+ },
+ "143": {
+  "pages": [
+   "I see... so Father... still hasn't been found."
+  ]
+ },
+ "144": {
+  "pages": [
+   "...No... no... that's a lie... a lie!",
+   "That's awful! Sister!"
+  ]
+ },
+ "145": {
+  "pages": [
+   "Waaah!"
+  ]
+ },
+ "146": {
+  "pages": [
+   "Rimururu just ran off into the back woods in a big hurry.",
+   "I think she might have been crying...",
+   "Nakoruru, why don't you go check on her?"
+  ]
+ },
+ "147": {
+  "pages": [
+   "Rimururu..."
+  ],
+  "question": "What will you do?",
+  "options": [
+   "Encourage",
+   "Comfort"
+  ]
+ },
+ "148": {
+  "pages": [
+   "Rimururu... I understand how you feel, but you can't cry forever.",
+   "...If you do, Father",
+   "won't be able to return to nature in peace..."
+  ]
+ },
+ "149": {
+  "pages": [
+   "We're the children of Father, the one they called the brave...",
+   "Right, Rimururu...?",
+   "We have to become strong like Father.",
+   "We can't stay sad forever.",
+   "Come on, Rimururu, show me a happy smile."
+  ]
+ },
+ "150": {
+  "pages": [
+   "Rimururu... you poor thing...",
+   "There, don't cry anymore...",
+   "Father is with nature now, and he'll always",
+   "be watching over us... right?"
+  ]
+ },
+ "151": {
+  "pages": [
+   "......Okay.",
+   "...I understand, sister. ...I won't cry anymore!"
+  ]
+ },
+ "152": {
+  "pages": [
+   "You understand... Rimururu."
+  ]
+ },
+ "153": {
+  "pages": [
+   "Rimururu, no!",
+   "I'm going to defeat the demons ravaging nature.",
+   "...You stay here!"
+  ]
+ },
+ "154": {
+  "pages": [
+   "I can fight too!",
+   "You've been teaching me the Shikanna Kamuy sword dance!",
+   "Please, take me with you!"
+  ]
+ },
+ "155": {
+  "pages": [
+   "What am I going to do... Listen, Rimururu.",
+   "We have to protect nature in Father's place.",
+   "If you leave the village along with me,",
+   "who will protect Kamuy Kotan?"
+  ]
+ },
+ "156": {
+  "pages": [
+   "Well then... I'm off!"
+  ]
+ },
+ "157": {
+  "pages": [
+   "...Sister, come home soon!"
+  ]
+ },
+ "158": {
+  "pages": [
+   "Even brave Rametok couldn't match that demon's servant...",
+   "So why were you, Nakoruru, able to defeat it...",
+   "Nakoruru, you must discover the reason yourself on your journey.",
+   "Listen, winning battles is not the only kind of strength..."
+  ]
+ },
+ "159": {
+  "pages": [
+   "Rametok was certainly strong.",
+   "...But Nakoruru, in you",
+   "I sense a mysterious power...",
+   "Perhaps you have a strength",
+   "different from Rametok's."
+  ]
+ },
+ "160": {
+  "pages": [
+   "Oh... Nakoruru, is it?",
+   "You there, her companions, take good care of Nakoruru!"
+  ]
+ },
+ "161": {
+  "pages": [
+   "A demonic darkness that frightens nature...",
+   "It's spreading from the west!"
+  ]
+ },
+ "162": {
+  "pages": [
+   "Sister... I wonder if she's okay. I'm so worried..."
+  ]
+ },
+ "163": {
+  "pages": [
+   "What can I do fer ya?"
+  ]
+ },
+ "164": {
+  "pages": [
+   "Anythin' else ya need?"
+  ]
+ },
+ "165": {
+  "pages": [
+   "That's plenty fer you."
+  ]
+ },
+ "166": {
+  "pages": [
+   "Sorry, but ya ain't got enough money."
+  ]
+ },
+ "167": {
+  "pages": [
+   "This feller, then?"
+  ]
+ },
+ "168": {
+  "pages": [
+   "How much should I forge it?"
+  ]
+ },
+ "169": {
+  "pages": [
+   "All right, leave it to me!"
+  ]
+ },
+ "170": {
+  "pages": [
+   "Anythin' else ya need?"
+  ]
+ },
+ "171": {
+  "pages": [
+   "Nobody can equip this."
+  ]
+ },
+ "172": {
+  "pages": [
+   "Equip it?"
+  ]
+ },
+ "173": {
+  "pages": [
+   "Who's gonna equip it?"
+  ]
+ },
+ "174": {
+  "pages": [
+   "Which one should I take off?"
+  ]
+ },
+ "175": {
+  "pages": [
+   "Yer money's full up."
+  ]
+ },
+ "176": {
+  "pages": [
+   "Looks like ya got nothin' to sell."
+  ]
+ },
+ "177": {
+  "pages": [
+   "Tasty, right? Come again!",
+   "You feel fired up!",
+   "From what the sailors tell me,",
+   "all sorts of strange rumors are going around Edo.",
+   "If you're headed to Edo, you'd better be careful."
+  ]
+ },
+ "178": {
+  "pages": [
+   "How's that? Feeling better, right?",
+   "You recovered a little stamina!",
+   "Do you know the Kamuy training grounds?",
+   "Head east out of this port and go north, and you'll find them!"
+  ]
+ },
+ "179": {
+  "pages": [
+   "Lots of demons around is rough, huh!",
+   "Don't be stingy with your special moves. Use 'em freely!"
+  ]
+ },
+ "180": {
+  "pages": [
+   "New power wells up inside!",
+   "Your stats rose little by little!"
+  ]
+ },
+ "181": {
+  "pages": [
+   "...Hmph!",
+   "...Still, it's an eyesore...",
+   "I don't like Mizuki acting so high and mighty."
+  ]
+ },
+ "182": {
+  "pages": [
+   "Fffff... Human hunger... human greed...",
+   "Death... always close by... Fffff...",
+   "My gold is human souls... Fear... despair...",
+   "...It grows and grows!"
+  ]
+ },
+ "183": {
+  "pages": [
+   "Holy! Sieger!",
+   "... Holy Break!"
+  ]
+ },
+ "184": {
+  "pages": [
+   "No... that's ancient history now...",
+   "These days he's in a heaven with no villains,",
+   "probably relaxing and enjoying some fishing."
+  ]
+ },
+ "185": {
+  "pages": [
+   "You lot gonna make fun of me too?",
+   "Hmph! I've got no time to waste on you!",
+   "Go on... get out of here!"
+  ]
+ },
+ "186": {
+  "pages": [
+   "Yes!"
+  ]
+ },
+ "187": {
+  "pages": [
+   "Oh yes, Lord Holy left something with me for you.",
+   "He told me to give this to you...",
+   "Lord Holy called it the Key of Mu."
+  ]
+ },
+ "188": {
+  "pages": [
+   "Was it good? It'll pump up your muscles!",
+   "You recovered a little stamina!",
+   "They're building a bridge north of town,",
+   "but there's a strange rumor.",
+   "They say whoever picks up gold there loses their life...",
+   "Scary, huh?"
+  ]
+ },
+ "189": {
+  "pages": [
+   "Oh, you're broke? Well, can't be helped.",
+   "Sigh, I want to show off my cooking..."
+  ]
+ },
+ "190": {
+  "pages": [
+   "... Stupid..."
+  ]
+ },
+ "191": {
+  "pages": [
+   "It's said to be the key to a labyrinth on the ancient continent of Mu...",
+   "He said you'd understand once you had it... that it would surely help.",
+   "That's what he told me."
+  ]
+ },
+ "192": {
+  "pages": [
+   "Where is Lord Holy?"
+  ]
+ },
+ "193": {
+  "pages": [
+   "... Lucky... me..."
+  ]
+ },
+ "194": {
+  "pages": [
+   "Neigh! (Nothing beats a drink after a hard day's work!)"
+  ]
+ },
+ "195": {
+  "pages": [
+   "Bwihihin! (Dealing with humans wears me out!)"
+  ]
+ },
+ "196": {
+  "pages": [
+   "Brrrrrn! (My name is Man o' War!)"
+  ]
+ },
+ "197": {
+  "pages": [
+   "Brrrrr... (Autographs later, okay?)"
+  ]
+ }
+}

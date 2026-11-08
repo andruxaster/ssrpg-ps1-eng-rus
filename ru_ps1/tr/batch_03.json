@@ -1,0 +1,4442 @@
+[
+{
+"id": 594,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"My son said he was going to become a samurai,",
+"then ran off and never came back...",
+"Said something about being granted a new power...",
+"Who on earth is this 'Lord Amakusa'...?"
+],
+"jp": "うちの息子は 「侍になる」と言うたきり / 家を飛び出して 戻ってきまへん・・・ / なんでも、新たな力を授かったから とか言うて・・・ / 「天草様」って どこのどなたなんやろか・・・",
+"choice": null,
+"context": [
+{
+"ru": "Нам остается лишь не попасться прислужникам ада..."
+},
+{
+"en": "Force the door open?Of course!Why bother?"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 595,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"Don't you dare bring up 'Sealing the Demon City'!"
+],
+"jp": "「魔都封滅」の話はすなッ！",
+"choice": null,
+"context": [
+{
+"ru": "Нам остается лишь не попасться прислужникам ада..."
+},
+{
+"en": "Force the door open?Of course!Why bother?"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 596,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"Sorry, sorry!",
+"I'll do it properly next time, I promise..."
+],
+"jp": "すんまへん、すんまへん / 今度はちゃんと 出しますさかい・・・",
+"choice": null,
+"context": [
+{
+"ru": "Нам остается лишь не попасться прислужникам ада..."
+},
+{
+"en": "Force the door open?Of course!Why bother?"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 597,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"What can I do for you?"
+],
+"jp": "何の用でっか？",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Добро пожаловать!"
+},
+{
+"ru": "Чье оружие ковать?"
+}
+]
+},
+{
+"id": 598,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"Anything else you need?"
+],
+"jp": "他にも用がありまっか？",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Добро пожаловать!"
+},
+{
+"ru": "Чье оружие ковать?"
+},
+{
+"ru": "Вам это не по карману."
+}
+]
+},
+{
+"id": 599,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"That weapon's grade is plenty good as it is."
+],
+"jp": "今の等級で十分でっせ",
+"choice": null,
+"context": [
+{
+"ru": "Добро пожаловать!"
+},
+{
+"ru": "Чье оружие ковать?"
+},
+{
+"self": true
+},
+{
+"ru": "Вам это не по карману."
+},
+{
+"ru": "Уверены?"
+}
+]
+},
+{
+"id": 600,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"How much should I work on it?"
+],
+"jp": "どのくらい鍛えまっか？",
+"choice": null,
+"context": [
+{
+"ru": "Чье оружие ковать?"
+},
+{
+"ru": "Вам это не по карману."
+},
+{
+"ru": "Уверены?"
+},
+{
+"self": true
+},
+{
+"ru": "Чью стихию менять?"
+},
+{
+"ru": "Какую стихию?"
+}
+]
+},
+{
+"id": 601,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"Leave it to me!"
+],
+"jp": "あんじょう、まかしとき！",
+"choice": null,
+"context": [
+{
+"ru": "Вам это не по карману."
+},
+{
+"ru": "Уверены?"
+},
+{
+"self": true
+},
+{
+"ru": "Чью стихию менять?"
+},
+{
+"ru": "Какую стихию?"
+}
+]
+},
+{
+"id": 602,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"Here you go, all done!"
+],
+"jp": "お待ちどうさま！",
+"choice": null,
+"context": [
+{
+"ru": "Вам это не по карману."
+},
+{
+"ru": "Уверены?"
+},
+{
+"self": true
+},
+{
+"ru": "Чью стихию менять?"
+},
+{
+"ru": "Какую стихию?"
+}
+]
+},
+{
+"id": 603,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"How may I help you?"
+],
+"jp": "何のご用どすか？",
+"choice": null,
+"context": [
+{
+"ru": "Чью стихию менять?"
+},
+{
+"ru": "Какую стихию?"
+},
+{
+"self": true
+},
+{
+"ru": "Вам это не по карману."
+}
+]
+},
+{
+"id": 604,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"Is there anything else you need?"
+],
+"jp": "他にもご用がおありどすか",
+"choice": null,
+"context": [
+{
+"ru": "Чью стихию менять?"
+},
+{
+"ru": "Какую стихию?"
+},
+{
+"self": true
+},
+{
+"ru": "Вам это не по карману."
+}
+]
+},
+{
+"id": 605,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"What would you like?"
+],
+"jp": "何にいたしますか？",
+"choice": null,
+"context": [
+{
+"ru": "Чью стихию менять?"
+},
+{
+"ru": "Какую стихию?"
+},
+{
+"self": true
+},
+{
+"ru": "Вам это не по карману."
+},
+{
+"ru": "Добро пожаловать!"
+}
+]
+},
+{
+"id": 606,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"Nobody here can equip that, though."
+],
+"jp": "誰も装備できまへんけど",
+"choice": null,
+"context": [
+{
+"ru": "Вам это не по карману."
+},
+{
+"self": true
+},
+{
+"ru": "Добро пожаловать!"
+},
+{
+"ru": "Чего изволите?"
+},
+{
+"ru": "Приходите еще."
+}
+]
+},
+{
+"id": 607,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"You can't carry any more money."
+],
+"jp": "お金がもう一杯どす",
+"choice": null,
+"context": [
+{
+"ru": "Больше вам не унести."
+},
+{
+"ru": "Что продаете?"
+},
+{
+"ru": "Сколько продадите?"
+},
+{
+"self": true
+},
+{
+"ru": "Большое спасибо..."
+},
+{
+"ru": "Никакого эффекта!"
+},
+{
+"ru": "Вот, все готово!"
+}
+]
+},
+{
+"id": 608,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"I've got a date today, see... and I want to",
+"totally snag my boyfriend's heart!",
+"Got any charms that can do that?"
+],
+"jp": "今日、デートやねんけどォ～ なんや、カレシのハートを・・・ / ガッチリ、キャッチ！ / でけるようなぁ お守りとかぁないかなあ？",
+"choice": null,
+"context": [
+{
+"ru": "А Кофеины-то крепкие ребята... Крепче, чем я думал! Теперь весь город может немного выдохнуть...!"
+},
+{
+"ru": "Далеко... на юге Киото... растет темная сила..."
+},
+{
+"ru": "Можете кое-что передать? Мне нужно гадание! А именно - какого цвета одежду надеть в Осаку?"
+},
+{
+"self": true
+},
+{
+"ru": "В городе демоны! Где нам прятаться?! Прошу! Скажите мне!"
+}
+]
+},
+{
+"id": 609,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"Okay, okay, wait your turn! Get a ticket at the entrance!",
+"Ticket number 56, Mr. Adachi! Are you here?",
+"Mr. Adachi? What, he's not here?",
+"Number 57, Mr. Kawano! Mr. Kawano!"
+],
+"jp": "はいはい、順番です！　順番！ 入口で札もらってやぁ！ / ５６番の札で、お待ちの足立様！ いらっしゃいますかぁ！ / 足立様？ なんや、おらんのかいな / ５７番で、お待ちの河野様！ 河野様！",
+"choice": null,
+"context": [
+{
+"ru": "А Кофеины-то крепкие ребята... Крепче, чем я думал! Теперь весь город может немного выдохнуть...!"
+},
+{
+"ru": "Далеко... на юге Киото... растет темная сила..."
+},
+{
+"ru": "Можете кое-что передать? Мне нужно гадание! А именно - какого цвета одежду надеть в Осаку?"
+},
+{
+"self": true
+},
+{
+"ru": "В городе демоны! Где нам прятаться?! Прошу! Скажите мне!"
+},
+{
+"ru": "Не знаю, что мне было себе нагадать! Может, вы угадаете, о чем я спрошу?"
+}
+]
+},
+{
+"id": 610,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"Hey, hey! My boyfriend's been so cold lately!",
+"Do you think he hates me? What do I do?!"
+],
+"jp": "ねえねえっ、カレシがぁ～ 最近、冷たいねん！ / 嫌われてもぉたかなぁ？ ど～しよ～！",
+"choice": null,
+"context": [
+{
+"ru": "Можете кое-что передать? Мне нужно гадание! А именно - какого цвета одежду надеть в Осаку?"
+},
+{
+"ru": "В городе демоны! Где нам прятаться?! Прошу! Скажите мне!"
+},
+{
+"self": true
+},
+{
+"ru": "Не знаю, что мне было себе нагадать! Может, вы угадаете, о чем я спрошу?"
+}
+]
+},
+{
+"id": 611,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"Sorry! Fortune-telling is closed for today!",
+"So very sorry! Really, truly sorry!"
+],
+"jp": "すんまへん！ 今日、占いは臨時休業中です！ / えろうすんまへん！ ホンマすんまへん！",
+"choice": null,
+"context": [
+{
+"ru": "В городе демоны! Где нам прятаться?! Прошу! Скажите мне!"
+},
+{
+"self": true
+},
+{
+"ru": "Не знаю, что мне было себе нагадать! Может, вы угадаете, о чем я спрошу?"
+}
+]
+},
+{
+"id": 612,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"The Caffeine fortunes... I can't make heads or tails of them.",
+"Going on about our spirits or whatever... honestly...",
+"Maybe I'll go to Neo Geo Land and get some Neo Print photos."
+],
+"jp": "花諷院の占いって・・・ 何言われてんのか、全然わからへん / うちらに、スピリッツがどうの 言われたかて・・・なあ・・・ / ネオジオランドで ネオプリントでもしてきたろかしら",
+"choice": null,
+"context": [
+{
+"ru": "В городе демоны! Где нам прятаться?! Прошу! Скажите мне!"
+},
+{
+"ru": "Не знаю, что мне было себе нагадать! Может, вы угадаете, о чем я спрошу?"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 613,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"Okay, okay, wait your turn! Get a ticket at the entrance!",
+"Ticket 17, Mr. Morikawa! Are you here? Mr. Morikawa?",
+"...Not here?! If you're not here, just say so!",
+"Number 18, Mr. Kawai! Mr. Kawai!"
+],
+"jp": "はいはい、順番です！　順番！ 入口で、札もらってやぁ！ / １７番の札で、お待ちの森川様！ いらっしゃいますかぁ！　森川様？ / ・・・・・・おらんのかい！ おらんのやったら、早う言うてぇな / １８番の川井様！ 川井様！",
+"choice": null,
+"context": [
+{
+"ru": "Не знаю, что мне было себе нагадать! Может, вы угадаете, о чем я спрошу?"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 614,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"...Just as I thought... the north!",
+"Something's wrong in the north! Evil is moving east!",
+"The northeast is the demon's gate! Hmmmmmm......"
+],
+"jp": "・・・やはり・・・北だ！ / 北が怪しい！ 魔が東へ移動している！ / 東北は鬼門！ むむむむむむむ・・・・・・",
+"choice": null,
+"context": [
+{
+"ru": "Не знаю, что мне было себе нагадать! Может, вы угадаете, о чем я спрошу?"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 615,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"Did you get the turtle shells? We've been running short lately.",
+"...Without them, I can't do a proper reading! Not a proper one!"
+],
+"jp": "カメの甲羅は手に入ったか？ 最近、品不足で困っておる / ・・・あれが無いと ビシッと占えんのじゃ！ビシッと！",
+"choice": null,
+"context": [
+{
+"ru": "Не знаю, что мне было себе нагадать! Может, вы угадаете, о чем я спрошу?"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 616,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"Ahhh, so sleepy...",
+"I was up all night recording the movements of the stars...",
+"This is seriously bad... I have to finish my report...",
+"I've been sleeping here for a whole month now..."
+],
+"jp": "ああああ、眠い眠い・・・ / いやいや夜通しで、星の動きを 記録しておったんじゃ・・・ / マジでヤバイぞ・・・ 資料まとめんと・・・ / もう一カ月も 泊まり込みじゃ・・・",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Йо! Рад, что вы добрались! Вам ведь интересно про гадателей? Слушайте..."
+}
+]
+},
+{
+"id": 617,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"Ahh, excuse me, may I ask...",
+"Did a plague god come running through here?"
+],
+"jp": "ああああ ちょっと、たずねるが・・・ / ここを、やくびょう神が走って いかんかったかのう？",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Йо! Рад, что вы добрались! Вам ведь интересно про гадателей? Слушайте..."
+},
+{
+"ru": "В Киото две школы гадателей... Кофеин и Кюин. Все довольно запутанно, но расскажу попросту..."
+}
+]
+},
+{
+"id": 618,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"...If you want to train, go to the training hall next door."
+],
+"jp": "・・・修行したいなら 隣の修行場に行きなされ",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Йо! Рад, что вы добрались! Вам ведь интересно про гадателей? Слушайте..."
+},
+{
+"ru": "В Киото две школы гадателей... Кофеин и Кюин. Все довольно запутанно, но расскажу попросту..."
+},
+{
+"ru": "Кюин давно отвечают за духовную защиту Киото и поддерживают барьер вокруг города. Из-за разгула демонов они стали искать новые способы бороться с нечистью. И так развернулись, что теперь правят Киото."
+}
+]
+},
+{
+"id": 619,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"There's nothing more I can teach you..."
+],
+"jp": "おぬしらに、教えてやれることは もうないぞ・・・",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Йо! Рад, что вы добрались! Вам ведь интересно про гадателей? Слушайте..."
+},
+{
+"ru": "В Киото две школы гадателей... Кофеин и Кюин. Все довольно запутанно, но расскажу попросту..."
+},
+{
+"ru": "Кюин давно отвечают за духовную защиту Киото и поддерживают барьер вокруг города. Из-за разгула демонов они стали искать новые способы бороться с нечистью. И так развернулись, что теперь правят Киото."
+}
+]
+},
+{
+"id": 620,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"So, yeah, they get along like cats and dogs..."
+],
+"jp": "てな訳で、ま、犬猿の仲よ・・・",
+"choice": null,
+"context": [
+{
+"ru": "В Киото две школы гадателей... Кофеин и Кюин. Все довольно запутанно, но расскажу попросту..."
+},
+{
+"ru": "Кюин давно отвечают за духовную защиту Киото и поддерживают барьер вокруг города. Из-за разгула демонов они стали искать новые способы бороться с нечистью. И так развернулись, что теперь правят Киото."
+},
+{
+"ru": "А Кофеины под началом моего деда, Никотина, больше заботятся о своей налаженной жизни. Им не нужны ни влияние, ни власть. Чудаки-затворники. Так Кюин скоро выживут их из Киото..."
+},
+{
+"self": true
+},
+{
+"ru": "Я почуял, как замерла духовная энергия, и пришел в Киото... Годы здесь не был, и то вижу - что-то не так. Мне это совсем не нравится."
+},
+{
+"ru": "Вы ведь заметили, что тут творится неладное? Я вам помогу... Упрямый старик даже не удосужился связаться со мной... Хе, а я ведь его внук. На него не похоже..."
+},
+{
+"ru": "Ты ведь много странствовал, верно? Как ему было с тобой связаться?"
+}
+]
+},
+{
+"id": 621,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"The Animus Bells, huh... We'd better split up, right?"
+],
+"jp": "邪銅鐸か・・・ 手分けした方がいいだろ？",
+"choice": null,
+"context": [
+{
+"ru": "Хм... Тебе он, похоже, нужен еще меньше, чем мне."
+},
+{
+"ru": "Ой, да ладно. И ты туда же... Просто не по мне сидеть сложа руки. Ну да ладно... Колокола Анимус ведь питают силой Мидзуки? Спорим, Кюин тут как-то замешаны. Думаю, нам стоит разделиться и искать порознь. Ах да..."
+},
+{
+"ru": "Хе! Да брось! Ну да ладно... Колокола Анимус ведь питают силой Мидзуки? Спорим, Кюин тут как-то замешаны. Думаю, нам стоит разделиться и искать порознь. Ах да..."
+},
+{
+"self": true
+},
+{
+"ru": "Хм? Что, ты еще здесь?"
+},
+{
+"ru": "Йо! Рад, что вы еще целы! Если нужна помощь - только скажите!"
+},
+{
+"ru": "Хм? О, {NAME}! Прошу, идите к Большому мосту! Господин Гайра вас ждет!"
+}
+]
+},
+{
+"id": 622,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"Thank you so much! You're the ones who saved Kyo."
+],
+"jp": "ありがとうございました！ 京を救ってくれたのはあなた方だ",
+"choice": null,
+"context": [
+{
+"ru": "Йо! Рад, что вы еще целы! Если нужна помощь - только скажите!"
+},
+{
+"ru": "Хм? О, {NAME}! Прошу, идите к Большому мосту! Господин Гайра вас ждет!"
+},
+{
+"ru": "Похоже, мы у вас в долгу! Мы еще решительнее будем защищать наш город!"
+},
+{
+"self": true
+},
+{
+"ru": "Ты тот самый убийца Гэндзюро?"
+},
+{
+"ru": "Я банкометчица... зовут меня Оте... Раньше служила в игорном доме Агэхато..."
+},
+{
+"ru": "И что тебе от меня нужно?"
+}
+]
+},
+{
+"id": 623,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"Fine, then... Country bumpkins, I swear...",
+"Grumble, grumble..."
+],
+"jp": "ほなら、ええわ・・・ イナカモンはこれやさかい・・・ / ぶつぶつ・・・",
+"choice": null,
+"context": [
+{
+"ru": "Куда же подевался Микэмару...?"
+},
+{
+"en": "Welcome! How would you like to buy the finest sake around! / MegaSake! Aged since before the Ounin War, 320 years ago! This / remarkable drink can be yours for only 200GP! / Yes or no?Yes No"
+},
+{
+"ru": "Спасибо! Вижу, вы знаете толк в ценных вещах!"
+},
+{
+"self": true
+},
+{
+"ru": "Ох... у вас не хватает денег..."
+},
+{
+"ru": "Я бы с радостью продал, но вам больше не унести!"
+},
+{
+"en": "Welcome... GP to stay the night. / Would you like to stay? Yes No"
+}
+]
+},
+{
+"id": 624,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"Huh...",
+"Kind of relieved... kind of disappointed..."
+],
+"jp": "ふうん・・・ / ほっとしたような・・・ 残念なような・・・",
+"choice": null,
+"context": [
+{
+"ru": "Э-э... Чам-Чам... ну... ... Знаешь, если девочки ходят в такие места, лорд Кецалькоатль очень сердится!"
+},
+{
+"ru": "Ой! Правда, что ли?! Ай-ай! Пошли, Реон, бежим отсюда!"
+},
+{
+"ru": "Простите, но больше гостей мы сейчас принять не можем... Жаль отказывать новым посетителям... Может, в другой раз...?"
+},
+{
+"self": true
+},
+{
+"ru": "... Хмф..."
+},
+{
+"ru": "Мне правда очень жаль..."
+}
+]
+},
+{
+"id": 625,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"Ichigen???",
+"Japanese is so difficult!"
+],
+"jp": "イチゲン？？？ / 日本語難しいネ",
+"choice": null,
+"context": [
+{
+"ru": "Э-э... Чам-Чам... ну... ... Знаешь, если девочки ходят в такие места, лорд Кецалькоатль очень сердится!"
+},
+{
+"ru": "Ой! Правда, что ли?! Ай-ай! Пошли, Реон, бежим отсюда!"
+},
+{
+"ru": "Простите, но больше гостей мы сейчас принять не можем... Жаль отказывать новым посетителям... Может, в другой раз...?"
+},
+{
+"self": true
+},
+{
+"ru": "... Хмф..."
+},
+{
+"ru": "Мне правда очень жаль..."
+}
+]
+},
+{
+"id": 626,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"Cough...",
+"Don't misunderstand... I was... merely...",
+"Cough...",
+"Pardon me..."
+],
+"jp": "ゴホッ・・・ / 誤解されては困る・・・ 私は・・・だな・・・ / ゴホッ・・・ / ごめん・・・",
+"choice": null,
+"context": [
+{
+"ru": "Ой! Правда, что ли?! Ай-ай! Пошли, Реон, бежим отсюда!"
+},
+{
+"ru": "Простите, но больше гостей мы сейчас принять не можем... Жаль отказывать новым посетителям... Может, в другой раз...?"
+},
+{
+"self": true
+},
+{
+"ru": "... Хмф..."
+},
+{
+"ru": "Мне правда очень жаль..."
+},
+{
+"ru": "Видишь? Нам тут нечего делать. Пойдем."
+}
+]
+},
+{
+"id": 627,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"Mrrow... purr purr, meow!"
+],
+"jp": "ふにゃーん・・・ごろごろにゃん！",
+"choice": null,
+"context": [
+{
+"ru": "Это просто невероятно... Кто бы поверил, что в Киото объявятся такие твари? Тревожный нынче мир."
+},
+{
+"ru": "Понятно... что ж, заходите как-нибудь еще."
+},
+{
+"ru": "Большое спасибо..."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 628,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"Myaa... myamyaa..."
+],
+"jp": "みゃーい・・・ みゃみゃーい・・・",
+"choice": null,
+"context": [
+{
+"ru": "Это просто невероятно... Кто бы поверил, что в Киото объявятся такие твари? Тревожный нынче мир."
+},
+{
+"ru": "Понятно... что ж, заходите как-нибудь еще."
+},
+{
+"ru": "Большое спасибо..."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 629,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"Nyafuu!"
+],
+"jp": "にゃふー！",
+"choice": null,
+"context": [
+{
+"ru": "Понятно... что ж, заходите как-нибудь еще."
+},
+{
+"ru": "Большое спасибо..."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 630,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"Kyaaa! It's Lord Taro!",
+"It really is! He's so cool! So dreamy!"
+],
+"jp": "キャアアア！　太郎様よ！ / ホントだぁ！　カッコいい！ 素敵ィ！",
+"choice": null,
+"context": [
+{
+"ru": "Большое спасибо..."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 631,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"Glad you enjoyed it.",
+"HP was restored!",
+"They say Sengaku, head of the Kyuuin, is a terribly sharp man.",
+"A bit frightening for folks like us, though..."
+],
+"jp": "おそまつ様どす / 体力が回復した！ / 鬼諷院の頭領、千角はんは ものすごう頭の切れはるお人やて / ちょっとわたしらには 怖いぐらいやけんど・・・",
+"choice": null,
+"context": [
+{
+"ru": "В Киото в последнее время опасно... Если бы не здешние гадатели... Наверное, было бы еще хуже."
+},
+{
+"ru": "Кого ни спроси... хоть купцов, хоть знать. Весь город в последнее время какой-то унылый..."
+},
+{
+"self": true
+},
+{
+"ru": "В Киото теперь совсем небезопасно... Неужели демоны и сюда придут?"
+},
+{
+"ru": "В Киото в последнее время куда спокойнее..."
+},
+{
+"ru": "Моя мечта... Я мечтаю об огромном серебряном экране! Ад? Демоны? Ха! Весь город сходит с ума! А мне до этого дела нет! Но вот вы мне интересны... Вы правда сражаетесь с прислужниками ада? Да, кстати..."
+}
+]
+},
+{
+"id": 632,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"What on earth has happened? They said we'd be safe in Kyo..."
+],
+"jp": "一体何があったんどすか？ 京におったら安心やいいますけど",
+"choice": null,
+"context": [
+{
+"ru": "В Киото в последнее время опасно... Если бы не здешние гадатели... Наверное, было бы еще хуже."
+},
+{
+"ru": "Кого ни спроси... хоть купцов, хоть знать. Весь город в последнее время какой-то унылый..."
+},
+{
+"ru": "В Киото теперь совсем небезопасно... Неужели демоны и сюда придут?"
+},
+{
+"self": true
+},
+{
+"ru": "В Киото в последнее время куда спокойнее..."
+},
+{
+"ru": "Моя мечта... Я мечтаю об огромном серебряном экране! Ад? Демоны? Ха! Весь город сходит с ума! А мне до этого дела нет! Но вот вы мне интересны... Вы правда сражаетесь с прислужниками ада? Да, кстати..."
+},
+{
+"en": "/ Do you like my lovely dolls?Yes No"
+}
+]
+},
+{
+"id": 633,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"Hmph... What a strange one."
+],
+"jp": "ふん・・・ わけのわからんやつよ",
+"choice": null,
+"context": [
+{
+"ru": "Куда...?"
+},
+{
+"ru": "Куда вы имеете в виду?"
+},
+{
+"ru": "Куда...?"
+},
+{
+"self": true
+},
+{
+"ru": "Вон туда! А теперь - улыбочку!"
+},
+{
+"ru": "Что?!"
+},
+{
+"ru": "Взгляните..."
+}
+]
+},
+{
+"id": 634,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"How was it? Delicious, wasn't it?",
+"Spirit was restored!",
+"The late Nagamaro Ayanokouji was a fine, noble courtier.",
+"Maybe Hisamaro fools around so much",
+"because he feels inferior to his father, Nagamaro."
+],
+"jp": "どないどす？ おいしゅうおましたやろ！ / 気力が回復した！ / 綾小路、先代の永麻呂はん そらあ、立派なお公家はんでした / 久麻呂はんが遊び呆けてはるのは / オヤジの永麻呂はんに 引け目を感じてはったんかもね",
+"choice": null,
+"context": [
+{
+"ru": "У вас не хватает денег!"
+},
+{
+"en": "Hello there! Today we're serving matsutake rice! Only 100GP a / serving! / What do you say?Yes No"
+},
+{
+"en": "Hello! Would you like some bamboo shoots over rice? Only / 50GP a serving! / What do you say?Yes No"
+},
+{
+"self": true
+},
+{
+"ru": "Ой, слушайте! Вам не хватает денег."
+},
+{
+"ru": "А, ну ладно..."
+},
+{
+"ru": "Простите... товары у нас закончились... Приносим извинения за неудобства."
+}
+]
+},
+{
+"id": 635,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"Ayanokouji and the Kyuuin, meant to protect Kyoto, came after us...",
+"Seems there's something deep going on here...",
+"{NAME}, let's go back to the Caffeine dorm and ask Gaira!"
+],
+"jp": "京都を守るべき、公家の綾小路と 鬼諷院の陰陽師が俺たちを・・・ / 何やら根の深そうな話だな・・・ / {NAME}、花諷院寮に戻って 骸羅に話を聞いてみよう！",
+"choice": null,
+"context": [
+{
+"ru": "Тьфу, трус! Сбежал..."
+},
+{
+"ru": "Проклятье! Хисамаро думает, что скроется от правосудия!"
+},
+{
+"ru": "А? Куда делся старик? Странно..."
+},
+{
+"self": true
+},
+{
+"ru": "Ха-ха-ха-ха-ха-ха! Чую! Смрад! Вонь демона!!"
+},
+{
+"ru": "Вы! Все вы демоны!! Ха-ха-ха-ха-ха-ха!!"
+},
+{
+"ru": "Будь у вас, конечно, столько денег."
+}
+]
+},
+{
+"id": 636,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"With instant photography! Tea Servant Mark III!"
+],
+"jp": "インスタント写真術機能付き！ 茶坊主・参号！",
+"choice": null,
+"context": [
+{
+"ru": "Господин Хисамаро внутри..."
+},
+{
+"ru": "Господин Аянокодзи Хисамаро - сюда."
+},
+{
+"ru": "Ну? Разве не чудо? Я называю это..."
+},
+{
+"self": true
+},
+{
+"ru": "Одно из лучших моих творений!"
+},
+{
+"ru": "...И это все?"
+},
+{
+"ru": "Э-э..."
+}
+]
+},
+{
+"id": 637,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"Welcome! Leading tomorrow's world of fashion,",
+"this is Kuzuhara Kimono, Kyoto main branch!",
+"For 100GP, we'll make you any outfit you like!",
+"So, what do you say?"
+],
+"jp": "おいでやす！ 明日の服飾界をリードする / 呉服屋の「くずはら」 京都本店どす！ / １００金でどんな服でも ご用立ていたします！ / さあ、どないですか？",
+"choice": {
+"question": "Order new clothes?",
+"options": [
+"Yes",
+"No"
+]
+},
+"context": [
+{
+"ru": "Прошу, не сердитесь!"
+},
+{
+"ru": "Я родился в Киото... Неужели мне опять снился сон?"
+},
+{
+"ru": "Мой отец был знатным? Да бросьте! Я даже лица его не знаю..."
+},
+{
+"self": true
+},
+{
+"en": "Enter?Yes No"
+},
+{
+"en": "Do you want to go to south Kyo? Yes No"
+}
+]
+},
+{
+"id": 638,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"Oh my... it really does look nice.",
+"Even the clothes look happy to be worn by you."
+],
+"jp": "わあ・・・ やっぱりええ感じですわ / 服もお客さんに着てもろて たいそううれしそうですわ",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 639,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"Made it easy to move in, just as you ordered."
+],
+"jp": "ご注文通り 動きやすく作っときました",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 640,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"Hmm... Maybe I'm getting a sense of style too?"
+],
+"jp": "うん・・・ 俺様にも洒落っ気が出てきたかな？",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 641,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"New ninja clothes, but a man is still all about JUSTICE!"
+],
+"jp": "ニンジャ服がかわっても 男はジャスティスだぜ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 642,
+"file": "FLD/F_KAS1.BIN",
+"pages": [],
+"jp": "",
+"choice": {
+"question": "Are you Miss Reon?",
+"options": [
+"Yes",
+"No"
+]
+},
+"context": [
+{
+"self": true
+},
+{
+"ru": "Я... я справлюсь!"
+}
+]
+},
+{
+"id": 643,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"Edo girls are cute too, but they're so rough around the edges!",
+"Kyoto girls are so graceful. Love it!"
+],
+"jp": "江戸の女も可愛いけどよ とかくガサツでいけねぇや！ / やっぱ京都娘は しとやかでいいねぇ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 644,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"Hmm... Kyoto women are beautiful, sure,",
+"but they seem kind of stuck-up..."
+],
+"jp": "う～ん・・・ 京女は確かにきれいだけど / な～んか お高くとまってるって感じだな・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 645,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"Hmph... They're nice enough to hold."
+],
+"jp": "ふん・・・抱き心地ならな",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 646,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"Heh... Edo women aren't bad either."
+],
+"jp": "ふ・・・江戸の女も悪くはないぞ",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 647,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"As they say, Edo men and Kyoto women make the best match..."
+],
+"jp": "東男に京女・・・と 言うぐらいですからね・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 648,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"Myself...",
+"I think a lovely woman is charming wherever she's from."
+],
+"jp": "私は・・・ / 素敵な女性なら どこの方でも魅力的だと思います",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 649,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"YES! Kyoto women are",
+"the Yamato Nadeshiko of all Yamato Nadeshiko...",
+"The ultimate Nadeshiko, I think!"
+],
+"jp": "ＹＥＳ！ キョートの女の人は / ヤマトナデシコ中の ヤマトナデシコ・・・ / 究極のナデシコだと思うよ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 650,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"Me... haha...",
+"I kind of like ladies from snow country... you know..."
+],
+"jp": "オレは・・・ハハ・・・ / 雪国のレディもいいかな・・・ なんて・・・",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Итак..."
+}
+]
+},
+{
+"id": 651,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"Heh...",
+"Well, with beauties like these around,",
+"no wonder, right? Hahaha!"
+],
+"jp": "へぇ・・・ / まあ、こんなべっぴんさんが いるんじゃ / さもありなん、ってとこだよな！ はははは！",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Итак..."
+}
+]
+},
+{
+"id": 652,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"Is that so! Well then...",
+"Why not stick around and relax a little longer?"
+],
+"jp": "そうかい！ それならよぉ・・・ / もう少しのんびり していけばいいのになぁ？",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Итак..."
+}
+]
+},
+{
+"id": 653,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"...Hoh."
+],
+"jp": "・・・ほう",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Итак..."
+}
+]
+},
+{
+"id": 654,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"...Hmm...",
+"Beneath the swaying willow, one looks back on today's love...",
+"Ah, my beloved, I cannot let you go...",
+"I can almost picture the scene."
+],
+"jp": "・・・ほう・・・ / なびく柳の葉の下で 今日の恋路を振り返る / ああ、我が想い人 未練断ち難し・・・ / 風景が目に浮かぶようですな",
+"choice": null,
+"context": [
+{
+"ru": "Итак..."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 655,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"...If I had feelings worth looking back on,",
+"I'd rather have the courage to move forward without looking back..."
+],
+"jp": "・・・振り返るだけの 思いがあるなら / 私は振り返らずに 前へと進む勇気を持ちたい・・・",
+"choice": null,
+"context": [
+{
+"ru": "Итак..."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 656,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"Huh? Japanese words are difficult, eh?",
+"Does it mean the women here are that beautiful?"
+],
+"jp": "へぇ？ ジャパンの言葉は難しいね？ / それだけここの女性が ビューティフルって事ですか？",
+"choice": null,
+"context": [
+{
+"ru": "Итак..."
+},
+{
+"self": true
+},
+{
+"ru": "Хорошо."
+}
+]
+},
+{
+"id": 657,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"...R-really? I don't quite get it!"
+],
+"jp": "・・・そ、そうですか？ なんだかよくわからないネ",
+"choice": null,
+"context": [
+{
+"ru": "Итак..."
+},
+{
+"self": true
+},
+{
+"ru": "Хорошо."
+}
+]
+},
+{
+"id": 658,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"Whoa! Been waiting for this! Whoo-hoo!"
+],
+"jp": "おおっ！待ってました！ ひゅーひゅー！",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Хорошо."
+}
+]
+},
+{
+"id": 659,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"Hmm, I already saw the dancing earlier,",
+"so I'd rather have a bit more sake."
+],
+"jp": "う～ん、舞の方はさっき 見せてもらったかんな / もう少し酒が飲みてーな",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Хорошо."
+}
+]
+},
+{
+"id": 660,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"Forget the dance...",
+"Bring the sake."
+],
+"jp": "舞はいい・・・ / それより、酒だ",
+"choice": null,
+"context": [
+{
+"ru": "Хорошо."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 661,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"To see your dance once more...",
+"Please."
+],
+"jp": "もう一度 あなたの舞が見られるとは・・・ / お願いします",
+"choice": null,
+"context": [
+{
+"ru": "Хорошо."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 662,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"Tonight, I'd like to get a little more drunk..."
+],
+"jp": "今宵はもう少し酔ってみたい・・・",
+"choice": null,
+"context": [
+{
+"ru": "Хорошо."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 663,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"Wow! A lovely dance, please!"
+],
+"jp": "ワォ！ 素敵なダンス、お願いします！",
+"choice": null,
+"context": [
+{
+"ru": "Хорошо."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 664,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"Dancing is nice, but let's drink together a bit more!"
+],
+"jp": "ダンスも良いけど もう少し一緒に飲みましょう！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 665,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"Bah, demons are nothing!",
+"Can't travel if you're scared of demons!"
+],
+"jp": "なあに 魔物なんてどうってことないさ！ / 魔物が怖くて旅はできねぇぜ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 666,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"Heh! If any demons show up, I'll take 'em all down!"
+],
+"jp": "へっ！　魔物が出てくりゃ 片っ端からやっつけてやるさ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 667,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"Heh... As for me..."
+],
+"jp": "ふ・・・俺はな・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 668,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"Hmph... I'll just cut down any demons."
+],
+"jp": "ふん・・・ 魔物など叩き斬って捨てるまでよ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 669,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"...There is nothing left that I fear... not anymore."
+],
+"jp": "・・・怖いものなどありませんよ 私には・・・もう",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 670,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"If demons attack... I simply cut them down."
+],
+"jp": "魔物が襲ってきたら・・・ 斬るまでです",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 671,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"As long as justice burns in my heart, I fear nothing!"
+],
+"jp": "胸に正義の炎が燃えてる限り 怖いものなどないネ！",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": ". . . Видимо, нет..."
+}
+]
+},
+{
+"id": 672,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"I'll never forgive evil! Demons get cut down on the spot!"
+],
+"jp": "悪は絶対許さない！ 魔物は即！　叩き斬る！",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": ". . . Видимо, нет..."
+}
+]
+},
+{
+"id": 673,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"Maybe so...",
+"Maybe the day when fighting ends will never come..."
+],
+"jp": "そうかもな・・・ / 争いのなくなる日は永遠に やってこないのかも知れねぇ・・・",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": ". . . Видимо, нет..."
+}
+]
+},
+{
+"id": 674,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"...That's not true!",
+"Maybe not right now, but someday... for sure..."
+],
+"jp": "・・・そんなことはねぇさ！ / 今すぐはムリでも きっと・・・いつか・・・",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": ". . . Видимо, нет..."
+}
+]
+},
+{
+"id": 675,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"Hmph... No one can know that."
+],
+"jp": "ふん・・・ そんなことは誰にもわからん",
+"choice": null,
+"context": [
+{
+"ru": ". . . Видимо, нет..."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 676,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"...Demons that attack can simply be defeated,",
+"but the demons in people's hearts... those are hard to root out."
+],
+"jp": "・・・襲ってくる魔物は 倒せばすむことですが / 人の心に巣くう魔物 ・・・これを根絶することは難しい",
+"choice": null,
+"context": [
+{
+"ru": ". . . Видимо, нет..."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 677,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"That's not so!",
+"Once people learn what truly matters...",
+"the conflict among them should disappear."
+],
+"jp": "そんなことはありません！ / 本当に大切なものとは何かを 知ることができたとき・・・ / 人々の間から 争い事はなくなるはずです",
+"choice": null,
+"context": [
+{
+"ru": ". . . Видимо, нет..."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 678,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"...The seeds of evil never run out...",
+"As long as evil exists, my fight will never end..."
+],
+"jp": "・・・世に悪の種はつきない・・・ / 悪がある限り オレの戦いも終わらない・・・",
+"choice": null,
+"context": [
+{
+"ru": ". . . Видимо, нет..."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 679,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"Please don't be sad...",
+"If we rid the world of evil bit by bit,",
+"peace will surely come someday!"
+],
+"jp": "悲しまないで下さい・・・ / この世の悪を少しずつ なくすようにしていけば / きっといつかは 平和がやってくるはずデス！",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "... Хмф..."
+}
+]
+},
+{
+"id": 680,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"Hahaha!",
+"If demons were like that, maybe we wouldn't have to fight!"
+],
+"jp": "はっはっは！ / 魔物がそんなだったら 戦わなくてすむかもな！",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "... Хмф..."
+},
+{
+"ru": "Может, ты и прав... однако..."
+}
+]
+},
+{
+"id": 681,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"...Maybe so.",
+"We always assume demons are our enemies,",
+"but maybe some of them are good guys."
+],
+"jp": "・・・そうかもな / 俺たちは魔物っていやぁ すぐに敵だと決めつけてるけど / 中には気のいいやつも いるかも知れねぇ",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "... Хмф..."
+},
+{
+"ru": "Может, ты и прав... однако..."
+}
+]
+},
+{
+"id": 682,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"Heh... Enough of that nonsense."
+],
+"jp": "ふふ・・・ 世迷い言はそのくらいにしておけ",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "... Хмф..."
+},
+{
+"ru": "Может, ты и прав... однако..."
+}
+]
+},
+{
+"id": 683,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"Perhaps demons don't care for fighting either."
+],
+"jp": "意外と魔物も 戦いは嫌いなのかも知れません",
+"choice": null,
+"context": [
+{
+"ru": "... Хмф..."
+},
+{
+"ru": "Может, ты и прав... однако..."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 684,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"Even so, demons that disturb the peace can't be forgiven!"
+],
+"jp": "だとしても 平和を乱す魔物は、許せないネ！",
+"choice": null,
+"context": [
+{
+"ru": "... Хмф..."
+},
+{
+"ru": "Может, ты и прав... однако..."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 685,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"...You're right.",
+"Maybe some demons aren't so bad..."
+],
+"jp": "・・・そうですね / 魔物の中にも悪くないヤツは いるかも知れない・・・",
+"choice": null,
+"context": [
+{
+"ru": "... Хмф..."
+},
+{
+"ru": "Может, ты и прав... однако..."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 686,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"......",
+"Delicious!"
+],
+"jp": "・・・・・・ / うまい！",
+"choice": null,
+"context": [
+{
+"ru": "Может, ты и прав... однако..."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 687,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"...Um... hey?"
+],
+"jp": "・・・あの・・・よぉ？",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 688,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"Unfriendly sort..."
+],
+"jp": "無愛想だな・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 689,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"......",
+"Fine sake..."
+],
+"jp": "・・・・・・ / いい酒だ・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 690,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"...Kyoto really is a wonderful place."
+],
+"jp": "・・・京都は ほんとうに良いところですね",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 691,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"......",
+"Japanese sake is delicious!"
+],
+"jp": "・・・・・・ / 日本の酒はおいしいネ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 692,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"...Oh boy. What should I talk about?"
+],
+"jp": "・・・弱ったネ 何を話せばいいのかな？",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 693,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"Stare..."
+],
+"jp": "じろじろ・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 694,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"Hehehe... Another round!"
+],
+"jp": "へへへ・・・おかわりだ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 695,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"...Next."
+],
+"jp": "・・・次だ",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "А?!"
+}
+]
+},
+{
+"id": 696,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"......Sake, please..."
+],
+"jp": "・・・・・・お酒、クダサイ・・・",
+"choice": null,
+"context": [
+{
+"ru": "А?!"
+},
+{
+"self": true
+},
+{
+"ru": "Хех... ничего..."
+}
+]
+},
+{
+"id": 697,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"Yeah! This is great! Want some too?"
+],
+"jp": "おう！うめぇぜ！ おめぇも飲むかい！",
+"choice": null,
+"context": [
+{
+"ru": "А?!"
+},
+{
+"self": true
+},
+{
+"ru": "Хех... ничего..."
+}
+]
+},
+{
+"id": 698,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"So, hey... you..."
+],
+"jp": "それでよぉ・・・あんた・・・",
+"choice": null,
+"context": [
+{
+"ru": "А?!"
+},
+{
+"self": true
+},
+{
+"ru": "Хех... ничего..."
+}
+]
+},
+{
+"id": 699,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"Heh... Drink?"
+],
+"jp": "ふ・・・飲むか？",
+"choice": null,
+"context": [
+{
+"ru": "А?!"
+},
+{
+"self": true
+},
+{
+"ru": "Хех... ничего..."
+}
+]
+},
+{
+"id": 700,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"How about it? Have a cup with me..."
+],
+"jp": "どうです？ あなたも一献・・・",
+"choice": null,
+"context": [
+{
+"ru": "Хех... ничего..."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 701,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"...Yes... Do you enjoy it as well?"
+],
+"jp": "・・・ええ・・・ あなたもお好きなのですか？",
+"choice": null,
+"context": [
+{
+"ru": "Хех... ничего..."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 702,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"Umm... let's see...",
+"Would you like a drink too?"
+],
+"jp": "えーと・・・うーんと・・・ / アナタも飲みますか？",
+"choice": null,
+"context": [
+{
+"ru": "Хех... ничего..."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 703,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"YES! It's delicious! Japanese sake!",
+"Do you like it too?"
+],
+"jp": "ＹＥＳ！　おいしいですよ！ 日本のお酒！ / アナタもお好きなのですか？",
+"choice": null,
+"context": [
+{
+"ru": "Хех... ничего..."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 704,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"Young lady... I'm sorry, but",
+"there's nothing here for a girl like you."
+],
+"jp": "娘さん・・・ すんまへんけど / ここはあんたのような娘さんには 用のないところどすえ",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 705,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"Hehe... You seem to have a bit of a wild streak.",
+"Being lively is a good thing."
+],
+"jp": "ふふ・・・ちょっとヤンチャな ところがあるみたいやね / 元気なのは、ええことよ",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 706,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"You seem like a kind young lady.",
+"Kindness is a treasure. Take good care of it."
+],
+"jp": "娘さんは優しいお人のようやね / 優しさは宝物どす 大切にしいや",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 707,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"Oh... something else you need?",
+"Nothing good will come of coming here...",
+"Off home with you now."
+],
+"jp": "あら・・・また何か用どすか？ / ここに来ても 何もええ事なんかおへんよ・・・ / はようお帰り",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 708,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"Welcome. This is the Nakaya.",
+"Come have some fun once in a while. We'll take good care of you."
+],
+"jp": "おいでやす ここは中屋どす / たまには遊んで下さいな おもてなしさせていただきます",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 709,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"Oh my...",
+"It seems your purse is a little light, sir...",
+"Please come back when it's a bit heavier."
+],
+"jp": "あらあら・・・ / お客はんのふところはちょっと さみしいようどすなぁ・・・ / もう少し暖こうなってから いらして下さいな",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 710,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"The fee is 300GP. Will you stay and have some fun?"
+],
+"jp": "お花代は金３００になっとります 遊んでいかはりますか？",
+"choice": {
+"question": "Visit the pleasure house?",
+"options": [
+"Very well",
+"I'll pass"
+]
+},
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 711,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"I see... Please come again when you have time."
+],
+"jp": "そうどすか・・・ また今度おひまな時にどうぞ",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 712,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"Um... excuse me, I'd like to take a walk outside."
+],
+"jp": "あの・・・すみません わたし、外を歩きたいので",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Итак... подождите минутку..."
+}
+]
+},
+{
+"id": 713,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"Cham Cham likes playing outside better!"
+],
+"jp": "チャムチャム 外で遊ぶ方が好きだゾ",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Итак... подождите минутку..."
+}
+]
+},
+{
+"id": 714,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"I hardly think we have time to waste on this...",
+"Very well. I have somewhere else to go."
+],
+"jp": "こんな事で時間をつぶしている ヒマはないと思うがな・・・ / まあ、よかろう 私は別に行くところがあるから",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Итак... подождите минутку..."
+}
+]
+},
+{
+"id": 715,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"...I'll go sightseeing around Kyo."
+],
+"jp": "・・・あたし、京を見物してますね",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Итак... подождите минутку..."
+}
+]
+},
+{
+"id": 716,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"Upstairs, please."
+],
+"jp": "お二階へどうぞ",
+"choice": null,
+"context": [
+{
+"ru": "Итак... подождите минутку..."
+},
+{
+"self": true
+},
+{
+"ru": "Кодаю, да? У вас верный глаз. Она пришла к нам из Есивары. Проделала долгий путь и усердно училась. Говорит, что хочет стать лучшей гейшей в стране."
+}
+]
+},
+{
+"id": 717,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"Right this way."
+],
+"jp": "ご案内どすえ",
+"choice": null,
+"context": [
+{
+"ru": "Итак... подождите минутку..."
+},
+{
+"self": true
+},
+{
+"ru": "Кодаю, да? У вас верный глаз. Она пришла к нам из Есивары. Проделала долгий путь и усердно училась. Говорит, что хочет стать лучшей гейшей в стране."
+},
+{
+"ru": "А, Мандай. Очень милая девушка. Добрая, не выносит никаких ссор. Может показаться наивной, но гости неизменно к ней привязываются."
+}
+]
+},
+{
+"id": 718,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"What do you think, sir? The finest girls in Kyoto."
+],
+"jp": "どないですか、お客はん・・・ 京都一の娘たちどすえ",
+"choice": {
+"question": "Now... what to do?",
+"options": [
+"Ask about girl",
+"Choose a girl"
+]
+},
+"context": [
+{
+"ru": "Итак... подождите минутку..."
+},
+{
+"self": true
+},
+{
+"ru": "Кодаю, да? У вас верный глаз. Она пришла к нам из Есивары. Проделала долгий путь и усердно училась. Говорит, что хочет стать лучшей гейшей в стране."
+},
+{
+"ru": "А, Мандай. Очень милая девушка. Добрая, не выносит никаких ссор. Может показаться наивной, но гости неизменно к ней привязываются."
+},
+{
+"ru": "О, Дандаю? Хм-м... Что ж, она очень хорошенькая... хотя манерам не обучена. Возможно, с ней будет не так весело, как хотелось бы... Она бывает очень милой, но все же..."
+}
+]
+},
+{
+"id": 719,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"Which girl caught your eye, sir?"
+],
+"jp": "だんなはんのお目に止まった娘は どの子どすか？",
+"choice": {
+"question": null,
+"options": [
+"Middle girl",
+"Right girl"
+]
+},
+"context": [
+{
+"ru": "Итак... подождите минутку..."
+},
+{
+"self": true
+},
+{
+"ru": "Кодаю, да? У вас верный глаз. Она пришла к нам из Есивары. Проделала долгий путь и усердно училась. Говорит, что хочет стать лучшей гейшей в стране."
+},
+{
+"ru": "А, Мандай. Очень милая девушка. Добрая, не выносит никаких ссор. Может показаться наивной, но гости неизменно к ней привязываются."
+},
+{
+"ru": "О, Дандаю? Хм-м... Что ж, она очень хорошенькая... хотя манерам не обучена. Возможно, с ней будет не так весело, как хотелось бы... Она бывает очень милой, но все же..."
+}
+]
+},
+{
+"id": 720,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"Which girl will you spend time with?"
+],
+"jp": "どの子と遊びはりますの？",
+"choice": {
+"question": null,
+"options": [
+"Middle girl",
+"Right girl"
+]
+},
+"context": [
+{
+"ru": "А, Мандай. Очень милая девушка. Добрая, не выносит никаких ссор. Может показаться наивной, но гости неизменно к ней привязываются."
+},
+{
+"ru": "О, Дандаю? Хм-м... Что ж, она очень хорошенькая... хотя манерам не обучена. Возможно, с ней будет не так весело, как хотелось бы... Она бывает очень милой, но все же..."
+},
+{
+"en": "/ What would you like to do?Hear about a girl Choose a girl"
+},
+{
+"self": true
+},
+{
+"en": "You would like Kodayuu? Yes I've changed my mind"
+},
+{
+"en": "You would like Mandai?Yes I've changed my mind"
+},
+{
+"en": "You would like Dandayuu?Yes I've changed my mind"
+}
+]
+},
+{
+"id": 721,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"Oh... is that so...",
+"If you could come to see the charm of Shimabara too,",
+"I would be so happy..."
+],
+"jp": "はあ・・・そうどすか・・・ / ぬしさんにも島原の良さ わかっていただけたら / うれしゅうおますけど・・・",
+"choice": null,
+"context": [
+{
+"ru": "Ох! Так вам нравятся женщины... попроще? Но гейши и традиции Киото гораздо изысканнее..."
+},
+{
+"en": "This willow tree is called the Gazing-back Willow... Because of / the way its roots sit and how it's twisted at the top. / Did you know? I never knew that!I'm not interested"
+},
+{
+"ru": "Обычно стоит провести в Киото хоть одну ночь, и всегда хочется вернуться..."
+},
+{
+"self": true
+},
+{
+"ru": "Фух... я определенно перебрала... Мы еще увидимся...?"
+}
+]
+},
+{
+"id": 722,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"...The night grows late.",
+"Now then, allow me to perform a dance for you."
+],
+"jp": "・・・夜もふけてまいりおした / それでは、ひとさし 舞ってご覧にいれましょう",
+"choice": {
+"question": "How do you answer?",
+"options": [
+"Sounds good",
+"I'd rather drink"
+]
+},
+"context": [
+{
+"ru": "Ох! Так вам нравятся женщины... попроще? Но гейши и традиции Киото гораздо изысканнее..."
+},
+{
+"en": "This willow tree is called the Gazing-back Willow... Because of / the way its roots sit and how it's twisted at the top. / Did you know? I never knew that!I'm not interested"
+},
+{
+"ru": "Обычно стоит провести в Киото хоть одну ночь, и всегда хочется вернуться..."
+},
+{
+"self": true
+},
+{
+"ru": "Фух... я определенно перебрала... Мы еще увидимся...?"
+},
+{
+"ru": "Рада знакомству... Я - Мандай."
+}
+]
+},
+{
+"id": 723,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"Ah, sore!",
+"Chin, ton, shan,",
+"chin, ton, shan..."
+],
+"jp": "あ、そーれ / ちん　とん　しゃん / ちん　とん　しゃん・・・",
+"choice": null,
+"context": [
+{
+"en": "This willow tree is called the Gazing-back Willow... Because of / the way its roots sit and how it's twisted at the top. / Did you know? I never knew that!I'm not interested"
+},
+{
+"ru": "Обычно стоит провести в Киото хоть одну ночь, и всегда хочется вернуться..."
+},
+{
+"self": true
+},
+{
+"ru": "Фух... я определенно перебрала... Мы еще увидимся...?"
+},
+{
+"ru": "Рада знакомству... Я - Мандай."
+},
+{
+"ru": "Вы вернулись... Я рада снова вас видеть..."
+}
+]
+},
+{
+"id": 724,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"...I see... Then,",
+"here... please, have some..."
+],
+"jp": "・・・そうですか・・・それでは / はい・・・　どうぞ・・・",
+"choice": null,
+"context": [
+{
+"ru": "Обычно стоит провести в Киото хоть одну ночь, и всегда хочется вернуться..."
+},
+{
+"self": true
+},
+{
+"ru": "Фух... я определенно перебрала... Мы еще увидимся...?"
+},
+{
+"ru": "Рада знакомству... Я - Мандай."
+},
+{
+"ru": "Вы вернулись... Я рада снова вас видеть..."
+}
+]
+},
+{
+"id": 725,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"Oh my, is that so... Demons frighten me so...",
+"But with someone like you around, I'm sure I'll be safe."
+],
+"jp": "まあ、そうどすか・・・ うちは魔物が怖うて・・・ / でも、ぬしさんの様なお方が いはったら、大丈夫どすな",
+"choice": null,
+"context": [
+{
+"ru": "Рада знакомству... Я - Мандай."
+},
+{
+"ru": "Вы вернулись... Я рада снова вас видеть..."
+},
+{
+"en": "You travel in times like this? Don't the demons / outside of town frighten you...? / Yes or no?It's fine if you're careful I just kill the demons!"
+},
+{
+"self": true
+},
+{
+"ru": "Ох, это довольно"
+},
+{
+"en": "To think that man and demon would clash so... Do you believe / we'll ever know true peace again? / Yes or no?Probably notI'm sure we will"
+},
+{
+"ru": "Правда...? Как ужасно... Какая же ужасная жизнь нам всем досталась..."
+}
+]
+},
+{
+"id": 726,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"Even demons, if they could live peacefully,",
+"wouldn't they be happier that way...?",
+"What do you think?"
+],
+"jp": "魔物いうても 静かにくらせるものならば / その方が幸せなんと 違うんかしら・・・ / ぬしさんは どない思わはりますの？",
+"choice": {
+"question": "How do you answer?",
+"options": [
+"Ridiculous!",
+"I see"
+]
+},
+"context": [
+{
+"en": "To think that man and demon would clash so... Do you believe / we'll ever know true peace again? / Yes or no?Probably notI'm sure we will"
+},
+{
+"ru": "Правда...? Как ужасно... Какая же ужасная жизнь нам всем досталась..."
+},
+{
+"ru": "Ох... Значит, вы... сражаетесь, чтобы принести нам этот мир."
+},
+{
+"self": true
+},
+{
+"ru": "В мире столько горя... Может, вы сумеете что-то изменить."
+},
+{
+"ru": "Ох... кажется, я выпила лишнего... Так... что вы будете делать этой ночью?"
+},
+{
+"ru": "... Я... Дандаю."
+}
+]
+},
+{
+"id": 727,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"I... I'm sorry...",
+"Saying such foolish things... please, forget it..."
+],
+"jp": "す・・・すんまへん・・・ / よしない事を言うてもて・・・ 忘れて・・・おくれやす",
+"choice": null,
+"context": [
+{
+"en": "To think that man and demon would clash so... Do you believe / we'll ever know true peace again? / Yes or no?Probably notI'm sure we will"
+},
+{
+"ru": "Правда...? Как ужасно... Какая же ужасная жизнь нам всем досталась..."
+},
+{
+"ru": "Ох... Значит, вы... сражаетесь, чтобы принести нам этот мир."
+},
+{
+"self": true
+},
+{
+"ru": "В мире столько горя... Может, вы сумеете что-то изменить."
+},
+{
+"ru": "Ох... кажется, я выпила лишнего... Так... что вы будете делать этой ночью?"
+},
+{
+"ru": "... Я... Дандаю."
+}
+]
+},
+{
+"id": 728,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"...You'll drink, I suppose.",
+"...... ......"
+],
+"jp": "・・・飲むんでしょ / ・・・・・・ ・・・・・・",
+"choice": {
+"question": "W-what will you do?",
+"options": [
+"Drink sake",
+"Talk to her"
+]
+},
+"context": [
+{
+"ru": "Ох... кажется, я выпила лишнего... Так... что вы будете делать этой ночью?"
+},
+{
+"ru": "... Я... Дандаю."
+},
+{
+"ru": "Чего изволите?"
+},
+{
+"self": true
+},
+{
+"ru": "Вы очень сильный..."
+},
+{
+"en": "Please... Have some sake... ... / Yes or no?Keep quietAccept the sake"
+},
+{
+"ru": "Не смотрите на меня так, пожалуйста!"
+}
+]
+},
+{
+"id": 729,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"Somehow...",
+"......you remind me of someone..."
+],
+"jp": "なんだか・・・ / ・・・・・・似てますね・・・",
+"choice": null,
+"context": [
+{
+"ru": "Не смотрите на меня так, пожалуйста!"
+},
+{
+"ru": "Вы очень сильный..."
+},
+{
+"en": "Is... / Is it good? Offer her someAnswer her"
+},
+{
+"self": true
+},
+{
+"ru": "Ну что... приступим...?"
+},
+{
+"ru": "А?!"
+}
+]
+},
+{
+"id": 730,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"Whoa, look at the time... Everyone's waiting!",
+"Well then, that's it for tonight's dinner."
+],
+"jp": "おっと、もうこんな時間か・・・ みんな待ってるネ / それじゃあ今日のディナーは これでおしまいだ",
+"choice": null,
+"context": [
+{
+"en": "Is... / Is it good? Offer her someAnswer her"
+},
+{
+"ru": "Ну что... приступим...?"
+},
+{
+"self": true
+},
+{
+"ru": "А?!"
+},
+{
+"ru": "...Понятно... Может... мы еще когда-нибудь увидимся..."
+},
+{
+"ru": "...Значит, не судьба... Сдаюсь. Пойду я."
+}
+]
+},
+{
+"id": 731,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"That was some good sake... Thank you, goodbye!"
+],
+"jp": "グッドな酒だったよ・・・ サンキュー、グッバイだ",
+"choice": null,
+"context": [
+{
+"ru": "Ну что... приступим...?"
+},
+{
+"ru": "А?!"
+},
+{
+"self": true
+},
+{
+"ru": "...Понятно... Может... мы еще когда-нибудь увидимся..."
+},
+{
+"ru": "...Значит, не судьба... Сдаюсь. Пойду я."
+},
+{
+"ru": "Ох! Понимаю... Тогда я всегда буду вас помнить..."
+}
+]
+},
+{
+"id": 732,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"I've stayed quite long... I should take my leave.",
+"Cough... cough..."
+],
+"jp": "ずいぶんと過ごしてしまった・・・ そろそろ失礼させてもらいますよ / ごほっ・・・ごほっ・・・",
+"choice": null,
+"context": [
+{
+"ru": "А?!"
+},
+{
+"ru": "...Понятно... Может... мы еще когда-нибудь увидимся..."
+},
+{
+"ru": "...Значит, не судьба... Сдаюсь. Пойду я."
+},
+{
+"self": true
+},
+{
+"ru": "Ох! Понимаю... Тогда я всегда буду вас помнить..."
+},
+{
+"ru": "Но я уверен, мы еще увидимся."
+}
+]
+},
+{
+"id": 733,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"I understand... I'll wait for that day..."
+],
+"jp": "わかりおした・・・ その日を待っとります・・・",
+"choice": null,
+"context": [
+{
+"ru": "...Значит, не судьба... Сдаюсь. Пойду я."
+},
+{
+"ru": "Ох! Понимаю... Тогда я всегда буду вас помнить..."
+},
+{
+"ru": "Но я уверен, мы еще увидимся."
+},
+{
+"self": true
+},
+{
+"ru": "Ну что... приступим...?"
+},
+{
+"ru": "Да... только притушу фонарь..."
+},
+{
+"ru": "... Кажется, вы перебрали... Ну же! Выйдем на воздух, проветримся!"
+}
+]
+},
+{
+"id": 734,
+"file": "FLD/F_KAS1.BIN",
+"pages": [],
+"jp": "",
+"choice": {
+"question": "Now... what to do?",
+"options": [
+"Leave",
+"Turn in"
+]
+},
+"context": [
+{
+"ru": "Ох! Понимаю... Тогда я всегда буду вас помнить..."
+},
+{
+"ru": "Но я уверен, мы еще увидимся."
+},
+{
+"self": true
+},
+{
+"ru": "Ну что... приступим...?"
+},
+{
+"ru": "Да... только притушу фонарь..."
+},
+{
+"ru": "... Кажется, вы перебрали... Ну же! Выйдем на воздух, проветримся!"
+}
+]
+},
+{
+"id": 735,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"...Nothing...",
+"No...",
+"Please... come again."
+],
+"jp": "・・・なんにも・・・ / いえ・・・ / また・・・・来て下さい",
+"choice": null,
+"context": [
+{
+"ru": "Что за черт...?!"
+},
+{
+"ru": "...Н... ничего. ... Может... мы еще увидимся..."
+},
+{
+"ru": "Будем ждать вашего возвращения..."
+},
+{
+"self": true
+},
+{
+"ru": "Прошу... Берегите себя ради меня...! Вы... вы должны... Я не вынесу, если с вами что-то случится..."
+},
+{
+"ru": "Прошу, бросьте это опасное дело и возьмите меня с собой... ... Приходите как-нибудь... Я всегда буду ждать здесь..."
+}
+]
+},
+{
+"id": 736,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"You're...",
+"quite different from the customers I've had before...",
+"If, if it's all right with you...",
+"please... come talk with me again."
+],
+"jp": "ぬしさんは・・・ / 今までのお客はんとは ずいぶんと違いはりますなぁ・・・ / もし、もしもよかったら・・・ / また、うちの話し相手に なって・・・下さい",
+"choice": null,
+"context": [
+{
+"ru": "Прошу... Берегите себя ради меня...! Вы... вы должны... Я не вынесу, если с вами что-то случится..."
+},
+{
+"ru": "Прошу, бросьте это опасное дело и возьмите меня с собой... ... Приходите как-нибудь... Я всегда буду ждать здесь..."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 737,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"...All this time,",
+"I've worked hard to be number one...",
+"I feel you somehow understood how I feel...",
+"That's the feeling I get..."
+],
+"jp": "・・・うちは今まで / 一番になるために がんばってきました・・・ / ぬしさんにはうちの気持ち・・・ なんとのうわかってもろた・・・ / そんな気がします・・・",
+"choice": null,
+"context": [
+{
+"ru": "Прошу... Берегите себя ради меня...! Вы... вы должны... Я не вынесу, если с вами что-то случится..."
+},
+{
+"ru": "Прошу, бросьте это опасное дело и возьмите меня с собой... ... Приходите как-нибудь... Я всегда буду ждать здесь..."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 738,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"I never wanted to lose to anyone...",
+"That alone is what drove me this far.",
+"Your burning, fierce soul... I feel I understand it."
+],
+"jp": "人さまに負けとうない・・・ / その一心だけで うちはここまでがんばってきました / ぬしさんの熱く激しい魂・・・ うちにはわかるような気がします",
+"choice": null,
+"context": [
+{
+"ru": "Прошу... Берегите себя ради меня...! Вы... вы должны... Я не вынесу, если с вами что-то случится..."
+},
+{
+"ru": "Прошу, бросьте это опасное дело и возьмите меня с собой... ... Приходите как-нибудь... Я всегда буду ждать здесь..."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 739,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"Your warmth comes from a rich heart...",
+"For the first time... I've known the warmth of another person."
+],
+"jp": "ぬしさんのぬくもりは こころの豊かさ・・・ / うちは、うちは初めて・・・ 人の暖かさを知ることができました",
+"choice": null,
+"context": [
+{
+"ru": "Прошу, бросьте это опасное дело и возьмите меня с собой... ... Приходите как-нибудь... Я всегда буду ждать здесь..."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 740,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"I hate conflict... and yet, why?",
+"Why am I so drawn to your strength?"
+],
+"jp": "うちは争いごとが嫌い ・・・なのに、なのになぜ？ / どうしてぬしさんの強さに こんなに魅かれてしまうんどすか？",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Я... я понял."
+}
+]
+},
+{
+"id": 741,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"It wasn't you who was comforted, but me...",
+"Ah... I want your kindness all to myself..."
+],
+"jp": "なぐさめられたのは ぬしさんではなく、うちの方・・・ / ああ・・・ぬしさんの優しさ うちが独り占めしたい・・・",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Я... я понял."
+},
+{
+"ru": "Итак..."
+}
+]
+},
+{
+"id": 742,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"!?",
+"...Why?"
+],
+"jp": "！？ / ・・・どうして",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Я... я понял."
+},
+{
+"ru": "Итак..."
+}
+]
+},
+{
+"id": 743,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"...I'll... be waiting..."
+],
+"jp": "・・・・待って・・・ます・・・",
+"choice": null,
+"context": [
+{
+"ru": "Я... я понял."
+},
+{
+"ru": "Итак..."
+},
+{
+"self": true
+},
+{
+"ru": "Разве ты не погонишься за ним?"
+},
+{
+"ru": "Прошу, не сердитесь!"
+}
+]
+},
+{
+"id": 744,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"...I'll wait... forever."
+],
+"jp": "・・・いつまでも・・・待ってます",
+"choice": null,
+"context": [
+{
+"ru": "Итак..."
+},
+{
+"ru": "Разве ты не погонишься за ним?"
+},
+{
+"self": true
+},
+{
+"ru": "Прошу, не сердитесь!"
+}
+]
+},
+{
+"id": 745,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"...No."
+],
+"jp": "・・・いえ",
+"choice": null,
+"context": [
+{
+"ru": "Разве ты не погонишься за ним?"
+},
+{
+"ru": "Прошу, не сердитесь!"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 746,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"I want to... live strong, too...",
+"Like you..."
+],
+"jp": "あたしも・・・強く生きたい・・・ / あなたのように・・・",
+"choice": null,
+"context": [
+{
+"ru": "Разве ты не погонишься за ним?"
+},
+{
+"ru": "Прошу, не сердитесь!"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 747,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"I don't want to forget... your... kindness..."
+],
+"jp": "忘れたくない・・・の あなたの・・・優しさ・・・",
+"choice": null,
+"context": [
+{
+"ru": "Прошу, не сердитесь!"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 748,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"......",
+"I'll... put out the light..."
+],
+"jp": "・・・・・・ / 明かり・・・消します・・",
+"choice": null,
+"context": [
+{
+"ru": "Прошу, не сердитесь!"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 749,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"......",
+"Because... I feel sick..."
+],
+"jp": "・・・・・・ / 気分・・・悪いから・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 750,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"I... I see...",
+"You needn't be in such a hurry..."
+],
+"jp": "そ・・・そうどすか・・・ / そんなにお急ぎにならんでも・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 751,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"Next time I'll have more good sake ready for you...",
+"Please, be sure to come back..."
+],
+"jp": "この次もおいしいお酒を 用意しときますさかい・・・ / 必ず来ておくれやす・・・",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Да... только притушу фонарь..."
+}
+]
+},
+{
+"id": 752,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"...Perhaps it wasn't meant to be... No, I'll give up.",
+"Well then..."
+],
+"jp": "・・・ご縁がなかったんどすかなぁ ・・・いえ、あきらめます / それでは・・・",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Да... только притушу фонарь..."
+}
+]
+},
+{
+"id": 753,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"...I wished I could stay by your side a little longer..."
+],
+"jp": "・・・もう少しおそばに おりたかったんどすけど・・・",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Да... только притушу фонарь..."
+}
+]
+},
+{
+"id": 754,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"Truly...?",
+"Please don't forget me."
+],
+"jp": "ほんまどすか・・・ / うちのこと 忘れんとってくださいね",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Да... только притушу фонарь..."
+},
+{
+"ru": "Вот как? Что ж, заходите в любое время."
+}
+]
+},
+{
+"id": 755,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"...... ......",
+"Talking with you was so fun... I drank too much...",
+"Let's continue this next time."
+],
+"jp": "・・・・・・ ・・・・・・ / ぬしさんとの話が楽しゅうて ・・・つい飲みすぎて・・・ / この続きは、今度にいたしましょう",
+"choice": null,
+"context": [
+{
+"ru": "Да... только притушу фонарь..."
+},
+{
+"self": true
+},
+{
+"ru": "Вот как? Что ж, заходите в любое время."
+}
+]
+},
+{
+"id": 756,
+"file": "FLD/F_KAS1.BIN",
+"pages": [
+"Oh... but it's still..."
+],
+"jp": "えっ・・・まだ・・・",
+"choice": null,
+"context": [
+{
+"ru": "Да... только притушу фонарь..."
+},
+{
+"self": true
+},
+{
+"ru": "Вот как? Что ж, заходите в любое время."
+}
+]
+},
+{
+"id": 757,
+"file": "FLD/F_KAS2.BIN",
+"pages": [
+"Heh heh heh... Not bad at all...",
+"But with skills like that, you'll never match Lord Amakusa...",
+"Now then... let me make you give u-p..."
+],
+"jp": "ふふふふ・・・ 結構やるじゃない・・・ / でも、その程度の腕ではとうてい 天草様にかなわないわよ・・・ / さあ・・・ あきらめさせてあ・げ・る・・・",
+"choice": null,
+"context": [
+{
+"ru": "Получена шпилька..."
+},
+{
+"ru": "Получен герб..."
+},
+{
+"ru": "Чудовища здесь все время оживают... А вместе с ними возвращаются и сокровища."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 758,
+"file": "FLD/F_KAS2.BIN",
+"pages": [
+"The treasure chest was empty...",
+"{NAME} could only stare emptily at the sky."
+],
+"jp": "宝箱は空っぽだった・・・ / {NAME}は空しく 空を見つめるばかりだった",
+"choice": null,
+"context": [
+{
+"ru": "Получена шпилька..."
+},
+{
+"ru": "Получен герб..."
+},
+{
+"ru": "Чудовища здесь все время оживают... А вместе с ними возвращаются и сокровища."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 759,
+"file": "FLD/F_KAS2.BIN",
+"pages": [
+"You! How did you get here?! You broke Tokihime's barrier?"
+],
+"jp": "貴様たち、どうしてここへ！？ 時姫の結界を破ったというのか？",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Усивака! Что ты задумала?"
+},
+{
+"ru": "Что ты замышляешь, мерзкая демоница?"
+},
+{
+"ru": "Усивака! Чего ты здесь добиваешься?!"
+}
+]
+},
+{
+"id": 760,
+"file": "FLD/F_KAS2.BIN",
+"pages": [
+"I see... Princess Ushiwaka, if you are here,",
+"then you are indeed behind the trouble in town."
+],
+"jp": "なるほど・・・牛若姫 あなたがここにいるということは / 町の騒ぎは　やはり あなたが元凶のようだな",
+"choice": null,
+"context": [
+{
+"ru": "Усивака! Что ты задумала?"
+},
+{
+"ru": "Что ты замышляешь, мерзкая демоница?"
+},
+{
+"self": true
+},
+{
+"ru": "Усивака! Чего ты здесь добиваешься?!"
+},
+{
+"ru": "Вы видели город...? Сила Ада меняет людей. А сила, которую я здесь призову, преобразит всю Японию! Но сперва..."
+}
+]
+},
+{
+"id": 761,
+"file": "FLD/F_KAS2.BIN",
+"pages": [
+"You're Princess Ushiwaka!",
+"What were you doing in a place like this?"
+],
+"jp": "あなたは、牛若姫！ / こんなところで いったい何をしていたというの？",
+"choice": null,
+"context": [
+{
+"ru": "Усивака! Что ты задумала?"
+},
+{
+"ru": "Что ты замышляешь, мерзкая демоница?"
+},
+{
+"ru": "Усивака! Чего ты здесь добиваешься?!"
+},
+{
+"self": true
+},
+{
+"ru": "Вы видели город...? Сила Ада меняет людей. А сила, которую я здесь призову, преобразит всю Японию! Но сперва..."
+},
+{
+"ru": "Позвольте показать вам... дар, полученный мной от лорда Амакусы!"
+},
+{
+"ru": "Ха-ха-ха-ха-ха! Теперь вы понимаете мою силу?"
+}
+]
+},
+{
+"id": 762,
+"file": "FLD/F_KAS2.BIN",
+"pages": [
+"Aaaah! It's YOOOU!",
+"We beat you once, Ushiwaka! You don't quit, huh!",
+"What bad stuff are you up to now?!"
+],
+"jp": "あぁぁぁ！ オマエはぁぁぁぁ！ / 一度やッつけたのに 牛若、オマエしつこいゾ！ / 今度はどンな 悪いことしてるンだ！",
+"choice": null,
+"context": [
+{
+"ru": "Что ты замышляешь, мерзкая демоница?"
+},
+{
+"ru": "Усивака! Чего ты здесь добиваешься?!"
+},
+{
+"self": true
+},
+{
+"ru": "Вы видели город...? Сила Ада меняет людей. А сила, которую я здесь призову, преобразит всю Японию! Но сперва..."
+},
+{
+"ru": "Позвольте показать вам... дар, полученный мной от лорда Амакусы!"
+},
+{
+"ru": "Ха-ха-ха-ха-ха! Теперь вы понимаете мою силу?"
+}
+]
+},
+{
+"id": 763,
+"file": "FLD/F_KAS2.BIN",
+"pages": [
+"Ufufufufufu..."
+],
+"jp": "うふふふふふふ・・・・",
+"choice": null,
+"context": [
+{
+"ru": "Что?!"
+},
+{
+"ru": "А-а-а-а-а-а-а-а-аргх!"
+},
+{
+"ru": "Будь ты проклят... Будь проклят!!"
+},
+{
+"self": true
+},
+{
+"ru": "Ах... у меня здесь так редко бывают гости."
+},
+{
+"ru": "Прошу, зовите меня Еми. Я живу здесь, в Югэнке."
+},
+{
+"ru": "Югэнке? Тогда... это не тот Совершенный цветок, что я ищу."
+}
+]
+},
+{
+"id": 764,
+"file": "FLD/F_KAS2.BIN",
+"pages": [
+"Wait! I sense Amakusa's evil aura!",
+"Be careful!"
+],
+"jp": "待て！ 天草の邪悪な波動を感じる！ / 気をつけろ！",
+"choice": null,
+"context": [
+{
+"ru": "Ты будешь моим!"
+},
+{
+"ru": "Да, я бы с радостью... однако мое сердце принадлежит другой. Боюсь, мне пора, так что позвольте откланяться."
+},
+{
+"ru": "Моя сила не даст тебе вернуться!"
+},
+{
+"self": true
+},
+{
+"ru": "Ад не знает ярости и так далее. Тьфу-тьфу-тьфу, хе!"
+}
+]
+},
+{
+"id": 765,
+"file": "FLD/F_KAS2.BIN",
+"pages": [
+"You mean to go to Amakusa?! You won't escape!"
+],
+"jp": "天草の元へ行くつもりか！？ 逃がさん！",
+"choice": null,
+"context": [
+{
+"ru": "Ты будешь моим!"
+},
+{
+"ru": "Да, я бы с радостью... однако мое сердце принадлежит другой. Боюсь, мне пора, так что позвольте откланяться."
+},
+{
+"ru": "Моя сила не даст тебе вернуться!"
+},
+{
+"self": true
+},
+{
+"ru": "Ад не знает ярости и так далее. Тьфу-тьфу-тьфу, хе!"
+}
+]
+},
+{
+"id": 766,
+"file": "FLD/F_KAS2.BIN",
+"pages": [
+"Don't rush! These flower thorns look painful.",
+"Go carefully!"
+],
+"jp": "あわてるな！ この花のトゲは痛そうじゃ / 心して行け！",
+"choice": null,
+"context": [
+{
+"ru": "Да, я бы с радостью... однако мое сердце принадлежит другой. Боюсь, мне пора, так что позвольте откланяться."
+},
+{
+"ru": "Моя сила не даст тебе вернуться!"
+},
+{
+"self": true
+},
+{
+"ru": "Ад не знает ярости и так далее. Тьфу-тьфу-тьфу, хе!"
+},
+{
+"ru": "Стоп! Не думал, что окажусь в таком месте...!"
+}
+]
+},
+{
+"id": 767,
+"file": "FLD/F_KAS2.BIN",
+"pages": [
+"Wait! This demon Amakusa has unfathomable power.",
+"Do not underestimate him!"
+],
+"jp": "待たれよ！ 天草なる魔物、底知れぬ力だ / あなどってはならん！",
+"choice": null,
+"context": [
+{
+"ru": "Ад не знает ярости и так далее. Тьфу-тьфу-тьфу, хе!"
+},
+{
+"self": true
+},
+{
+"ru": "Стоп! Не думал, что окажусь в таком месте...!"
+},
+{
+"ru": "Ну и мерзкая же баба! Еще увидимся!"
+},
+{
+"ru": "Ха-ха-ха-ха-ха-ха! Я слышу! Я слышу голос Амакусы!"
+}
+]
+},
+{
+"id": 768,
+"file": "FLD/F_KAS2.BIN",
+"pages": [
+"Couldn't finish me off? Farewell!"
+],
+"jp": "とどめを刺せなかったか？ さらばだ！",
+"choice": null,
+"context": [
+{
+"ru": "Ад не знает ярости и так далее. Тьфу-тьфу-тьфу, хе!"
+},
+{
+"self": true
+},
+{
+"ru": "Стоп! Не думал, что окажусь в таком месте...!"
+},
+{
+"ru": "Ну и мерзкая же баба! Еще увидимся!"
+},
+{
+"ru": "Ха-ха-ха-ха-ха-ха! Я слышу! Я слышу голос Амакусы!"
+}
+]
+},
+{
+"id": 769,
+"file": "FLD/F_KAS2.BIN",
+"pages": [
+"Hmph... It fled...",
+"With wounds that deep, it'll die anyway."
+],
+"jp": "ふん・・・ 逃げたか・・・ / あの深手では くたばるだろうが",
+"choice": null,
+"context": [
+{
+"ru": "Неужели и это дело рук Амакусы? Прощайте!"
+},
+{
+"ru": "Ну что ж...! Вы ощутите всю силу... моей ненависти к замку Эдо!"
+},
+{
+"ru": "Получилось? Злая энергия вокруг вроде бы исчезла..."
+},
+{
+"self": true
+},
+{
+"ru": "Получилось...? Я чувствую, что темной силы Усиваки больше нет... Теперь Мать-природа очистит это место от скверны..."
+},
+{
+"ru": "А? Разве тут не должно быть тела? Ну и ладно! Теперь с горожанами все будет в порядке!"
+}
+]
+},
+{
+"id": 770,
+"file": "FLD/F_KAS2.BIN",
+"pages": [
+"...It escaped? It can't get far with that wound.",
+"No matter. Osaka should return to normal now."
+],
+"jp": "・・・逃げられたか？ あの傷では遠くまで行けまいが / まあ良かろう 大阪の町も、これで元に戻るはずだ",
+"choice": null,
+"context": [
+{
+"ru": "Неужели и это дело рук Амакусы? Прощайте!"
+},
+{
+"ru": "Ну что ж...! Вы ощутите всю силу... моей ненависти к замку Эдо!"
+},
+{
+"ru": "Получилось? Злая энергия вокруг вроде бы исчезла..."
+},
+{
+"self": true
+},
+{
+"ru": "Получилось...? Я чувствую, что темной силы Усиваки больше нет... Теперь Мать-природа очистит это место от скверны..."
+},
+{
+"ru": "А? Разве тут не должно быть тела? Ну и ладно! Теперь с горожанами все будет в порядке!"
+}
+]
+},
+{
+"id": 771,
+"file": "FLD/F_KAS2.BIN",
+"pages": [
+"DAMN! Did it get away...?",
+"Oh well, the people of Osaka should be free of Hell's power now!"
+],
+"jp": "ＳＨＩＴ！　逃がしたか・・・？ / まあいい、これで大阪の人たちも 魔界の力から解放されるはずだ！",
+"choice": null,
+"context": [
+{
+"ru": "Ну что ж...! Вы ощутите всю силу... моей ненависти к замку Эдо!"
+},
+{
+"ru": "Получилось? Злая энергия вокруг вроде бы исчезла..."
+},
+{
+"self": true
+},
+{
+"ru": "Получилось...? Я чувствую, что темной силы Усиваки больше нет... Теперь Мать-природа очистит это место от скверны..."
+},
+{
+"ru": "А? Разве тут не должно быть тела? Ну и ладно! Теперь с горожанами все будет в порядке!"
+},
+{
+"ru": "Прошу прощения, но подождите здесь минутку."
+}
+]
+},
+{
+"id": 772,
+"file": "FLD/F_KAS2.BIN",
+"pages": [
+"You! How did you get in here?!",
+"Someone like you broke through Tokihime's barrier?"
+],
+"jp": "おまえかッ！どうしてここへ！？ / おまえごときが 時姫の結界を破ったというのか？",
+"choice": null,
+"context": [
+{
+"ru": "Получилось...? Я чувствую, что темной силы Усиваки больше нет... Теперь Мать-природа очистит это место от скверны..."
+},
+{
+"ru": "А? Разве тут не должно быть тела? Ну и ладно! Теперь с горожанами все будет в порядке!"
+},
+{
+"self": true
+},
+{
+"ru": "Прошу прощения, но подождите здесь минутку."
+},
+{
+"ru": "Ах, какой же вы прекрасный мужчина..."
+},
+{
+"ru": "Прошу, сюда..."
+}
+]
+},
+{
+"id": 773,
+"file": "FLD/F_KAS2.BIN",
+"pages": [
+"...Is running our only option..."
+],
+"jp": "・・・逃げるしかないのか・・・",
+"choice": null,
+"context": [
+{
+"ru": "Неужели это... Совершенный цветок?"
+},
+{
+"ru": "Нет... не он... хм?"
+},
+{
+"ru": "Значит... она и правда бессмертна...?"
+},
+{
+"self": true
+},
+{
+"ru": "...Не может быть...?"
+},
+{
+"ru": "Получено яблоко Еми!"
+}
+]
+},
+{
+"id": 774,
+"file": "FLD/F_KAS2.BIN",
+"pages": [
+"Heh... It seems I am being toyed with..."
+],
+"jp": "ふふ・・・私は もて遊ばれているらしいな・・・",
+"choice": null,
+"context": [
+{
+"ru": "Неужели это... Совершенный цветок?"
+},
+{
+"ru": "Нет... не он... хм?"
+},
+{
+"ru": "Значит... она и правда бессмертна...?"
+},
+{
+"self": true
+},
+{
+"ru": "...Не может быть...?"
+},
+{
+"ru": "Получено яблоко Еми!"
+},
+{
+"ru": "Привет!"
+}
+]
+},
+{
+"id": 775,
+"file": "FLD/F_KAS2.BIN",
+"pages": [
+"Ufufu... How troublesome. If you'd only obeyed from the start,",
+"you wouldn't have had to suffer...",
+"Oh my... your heart has already stopped, hasn't it...",
+"Don't worry... I'll stay by your side,",
+"my darling, until the very, very end..."
+],
+"jp": "うふふ・・・困った方ね・・・ 最初から素直に従って下されば / 痛い思いをさせないで すみましたのに・・・ / まあ・・・もう心の臓が止まって おしまいになったのね・・・ / 安心して下さいな・・・ わたくしは最後の最後まで / 愛しいあなたの おそばにおりますから・・・",
+"choice": null,
+"context": [
+{
+"ru": "...Не может быть...?"
+},
+{
+"ru": "Получено яблоко Еми!"
+},
+{
+"self": true
+},
+{
+"ru": "Привет!"
+},
+{
+"ru": "Я, может, кто угодно, но долги я плачу!"
+},
+{
+"ru": "Ну вот, теперь мы квиты! Бывай!"
+}
+]
+},
+{
+"id": 776,
+"file": "FLD/F_KAS2.BIN",
+"pages": [
+"Non! I won't let you cut down Haohmaru!"
+],
+"jp": "ノン！ 覇王丸を斬らせはしない！",
+"choice": null,
+"context": [
+{
+"ru": "Я всегда знал, что с тобой придется разобраться... Рано или поздно... Этот бой я должен принять один..."
+},
+{
+"ru": "Не лезьте!"
+},
+{
+"ru": "Меня устраивает! В прошлый раз нам помешали, но теперь решим все раз и навсегда!"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 777,
+"file": "FLD/F_KAS2.BIN",
+"pages": [
+"Stop! What are you thinking?!"
+],
+"jp": "やめて！ なんて事を考えているの！",
+"choice": null,
+"context": [
+{
+"ru": "Я всегда знал, что с тобой придется разобраться... Рано или поздно... Этот бой я должен принять один..."
+},
+{
+"ru": "Не лезьте!"
+},
+{
+"ru": "Меня устраивает! В прошлый раз нам помешали, но теперь решим все раз и навсегда!"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 778,
+"file": "FLD/F_KAS2.BIN",
+"pages": [
+"What?! Haohmaru, I shall lend you my aid!"
+],
+"jp": "なんと！ 覇王丸、助太刀いたすぞ！",
+"choice": null,
+"context": [
+{
+"ru": "Не лезьте!"
+},
+{
+"ru": "Меня устраивает! В прошлый раз нам помешали, но теперь решим все раз и навсегда!"
+},
+{
+"self": true
+},
+{
+"ru": "Добро пожаловать в зал испытаний гадателей! Здесь три испытания, по одному на этаж. Вот первое: вы должны... победить этих противников!"
+}
+]
+},
+{
+"id": 779,
+"file": "FLD/F_KAS2.BIN",
+"pages": [
+"Hey, YOU! If you're going to cut down Haohmaru,",
+"Galford won't just stand by!"
+],
+"jp": "ヘイ、ＹＯＵ！ 覇王丸を斬ると言うなら / このガルフォードが 黙っちゃいないぜ！",
+"choice": null,
+"context": [
+{
+"ru": "Меня устраивает! В прошлый раз нам помешали, но теперь решим все раз и навсегда!"
+},
+{
+"self": true
+},
+{
+"ru": "Добро пожаловать в зал испытаний гадателей! Здесь три испытания, по одному на этаж. Вот первое: вы должны... победить этих противников!"
+},
+{
+"ru": "Отлично... Тогда прошу, поднимайтесь на второй этаж!"
+}
+]
+},
+{
+"id": 780,
+"file": "FLD/F_KAS2.BIN",
+"pages": [
+"Haohmaru! Oh no, no fighting!"
+],
+"jp": "覇王丸さん！ ああんっ、ケンカはだめだよぉ！",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Добро пожаловать в зал испытаний гадателей! Здесь три испытания, по одному на этаж. Вот первое: вы должны... победить этих противников!"
+},
+{
+"ru": "Отлично... Тогда прошу, поднимайтесь на второй этаж!"
+},
+{
+"ru": "Сдаетесь? Что ж, возвращайтесь, если передумаете..."
+}
+]
+},
+{
+"id": 781,
+"file": "FLD/F_KAS2.BIN",
+"pages": [
+"In that case... I, Tachibana Ukyo,",
+"will not stand by and watch!"
+],
+"jp": "そういうことなら ・・・この橘右京 / 黙って見てはいない！",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Добро пожаловать в зал испытаний гадателей! Здесь три испытания, по одному на этаж. Вот первое: вы должны... победить этих противников!"
+},
+{
+"ru": "Отлично... Тогда прошу, поднимайтесь на второй этаж!"
+},
+{
+"ru": "Сдаетесь? Что ж, возвращайтесь, если передумаете..."
+}
+]
+},
+{
+"id": 782,
+"file": "FLD/F_KAS2.BIN",
+"pages": [
+"...Someday, somewhere, let's have our fight,",
+"without you relying on that dark power."
+],
+"jp": "・・・暗黒の力に頼らない おまえとの戦いを / いつか、どこかでつけようぜ",
+"choice": null,
+"context": [
+{
+"ru": "Как... Как я мог проиграть...?"
+},
+{
+"ru": "Гэндзюро... Тьма сделала тебя сильнее... Но разве эта сила по-настоящему твоя...? Знаешь... так тебе меня не одолеть."
+},
+{
+"ru": "Просто убей меня!"
+},
+{
+"self": true
+},
+{
+"ru": "... Пошли."
+},
+{
+"ru": "Хаомару... Я не забуду этот день... Клянусь... Однажды... Ты пожалеешь, что пощадил меня..."
+}
+]
+},
+{
+"id": 783,
+"file": "FLD/F_KAS2.BIN",
+"pages": [
+"See ya!"
+],
+"jp": "あばよ！",
+"choice": null,
+"context": [
+{
+"ru": "Гэндзюро... Тьма сделала тебя сильнее... Но разве эта сила по-настоящему твоя...? Знаешь... так тебе меня не одолеть."
+},
+{
+"ru": "Просто убей меня!"
+},
+{
+"self": true
+},
+{
+"ru": "... Пошли."
+},
+{
+"ru": "Хаомару... Я не забуду этот день... Клянусь... Однажды... Ты пожалеешь, что пощадил меня..."
+},
+{
+"ru": "Кто здесь? Сюда никому нельзя! В этих глубинах запечатана великая темная сила! Немедленно уходите!"
+}
+]
+},
+{
+"id": 784,
+"file": "FLD/F_KAS2.BIN",
+"pages": [
+"Eeeeeek!"
+],
+"jp": "ひぇぇぇぇぇっ！",
+"choice": null,
+"context": [
+{
+"ru": "Да неужели... Интересно звучит."
+},
+{
+"ru": "Что ты говоришь?! Ни одному человеку не совладать с этой силой!"
+},
+{
+"ru": "С дороги! Встанешь на пути - выпотрошу, как рыбу!"
+},
+{
+"self": true
+},
+{
+"ru": "Ни одному человеку не совладать... Какая напыщенная чушь. Она под землей?"
+},
+{
+"ru": "Она где-то здесь, внизу... Я чую эту силу..."
+},
+{
+"ru": "Я есть сила. Освободи мою силу. Прими мою силу."
+}
+]
+},
+{
+"id": 785,
+"file": "FLD/F_KAS2.BIN",
+"pages": [
+"What?! Are you a bad guy?!"
+],
+"jp": "なんだッてぇ！ オマエ、悪いヤツなのかぁ！",
+"choice": null,
+"context": [
+{
+"ru": "Не знаю, где ты ее взял, но эта храмовая веревка служит для того, чтобы запечатывать силу тьмы. Сами мы не смеем бороться с ней напрямую. Прошу, обращайся с ней предельно бережно..."
+},
+{
+"ru": "... Хмф..."
+},
+{
+"ru": "Зачем вы мне мешаете?! Я хочу этой силой одолеть силы Ада!"
+},
+{
+"self": true
+},
+{
+"ru": "Похоже... тебе это просто не по зубам, а?"
+},
+{
+"ru": "Я не сдамся сейчас!"
+},
+{
+"ru": "Темная сила...? Что ты натворил, Гэндзюро?!"
+}
+]
+},
+{
+"id": 786,
+"file": "FLD/F_KAS2.BIN",
+"pages": [
+"Hehehehe... Foolish human.",
+"As thanks for breaking my seal, I'll spare your life.",
+"I must first take my revenge on the onmyoji.",
+"Fuhahahaha! Now, onmyoji!",
+"Behold the power of darkness!"
+],
+"jp": "フフフフ・・・愚かな人間よ / 封印を解いてくれた礼に 命だけは取らずにおいてやろう / 陰陽師どもへの復讐という用事を 先に済まさねばならぬからな / フハハハハハ！ さあ、陰陽師ども！ / 暗黒の力・・・ 思い知らせてくれるぞ！",
+"choice": null,
+"context": [
+{
+"ru": "Я не сдамся сейчас!"
+},
+{
+"ru": "Темная сила...? Что ты натворил, Гэндзюро?!"
+},
+{
+"ru": "... Хмф..."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 787,
+"file": "FLD/F_KAS2.BIN",
+"pages": [
+"Haohmaru learned the ultimate secret art",
+"'Tenha Rekkuu Zan'!"
+],
+"jp": "覇王丸は超必殺奥義 / 「天覇烈空斬」を 会得した！",
+"choice": null,
+"context": [
+{
+"ru": "Я не сдамся сейчас!"
+},
+{
+"ru": "Темная сила...? Что ты натворил, Гэндзюро?!"
+},
+{
+"ru": "... Хмф..."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 788,
+"file": "FLD/F_KAS2.BIN",
+"pages": [
+"Nakoruru learned the ultimate secret art",
+"'Nupeki Kanto Shikite'!"
+],
+"jp": "ナコルルは超必殺奥義 / 「ヌペキ　カント　シキテ」を 会得した！",
+"choice": null,
+"context": [
+{
+"ru": "Темная сила...? Что ты натворил, Гэндзюро?!"
+},
+{
+"ru": "... Хмф..."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 789,
+"file": "FLD/F_KAS2.BIN",
+"pages": [
+"Galford learned the ultimate secret art",
+"'Double Giga Strike Heads'!"
+],
+"jp": "ガルフォードは超必殺奥義 / 「ダブルギガストライクヘッズ」を 会得した！",
+"choice": null,
+"context": [
+{
+"ru": "... Хмф..."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 790,
+"file": "FLD/F_KAS2.BIN",
+"pages": [
+"Ukyo learned the ultimate secret art",
+"'Muso Zanko Kasumi'!"
+],
+"jp": "橘右京は超必殺奥義 / 「夢想残光霞」を 会得した！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 791,
+"file": "FLD/F_KAS2.BIN",
+"pages": [
+"Genjuro learned the ultimate secret art",
+"'Ura Goko'!"
+],
+"jp": "牙神幻十郎は超必殺奥義 / 「裏五光」を 会得した！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+}
+]

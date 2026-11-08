@@ -1,0 +1,4407 @@
+[
+{
+"id": 990,
+"file": "FLD/F_KAS2.BIN",
+"pages": [
+"A hit! {NAME} won 80GP!"
+],
+"jp": "的中！　{NAME}は ８０金を稼いだ！",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Получено "
+}
+]
+},
+{
+"id": 991,
+"file": "FLD/F_KAS2.BIN",
+"pages": [
+"A hit! {NAME} won 160GP!"
+],
+"jp": "的中！　{NAME}は １６０金を稼いだ！",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Получено "
+},
+{
+"ru": "Получено "
+}
+]
+},
+{
+"id": 992,
+"file": "FLD/F_KAS2.BIN",
+"pages": [
+"A hit! {NAME} won 320GP!"
+],
+"jp": "的中！　{NAME}は ３２０金を稼いだ！",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Получено "
+},
+{
+"ru": "Получено "
+},
+{
+"ru": "Получено "
+}
+]
+},
+{
+"id": 993,
+"file": "FLD/F_KAS2.BIN",
+"pages": [
+"A hit! {NAME} won 640GP!"
+],
+"jp": "的中！　{NAME}は ６４０金を稼いだ！",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Получено "
+},
+{
+"ru": "Получено "
+},
+{
+"ru": "Получено "
+}
+]
+},
+{
+"id": 994,
+"file": "FLD/F_KAS2.BIN",
+"pages": [
+"Received 1280GP for your trouble..."
+],
+"jp": "迷惑料１２８０金を 受け取った・・・",
+"choice": null,
+"context": [
+{
+"ru": "Получено "
+},
+{
+"ru": "Получено "
+},
+{
+"ru": "Получено "
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 995,
+"file": "FLD/F_KAS2.BIN",
+"pages": [
+"Bets start at 40GP."
+],
+"jp": "賭け金は４０金からで 行きますよ",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 996,
+"file": "FLD/F_KAS2.BIN",
+"pages": [
+"Grr... Not fair...",
+"The next bet is 80GP!"
+],
+"jp": "悔しいッ・・・ / 次の賭け金は８０金だよ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 997,
+"file": "FLD/F_KAS2.BIN",
+"pages": [
+"This time I'm playing for real...",
+"The next bet is 160GP!"
+],
+"jp": "今度は本気出すよ・・・ / 次の賭け金は１６０金だよ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 998,
+"file": "FLD/F_KAS2.BIN",
+"pages": [
+"What's going on here...? Fine, I'll win it back next round!",
+"The bet is 320GP!"
+],
+"jp": "どうなってんだい・・・？ ええい、次で取り返すよ / 賭け金は３２０金だ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 999,
+"file": "FLD/F_KAS2.BIN",
+"pages": [
+"...Are you a pro or something? All right, this is the final round.",
+"The bet is 640GP!"
+],
+"jp": "・・・お客人、くろうとさんかい？ こうなったら最後の勝負さ / 賭け金は６４０金だよ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1000,
+"file": "FLD/F_KAS2.BIN",
+"pages": [
+"Is that all right with you?"
+],
+"jp": "これでよろしいの？",
+"choice": null,
+"context": [
+{
+"ru": "Сколько продадите?"
+},
+{
+"ru": "Большое спасибо..."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 1001,
+"file": "FLD/F_KAS2.BIN",
+"pages": [
+"Traveler! First one through the Iga checkpoint in ages!",
+"Listen to this!",
+"A huge demon came through here!",
+"Everyone's been saying there are monsters everywhere. It's true!",
+"It flew off toward Ise!"
+],
+"jp": "久しぶりに この伊賀の関所を通る旅人よ / 聞いてくれ！ / スッゲェ魔物がここ通ったのよ！ / 西も東も今や魔物だ、化け物だ って騒いでるけど、本当なんだな！ / 伊勢の方にすっ飛んで行ったよ！",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"en": "Looks like... your pass is good. / So, you coming through? Yes No"
+},
+{
+"ru": "Они здесь! Демоны! Эх, как я хотел на них посмотреть! Слыхали? Потому все дороги к востоку от Исэ и закрыты..."
+},
+{
+"ru": "Это было невероятно, говорю вам! Огромный демон летел в Киото... Что, вы уже знаете? . . . . . ."
+}
+]
+},
+{
+"id": 1002,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"Once you leave through north town, you can only come back in through south town."
+],
+"jp": "この北町から外へ一度出ると 入るときは南町からしか入れないよ",
+"choice": null,
+"context": [
+{
+"ru": "Ходят слухи, что из Осаки давно нет вестей... И с запада тоже надвигается что-то странное."
+},
+{
+"ru": "Вы знаете об Амакусе Сиро? Правда, что демонами управляет он? Он ведь вроде умер лет сто назад, а то и больше."
+},
+{
+"ru": "Игорный дом наконец открылся, теперь можно повидать Оте! Но я, наверное, опять проиграюсь... ну и... ладно!"
+},
+{
+"self": true
+},
+{
+"ru": "Как чудесно... Не ожидал, что по возвращении Эдо окажется таким оживленным."
+},
+{
+"ru": "Интересно, уйдут ли когда-нибудь демоны из окрестностей..."
+},
+{
+"ru": "В последнее время в Эдо появился какой-то странный новый культ... Похоже, он приходит с запада, насколько я могу судить."
+}
+]
+},
+{
+"id": 1003,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"That is a fine weapon you carry...",
+"Your weapons are masterworks. The more you temper them,",
+"the higher their grade becomes...",
+"And the higher the grade, the sharper the blade!",
+"Whenever you find a blacksmith, visit often",
+"and have your weapons reforged."
+],
+"jp": "よい武器をお持ちじゃな・・・ / 貴公らの武器は業物ゆえ 鍛えれば鍛えるほど / 等級が上がっていく・・・ / 等級が高ければ もちろん切れ味も違うぞ！ / 鍛冶屋を見つけたら マメに通って / 鍛え直してもらうことだな",
+"choice": null,
+"context": [
+{
+"ru": "Эй! Да над тобой будто тень смерти нависла! Но купи доспехи у Онумы, и все будет в порядке!"
+},
+{
+"ru": "Если ищете театр, то вам сюда..."
+},
+{
+"ru": "Чего надо в такую пору?! Ой, простите... мы еще не открылись. Загляните, пожалуйста, попозже."
+},
+{
+"self": true
+},
+{
+"ru": "Хаомару!"
+},
+{
+"ru": "Накоруру...?"
+},
+{
+"ru": "Галфорд...!"
+}
+]
+},
+{
+"id": 1004,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"Ho ho ho...",
+"Let this old man appraise your weapons..."
+],
+"jp": "ふぉふぉふぉ・・・ / じいがそなたらの武器を 目利きしてやろう・・・",
+"choice": {
+"question": "Have your weapons appraised?",
+"options": [
+"Yes",
+"No"
+]
+},
+"context": [
+{
+"ru": "Эй! Да над тобой будто тень смерти нависла! Но купи доспехи у Онумы, и все будет в порядке!"
+},
+{
+"ru": "Если ищете театр, то вам сюда..."
+},
+{
+"ru": "Чего надо в такую пору?! Ой, простите... мы еще не открылись. Загляните, пожалуйста, попозже."
+},
+{
+"self": true
+},
+{
+"ru": "Хаомару!"
+},
+{
+"ru": "Накоруру...?"
+},
+{
+"ru": "Галфорд...!"
+}
+]
+},
+{
+"id": 1005,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"Hmm... Ukyo!"
+],
+"jp": "ふむ・・・ 右京よ",
+"choice": null,
+"context": [
+{
+"ru": "Хаомару!"
+},
+{
+"ru": "Накоруру...?"
+},
+{
+"ru": "Галфорд...!"
+},
+{
+"self": true
+},
+{
+"ru": "Это Чам-Чам..."
+},
+{
+"ru": "Мы идем, Шарлотта?"
+}
+]
+},
+{
+"id": 1006,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"Hmm... Genjuro!"
+],
+"jp": "ふむ・・・ 幻十郎よ",
+"choice": null,
+"context": [
+{
+"ru": "Хаомару!"
+},
+{
+"ru": "Накоруру...?"
+},
+{
+"ru": "Галфорд...!"
+},
+{
+"self": true
+},
+{
+"ru": "Это Чам-Чам..."
+},
+{
+"ru": "Мы идем, Шарлотта?"
+}
+]
+},
+{
+"id": 1007,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"Hmm... Kyoshiro!"
+],
+"jp": "ふむ・・・ 狂死郎よ",
+"choice": null,
+"context": [
+{
+"ru": "Это Чам-Чам..."
+},
+{
+"ru": "Мы идем, Шарлотта?"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 1008,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"Hmm... Rimururu!"
+],
+"jp": "ふむ・・・ リムルルよ",
+"choice": null,
+"context": [
+{
+"ru": "Это Чам-Чам..."
+},
+{
+"ru": "Мы идем, Шарлотта?"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 1009,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"This weapon is far too fine for your skill.",
+"...Take good care of it."
+],
+"jp": "この武器は お主の腕に過ぎたる一級品 / ・・・大事にする事じゃ",
+"choice": null,
+"context": [
+{
+"ru": "Это Чам-Чам..."
+},
+{
+"ru": "Мы идем, Шарлотта?"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 1010,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"For your skill, this is just about right.",
+"No need to temper it further."
+],
+"jp": "お主の腕では これぐらいがちょうどいいわい / 鍛える必要はないぞ",
+"choice": null,
+"context": [
+{
+"ru": "Мы идем, Шарлотта?"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 1011,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"I'd say you could raise its grade a bit more...",
+"Have a blacksmith reforge it for you..."
+],
+"jp": "もう少し等級を上げても いいと思うがのう・・・ / 鍛冶屋に頼んで 鍛え直してもらうといい・・・",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "О, это вы? Спасибо за то, что вы сделали в замке Эдо!"
+}
+]
+},
+{
+"id": 1012,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"They say the sword is the soul of the warrior...",
+"Treat your weapon with more care.",
+"Neglect it, and even a fine weapon",
+"won't show its true power!"
+],
+"jp": "刀は武士の魂という・・・ / もう少し 武器を大切にせい / 手入れをサボっとると せっかくの武器も / 力を発揮できぬぞ！",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "О, это вы? Спасибо за то, что вы сделали в замке Эдо!"
+},
+{
+"ru": "Простите, но мы очень заняты. Если нужно отдохнуть, зайдите на постоялый двор."
+}
+]
+},
+{
+"id": 1013,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"Listen. The weapon is the soul of the samurai.",
+"By raising not just your skill but your spirit,",
+"you will master ever stronger weapons.",
+"Stop by the blacksmith often."
+],
+"jp": "よいか、武器は サムライの魂じゃ / 技術だけでなく 精神の力を高めることによって / より強力な武器を 使いこなせるようになっていく / 鍛冶屋には マメに立ちよる事じゃな",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "О, это вы? Спасибо за то, что вы сделали в замке Эдо!"
+},
+{
+"ru": "Простите, но мы очень заняты. Если нужно отдохнуть, зайдите на постоялый двор."
+},
+{
+"ru": "Чудесно, правда? Какое счастье, что рядом такой хороший лекарь. Я тут все задерживаюсь дольше, чем следовало бы..."
+}
+]
+},
+{
+"id": 1014,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"Buying gear?",
+"Gear's useless if you can't equip it!",
+"When you buy, talk it over with the shop owner",
+"and buy something you can actually equip!",
+"Equipping gear changes",
+"your defense, speed, evasion, luck and so on.",
+"Some great items raise several stats at once,",
+"so use the Equip command on the menu screen",
+"and check what your new gear does reeeal carefully!"
+],
+"jp": "武具を買うのか？ / 武具は装備できなきゃ 意味がないんだぜ！ / 武具を買うときには 武具屋の親父とよく相談して / 装備できる武具を 買うことだな！ / 武具を装備すると / 防御力やすばやさ 回避率・運などが変化するんだ / 複数のパラメータが上昇する スグレ物もあるから / メニュー画面の 「装備」コマンドを使って / 買った武具の効能を よぉ～くチェックしておくことだな",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "О, это вы? Спасибо за то, что вы сделали в замке Эдо!"
+},
+{
+"ru": "Простите, но мы очень заняты. Если нужно отдохнуть, зайдите на постоялый двор."
+},
+{
+"ru": "Чудесно, правда? Какое счастье, что рядом такой хороший лекарь. Я тут все задерживаюсь дольше, чем следовало бы..."
+}
+]
+},
+{
+"id": 1015,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"What're you staring at...",
+"Hm? Maybe... you're a customer..."
+],
+"jp": "なぁにジロジロ 見てんだい・・・ / ん？　ひょっとして・・・ ・・・お客人・・・",
+"choice": {
+"question": "Here for the gambling den?",
+"options": [
+"Yes",
+"No"
+]
+},
+"context": [
+{
+"ru": "Тьфу."
+},
+{
+"ru": "В Эдо, похоже, снова спокойно... Почему бы не отдохнуть и не развлечься немного?"
+},
+{
+"ru": "И загляните потом в поместье Ягю... А пока позвольте откланяться."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 1016,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"Bah...",
+"Shoo, shoo! Get lost!"
+],
+"jp": "なんでえ・・・ / しっしっ あっちへ行きな！",
+"choice": null,
+"context": [
+{
+"ru": "Тьфу."
+},
+{
+"ru": "В Эдо, похоже, снова спокойно... Почему бы не отдохнуть и не развлечься немного?"
+},
+{
+"ru": "И загляните потом в поместье Ягю... А пока позвольте откланяться."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 1017,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"There's a 50GP entry fee, though...",
+"Care to... play a little?"
+],
+"jp": "テラ銭（入場料）が５０金 要るんだけどな・・・ / ちいと・・・ 遊んでみるかい？",
+"choice": {
+"question": "Enter the gambling den?",
+"options": [
+"Yes",
+"No"
+]
+},
+"context": [
+{
+"ru": "В Эдо, похоже, снова спокойно... Почему бы не отдохнуть и не развлечься немного?"
+},
+{
+"ru": "И загляните потом в поместье Ягю... А пока позвольте откланяться."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 1018,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"What, you think you can bet with no money?!",
+"Get lost! Shoo, shoo!"
+],
+"jp": "なんでぇ 鉄砲で張ろうたぁ！ / あっちへ行きな！ しっ、しっ",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1019,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"Well, if it isn't our guest! Playing again today?",
+"The entry fee is 50GP!"
+],
+"jp": "おや、お客人！ 今日も遊んでいきなさるかい？ / テラ銭は５０金ですぜ！",
+"choice": {
+"question": "Enter the gambling den?",
+"options": [
+"Yes",
+"No"
+]
+},
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1020,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"Is that so... What a shame.",
+"Come play some other time."
+],
+"jp": "そうですかい・・・ 残念だなあ / また今度 遊んでいっておくんなせい",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1021,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"Well, if it isn't {NAME}...",
+"Heh heh, I'm glad to see you...",
+"So... the usual, then?",
+"The entry fee is 50GP, as always!"
+],
+"jp": "{NAME}さんじゃ ないですか・・・ / へへっ、うれしいねぇ・・・ / じゃあ、いつものヤツ ・・・いきやすかい？ / テラ銭はいつも通り ５０金ですぜ！",
+"choice": {
+"question": "Enter the gambling den?",
+"options": [
+"Yes",
+"No"
+]
+},
+"context": [
+{
+"self": true
+},
+{
+"ru": "Значит...?!"
+}
+]
+},
+{
+"id": 1022,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"Ooh, your purse is looking pretty thin...",
+"Come back another time."
+],
+"jp": "おんや、ずいぶんと 不景気でやんすねぇ・・・ / また今度にして下さいな",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Значит...?!"
+}
+]
+},
+{
+"id": 1023,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"My friend...",
+"You can't have much fun with that little.",
+"Take my advice,",
+"and come back some other time."
+],
+"jp": "お客人・・・ / これっぽっちじゃ 十分に遊べませんぜ・・・ / 悪いことは言わねぇ / また出直してきた方が よござんすよ",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Значит...?!"
+},
+{
+"ru": "Скоро... не станет ни замка Эдо, ни сегуната... Близится день, когда замок лорда Амбры поднимется... высоко в небо..."
+}
+]
+},
+{
+"id": 1024,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"Well, our guest is back again...",
+"If you want to play, that's fine by me...",
+"Just no more trouble, please.",
+"The entry fee is 50GP, as always..."
+],
+"jp": "おやお客人・・・ また来なすったね / 張ろうってんなら よござんすよ・・・ / 騒動はもう 勘弁ですがね / テラ銭はいつも通り ５０金ですぜ・・・",
+"choice": {
+"question": "Enter the gambling den?",
+"options": [
+"Yes",
+"No"
+]
+},
+"context": [
+{
+"self": true
+},
+{
+"ru": "Значит...?!"
+},
+{
+"ru": "Скоро... не станет ни замка Эдо, ни сегуната... Близится день, когда замок лорда Амбры поднимется... высоко в небо..."
+},
+{
+"ru": "Лорд Амбра... Лорд Амбра..."
+}
+]
+},
+{
+"id": 1025,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"I've let bygones be bygones about the other day.",
+"Don't worry about it, just come and play!"
+],
+"jp": "こないだの事は もう水に流しやしたぜ / お気になさらず 遊んでいっておくんなせいよ！",
+"choice": null,
+"context": [
+{
+"ru": "Значит...?!"
+},
+{
+"self": true
+},
+{
+"ru": "Скоро... не станет ни замка Эдо, ни сегуната... Близится день, когда замок лорда Амбры поднимется... высоко в небо..."
+},
+{
+"ru": "Лорд Амбра... Лорд Амбра..."
+},
+{
+"ru": "Мир лорда Амбры грядет... Он придет..."
+}
+]
+},
+{
+"id": 1026,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"I'm busy making a kimono for Edo's town beauty,",
+"so I'm not taking orders from new customers.",
+"Sorry 'bout that."
+],
+"jp": "今は江戸小町はんの 晴着を作るのに手一杯で / 初めての方のご注文は お断りしてるんですわ / すんまへんな",
+"choice": null,
+"context": [
+{
+"ru": "В городе жизнь наладилась, но снаружи опасно. Если так пойдет, скоро случится что-то серьезное..."
+},
+{
+"ru": "Лекарь не любит возиться с теми, кто не болен."
+},
+{
+"ru": "Похоже, он у себя... ха-ха..."
+},
+{
+"self": true
+},
+{
+"ru": "Простите, все распродано... Ждем товар из главной лавки в Киото... Где? В северном квартале Киото... а что?"
+},
+{
+"ru": "Ах, нет места лучше северного Эдо! Нужны сведения - обращайся ко мне!"
+},
+{
+"ru": "Игорный дом открыт! Зазывала у входа уговорит поставить все... Но будь осторожен, не то останешься нищим!"
+}
+]
+},
+{
+"id": 1027,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"How much should I work on it?"
+],
+"jp": "どのくらい鍛えるんでぇ？",
+"choice": null,
+"context": [
+{
+"ru": "Чье оружие ковать?"
+},
+{
+"ru": "Вам это не по карману."
+},
+{
+"ru": "Уверены?"
+},
+{
+"self": true
+},
+{
+"ru": "Чью стихию менять?"
+},
+{
+"ru": "Какую стихию?"
+}
+]
+},
+{
+"id": 1028,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"All right, just a minute!"
+],
+"jp": "ようし、お待ちィ！",
+"choice": null,
+"context": [
+{
+"ru": "Вам это не по карману."
+},
+{
+"ru": "Уверены?"
+},
+{
+"self": true
+},
+{
+"ru": "Чью стихию менять?"
+},
+{
+"ru": "Какую стихию?"
+},
+{
+"ru": "Добро пожаловать!"
+}
+]
+},
+{
+"id": 1029,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"Nobody can equip that!"
+],
+"jp": "誰も装備できないよ！",
+"choice": null,
+"context": [
+{
+"ru": "Добро пожаловать!"
+},
+{
+"ru": "Чего желаете?"
+},
+{
+"ru": "Вам это не по карману."
+},
+{
+"self": true
+},
+{
+"ru": "Добро пожаловать!"
+}
+]
+},
+{
+"id": 1030,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"Want to equip it?"
+],
+"jp": "装備するかい？",
+"choice": null,
+"context": [
+{
+"ru": "Чего желаете?"
+},
+{
+"ru": "Вам это не по карману."
+},
+{
+"self": true
+},
+{
+"ru": "Добро пожаловать!"
+},
+{
+"ru": "Сколько вам нужно?"
+}
+]
+},
+{
+"id": 1031,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"Who's gonna equip it?"
+],
+"jp": "誰が装備するんでぇ？",
+"choice": null,
+"context": [
+{
+"ru": "Чего желаете?"
+},
+{
+"ru": "Вам это не по карману."
+},
+{
+"self": true
+},
+{
+"ru": "Добро пожаловать!"
+},
+{
+"ru": "Сколько вам нужно?"
+},
+{
+"ru": "Больше вам не унести."
+}
+]
+},
+{
+"id": 1032,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"Which one comes off?"
+],
+"jp": "どちらをはずすんでぇ？",
+"choice": null,
+"context": [
+{
+"ru": "Вам это не по карману."
+},
+{
+"self": true
+},
+{
+"ru": "Добро пожаловать!"
+},
+{
+"ru": "Сколько вам нужно?"
+},
+{
+"ru": "Больше вам не унести."
+}
+]
+},
+{
+"id": 1033,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"Your purse is full!"
+],
+"jp": "お金が一杯だぜ！",
+"choice": null,
+"context": [
+{
+"ru": "Больше вам не унести."
+},
+{
+"ru": "Что продаете?"
+},
+{
+"ru": "Сколько продадите?"
+},
+{
+"self": true
+},
+{
+"ru": "Приходите еще."
+}
+]
+},
+{
+"id": 1034,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"Hey! You've got nothing to sell!"
+],
+"jp": "おう！売るものがねぇぜ！",
+"choice": null,
+"context": [
+{
+"ru": "Что продаете?"
+},
+{
+"ru": "Сколько продадите?"
+},
+{
+"ru": "Приходите еще."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 1035,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"Taking the boat? Where to?"
+],
+"jp": "船に乗るってのかい？ どこに行くんだい",
+"choice": {
+"question": null,
+"options": [
+"Cancel",
+"Kamuy Harbor"
+]
+},
+"context": [
+{
+"self": true
+},
+{
+"ru": "Простите... но больше я ничем не могу помочь. Большое вам спасибо. Без пропуска не пройти заставу и не сесть на корабль... В городе творится что-то странное..."
+},
+{
+"ru": "Не буду больше вас беспокоить. С этих пор делай вид, что меня не знаешь, ладно? Понял... удачи! Спасибо!"
+},
+{
+"ru": "Чтобы подняться на борт, нужен пропуск. Есть у вас? Похоже, нет... Приходите, когда будет. Может, вам даст его мастер Ягю. Видно, сегунат сейчас не хочет, чтобы люди путешествовали."
+}
+]
+},
+{
+"id": 1036,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"So... where to?"
+],
+"jp": "で・・・ どこに行くんだい？",
+"choice": {
+"question": null,
+"options": [
+"Cancel",
+"Kamuy Harbor"
+]
+},
+"context": [
+{
+"ru": "Простите... но больше я ничем не могу помочь. Большое вам спасибо. Без пропуска не пройти заставу и не сесть на корабль... В городе творится что-то странное..."
+},
+{
+"ru": "Не буду больше вас беспокоить. С этих пор делай вид, что меня не знаешь, ладно? Понял... удачи! Спасибо!"
+},
+{
+"ru": "Чтобы подняться на борт, нужен пропуск. Есть у вас? Похоже, нет... Приходите, когда будет. Может, вам даст его мастер Ягю. Видно, сегунат сейчас не хочет, чтобы люди путешествовали."
+},
+{
+"self": true
+},
+{
+"ru": "В последнее время часто случаются мелкие землетрясения. И замок выглядит как-то странно. Он на севере. Только не сходить посмотреть - северные ворота закрыты. Интересно, что происходит...?"
+},
+{
+"ru": "Ура! Северный квартал наконец открыт! Пора гулять! Проклятье... я и забыл. У меня же ни гроша..."
+},
+{
+"ru": "Прибываем в порт Эдо!"
+}
+]
+},
+{
+"id": 1037,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"I told you this pass won't do, didn't I?",
+"Stowaways are on the rise, and the officials are cracking down..."
+],
+"jp": "この手形じゃあ ダメだっていったはすだぜ？ / 最近は密航が増えてきて お上もうるさくなったんだ・・・",
+"choice": null,
+"context": [
+{
+"ru": "Простите... но больше я ничем не могу помочь. Большое вам спасибо. Без пропуска не пройти заставу и не сесть на корабль... В городе творится что-то странное..."
+},
+{
+"ru": "Не буду больше вас беспокоить. С этих пор делай вид, что меня не знаешь, ладно? Понял... удачи! Спасибо!"
+},
+{
+"ru": "Чтобы подняться на борт, нужен пропуск. Есть у вас? Похоже, нет... Приходите, когда будет. Может, вам даст его мастер Ягю. Видно, сегунат сейчас не хочет, чтобы люди путешествовали."
+},
+{
+"self": true
+},
+{
+"ru": "В последнее время часто случаются мелкие землетрясения. И замок выглядит как-то странно. Он на севере. Только не сходить посмотреть - северные ворота закрыты. Интересно, что происходит...?"
+},
+{
+"ru": "Ура! Северный квартал наконец открыт! Пора гулять! Проклятье... я и забыл. У меня же ни гроша..."
+},
+{
+"ru": "Прибываем в порт Эдо!"
+}
+]
+},
+{
+"id": 1038,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"Going to Hakone? You can't pass the checkpoint without a pass.",
+"Besides, it's full of monsters outside town. There's even a demon at the west shrine!",
+"Even Master Hakudou the onmyoji can barely keep it sealed!",
+"Take my advice and don't go."
+],
+"jp": "箱根に行きなさるって？ 手形がないと関所は通れねぇぞ / それに、町の外は化け物だらけ 西のお社にも魔物がおるぐらいだ / 陰陽師の白道様でも 封じ込めるのが精一杯！ / 悪いことは言わねぇ やめておいた方がいいぜ",
+"choice": null,
+"context": [
+{
+"ru": "Поднять якорь...!!"
+},
+{
+"ru": "Все эти землетрясения... бр-р. Мне от них жутко. Даже не знаю, куда бежать в безопасное место."
+},
+{
+"ru": "Хорошо, что толчки наконец прекратились... Но говорят, демоны появляются и на западе. Что же сегунат со всем этим делает...?"
+},
+{
+"self": true
+},
+{
+"ru": "Толчки наконец прекратились. Я снова чувствую себя живым... Но все еще слышу рассказы о демонах за городом... Честное слово... что творится с этим миром?"
+},
+{
+"ru": "Ягю Дзюбэй? Да... усадьба Ягю в южном квартале Эдо. Самого господина Дзюбэя нет, за домом присматривает его паж. Может, расспросите паренька?"
+},
+{
+"ru": "В последнее время землетрясений все больше... Это наверняка проделки демонов... нужно поскорее их найти и избавиться от них..."
+}
+]
+},
+{
+"id": 1039,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"Near the harbor there's a place where skilled samurai gather,",
+"called the Samurai Bar, I hear...",
+"You look like you can handle yourself.",
+"Why not drop in and have a look?"
+],
+"jp": "港の近くに、スゴ腕の サムライばかりが集まっている / 「侍酒場」ってのが あるらしいね・・・ / 見たところ あんたも腕が立ちそうだ / どうだい、一度のぞいてみたら？",
+"choice": null,
+"context": [
+{
+"ru": "Так, слушай сюда... Никому не говори, что я тебя подвез, ладно? Босс с меня шкуру спустит, так что ты меня не знаешь, понял?"
+},
+{
+"ru": "Ну... ладно... наверное... Ну что, Пак-Пак! Идем искать Ягю Дзюбэя!"
+},
+{
+"ru": "Наконец я снова в южном Эдо... Слава богу... Но ведь снаружи еще бродят демоны?"
+},
+{
+"self": true
+},
+{
+"ru": "Хаомару... Я всегда буду молиться, чтобы ты был цел и невредим..."
+},
+{
+"ru": "Если ищете усадьбу Ягю, то вон она. Видите? Большой дом, прямо за углом."
+}
+]
+},
+{
+"id": 1040,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"...I shouldn't say this too loudly, but",
+"some strange teaching is spreading among the townsfolk...",
+"You'd better be careful."
+],
+"jp": "・・・大きな声では言えないが / 町民の間に怪しい教えが 広まっているらしい・・・ / 気をつけた方がいいぜ",
+"choice": null,
+"context": [
+{
+"ru": "Наконец я снова в южном Эдо... Слава богу... Но ведь снаружи еще бродят демоны?"
+},
+{
+"ru": "Хаомару... Я всегда буду молиться, чтобы ты был цел и невредим..."
+},
+{
+"ru": "Если ищете усадьбу Ягю, то вон она. Видите? Большой дом, прямо за углом."
+},
+{
+"self": true
+},
+{
+"ru": "У-а-а-а-а-а! Ма-а-амочка! Па-а-апочка! Где вы-ы-ы!! Не хочу играть в пря-я-ятки!!"
+},
+{
+"ru": "Ура-а-а! Землетрясений больше нет!"
+},
+{
+"ru": "Господин Дзюбэй побежал к замку! Горожане пытаются справиться с демонами... Но в основном просто убегают! А мне не страшно! Я крепкий!"
+}
+]
+},
+{
+"id": 1041,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"A learned old scholar lives northeast of Edo.",
+"Rumor has it he's...",
+"No, er... anyway, they say he knows a lot."
+],
+"jp": "江戸の北東に 物知りの老学者が住んでおるのだ / 噂では、あの・・・ / いや、うむ・・・ とにかく、物知りだそうだ",
+"choice": null,
+"context": [
+{
+"ru": "Хаомару... Я всегда буду молиться, чтобы ты был цел и невредим..."
+},
+{
+"ru": "Если ищете усадьбу Ягю, то вон она. Видите? Большой дом, прямо за углом."
+},
+{
+"self": true
+},
+{
+"ru": "У-а-а-а-а-а! Ма-а-амочка! Па-а-апочка! Где вы-ы-ы!! Не хочу играть в пря-я-ятки!!"
+},
+{
+"ru": "Ура-а-а! Землетрясений больше нет!"
+},
+{
+"ru": "Господин Дзюбэй побежал к замку! Горожане пытаются справиться с демонами... Но в основном просто убегают! А мне не страшно! Я крепкий!"
+}
+]
+},
+{
+"id": 1042,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"What? A pass...? I've got bigger problems right now!"
+],
+"jp": "何？手形だと・・・？ それどころじゃないんだ！",
+"choice": null,
+"context": [
+{
+"ru": "Все посетители ушли, торговля никудышная... Интересно, что стряслось. Странные тут дела творятся."
+},
+{
+"ru": "Скоро замок Эдо будет принадлежать лорду Амбре..."
+},
+{
+"ru": "Все в этом мире... скоро преобразится!!!"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 1043,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"What? A pass...?",
+"Sorry, but that'll have to wait for a while."
+],
+"jp": "何？手形・・・？ / 気の毒だが 当分はそれどころではないな",
+"choice": null,
+"context": [
+{
+"ru": "Все посетители ушли, торговля никудышная... Интересно, что стряслось. Странные тут дела творятся."
+},
+{
+"ru": "Скоро замок Эдо будет принадлежать лорду Амбре..."
+},
+{
+"ru": "Все в этом мире... скоро преобразится!!!"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 1044,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"Ribbit ribbit!"
+],
+"jp": "けろけろっ",
+"choice": null,
+"context": [
+{
+"ru": "Все в этом мире... скоро преобразится!!!"
+},
+{
+"self": true
+},
+{
+"ru": "Как хотите..."
+}
+]
+},
+{
+"id": 1045,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"......",
+"............A frog..."
+],
+"jp": "・・・・・・ / ・・・・・・・・・・ ・・・カエルか・・・",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Как хотите..."
+}
+]
+},
+{
+"id": 1046,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"You're an eyesore! Get lost!"
+],
+"jp": "目ざわりだ！ うせろ！",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Как хотите..."
+}
+]
+},
+{
+"id": 1047,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"Where's the boss gone off slacking now...",
+"Hm? What? You want to ride the boat?",
+"Hmm... right now's a bit tough...",
+"Well, fine, I'll see what I can do...",
+"So, you've got a pass and money, right?",
+"Huh?",
+"Ah, no good. This pass is only for the Hakone checkpoint.",
+"...Sorry, can't take you out on this.",
+"Go get a proper pass somewhere!"
+],
+"jp": "親方ってば・・・ どこで油を売ってんのかねぇ・・・ / ん？　なんだい？ 船に乗りたいだって？ / うーん・・・ 今はちょっとなぁ・・・ / まあいいや 話を付けてみるよ・・・ / で、手形と金はあるんだろ？ / あら？ / あー、ダメだよ、あんた この手形は箱根の関所専用なんだ / ・・・悪いね これじゃあ船は出せないよ / どこかで手形を もらってきてくんな！",
+"choice": null,
+"context": [
+{
+"ru": "Как хотите..."
+},
+{
+"self": true
+},
+{
+"ru": "Рин, Хэй, То, Ся, Кай, Дзин, Рэцу, Дзай, Дзэн... Кацу!"
+}
+]
+},
+{
+"id": 1048,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"Let's see... Whoa, you're short on fare...",
+"Sorry, but I can't take you aboard like this.",
+"Forgive me!"
+],
+"jp": "うーんと・・・ ありゃ、船代が足りねぇな・・・ / 悪いけど、これじゃあ 乗せるわけにはいかねぇよ / 勘弁な！",
+"choice": null,
+"context": [
+{
+"ru": "Как хотите..."
+},
+{
+"self": true
+},
+{
+"ru": "Рин, Хэй, То, Ся, Кай, Дзин, Рэцу, Дзай, Дзэн... Кацу!"
+},
+{
+"ru": "...А? Ты кто? Так можно?"
+}
+]
+},
+{
+"id": 1049,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"A demon is sealed beneath here.",
+"If it's too much for you, I'll restore the seal at once!",
+"Now, I'm breaking the seal!"
+],
+"jp": "この下に魔物を封じておるのだ / 手に余るようなら 直ちに封印を復活させるからな！ / さあ、封印を解くぞ！",
+"choice": null,
+"context": [
+{
+"ru": "Как хотите..."
+},
+{
+"self": true
+},
+{
+"ru": "Рин, Хэй, То, Ся, Кай, Дзин, Рэцу, Дзай, Дзэн... Кацу!"
+},
+{
+"ru": "...А? Ты кто? Так можно?"
+},
+{
+"ru": "Эй! Я же сказал не показывать, что мы знакомы?!"
+}
+]
+},
+{
+"id": 1050,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"Want to ride the boat?",
+"...What, you don't have a pass?",
+"No, no. The magistrate told me very sternly",
+"not to let anyone aboard without a pass!"
+],
+"jp": "船に乗りたいのかい？ / ・・・なんだい 手形を持っていないのかい？ / ダメダメ、手形がなければ 船に乗せるなって / お奉行さんにきつ～く 言われてるんだよ！",
+"choice": null,
+"context": [
+{
+"ru": "Рин, Хэй, То, Ся, Кай, Дзин, Рэцу, Дзай, Дзэн... Кацу!"
+},
+{
+"self": true
+},
+{
+"ru": "...А? Ты кто? Так можно?"
+},
+{
+"ru": "Эй! Я же сказал не показывать, что мы знакомы?!"
+},
+{
+"ru": "Хотите уплыть? Извините, но босс сейчас... ну, занят. Да и без пропуска мы бы вас все равно не взяли."
+}
+]
+},
+{
+"id": 1051,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"Jubei? Oh, the Yagyu estate is",
+"that big mansion right up there.",
+"But Jubei's not around now. Off on some job in Hakone, I hear."
+],
+"jp": "十兵衛さん？ ああ、柳生屋敷なら / それ、すぐ上の その大きなお屋敷さ / でも十兵衛さんは、今いないよ なんか箱根の方にお仕事だって",
+"choice": null,
+"context": [
+{
+"ru": "Хотите в Хаконэ? Тогда на заставу нужен пропуск. Может, прорицатель Хакудо вам поможет, если попросите."
+},
+{
+"ru": "Так вы помогли господину Хакудо избавиться от демона? Ого! Но в городе все равно творится что-то странное... Может, разберетесь, в чем дело?"
+},
+{
+"ru": "О, у вас есть пропуск? Это хорошо. На вашем месте я бы поскорее уехал из Эдо. Все эти землетрясения опасны. Я? Ну нет, я тут родился и вырос. Я остаюсь! Нельзя же бросить свой дом, правда?"
+},
+{
+"self": true
+},
+{
+"ru": "Ягю Дзюбэй? Его усадьба прямо по этой дороге. Совсем рядом с южными воротами. У моря! Не пропустите."
+}
+]
+},
+{
+"id": 1052,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"Huh? This pass is no good!",
+"It only gets you through the Hakone checkpoint!",
+"Go get a new pass from the officials!"
+],
+"jp": "あん？ この手形じゃあダメだよ！ / これは、箱根の関所しか 越えられない手形じゃないか！ / お上に手形を もらい直してくるんだね！",
+"choice": null,
+"context": [
+{
+"ru": "Так вы помогли господину Хакудо избавиться от демона? Ого! Но в городе все равно творится что-то странное... Может, разберетесь, в чем дело?"
+},
+{
+"ru": "О, у вас есть пропуск? Это хорошо. На вашем месте я бы поскорее уехал из Эдо. Все эти землетрясения опасны. Я? Ну нет, я тут родился и вырос. Я остаюсь! Нельзя же бросить свой дом, правда?"
+},
+{
+"ru": "Ягю Дзюбэй? Его усадьба прямо по этой дороге. Совсем рядом с южными воротами. У моря! Не пропустите."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 1053,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"Hmm... Splendid...",
+"It seems I misjudged your strength.",
+"As promised, I will tell you where Jubei has gone."
+],
+"jp": "むう・・・見事であった・・・ / どうやら力量を 見誤っておったようだな / それでは約束通り 十兵衛殿の行き先を教えよう",
+"choice": null,
+"context": [
+{
+"ru": "О, у вас есть пропуск? Это хорошо. На вашем месте я бы поскорее уехал из Эдо. Все эти землетрясения опасны. Я? Ну нет, я тут родился и вырос. Я остаюсь! Нельзя же бросить свой дом, правда?"
+},
+{
+"ru": "Ягю Дзюбэй? Его усадьба прямо по этой дороге. Совсем рядом с южными воротами. У моря! Не пропустите."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 1054,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"N-no good!",
+"Chain-binding seal! Turn to stone!"
+],
+"jp": "い・・・いかん！ / 鎖縛封印！　岩となれい！",
+"choice": null,
+"context": [
+{
+"ru": "Ягю Дзюбэй? Его усадьба прямо по этой дороге. Совсем рядом с южными воротами. У моря! Не пропустите."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 1055,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"...Just as I told you.",
+"With skill like that you'd only slow Jubei down...",
+"Pack your things and go home..."
+],
+"jp": "・・・だから申したであろう / その程度の腕では十兵衛殿の 足手まといになるだけ・・・ / 荷物をまとめて 故郷に帰ることだな・・・",
+"choice": null,
+"context": [
+{
+"ru": "Ягю Дзюбэй? Его усадьба прямо по этой дороге. Совсем рядом с южными воротами. У моря! Не пропустите."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 1056,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"You said Kafuin, right?",
+"Are you an onmyoji from Kafuin?",
+"Then do you know a nasty old man",
+"named Nicotine?"
+],
+"jp": "あんた 花諷院とか言ったよな？ / あんた 花諷院の陰陽師なのか？ / だったら、和狆という 性格の悪いじいさんを / 知ってるかい？",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1057,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"You said Kafuin...",
+"Are you an onmyoji of the same school as Nicotine?"
+],
+"jp": "花諷院だとか 言ったな・・・ / 貴様・・・和狆と同門の 陰陽師なのか？",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1058,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"Oh... what's this?......",
+"Hmm... What a coincidence... a disciple of Master Nicotine...",
+"That explains it..."
+],
+"jp": "ほう・・・なになに？ ・・・・・・ / むう・・・これは奇遇 ・・・和狆殿のお弟子とは・・・ / 道理で・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1059,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"As you say, I studied under the same school as Master Nicotine.",
+"Is Master Nicotine well?"
+],
+"jp": "お主の言うとおり 私は和狆殿の同門だ / 和狆殿はお元気か？",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Что ты имеешь в виду?!"
+}
+]
+},
+{
+"id": 1060,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"That old geezer's too tough to die, even if you killed him!"
+],
+"jp": "殺しても死なねぇって 感じだからな！",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Что ты имеешь в виду?!"
+}
+]
+},
+{
+"id": 1061,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"Hmph... That old monk",
+"will probably live another hundred years!"
+],
+"jp": "ふん・・・あの坊主 / あと１００年ぐらいは 生き続けるだろうよ！",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Что ты имеешь в виду?!"
+}
+]
+},
+{
+"id": 1062,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"I see...",
+"Master Nicotine taught me a great deal, so in a sense we share a school.",
+"...We onmyoji of Kafuin have been sent out to protect people from the demons",
+"by our head temple in Kyoto.",
+"And I have come to protect Edo...",
+"Of course, Master Nicotine is in a class of his own."
+],
+"jp": "そうか・・・ / 和狆殿にはいろいろと教わってな 言わば私もお主と同門というわけだ / ・・・我々花諷院の陰陽師は 近頃の魔物騒ぎから民衆を守るため / 京都の総本山から 各地につかわされておる / 私は江戸を守るためにやってきたと いうわけだ・・・ / 無論、和狆殿は別格だがな",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Что ты имеешь в виду?!"
+}
+]
+},
+{
+"id": 1063,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"...Nicotine is in a class of his own?"
+],
+"jp": "・・・和狆が別格？",
+"choice": null,
+"context": [
+{
+"ru": "Что ты имеешь в виду?!"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 1064,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"I mean that Master Nicotine is different from the rest of us.",
+"Now, let us go."
+],
+"jp": "和狆殿は我々とは違う ・・・ということだ / さあ、行くぞ",
+"choice": null,
+"context": [
+{
+"ru": "Что ты имеешь в виду?!"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 1065,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"Talk with the samurai gathered here",
+"and choose two companions.",
+"They'll share your life and death, so choose carefully.",
+"Once you've decided, speak to me again."
+],
+"jp": "ここにいる サムライのみなさんとお話しして / 仲間を２人選んで下さい / これから生死を共にする仲間 よぉく選んで下さいよ / 仲間が決まったら もう一度私に声をかけて下さいな",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1066,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"Choosing two companions is no easy task.",
+"Think carefully about your own abilities and take your time.",
+"Someone with the strengths you lack",
+"should be your first choice."
+],
+"jp": "２人選ぶってのは なかなかに難しい / お前さん自身の能力をよ～く考えて じっくり選ぶことじゃ / 自分に足りない長所を 持っているヤツが / 第一候補になるのう",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1067,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"You have strong attacks and plenty of secret arts.",
+"But your defense is a bit shaky,",
+"so choose allies who can back you up from the rear!",
+"Speedy Galford and Nakoruru with her healing arts",
+"make SNK's recommended best team!"
+],
+"jp": "お前さんは攻撃力が高く 充実した奥義もそろっておる / ただし 防御面でやや不安があるから / 後方でお前さんのサポートを してくれる仲間を選べ！ / すばやいガルフォードと 回復奥義を持つナコルルが / ＳＮＫおすすめの ベストチームじゃ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1068,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"You have powerful healing arts,",
+"but you're far too gentle to be a warrior...",
+"You'll need strong front-line allies to scatter the demons.",
+"Charlotte with her high defense, or Haohmaru with his power,",
+"would be just right."
+],
+"jp": "お前さんは 強力な回復奥義を持ってはおるが / 戦士としてはあまりに 優しすぎる・・・ / 魔物をけちらす強力な前衛タイプの 仲間が不可欠じゃ / 防御力の高いシャルロットや 攻撃力の高い覇王丸あたりが / ぴったりじゃろうな",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1069,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"You overwhelm demons with your speed,",
+"but your hitting power is a bit lacking.",
+"How about taking Ukyo or Kyoshiro along?",
+"You whittle down the foe with first strikes,",
+"and they finish the job."
+],
+"jp": "すばやい動きで 魔物を圧倒するお前さんじゃが / 打撃力という点では やや迫力に欠けるのう / 右京殿や狂死郎殿を 仲間にするのはどうじゃ？ / お前さんが先制攻撃で 相手の体力を削り / 彼らにとどめ役を 引き受けてもらうというわけじゃ",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Прости, Поппи... Подожди меня снаружи, девочка."
+}
+]
+},
+{
+"id": 1070,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"You're a flawless warrior in skill,",
+"but sadly, there's your illness...",
+"I recommend Cham Cham or Rimururu,",
+"who can aid you with support and healing arts."
+],
+"jp": "戦士として申し分のない実力を持つ お前さんじゃが / おしむらくは病・・・ / 多数の補助奥義や回復奥義で お前さんを助けてくれる / チャムチャムやリムルルを 仲間の一人におすすめするぞい",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Прости, Поппи... Подожди меня снаружи, девочка."
+},
+{
+"ru": "Мамахаха, подожди меня снаружи, хорошо?"
+}
+]
+},
+{
+"id": 1071,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"You have both power and speed,",
+"but your lack of defense is your weak spot...",
+"Why not talk to Ukyo or Charlotte,",
+"whose high defense lets them hold the front line?"
+],
+"jp": "攻撃力とすばやさをかねそなえた お前さんじゃが / 防御力の無さが 玉にキズじゃのう・・・ / 高い防御力で前衛をまかせられる 右京殿やシャルロットと / 話をしてみたらどうじゃな？",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Прости, Поппи... Подожди меня снаружи, девочка."
+},
+{
+"ru": "Мамахаха, подожди меня снаружи, хорошо?"
+},
+{
+"ru": "Жди здесь, ладно, Пак-Пак?"
+}
+]
+},
+{
+"id": 1072,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"I see, I see...",
+"Treasure the companions you've chosen!"
+],
+"jp": "ふむふむ・・・そうか / お前さんが選んだ仲間 大切になされよ！",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Прости, Поппи... Подожди меня снаружи, девочка."
+},
+{
+"ru": "Мамахаха, подожди меня снаружи, хорошо?"
+},
+{
+"ru": "Жди здесь, ладно, Пак-Пак?"
+}
+]
+},
+{
+"id": 1073,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"Traveling as three is safest... Take my advice...",
+"Gather one more companion! You must choose two!"
+],
+"jp": "３人旅が安全じゃ・・・ 悪いことは言わん・・・ / もう一人、お仲間を集めなされ！ ２人を選ぶんですぞ！",
+"choice": null,
+"context": [
+{
+"ru": "Ки-и-и!"
+},
+{
+"ru": "Ук-ук?"
+},
+{
+"ru": "Гав!!"
+},
+{
+"self": true
+},
+{
+"en": "I'm Haohmaru, greatest warrior on earth! / If you can promise me strong opponents, I'll go with you! / Yes or no?Yes No"
+},
+{
+"ru": "...Ладно!"
+},
+{
+"ru": "Как хочешь!"
+}
+]
+},
+{
+"id": 1074,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"These encounters are your treasure...!",
+"Live together, die together... polish your souls, hone your skills,",
+"and may you walk your path straight and true..."
+],
+"jp": "その出会いは あなた様の宝・・・！ / 生きるも一緒、死ぬるも一緒・・・ 魂を磨き合い・・・技を高め合い / あなた様の道を まっすぐに進まれんことを・・・",
+"choice": null,
+"context": [
+{
+"ru": "Ки-и-и!"
+},
+{
+"ru": "Ук-ук?"
+},
+{
+"ru": "Гав!!"
+},
+{
+"self": true
+},
+{
+"en": "I'm Haohmaru, greatest warrior on earth! / If you can promise me strong opponents, I'll go with you! / Yes or no?Yes No"
+},
+{
+"ru": "...Ладно!"
+},
+{
+"ru": "Как хочешь!"
+}
+]
+},
+{
+"id": 1075,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"Oh? Not satisfied...? No matter...",
+"The people here won't mind!",
+"Choose again from the beginning!"
+],
+"jp": "おや？　ご不満ですか・・・ なあに、かまいません・・・ / ここにいる方々は 気になさいません！ / もう一度、最初から選びなされ！",
+"choice": null,
+"context": [
+{
+"ru": "Как хочешь!"
+},
+{
+"ru": "У тебя уже есть друзья. Береги их!"
+},
+{
+"en": "You appear to have found some fine companions. / Are you certain of your choice? Yes No"
+},
+{
+"self": true
+},
+{
+"ru": "Меня зовут Накоруру... а этот ястреб - Мамахаха. Мы пришли из Камуй-Котана, чтобы защитить природу. Мы знаем, что должны сражаться... поэтому прошу... Вы поможете нам?"
+},
+{
+"ru": "Спасибо. Будем сражаться вместе."
+},
+{
+"ru": "Тогда я буду сражаться одна!"
+}
+]
+},
+{
+"id": 1076,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"Yaaay! C'mon, Pak Pak!"
+],
+"jp": "よかッたぁ、おいでパクパク！",
+"choice": null,
+"context": [
+{
+"ru": "Ничего... со мной всегда есть Поппи."
+},
+{
+"ru": "О, у тебя уже есть компания. Ну что ж. Пойдем, Поппи."
+},
+{
+"en": "I'm Cham Cham! And this here is Pak Pak! / Amakusa stole the / Palenque Stone from us! / We came here to get it back! / Will you help us? Yes No"
+},
+{
+"self": true
+},
+{
+"ru": "Бу-у-у! Бу-у-у! Бу-у-у!"
+},
+{
+"ru": "У тебя есть друзья, так что мы пойдем одни!"
+},
+{
+"en": "I am Charlotte. / I've come to protect my homeland of France, and destroy / the leader of the demons! / Will you help me? Yes No"
+}
+]
+},
+{
+"id": 1077,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"Yagyu Jubei is the best swordsman in Edo, no, in all Japan.",
+"Everyone knows he's a shogunate spy. It's an open secret.",
+"As long as Jubei's around,",
+"the Shogun can live in Edo without a worry."
+],
+"jp": "柳生十兵衛と言えば 江戸一番、いや日本一の剣豪さ / 公儀隠密だってことは 公然の秘密だよ / 十兵衛さんがいる限り / 将軍様は安心して お江戸で暮らせるだろうね",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Нужен пропуск? Извини, если ты не от правительства, ничем не помогу. Вот что скажу... Дальше по дороге живет прорицатель, может, он поможет. А я тут ни при чем... хе, истребление демонов, как же..."
+},
+{
+"ru": "Был в игорном доме в северном Эдо? Эта госпожа Оте... вот это красавица! Как ее увижу, не могу сосредоточиться... Наверное, поэтому я вечно без гроша."
+},
+{
+"ru": "Знаешь про лорда Амбру? Мой сосед только о нем и твердит. С ума меня сводит!"
+}
+]
+},
+{
+"id": 1078,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"Whaaat do you want...",
+"You need somethiiing?"
+],
+"jp": "なぁによ、あんた・・・ / なぁんか、用なの～ん？",
+"choice": {
+"question": "Do you need something?",
+"options": [
+"Yes",
+"No"
+]
+},
+"context": [
+{
+"ru": "Я понимаю... скоро этот мир будет принадлежать лорду Амбре! Ты ведь знаешь про лорда Амбру? Я знаю..."
+},
+{
+"ru": "Мне был сон... Я видел женщину на высоких деревянных гэта, она скакала на запад..."
+},
+{
+"ru": "Мне был сон... Замок поднимался в западное небо... И весь мир умирал..."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 1079,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"Oh, fine... Hmph..."
+],
+"jp": "あっそう・・・ ふーんだ・・・",
+"choice": null,
+"context": [
+{
+"ru": "Я понимаю... скоро этот мир будет принадлежать лорду Амбре! Ты ведь знаешь про лорда Амбру? Я знаю..."
+},
+{
+"ru": "Мне был сон... Я видел женщину на высоких деревянных гэта, она скакала на запад..."
+},
+{
+"ru": "Мне был сон... Замок поднимался в западное небо... И весь мир умирал..."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 1080,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"If you need something... mmm..."
+],
+"jp": "用があるんなら・・・うふん",
+"choice": {
+"question": "You really need something?",
+"options": [
+"I sure do!",
+"Not really"
+]
+},
+"context": [
+{
+"ru": "Мне был сон... Я видел женщину на высоких деревянных гэта, она скакала на запад..."
+},
+{
+"ru": "Мне был сон... Замок поднимался в западное небо... И весь мир умирал..."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 1081,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"Oh my... well then...",
+"You'll have to say the password just right...",
+"A password?"
+],
+"jp": "あ～ら・・・だったら・・・ / 合い言葉をちゃあんと 言ってくれなくちゃン・・・ / 合い言葉？",
+"choice": {
+"question": "Say the password?",
+"options": [
+"Yes",
+"No"
+]
+},
+"context": [
+{
+"ru": "Мне был сон... Замок поднимался в западное небо... И весь мир умирал..."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 1082,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"So... what's the first password?"
+],
+"jp": "じゃあ・・・ 最初の合い言葉はなあに？",
+"choice": {
+"question": "What's the first password?",
+"options": [
+"Moetaro",
+"Sonomama"
+]
+},
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1083,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"Oh... hee hee. What's the next password?"
+],
+"jp": "あら・・・ふふ 次の合い言葉はなあに？",
+"choice": {
+"question": "What's the second password?",
+"options": [
+"Yoyutchi",
+"Ora ora!"
+]
+},
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1084,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"My... not bad. What's the next password?"
+],
+"jp": "まあ・・・やるわね 次の合い言葉はなあに？",
+"choice": {
+"question": "What's the third password?",
+"options": [
+"Takatsu",
+"Umemoto"
+]
+},
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1085,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"All right... but just to be sure,",
+"what's the last password?"
+],
+"jp": "わかったわ・・・ でも念のために聞いておくわ / 最後の合い言葉はなあに？",
+"choice": {
+"question": "What's the last password?",
+"options": [
+"Sorry, Kanbo",
+"Seal Demon City"
+]
+},
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1086,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"Whew... Looks like you're not a government dog after all...",
+"You want that thing, don't you? That... thing."
+],
+"jp": "ふう・・・どうやら お上の犬ではなさそうね・・・ / アレが欲しいのかしら？ ア・レ",
+"choice": {
+"question": "Do you want that thing?",
+"options": [
+"Yes",
+"No"
+]
+},
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1087,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"That thing... which thing?"
+],
+"jp": "アレって・・・どっちのアレ？",
+"choice": {
+"question": "Which thing do you mean?",
+"options": [
+"Black pass",
+"That thing"
+]
+},
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1088,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"My... hee hee hee.",
+"Then pay me 500GP...",
+"Up front, of course..."
+],
+"jp": "まあ・・・ふふふ / それじゃあ、お代の金５００を 払ってちょうだい・・・ / もちろん前金でよん・・・",
+"choice": {
+"question": "Pay the price?",
+"options": [
+"Yes",
+"No"
+]
+},
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1089,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"Oh dear... You should open your window",
+"and check your money first, hon.",
+"...See you later."
+],
+"jp": "あらあら・・・お金はちゃあんと ウインドウを開いて / 確認しておかなくちゃダメよん / ・・・じゃあまたねん",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1090,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"Oh, all right...",
+"I'll knock it down to 400GP. That's fine, isn't it..."
+],
+"jp": "しょうがないわね・・・ / それじゃ、金４００にまけてあげる それならいいでしょん・・・",
+"choice": {
+"question": "Pay the price?",
+"options": [
+"Yes",
+"No"
+]
+},
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1091,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"...Is 400GP too much, maybe...",
+"Hmm... For 300GP... you'll buy it, right?"
+],
+"jp": "・・・金４００じゃ 高すぎるかしらん・・・ / う～ん・・・金３００なら・・・ 買ってくれるでしょ？",
+"choice": {
+"question": "Pay the price?",
+"options": [
+"Yes",
+"No"
+]
+},
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1092,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"............",
+"...Hey, you!?",
+"You think you can haggle me down forever, don't you!",
+"Don't push your luck!",
+"I'm not some cheap woman!",
+"Honestly! Give me a break!",
+"...This is it! 200GP! How about that!"
+],
+"jp": "・・・・・・ ・・・・・・ / ・・・ちょっとあんた！？ / 値切れば際限なく 値切れると思ってんでしょ！ / 調子に乗ってんじゃないわよ！ / あたしゃ そんな安っぽい女じゃないのよ！ / もう！ いい加減にしてよ！ / ・・・これっきりよ！ 金２００！　これでどう！",
+"choice": {
+"question": "Pay the price?",
+"options": [
+"Yes",
+"No"
+]
+},
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1093,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"You don't even have 200? ...You're broker than I thought.",
+"Guess I misjudged you...",
+"Fine, I get it!",
+"Even you can afford 100GP, right?",
+"This is your last chance!"
+],
+"jp": "あんた、２００も持ってないの？ ・・・意外にしけてんのね / あたしの見立てが 甘かったようね・・・ / もういいわ、わかった！ / 金１００なら いくらあんたでも買えるでしょ？ / もう、これが最後のチャンスよ！",
+"choice": {
+"question": "Pay the price?",
+"options": [
+"Yes",
+"No"
+]
+},
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1094,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"......",
+"......",
+"And you call yourself the hero?",
+"...You win... I give up... Fine! 50GP!",
+"This is really, truly the last time!"
+],
+"jp": "・・・・・・ / ・・・・・・ / あんた、それでも主人公なの？ / ・・・負けたわ・・・あんたには ・・・わかりました！　金５０！ / これで本当の本当に最後よっ！",
+"choice": {
+"question": "Pay the price?",
+"options": [
+"Yes",
+"No"
+]
+},
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1095,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"...Window shoppers, get out!"
+],
+"jp": "・・・冷やかしは 出てってくんな！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1096,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"...You really, truly have no money, do you?",
+"...The exit's that way!"
+],
+"jp": "・・・あんたって 本っ当～にお金持ってないのね / ・・・お帰りは、あちらだよ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1097,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"Here, this is the Black Pass.",
+"...Keep it a secret from the officials, okay...",
+"Got the Black Pass!"
+],
+"jp": "それじゃ、これが「闇手形」よ / ・・・お上には くれぐれもナイショだからね・・・ / 「闇手形」を手に入れた！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1098,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"...Well then, that... thing."
+],
+"jp": "・・・それじゃ、ア・レ",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1099,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"Whew...",
+"That's as far as this hardware can go... hee hee... well then,",
+"see... you... later."
+],
+"jp": "ふう・・・ / このハードじゃこれが限界ね・・・ ふふっ・・・それじゃ / ま・た・ね",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1100,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"What... You got a problem with me?!"
+],
+"jp": "なぁによ・・・ なんか、文句でもあんの！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1101,
+"file": "FLD/F_KAT1.BIN",
+"pages": [],
+"jp": "",
+"choice": {
+"question": "Like fighting games?",
+"options": [
+"Yes",
+"No"
+]
+},
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1102,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"Me too!",
+"Terry and Kyo are so cool, right?",
+"In that case...",
+"I recommend Command Input mode!"
+],
+"jp": "ぼくも好きなんだ！ / テリーとか、京サマとか かっこいいよね！ / だったら・・・ / 「格闘コマンド入力」モードが おススメだよ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1103,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"Is that so... In that case...",
+"I recommend Move Select mode!",
+"You can play it just like the RPGs you're used to!"
+],
+"jp": "そうなの・・・ だったら・・・ / 「技名セレクト入力」モードが おススメだよ！ / 今までのロープレみたいな感覚で ゲームができるんだ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1104,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"Me, I like Benimaru...",
+"Eh? We're not talking about favorite characters?",
+"Aw, how boring.",
+"If you want to learn about battle, go to the Yagyu estate.",
+"They'll teach you all about it."
+],
+"jp": "わしゃあ 紅丸がええのぉ・・・ / えっ？ ひいきのキャラの話でネェのか？ / なぁんじゃつまンないのぉ / 戦闘のことなら 柳生様の屋敷に行くといい / くわしく教えてくれるぞい",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1105,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"You look like a traveler too.",
+"Whether you have healing arts or not,",
+"you'd better stock up on plenty of herbs...",
+"or you'll regret it later."
+],
+"jp": "あんたも 旅人のようだねぇ / 回復奥義を 持っていようといまいと / 薬草だけはたんまり 用意しておいた方がいいぜ・・・ / 後できっと 後悔するからよ",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1106,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"Squee!",
+"I bought a new accessory!",
+"Just having accessories isn't enough, you know!",
+"You have to Equip them, or you're not really wearing them!",
+"The shopkeeper will equip what you buy for you,",
+"but when you want to change gear yourself,",
+"use the Equip command on the menu screen!"
+],
+"jp": "きゃいーん！ / 新しいアクセサリー 買っちゃったァ！ / アクセサリーとかは 持ってるだけじゃダメよ～ん / ちゃあんと「装備」しないと 身につけたことには ならないんだからね！ / 買ったアクセサリーは 店のオジサンが装備してくれるけど / 自分で装備の付け替えをする時は / メニュー画面の 「装備」コマンドで行えるわよ～ん",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1107,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"Um... Master Hakudou has been waiting at the stone mound in the garden...",
+"You can reach the garden through the exit at the back right."
+],
+"jp": "あのう・・・白道様が庭の石塚で ずっとお待ちですが・・・ / 右奥の出口から 庭に出ることができますよ",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1108,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"I'm an onmyoji in training!",
+"I'm studying the Rules of Stats!"
+],
+"jp": "ボク、陰陽師見習い！ / 「パラメータの心得」を 勉強してるんだ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1109,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"HP is endurance! At 0, you can't fight!",
+"SP is spirit! Using secret arts uses it up!"
+],
+"jp": "「体力」は「耐久力」！ ０になったら戦闘不能になる！ / 「気力」は「精神力」！ 奥義発動で消費される！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1110,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"ATK is attack power!",
+"How much damage you deal! Raise your weapon's grade to boost it!",
+"DEF is defense!",
+"It reduces damage from enemies! Equipping gear raises it!"
+],
+"jp": "「攻」は「攻撃力」！ / 相手に与えるダメージの大きさ！ 武器の等級を上げれば上昇する！ / 「防」は「防御力」！ / 敵からのダメージを減殺する能力！ 武具を装備すると上昇する！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1111,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"STR is strength! It affects attack power.",
+"The higher it is, the stronger your attacks!",
+"GRD is guard! It affects defense!"
+],
+"jp": "「力」は「パワー」！ 攻撃力に影響し / 力が大きければ 攻撃力も高くなる！ / 「守」は「守備」！ 防御力に影響する！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1112,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"EVA is evasion! It helps you dodge projectiles!",
+"SPD is speed!",
+"It affects dodging attacks and how often you counter!"
+],
+"jp": "「避」は「回避率」！ 飛び道具の避けやすさに影響する！ / 「速」は「すばやさ」！ / 攻撃の避けやすさ 反撃の出やすさに影響する！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1113,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"LUK is luck! Its effects are a secret!",
+"...Sigh... I'll never remember all this."
+],
+"jp": "「運」は「ラッキー」！ 効果は秘密！ / ・・・はあ・・・ とても覚えきれないや",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1114,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"With skill like that,",
+"you won't hold Jubei back.",
+"But before I tell you where he is, there's one more condition..."
+],
+"jp": "その腕前ならば / 十兵衛殿の足手まといに なることはあるまい / だが、十兵衛殿の居所を教える前に もう一つの条件がある・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1115,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"You must buy the CD of Shinsetsu Samurai Spirits Bushido Retsuden,",
+"due out on June 27th!",
+"Buy it on June 27th and continue this story at home!",
+"...I, Kafuin Hakudou, guarantee it's fun!"
+],
+"jp": "それは、そなたが ６月２７日発売予定の / 「真説サムライスピリッツ 武士道烈伝」のＣＤを買うことだ！ / ６月２７日にＣＤを買って 家でじっくりこの続きをするが良い / ・・・この花諷院白道 おもしろさは保証しよう！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1116,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"So if I want to meet",
+"that Amakusa guy, I buy the Bushido Retsuden CD on June 27th!",
+"Got it!",
+"Just wait, Amakusa! The great Haohmaru's gonna raise some hell!"
+],
+"jp": "なるほど 天草って野郎には / ６月２７日に 「武士道烈伝」のＣＤを買えば / 会うことができるんだな！ / 待ってろよ、天草！ この覇王丸様が一暴れしてやるぜ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1117,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"I understand... I'll save up my allowance until then,",
+"and buy the Bushido Retsuden CD on June 27th!",
+"To protect nature... I won't allow the demon realm's invasion!"
+],
+"jp": "わかりました・・・ それまで、おこづかいをためて / ６月２７日には「武士道烈伝」の ＣＤを買ってきます！ / 大自然を守るため・・・ 魔界の侵略は許せません！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1118,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"WOW!",
+"So that's how it is! I got it!",
+"On June 27th I just need to go buy",
+"the Bushido Retsuden CD! For justice!",
+"For justice... I'll get it for sure!"
+],
+"jp": "ＷＡＯ！ / そういうことだったのかい！ わかったぜ！ / ６月２７日になったら 「武士道烈伝」のＣＤを / 買ってくればいいんだな！ フォー・ジャスティス！ / 正義のため・・・ 必ず手に入れてみせるぜ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1119,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"Cough... I see.",
+"The Bushido Retsuden CD on June 27th... Understood.",
+"To obtain the ultimate flower, I, Tachibana Ukyo,",
+"have long been prepared for that much.",
+"To master the warrior's way, a shining game disc, a summer journey...",
+"...Here I come!"
+],
+"jp": "ごほっ・・・なるほど / 「武士道烈伝」のＣＤを ６月２７日に・・・わかりました / 究極の花を手に入れるためなら この橘右京 / そのぐらいの覚悟は とっくにできております / もののふの道を極めんげぇまぁの 光る銀盤　旅立ちの夏・・・ / ・・・参る！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1120,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"Hmph... So that's it.",
+"You want me to buy the Bushido Retsuden CD!",
+"Fine... Amakusa!",
+"I'll leave your head on your shoulders until June 27th!"
+],
+"jp": "ふん・・・そういうことか / この俺に「武士道烈伝」のＣＤを 買えというのだな！ / まあいい・・・天草よ！ / 貴様の首 ６月２７日まであずけておくぞ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1121,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"Okay, Cham Cham gets it!",
+"Cham Cham gonna buy Bushido Retsuden CD!",
+"Then find Palenque Stone and find Big Brother Tam Tam,",
+"and go back to Greenhell and eat lotsa bananas!"
+],
+"jp": "ようし、わかッたゾ！ / チャムチャム、「武士道烈伝」の ＣＤを買ッちゃうゾ！ / それでパレンケストーン探して タム兄ちゃンも見つけて / グリーンヘルに帰ッて バナナンいッぱい食べるンだ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1122,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"My name is Kafuin Hakudou...",
+"I am an onmyoji."
+],
+"jp": "私の名は花諷院白道 （かふういん　はくどう）・・・ / 陰陽師である",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1123,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"Do not go near the stone mound in the garden! It is a demon!",
+"I have sealed it, so it's safe, but just in case...",
+"...When Jubei returns, I'll have him slay it straight away,",
+"so rest easy."
+],
+"jp": "庭の石塚に近づいてはならぬぞ！ あれは魔物！ / 私が封印してあるから危険はないが 万が一ということもあるからな / ・・・十兵衛殿が帰ってこられたら 早々に退治してもらうゆえ / 安心するがよい",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1124,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"What?",
+"You say you've come to see Yagyu Jubei?",
+"...Hmm.",
+"Jubei is away from Edo on official duty...",
+"I can say no more than that.",
+"Forgive me, but an amateur would only slow him down.",
+"You had best wait until he has finished his duty."
+],
+"jp": "なに？ / 柳生十兵衛殿を たずねて参ったと申すか？ / ・・・ふむ / 十兵衛殿は今、お役目で 江戸を離れておられる・・・ / 私にはそれ以上のことは言えぬ / 悪いが、未熟者では十兵衛殿の 足手まといになるだけだからな / 十兵衛殿がお役目を 果たし終わるまで待つが良かろう",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1125,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"Tch... What a stubborn old coot.",
+"So basically! All I gotta do is show you",
+"I'm strong enough not to slow him down, right?",
+"Watch this!",
+"I'll cut that demon sealed in your garden clean in two!"
+],
+"jp": "ちぇっ・・・ 頭のかてぇおやじだぜ / 要するにだ！ 足手まといにならない程度の実力を / お見せしたら よろしいんでございましょう？ / 見てな！ / 中庭に封印されてる魔物とやらを まっぷたつにしてやるからよ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1126,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"Oh dear... Then how about this!",
+"If I defeat the demon sealed in the garden in Jubei's place,",
+"will you acknowledge my strength?"
+],
+"jp": "困りましたね・・・ それではこうしましょう！ / 中庭に封印されている魔物とやらを 十兵衛様の代わりに退治したら / 実力を認めて下さいますか？",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1127,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"Slow him down? That hurts...",
+"I didn't train in ninjutsu for nothing, you know.",
+"...OK, how about this!",
+"If I take out that demon in the garden,",
+"you tell me where Jubei went. Deal?"
+],
+"jp": "足手まといとは心外だネ・・・ / だてにニンジュツの修行を してきたわけじゃないんだけどな / ・・・ＯＫ、こうしよう！ / オレがその中庭の魔物とやらを 退治したら / 十兵衛殿の行き先を 教えてくれるってのはどうだい？",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1128,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"Cough... Pardon me, but",
+"I too have some knowledge of the sword...",
+"I have no intention of troubling Jubei.",
+"Let me see... I will go to the garden now and",
+"show you how I defeat that sealed demon.",
+"Surely that would set your mind at ease, Hakudou?"
+],
+"jp": "ごほっ・・・失礼ですが / 私もいささか 剣術の心得がありまして・・・ / 十兵衛殿にご迷惑は おかけしないつもりですが / そうですな・・・今から 中庭に封印されている魔物とやらを / 退治してご覧に入れましょう / それならば白道殿も安心して 下さるのではないですかな？",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1129,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"Hey! Mister! You think Cham Cham's not strong!",
+"Cham Cham's the strongest after Big Brother Tam Tam, ya know!",
+"Okay! Cham Cham gonna beat up that sealed bad guy!",
+"Then Mister gonna know Cham Cham's strong!"
+],
+"jp": "あ～ッ？　おじちゃン！ チャムチャムの強さ、疑ッてるな！ / 言ッとくけど、チャムチャム タム兄ちゃンの次に強いンだゾ！ / よおし！　その、フーインされてる 悪いヤツをやッつけてやる！ / そしたらおじちゃンもボクのこと 強いッてわかるはずだ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1130,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"I'm speechless... Calling me an amateur is beyond laughable.",
+"I could teach you with your own body, but then I'd never find Jubei.",
+"I know. Break the seal on that garden demon right now!",
+"I'll cut it down and knock some sense",
+"into that sleepy head of yours!"
+],
+"jp": "あきれて物も言えんわ・・・ 未熟者とは笑止の極みよ / 貴様の体で教えてやっても良いが それでは十兵衛の居場所がわからん / そうだ、庭の魔物とやらの封印を 今すぐ解いて見せろ！ / そいつをぶった斬って 貴様の寝ぼけた頭を / 多少でもマシにしてくれるわ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1131,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"Wh-what? Don't talk nonsense!",
+"Don't you value your life? Reconsider!"
+],
+"jp": "な・・・何だと？ バカなことを申すな！ / 命がおしくないのか？ 考え直せ！",
+"choice": {
+"question": "Heed the onmyoji's advice?",
+"options": [
+"Yes",
+"No"
+]
+},
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1132,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"Hmm... Well, it can't be helped.",
+"Getting hurt is a lesson in itself...",
+"Then follow me to the garden...",
+"You shall slay the sealed demon.",
+"Mind you, come well prepared!"
+],
+"jp": "む・・・ん こうなったらしょうがない / 痛い目にあって見るのも 経験だろうて・・・ / それでは中庭までついて参れ・・・ / 封印してある魔物を 退治してもらおうか / よいか、十分な準備をしてから 来るのだぞ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1133,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"Yes... That is wise. No ordinary person can master a demon.",
+"Wait quietly for Jubei to return to Edo.",
+"...Though I can't say when that will be."
+],
+"jp": "うむ・・・それが賢明だ なみの人間には魔物は御せぬ / おとなしく十兵衛殿が 江戸に戻られるのを待つがよい / ・・・いつになるかは ・・・わからぬがな",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1134,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"Enough foolishness! Do not underestimate a demon's power!",
+"Jubei is one thing, but what can you do all alone?",
+"...At least bring a companion before you talk so big!",
+"Honestly... What a bother."
+],
+"jp": "バカも休み休み言うがよい！ 魔物の力を甘く見てはならぬ！ / 十兵衛殿ならともかく お主一人で何ができるというのだ！ / ・・・せめて仲間の一人でも つれてきてから大言するがよい！ / まったく・・・困ったのう",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Выигрыш GP!"
+}
+]
+},
+{
+"id": 1135,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"What... I thought you'd reconsidered?",
+"You're a stubborn one...",
+"Take my advice and wait for Jubei to return!"
+],
+"jp": "なんと・・・ 考え直したのではなかったのか？ / お主もまったく しつこいヤツだのう・・・ / 悪いことは言わぬ 十兵衛殿の帰りを待つがよい！",
+"choice": {
+"question": "Heed the onmyoji's advice?",
+"options": [
+"Yes",
+"No"
+]
+},
+"context": [
+{
+"self": true
+},
+{
+"ru": "Выигрыш GP!"
+}
+]
+},
+{
+"id": 1136,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"What are you doing... Weren't you going after Jubei?",
+"Jubei is at Mount Fuji, investigating the cult's link to the demon realm.",
+"Now go and help him!"
+],
+"jp": "何をしておる・・・ 十兵衛殿を追うのではなかったのか / 十兵衛殿は富士で邪教と魔界との 関係を調べておられる / さあ、行って 十兵衛殿を助けてやれ！",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Выигрыш GP!"
+}
+]
+},
+{
+"id": 1137,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"...Jubei crossed the Hakone checkpoint, heading for Mount Fuji.",
+"Looking into the new cult, the earthquakes and the demons' movements,",
+"he learned that the area around Fuji is suspicious.",
+"With your skill, you won't hold him back. Go after him.",
+"...Though by the look of you, you have no pass.",
+"Take this."
+],
+"jp": "・・・十兵衛殿は箱根の関所を越え 富士山へと向かわれた / 最近流行の邪教とこの地震騒ぎ そして魔物どもの動きを調べた結果 / 富士の周辺が怪しいことを 十兵衛殿はつきとめられたのだ / その腕ならば足手まといにはならぬ 後を追うと良かろう / ・・・とは言っても、その様子では 手形を持っておるまいな / これを持って行くがいい",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Выигрыш GP!"
+},
+{
+"en": "Well, now! How'd you like to own a Storm Call of your very own? / Edo's specialty! Nothing like it in the world... guaranteed! Only / 50GP! / Yes or no?Yes No"
+}
+]
+},
+{
+"id": 1138,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"With this pass you can cross the Hakone checkpoint.",
+"The checkpoint is west of Edo, and Fuji lies further west.",
+"Now go and help Jubei!"
+],
+"jp": "この手形を使えば箱根の関所を 越えることができる / 関所は江戸の西にある 富士はさらにその西方だ / さあ、行って 十兵衛殿を助けてやれ！",
+"choice": null,
+"context": [
+{
+"ru": "Выигрыш GP!"
+},
+{
+"self": true
+},
+{
+"en": "Well, now! How'd you like to own a Storm Call of your very own? / Edo's specialty! Nothing like it in the world... guaranteed! Only / 50GP! / Yes or no?Yes No"
+},
+{
+"ru": "В бою нет ничего лучше Зова бури! Уверен, вам понравится!"
+},
+{
+"ru": "Что-о-о? Не любите экстремальные сувениры?"
+}
+]
+},
+{
+"id": 1139,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"Looking for a good weapon? ...Hmm...",
+"A sword better than the one at your hip won't be easy to find!",
+"Rather than buying one, have a blacksmith",
+"reforge the one you've got. It'll do you more good!",
+"Hm? A blacksmith? I think there's one in north town..."
+],
+"jp": "武器の出物ですかい？ ・・・うーん・・・ / あんたの腰のものを超える刀は ちょっと簡単には見つからないと 思いますぜ！ / 下手に武器を買うより 手持ちの武器を鍛冶屋に頼んで / 鍛え直してもらった方が あんたのためになると思うね！ / ん？鍛冶屋？ 確か、北町にありやしたぜ・・・",
+"choice": null,
+"context": [
+{
+"ru": "Выигрыш GP!"
+},
+{
+"self": true
+},
+{
+"en": "Well, now! How'd you like to own a Storm Call of your very own? / Edo's specialty! Nothing like it in the world... guaranteed! Only / 50GP! / Yes or no?Yes No"
+},
+{
+"ru": "В бою нет ничего лучше Зова бури! Уверен, вам понравится!"
+},
+{
+"ru": "Что-о-о? Не любите экстремальные сувениры?"
+}
+]
+},
+{
+"id": 1140,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"Weapons are not bought, but forged... But",
+"a samurai's weapon like yours...",
+"There can't be many blacksmiths who could forge it..."
+],
+"jp": "武器は買うものでなく 鍛え上げるものだ・・・だが / そなたのような サムライの武器・・・ / 鍛え上げる事のできる鍛冶屋は そうおるまいな・・・",
+"choice": null,
+"context": [
+{
+"ru": "Ох, мне ужасно жаль! Боюсь, у вас не хватает денег..."
+},
+{
+"ru": "Понятно... что ж, заходите как-нибудь."
+},
+{
+"ru": "Большое спасибо..."
+},
+{
+"self": true
+},
+{
+"ru": "О, у вас есть пропуск? Это хорошо. На вашем месте я бы поскорее уехал из Эдо. Все эти землетрясения опасны. Я? Ну нет, я тут родился и вырос. Я остаюсь! Нельзя же бросить свой дом, правда?"
+},
+{
+"ru": "Мне был сон... о призраке... Красивый юноша, он улыбался... И смотрел, как горит замок..."
+}
+]
+},
+{
+"id": 1141,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"Really! Little Machi's gonna sing at the theater!",
+"Go see her if you get the chance."
+],
+"jp": "そうかい！　あのお町ちゃんが 芝居小屋で歌うんだとよ！ / 機会があったら見に行ってくんな",
+"choice": null,
+"context": [
+{
+"ru": "Понятно... что ж, заходите как-нибудь."
+},
+{
+"ru": "Большое спасибо..."
+},
+{
+"ru": "О, у вас есть пропуск? Это хорошо. На вашем месте я бы поскорее уехал из Эдо. Все эти землетрясения опасны. Я? Ну нет, я тут родился и вырос. Я остаюсь! Нельзя же бросить свой дом, правда?"
+},
+{
+"self": true
+},
+{
+"ru": "Мне был сон... о призраке... Красивый юноша, он улыбался... И смотрел, как горит замок..."
+},
+{
+"ru": "Толчки стали очень сильными, люди в убежищах. Вам нужно идти в замок Эдо через северный Эдо..."
+}
+]
+},
+{
+"id": 1142,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"You don't know her? Then I'll tell you.",
+"She's a hot new rookie, the talk of the business!",
+"She's gonna be big...",
+"Take it from me, an idol fanatic!",
+"After Megumi Matsumoto comes Edo's town beauty!"
+],
+"jp": "知らないのかい？ じゃあ、教えたげるよ / そのスジでは期待されている 超大型新人さ！ / ありゃあ大物だぜ・・・ / アイドルマニアの ワシが言うのだから間違いない！ / 松本恵の次は江戸小町だ！",
+"choice": null,
+"context": [
+{
+"ru": "Большое спасибо..."
+},
+{
+"ru": "О, у вас есть пропуск? Это хорошо. На вашем месте я бы поскорее уехал из Эдо. Все эти землетрясения опасны. Я? Ну нет, я тут родился и вырос. Я остаюсь! Нельзя же бросить свой дом, правда?"
+},
+{
+"self": true
+},
+{
+"ru": "Мне был сон... о призраке... Красивый юноша, он улыбался... И смотрел, как горит замок..."
+},
+{
+"ru": "Толчки стали очень сильными, люди в убежищах. Вам нужно идти в замок Эдо через северный Эдо..."
+}
+]
+},
+{
+"id": 1143,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"I heard all about it from Jubei.",
+"I hear you did quite well at Mount Fuji."
+],
+"jp": "十兵衛殿から話はきいたぞ / 富士では なかなかの活躍だったそうだな",
+"choice": null,
+"context": [
+{
+"ru": "О, у вас есть пропуск? Это хорошо. На вашем месте я бы поскорее уехал из Эдо. Все эти землетрясения опасны. Я? Ну нет, я тут родился и вырос. Я остаюсь! Нельзя же бросить свой дом, правда?"
+},
+{
+"ru": "Мне был сон... о призраке... Красивый юноша, он улыбался... И смотрел, как горит замок..."
+},
+{
+"self": true
+},
+{
+"ru": "Толчки стали очень сильными, люди в убежищах. Вам нужно идти в замок Эдо через северный Эдо..."
+},
+{
+"ru": "Вы едете в Исэ? Я знаю там кое-кого... Кофеин Гацудзэн... когда-то мы вместе учились у одного учителя. Если на западе что-то творится, он, скорее всего, знает. Будете в Исэ - непременно зайдите к нему поговорить."
+},
+{
+"ru": "Похоже, источник всех бед на Кюсю. Императорский двор, кажется, пришел в движение... Хотят что-то сделать с этим Амакусой Сиро..."
+}
+]
+},
+{
+"id": 1144,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"Have you visited Jubei's estate?",
+"...What, not yet?",
+"He seems eager to see you. Go to the Yagyu estate!"
+],
+"jp": "十兵衛殿の屋敷は訪ねたのか？ / ・・・何だ、まだなのか / 十兵衛殿が待ちかねておる様子だ 柳生屋敷を訪ねられい！",
+"choice": null,
+"context": [
+{
+"ru": "Мне был сон... о призраке... Красивый юноша, он улыбался... И смотрел, как горит замок..."
+},
+{
+"ru": "Толчки стали очень сильными, люди в убежищах. Вам нужно идти в замок Эдо через северный Эдо..."
+},
+{
+"self": true
+},
+{
+"ru": "Вы едете в Исэ? Я знаю там кое-кого... Кофеин Гацудзэн... когда-то мы вместе учились у одного учителя. Если на западе что-то творится, он, скорее всего, знает. Будете в Исэ - непременно зайдите к нему поговорить."
+},
+{
+"ru": "Похоже, источник всех бед на Кюсю. Императорский двор, кажется, пришел в движение... Хотят что-то сделать с этим Амакусой Сиро..."
+},
+{
+"ru": "Эдо все так же шумен, несмотря на землетрясение! Он по-прежнему прекрасный цветок страны!"
+}
+]
+},
+{
+"id": 1145,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"Oops, sorry... My best goods are sold out right now.",
+"You won't regret it, so drop by again sometime."
+],
+"jp": "おっとすまないねぇ・・・ 今自慢の商品は切らしてるのさ / 絶対損はさせネェからよ また今度のぞいてくれや",
+"choice": null,
+"context": [
+{
+"ru": "Эдо все так же шумен, несмотря на землетрясение! Он по-прежнему прекрасный цветок страны!"
+},
+{
+"ru": "Ох, какое бедствие... Торговля не изменилась, но бежать все-таки пришлось... И торговля за мной увязалась! Хорошо хоть дом цел!"
+},
+{
+"ru": "В Эдо снова мирно, но я слышал о бедах на западе..."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 1146,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"Normal attacks come in three strengths...",
+"Weak attacks deal little damage but hit often.",
+"They leave no opening, so you won't be countered.",
+"Strong attacks hit hard and often land critical blows.",
+"But they're big swings, with big openings...",
+"Easier to dodge, and easier to counter.",
+"Medium attacks fall in between...",
+"Use medium normally, and switch as the situation demands."
+],
+"jp": "通常攻撃は三通りの 威力を選ぶことができる・・・ / 弱攻撃は、威力は低いが 命中率が高い / その分スキがないので 反撃を食らうこともない / 強攻撃は、威力が高く 渾身の一撃も出やすい / しかし大振りなので スキが大きい・・・ / 相手に避けられやすいし 反撃も食らいやすいのだ / そして、中攻撃は その中間・・・ / 普段は中攻撃を使い 場合によって使い分けるといいぞ",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1147,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"Unleashing a secret art costs a lot of SP...",
+"That is how much focus it takes...",
+"Know the traits of each art well.",
+"The Arts command on the menu screen describes each one.",
+"Use it for reference..."
+],
+"jp": "奥義を放つ時には 多大な気力を消費する・・・ / それだけ精神を集中させて いるというわけだ・・・ / 各奥義の特性は よくつかんでおくことだ / メニュー画面の「奥義」コマンドで 各奥義の説明を見ることができる / 参考にするといい・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1148,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"They say when your rage peaks, power fills your body and mind",
+"and your attack power rises.",
+"And there are said to be super arts",
+"you can only unleash at peak rage..."
+],
+"jp": "怒りが頂点に達すると 心身に力がみなぎって / 攻撃力が高くなるそうだ / それに、怒り頂点でないと 放つことのできない / 超奥義もあるらしいぞ・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1149,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"Are you using Command Input?"
+],
+"jp": "「格闘コマンド入力」を 使っているのか？",
+"choice": {
+"question": "Using Command Input?",
+"options": [
+"Yes",
+"No"
+]
+},
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1150,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"Are you using Move Select?"
+],
+"jp": "「技名セレクト入力」を 使っているのか？",
+"choice": {
+"question": "Using Move Select?",
+"options": [
+"Yes",
+"No"
+]
+},
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1151,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"With Command Input, you use secret arts like in a fighting game.",
+"No need to open the arts window each time,",
+"so battles move at a good tempo.",
+"It's the mode I recommend for folks used to",
+"fighting games like Samurai Shodown."
+],
+"jp": "格闘コマンド入力方式では 対戦格闘感覚で奥義を使用できる / いちいち奥義ウインドウを 見なくていいから / テンポよく戦闘が進むぞ / 「サムライスピリッツ」などの 対戦格闘に慣れている人に / お勧めのモードだ",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1152,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"You can check each art's command",
+"with the Arts command on the menu screen."
+],
+"jp": "各奥義のコマンドは メニュー画面の「奥義」コマンドで / 確認することができるぞ",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1153,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"Move Select calls for sound judgment.",
+"Plan your strategy well, and respond to the ever-changing battle",
+"calmly and correctly, and no foe can beat you."
+],
+"jp": "技名セレクト入力では 的確な状況判断が必要だ / しっかりとした作戦を立てて 刻々と変化する戦況に対して / 冷静に、的確な判断を下していけば どんな強敵にも負けることはない",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1154,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"No tricky commands to input, so you can focus on strategy.",
+"Check your current HP and SP often,",
+"and know the strengths and weaknesses of friend and foe."
+],
+"jp": "複雑な奥義コマンドの入力もいらず その分作戦に集中できるはずだ / 現在の体力・気力を こまめにチェックし / 敵味方の長所・短所を しっかりとつかんでおくといいぞ",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1155,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"You... I see you're more dexterous than you look!"
+],
+"jp": "おぬし・・・見かけによらず なかなかの器用者と見た！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1156,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"Every attack invites a counterattack...",
+"Pushing with brute force only gets you countered and wastes your HP.",
+"Use weak attacks and secret arts wisely to fight efficiently.",
+"Otherwise, you'll have a hard time in dungeons!"
+],
+"jp": "攻撃すれば必ず反撃がある・・・ / 力押しだけでは反撃を食らうばかり 自分の体力もムダに減っていくぞ / 弱攻撃や奥義をうまく使って 効率のいい戦い方をしていけばよい / そうしないと ダンジョンでは苦しいぞ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1157,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"Mastering surface swordsmanship isn't the only path.",
+"They say the swordsmen called samurai",
+"possess a hidden power of the soul called Spirits."
+],
+"jp": "表面的な 剣の技量を極めるだけが道ではない / サムライと呼ばれる剣士たちには / 「スピリッツ」と呼ばれる 隠された魂の力があるというぞ",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1158,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"Yes, this is the estate of Master Yagyu Jubei.",
+"Do you have business with him?"
+],
+"jp": "そうです ここは柳生十兵衛様の御屋敷です / 十兵衛様にご用ですか？",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Знаете... в последнее время к нам много гостей заходит. Все, кто приходил к господину Дзюбэю, отправились, кажется, в трактир. Наверное, ждут там его возвращения. Может, и вам туда? Ах да..."
+},
+{
+"ru": "Господин Дзюбэй ушел на гору Фудзи... Подробности можете узнать у Хакудо... Говорят, поля за городом кишат демонами... Может, когда все уляжется, я снова смогу учиться у доктора Гэмпаку..."
+}
+]
+},
+{
+"id": 1159,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"Master Jubei crossed the Hakone checkpoint on official business.",
+"That's all I've heard...",
+"Do you know the onmyoji",
+"Master Kafuin Hakudou?",
+"He often spoke with Master Jubei.",
+"Master Hakudou may know something."
+],
+"jp": "十兵衛様は公務で 箱根の関所を越えられました / 私が聞いているのは そのくらいで・・・ / 陰陽師の花諷院白道様を （かふういん　はくどう） / ご存じですか？ / あの方は十兵衛様とよくお話を されていました / 白道様なら 何かご存じかも知れませんよ",
+"choice": null,
+"context": [
+{
+"ru": "Знаете... в последнее время к нам много гостей заходит. Все, кто приходил к господину Дзюбэю, отправились, кажется, в трактир. Наверное, ждут там его возвращения. Может, и вам туда? Ах да..."
+},
+{
+"self": true
+},
+{
+"ru": "Господин Дзюбэй ушел на гору Фудзи... Подробности можете узнать у Хакудо... Говорят, поля за городом кишат демонами... Может, когда все уляжется, я снова смогу учиться у доктора Гэмпаку..."
+},
+{
+"ru": "Господин Дзюбэй ушел в северную часть города, к замку... Видно, там творится что-то серьезное..."
+},
+{
+"ru": "Я у вас в долгу... итак, к делу... Вы хотели знать больше об аде... с чего бы начать? Его населяют далеко не только люди... И тут все становится запутанно."
+}
+]
+},
+{
+"id": 1160,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"Master Hakudou the onmyoji",
+"is at the shrine southwest of this estate."
+],
+"jp": "陰陽師の白道様は / この屋敷の南西にある社に おいでです",
+"choice": null,
+"context": [
+{
+"ru": "Знаете... в последнее время к нам много гостей заходит. Все, кто приходил к господину Дзюбэю, отправились, кажется, в трактир. Наверное, ждут там его возвращения. Может, и вам туда? Ах да..."
+},
+{
+"self": true
+},
+{
+"ru": "Господин Дзюбэй ушел на гору Фудзи... Подробности можете узнать у Хакудо... Говорят, поля за городом кишат демонами... Может, когда все уляжется, я снова смогу учиться у доктора Гэмпаку..."
+},
+{
+"ru": "Господин Дзюбэй ушел в северную часть города, к замку... Видно, там творится что-то серьезное..."
+},
+{
+"ru": "Я у вас в долгу... итак, к делу... Вы хотели знать больше об аде... с чего бы начать? Его населяют далеко не только люди... И тут все становится запутанно."
+}
+]
+},
+{
+"id": 1161,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"Master Jubei... please tell them a bit more.",
+"They helped us in so many ways,",
+"not just with Edo Castle..."
+],
+"jp": "十兵衛様・・・ もう少しお話ししてあげて下さい / 江戸城の件だけでなく / いろいろとお力を 貸していただいたのですから・・・",
+"choice": null,
+"context": [
+{
+"ru": "Господин Дзюбэй ушел в северную часть города, к замку... Видно, там творится что-то серьезное..."
+},
+{
+"ru": "Я у вас в долгу... итак, к делу... Вы хотели знать больше об аде... с чего бы начать? Его населяют далеко не только люди... И тут все становится запутанно."
+},
+{
+"ru": "Я у вас в долгу... итак, к делу... Вы хотели знать больше об аде... с чего бы начать? Его населяют далеко не только люди... И тут все становится запутанно."
+},
+{
+"self": true
+},
+{
+"ru": "Демоны, бесы, всевозможные чудища приходят оттуда, да. По крайней мере, так мы считаем... но точных доказательств нет. Они выходят из тьмы, обладая странной силой... Мы можем звать их лишь демонами, ведь они уж точно не люди."
+},
+{
+"ru": "Я тоже хочу знать..."
+}
+]
+},
+{
+"id": 1162,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"But one thing is clear.",
+"Demons attack people, and Hell destroys their hearts.",
+"So the Shogunate has fought the demon realm with all its might.",
+"Samurai, ninja, onmyoji, monks... yet in the end,",
+"their true nature remains unknown."
+],
+"jp": "ただ、はっきりしていることが 一つある / 魔物は人を襲い 魔界は人の心を滅ぼすということだ / それゆえ幕府は全力をあげて 魔界の者たちと戦ってきた / 武士、忍者、陰陽師、修行僧・・・ だが、結局 / 奴らの真の正体はわからぬままだ",
+"choice": null,
+"context": [
+{
+"ru": "Я у вас в долгу... итак, к делу... Вы хотели знать больше об аде... с чего бы начать? Его населяют далеко не только люди... И тут все становится запутанно."
+},
+{
+"ru": "Я у вас в долгу... итак, к делу... Вы хотели знать больше об аде... с чего бы начать? Его населяют далеко не только люди... И тут все становится запутанно."
+},
+{
+"ru": "Демоны, бесы, всевозможные чудища приходят оттуда, да. По крайней мере, так мы считаем... но точных доказательств нет. Они выходят из тьмы, обладая странной силой... Мы можем звать их лишь демонами, ведь они уж точно не люди."
+},
+{
+"self": true
+},
+{
+"ru": "Я тоже хочу знать..."
+}
+]
+},
+{
+"id": 1163,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"...What a frightening story...",
+"Master Jubei, where exactly",
+"is this terrible demon realm?"
+],
+"jp": "・・・何だか、怖いお話ですね・・・ / 十兵衛様 その恐ろしい魔界というのは / 一体どこにあるんですか？",
+"choice": null,
+"context": [
+{
+"ru": "Я у вас в долгу... итак, к делу... Вы хотели знать больше об аде... с чего бы начать? Его населяют далеко не только люди... И тут все становится запутанно."
+},
+{
+"ru": "Демоны, бесы, всевозможные чудища приходят оттуда, да. По крайней мере, так мы считаем... но точных доказательств нет. Они выходят из тьмы, обладая странной силой... Мы можем звать их лишь демонами, ведь они уж точно не люди."
+},
+{
+"self": true
+},
+{
+"ru": "Я тоже хочу знать..."
+}
+]
+},
+{
+"id": 1164,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"Deep, deep beneath the earth... or so the onmyoji believe...",
+"But that's just a theory. No one truly knows.",
+"In any case, the demons have grown very active of late.",
+"As you know,",
+"they even got into the heart of Edo."
+],
+"jp": "大地の底の底・・・というのが 陰陽師たちの考えだ・・・ / だがそれもしょせんは仮説に過ぎん 本当のところは誰も知らぬのだ / ともかく、魔物どもの動きが 最近は激しくなっておる / 知っての通り / 江戸の町中にまで 侵入しておったのだからな",
+"choice": null,
+"context": [
+{
+"ru": "Демоны, бесы, всевозможные чудища приходят оттуда, да. По крайней мере, так мы считаем... но точных доказательств нет. Они выходят из тьмы, обладая странной силой... Мы можем звать их лишь демонами, ведь они уж точно не люди."
+},
+{
+"ru": "Я тоже хочу знать..."
+},
+{
+"self": true
+},
+{
+"ru": "Кто же тогда Амакуса Сиро?"
+}
+]
+},
+{
+"id": 1165,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"On top of that, there are troubling signs.",
+"Someone is scheming to plunge Japan into chaos.",
+"That cult worshipping an evil god at Fuji is just one part.",
+"And the power to build such a castle beneath Edo Castle...",
+"This invasion is far larger and more organized than before.",
+"We had best assume as much."
+],
+"jp": "それに加えて不穏な動きがある / この日本を大混乱に陥れようと 何者かが暗躍しておるのだ / 富士で見た邪神を崇める 怪しげな教えもその一つに過ぎん / さらには江戸城の地下に あのような城を築くことのできる力 / 今回の侵略はこれまでと違って かなり組織だった大きなものと / 考えておいた方がよさそうじゃ",
+"choice": null,
+"context": [
+{
+"ru": "Я тоже хочу знать..."
+},
+{
+"self": true
+},
+{
+"ru": "Кто же тогда Амакуса Сиро?"
+}
+]
+},
+{
+"id": 1166,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"...Is that so. Sounds like this is turning",
+"into one hell of a mess...",
+"By the way, who the heck is this Amakusa Shiro?"
+],
+"jp": "・・・そうかい、なにやら とんでもねぇ話に / なってきやがったな・・・ / ところで、あの天草四郎ってのは 一体全体何者なんだい？",
+"choice": null,
+"context": [
+{
+"ru": "Я тоже хочу знать..."
+},
+{
+"self": true
+},
+{
+"ru": "Кто же тогда Амакуса Сиро?"
+},
+{
+"ru": "Да, он назвался Амакусой Сиро... Он возглавил народное восстание против сегуната на Кюсю. В Симабаре, если точнее. 150 лет назад. Там он и погиб... весьма жестоко, должен добавить... И вот мы здесь. Похоже, ключ ко всему этому - призрак Амакусы..."
+}
+]
+},
+{
+"id": 1167,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"Hmph... That doesn't matter.",
+"What I want to know is where Amakusa is!",
+"...Who is this Amakusa Shiro anyway?"
+],
+"jp": "ふ・・・そんなことはどうでもいい / 俺が知りたいのは 天草の居所よ！ / ・・・そもそも 天草四郎とは何者なのだ？",
+"choice": null,
+"context": [
+{
+"ru": "Кто же тогда Амакуса Сиро?"
+},
+{
+"self": true
+},
+{
+"ru": "Да, он назвался Амакусой Сиро... Он возглавил народное восстание против сегуната на Кюсю. В Симабаре, если точнее. 150 лет назад. Там он и погиб... весьма жестоко, должен добавить... И вот мы здесь. Похоже, ключ ко всему этому - призрак Амакусы..."
+},
+{
+"ru": "Господин Дзюбэй..."
+},
+{
+"ru": "Похоже, вам суждено преследовать его и сражаться с демонами. Если так, вам следует отправиться в Исэ. Там должен быть Хакудо... Вы ведь, кажется, знакомы...? Вы должны помочь ему там, где не могу я... Мои возможности невелики, ведь я телохранитель императора... Этот пропуск поможет вам добраться куда нужно."
+}
+]
+},
+{
+"id": 1168,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"Hmm... That's tough, Mister...",
+"But Cham Cham got it tough too!",
+"That bad guy stole the Palenque Stone and ran away!",
+"Who's Amakusa Shiro? Who? Who?"
+],
+"jp": "ふーン・・・ タイヘンだね・・・おじちゃン / でも、チャムチャムも タイヘンなンだ！ / パレンケストーンを 盗ンで逃げた、悪いヤツ！ / 天草四郎ッて何者？　何者？",
+"choice": null,
+"context": [
+{
+"ru": "Кто же тогда Амакуса Сиро?"
+},
+{
+"self": true
+},
+{
+"ru": "Да, он назвался Амакусой Сиро... Он возглавил народное восстание против сегуната на Кюсю. В Симабаре, если точнее. 150 лет назад. Там он и погиб... весьма жестоко, должен добавить... И вот мы здесь. Похоже, ключ ко всему этому - призрак Амакусы..."
+},
+{
+"ru": "Господин Дзюбэй..."
+},
+{
+"ru": "Похоже, вам суждено преследовать его и сражаться с демонами. Если так, вам следует отправиться в Исэ. Там должен быть Хакудо... Вы ведь, кажется, знакомы...? Вы должны помочь ему там, где не могу я... Мои возможности невелики, ведь я телохранитель императора... Этот пропуск поможет вам добраться куда нужно."
+}
+]
+},
+{
+"id": 1169,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"Heh heh... Seems you're not the type to live an ordinary life either.",
+"You mean to chase Amakusa and challenge him, no matter what?",
+"Very well, I like that!",
+"I must guard the Shogun and can do nothing for you,",
+"but take this Spy Pass.",
+"Use it to go to Ise!",
+"They say agents of Hell are stirring in Ise.",
+"You may find a lead on Amakusa there."
+],
+"jp": "フフ・・・お主も尋常の生を 全うできぬたちの男らしいのぅ / あくまでも天草を追い 勝負を挑もうと言うのだな？ / よかろう、気に入ったぞ！ / わしは上様の警護で 何もしてやれぬが / この隠密手形を持っていくがよい / そして この手形を使って伊勢に行けい！ / 伊勢で何やら 魔界の手先がうごめいておるという / 天草の手がかり 伊勢で得られるやも知れぬ",
+"choice": null,
+"context": [
+{
+"ru": "Да, он назвался Амакусой Сиро... Он возглавил народное восстание против сегуната на Кюсю. В Симабаре, если точнее. 150 лет назад. Там он и погиб... весьма жестоко, должен добавить... И вот мы здесь. Похоже, ключ ко всему этому - призрак Амакусы..."
+},
+{
+"ru": "Господин Дзюбэй..."
+},
+{
+"ru": "Похоже, вам суждено преследовать его и сражаться с демонами. Если так, вам следует отправиться в Исэ. Там должен быть Хакудо... Вы ведь, кажется, знакомы...? Вы должны помочь ему там, где не могу я... Мои возможности невелики, ведь я телохранитель императора... Этот пропуск поможет вам добраться куда нужно."
+},
+{
+"self": true
+},
+{
+"ru": "Поговорите с начальником порта Эдо, он отвезет вас в Исэ. Если чувствуете себя неготовыми, ищите места для тренировок! Додзе Ягю - одно из них, но не относитесь к нему легко! Очистите разум, и пусть клинок укажет вам путь!"
+},
+{
+"ru": "Я Оно Котаро! Сейчас учусь у господина Дзюбэя! Мне еще далеко до цели, но однажды я стану самураем!"
+},
+{
+"ru": "Выигрыш GP!"
+}
+]
+},
+{
+"id": 1170,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"If you like, I'll cross swords with you?"
+],
+"jp": "お主さえ良ければ わしが一太刀相手してやるが？",
+"choice": {
+"question": "Train with Jubei?",
+"options": [
+"Yes",
+"No"
+]
+},
+"context": [
+{
+"ru": "Выигрыш GP!"
+},
+{
+"ru": "{NAME}... Ты пришел тренироваться?"
+},
+{
+"ru": "Но, похоже, ты уже усвоил все, чему я могу здесь научить. Ты познал настоящий бой! Но не забывай о тренировках!"
+},
+{
+"self": true
+},
+{
+"ru": "Понимаю... что ж, береги себя в пути."
+},
+{
+"ru": "Тренируйся каждый день! Этот путь бесконечен!"
+}
+]
+},
+{
+"id": 1171,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"Wahahahahaha! Don't hold back!",
+"Come at me, whelp!"
+],
+"jp": "うはははははは！ さあ遠慮は要らぬ / かかってこい、こわっぱ！",
+"choice": null,
+"context": [
+{
+"ru": "Выигрыш GP!"
+},
+{
+"ru": "{NAME}... Ты пришел тренироваться?"
+},
+{
+"ru": "Но, похоже, ты уже усвоил все, чему я могу здесь научить. Ты познал настоящий бой! Но не забывай о тренировках!"
+},
+{
+"self": true
+},
+{
+"ru": "Понимаю... что ж, береги себя в пути."
+},
+{
+"ru": "Тренируйся каждый день! Этот путь бесконечен!"
+},
+{
+"ru": "Хм-м... тяжеловато оказалось? Может, еще попытка..."
+}
+]
+},
+{
+"id": 1172,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"Yes, splendid! {NAME}!",
+"You have now mastered a new secret art!",
+"When your rage reaches its peak,",
+"that move will bury every foe before you, bones and all!"
+],
+"jp": "うむ、見事であった！ {NAME}！ / お主は今 新たなる奥義を身につけた！ / お主の怒りが頂点を極めたとき / その技は眼前の敵のことごとくを 骨一本残さず葬り去ることだろう！",
+"choice": null,
+"context": [
+{
+"ru": "Но, похоже, ты уже усвоил все, чему я могу здесь научить. Ты познал настоящий бой! Но не забывай о тренировках!"
+},
+{
+"ru": "Понимаю... что ж, береги себя в пути."
+},
+{
+"self": true
+},
+{
+"ru": "Тренируйся каждый день! Этот путь бесконечен!"
+},
+{
+"ru": "Хм-м... тяжеловато оказалось? Может, еще попытка..."
+},
+{
+"ru": "Но разве ты уже не закончил у меня обучение?"
+}
+]
+},
+{
+"id": 1173,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"I see... I can smell evil coming.",
+"Jubei, we'll help too! Let's crush the bad guys together!",
+"Anyway, what kind of guy is this Amakusa from the upside-down Edo Castle?",
+"I've got a little history with him."
+],
+"jp": "なるほど・・・ 悪のにおいがしてきたぜ / 十兵衛殿、オレたちも協力するぜ！ 一緒に悪者を叩きつぶそう！ / それはともかく逆さ江戸城に現れた 天草とはどういうヤツなんだい？ / ヤツとは少々わけ有りでね",
+"choice": null,
+"context": [
+{
+"ru": "Хм-м... тяжеловато оказалось? Может, еще попытка..."
+},
+{
+"ru": "Но разве ты уже не закончил у меня обучение?"
+},
+{
+"ru": "Господин Дзюбэй ждет вас внутри."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 1174,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"Hmm... This is serious indeed.",
+"...Jubei, there is one thing that troubles me.",
+"That fiend Amakusa at the upside-down Edo Castle is no ordinary man."
+],
+"jp": "ふむ・・・確かに大事のようですな / ・・・そこで十兵衛殿 一つ気になることがあります / 逆さ江戸城に現れた天草という魔人 あの男はただ者ではなさそうですが",
+"choice": null,
+"context": [
+{
+"ru": "Хм-м... тяжеловато оказалось? Может, еще попытка..."
+},
+{
+"ru": "Но разве ты уже не закончил у меня обучение?"
+},
+{
+"ru": "Господин Дзюбэй ждет вас внутри."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 1175,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"This all right with you?"
+],
+"jp": "これでいいってんだな？",
+"choice": null,
+"context": [
+{
+"ru": "Сколько продадите?"
+},
+{
+"ru": "Приходите еще."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 1176,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"Kuzuhara's the name, kimono's the game!",
+"With true Osaka merchant spirit, I'll give you a real bargain!",
+"So, what'll it be today...",
+"Just 100GP and I'll fix you up with any outfit you like."
+],
+"jp": "呉服屋の「くずはら」だす！ / 浪速商人の心意気で 値段は勉強さしてもらいまっせ！ / んで、今日のご用は・・・ / たったの１００金でどんな服でも ご用立ていたしますけど",
+"choice": {
+"question": "Get a new outfit?",
+"options": [
+"Yes",
+"No"
+]
+},
+"context": [
+{
+"self": true
+},
+{
+"en": "Do you want to go to south Kyo? Yes No"
+},
+{
+"en": "Do you want to go to south Kyo? Yes No"
+}
+]
+},
+{
+"id": 1177,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"Is that so.",
+"Well, take your time and have a look around."
+],
+"jp": "さいでっか / まあごゆっくり 服でも見ていって下さいな",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"en": "Do you want to go to south Kyo? Yes No"
+},
+{
+"en": "Do you want to go to south Kyo? Yes No"
+},
+{
+"en": "Do you want to go to south Kyo? Yes No"
+}
+]
+},
+{
+"id": 1178,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"Oh... You don't like our clothes...",
+"Sorry, we're still short on stock...",
+"Really, I apologize."
+],
+"jp": "はあ・・・うちの服 お気にめしまへんか・・・ / すんまへん まだまだ品薄でして・・ / ほんま、ごめんなさい",
+"choice": null,
+"context": [
+{
+"en": "What's wrong, Cham Cham?Are you tired?Yes No"
+},
+{
+"en": "Do you want to go to south Kyo? Yes No"
+},
+{
+"en": "Do you want to go to south Kyo? Yes No"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 1179,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"Looks like you're short on money, friend.",
+"I gotta run a business too, you know."
+],
+"jp": "お客はん・・・ お金が足りへんみたいやわ / うちも商売やねん ",
+"choice": null,
+"context": [
+{
+"en": "Do you want to go to south Kyo? Yes No"
+},
+{
+"en": "Do you want to go to south Kyo? Yes No"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 1180,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"Ooh! That suits you!",
+"You look like a real man now!"
+],
+"jp": "おおっ！ こらぁ、お似合いやわ！ / 男っぷりがずいぶんと 上がりましたやん！",
+"choice": null,
+"context": [
+{
+"en": "Do you want to go to south Kyo? Yes No"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 1181,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"Oh... how cute...",
+"Ain't it nice? A cute kid looks cute in anything!"
+],
+"jp": "ほう・・・ こりゃ可愛いらしい・・・ / ええなぁ、カワイイ子は 何着てもカワイイわ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1182,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"Your outfit don't use much cloth, missy,",
+"but it's the good stuff!"
+],
+"jp": "おじょうさんの服 布は少ないけど / ええヤツ使うてまんねんで！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1183,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"Looks great, don't it?",
+"Edo tailoring's every bit as good as Paris!"
+],
+"jp": "ええ感じでっしゃろ？ / 江戸の仕立ては 巴里にも負けてまへんで！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1184,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"Huh, changing clothes kinda puts me in a better mood too!"
+],
+"jp": "うーん、服を変えると 何だか気分まで良くなってきたぜ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1185,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"Wow... it's lovely..."
+],
+"jp": "わぁ・・・すてき・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1186,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"Sister, that looks great on you!"
+],
+"jp": "姉さん、よく似合ってるよ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1187,
+"file": "FLD/F_KAT1.BIN",
+"pages": [
+"WOW! Nakoruru, you look beautiful!"
+],
+"jp": "ＷＡＯ！ナコルル なんてビューティフルなんだ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+}
+]

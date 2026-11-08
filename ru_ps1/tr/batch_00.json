@@ -1,0 +1,4671 @@
+[
+{
+"id": 0,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"Surely not... Sieger!",
+"You don't mean to set off after Mizuki, do you?!"
+],
+"jp": "まさか・・・ズィーガー殿！ / ミヅキを追いかけて旅立とうと いうのではあるまいな！？",
+"choice": null,
+"context": [
+{
+"ru": "Что такое? Вы больше не ладите?"
+},
+{
+"ru": "... Я сказала что-то, что вас огорчило...?"
+},
+{
+"ru": "Нет, что вы! Просто... Мидзуки все еще на свободе!"
+},
+{
+"self": true
+},
+{
+"ru": "Нет-нет! У тебя тут дел по горло! Мидзуки оставь нам!"
+},
+{
+"ru": "Нельзя! Здесь для вас еще столько работы! Прошу, предоставьте Мидзуки нам!"
+},
+{
+"ru": "Нет-нет-нет! У тебя еще важная миссия здесь! Мидзуки мы займемся сами!"
+}
+]
+},
+{
+"id": 1,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"Attacking Paris, the impregnable fortress city, from underground...",
+"That St. Germain has no sense of decency at all!"
+],
+"jp": "難攻不落の要塞都市・パリに 地中から攻めてくるなんて / サンゼルマンの奴 なんて非常識な男なんだぁ！",
+"choice": null,
+"context": [
+{
+"ru": "Сначала воры, теперь призраки! Что творится с этой страной?!"
+},
+{
+"ru": "Там, где была церковь, что-то появилось?"
+},
+{
+"ru": "Теперь бал сорван! Бедная наша королева... Что?! Королева была демоном?! Вздор!"
+},
+{
+"self": true
+},
+{
+"ru": "Версальского дворца больше нет?!"
+},
+{
+"ru": "Где же ждет меня моя любовь?"
+},
+{
+"ru": "Это ужасно... а я ничего не могу поделать..."
+}
+]
+},
+{
+"id": 2,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"Whaaat?! The ball's totally ruined?",
+"Queen Antoinette is a demon?",
+"The palace is in shambles?",
+"An evil Arc de Triomphe showed up?",
+"Ugh! I don't get it at all!"
+],
+"jp": "えぇ～っ！ 舞踏会はメチャクチャあ？ / アントワ王妃が魔物ぉ？ / 宮殿はボロボロぉ？ / 魔の凱旋門が登場ぉ～？ / もうっ！ わけわかんな～い！",
+"choice": null,
+"context": [
+{
+"ru": "Сначала воры, теперь призраки! Что творится с этой страной?!"
+},
+{
+"ru": "Там, где была церковь, что-то появилось?"
+},
+{
+"ru": "Теперь бал сорван! Бедная наша королева... Что?! Королева была демоном?! Вздор!"
+},
+{
+"self": true
+},
+{
+"ru": "Версальского дворца больше нет?!"
+},
+{
+"ru": "Где же ждет меня моя любовь?"
+},
+{
+"ru": "Это ужасно... а я ничего не могу поделать..."
+}
+]
+},
+{
+"id": 3,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"So the Arc de Triomphe is like, a new tourist spot now...",
+"But it's kinda scary, so I haven't gone yet...",
+"Like, you know?"
+],
+"jp": "凱旋門ってェ～ 新しい観光名所になったけどォ～ / なぁんか怖いからァ～ まだ行ってないのォ～ / って、か～んじぃ",
+"choice": null,
+"context": [
+{
+"ru": "Черт... когда-нибудь и я блесну на балу!"
+},
+{
+"ru": "Триумфальную арку сейчас чинят... Скоро она снова станет памятником славы Парижа!"
+},
+{
+"ru": "... Хмф..."
+},
+{
+"self": true
+},
+{
+"ru": "Как я рада, что приехала сюда!"
+},
+{
+"ru": "Свою любовь я здесь так и не нашла... (всхлип)"
+},
+{
+"ru": "Дворец сейчас на ремонте."
+}
+]
+},
+{
+"id": 4,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"French bread is tres bien! Come again!",
+"You feel a little stamina return.",
+"Queen Antoinette came here from a foreign land to marry...",
+"Perhaps she was lonely, with no true friends at the palace."
+],
+"jp": "フランスのパンはトレビアンね！ また来てほしいね！ / なんだか、体力が少し回復した / アントワ王妃は 外国から嫁がれたお方・・・ / 宮殿に本当のお友達がいなくて さびしかったのかも知れませんネ",
+"choice": null,
+"context": [
+{
+"ru": "Простите... но больше вы не унесете!"
+},
+{
+"en": "Bonsoir! Today we have croissant sandwiches! It's 30GP per / serving... / Would you like some?Yes No"
+},
+{
+"en": "Bonsoir! Today we have fresh French bread! 10GP per / serving... / Would you like some?Yes No"
+},
+{
+"self": true
+},
+{
+"ru": "Заперто."
+}
+]
+},
+{
+"id": 5,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"No money? Oh well, what can you do."
+],
+"jp": "お金ありませんか？ ショーガないですネェ",
+"choice": null,
+"context": [
+{
+"ru": "Простите... но больше вы не унесете!"
+},
+{
+"en": "Bonsoir! Today we have croissant sandwiches! It's 30GP per / serving... / Would you like some?Yes No"
+},
+{
+"en": "Bonsoir! Today we have fresh French bread! 10GP per / serving... / Would you like some?Yes No"
+},
+{
+"self": true
+},
+{
+"ru": "Заперто."
+},
+{
+"ru": "Господин! Все командиры полков получили приказ! Алые львы, вперед!"
+}
+]
+},
+{
+"id": 6,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"Non! Come to France and not eat bread?",
+"That is a crime, aru...",
+"Oops, I mean, a crime!"
+],
+"jp": "ノン！ フランスに来てパン食べない！ / それはもう罪アルよ・・・ / 違った、罪ですネ！",
+"choice": null,
+"context": [
+{
+"en": "Bonsoir! Today we have croissant sandwiches! It's 30GP per / serving... / Would you like some?Yes No"
+},
+{
+"en": "Bonsoir! Today we have fresh French bread! 10GP per / serving... / Would you like some?Yes No"
+},
+{
+"self": true
+},
+{
+"ru": "Заперто."
+},
+{
+"ru": "Господин! Все командиры полков получили приказ! Алые львы, вперед!"
+},
+{
+"ru": "Чародейство и наука ради оружия? Проклятый Сен-Жермен! Не знал я, что Колокол Анимус на такое способен!"
+}
+]
+},
+{
+"id": 7,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"Tasty, yes? Fresh from the oven!",
+"Your spirit rose a little!",
+"Master Lou is the famous head of the Phantom Conjurers troupe.",
+"He is a kind man, but scary when angry.",
+"They say he helped form the European Allied Army, too."
+],
+"jp": "オイシイでしょ？　焼きたてネ！ / 気力が少し上がった！ / ルー団長は有名な ファントム魔術師団の団長さんデス / お優しい方ですが 怒らせると怖いデス / 今回の欧州連合軍結成にも 一役買われたそうデスよ",
+"choice": null,
+"context": [
+{
+"ru": "Заперто."
+},
+{
+"self": true
+},
+{
+"ru": "Господин! Все командиры полков получили приказ! Алые львы, вперед!"
+},
+{
+"ru": "Чародейство и наука ради оружия? Проклятый Сен-Жермен! Не знал я, что Колокол Анимус на такое способен!"
+},
+{
+"ru": "Пятому полку наступать к северу от дворца! Приготовиться к атаке врага! Нахтмузик, удерживаешь запад! Я со своим полком иду первым, Лу прикрывает! Вперед!"
+}
+]
+},
+{
+"id": 8,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"Yes, sir! Long live the Emperor!"
+],
+"jp": "はっ！　皇帝万歳っ！",
+"choice": null,
+"context": [
+{
+"ru": "Господин! Все командиры полков получили приказ! Алые львы, вперед!"
+},
+{
+"ru": "Чародейство и наука ради оружия? Проклятый Сен-Жермен! Не знал я, что Колокол Анимус на такое способен!"
+},
+{
+"ru": "Пятому полку наступать к северу от дворца! Приготовиться к атаке врага! Нахтмузик, удерживаешь запад! Я со своим полком иду первым, Лу прикрывает! Вперед!"
+},
+{
+"self": true
+},
+{
+"ru": "Что... Не может быть... Так я и думал!"
+},
+{
+"ru": "Что такое, Реон...? Эй! Да это Врата демонов!"
+},
+{
+"ru": "Что случилось...? О... Откуда здесь Врата демонов?"
+}
+]
+},
+{
+"id": 9,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"Hahaha, it's true! I'm glad we took Lou up on his offer."
+],
+"jp": "ははは、本当だ！ ルー殿のお言葉に甘えて良かったな",
+"choice": null,
+"context": [
+{
+"ru": "Передайте Лу мое сенкью! Я так не ел с тех пор, как уехал из Сан-Франциско!"
+},
+{
+"ru": "То... вино, как его называли... было весьма недурно."
+},
+{
+"ru": "Ух, Реон, я объелась! Больше ни кусочка не влезет..."
+},
+{
+"self": true
+},
+{
+"ru": "Вперед, храбрые воины!"
+},
+{
+"ru": "Спасибо! Очень признательны! Бывайте!"
+}
+]
+},
+{
+"id": 10,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"Tch... cheap booze after all...",
+"If I'd taken Lou up on his offer, I'd be..."
+],
+"jp": "ち・・・結局、安酒か・・・ / ルー殿のお言葉に甘えていれば 今頃は・・・",
+"choice": null,
+"context": [
+{
+"ru": "Передайте Лу мое сенкью! Я так не ел с тех пор, как уехал из Сан-Франциско!"
+},
+{
+"ru": "То... вино, как его называли... было весьма недурно."
+},
+{
+"ru": "Ух, Реон, я объелась! Больше ни кусочка не влезет..."
+},
+{
+"self": true
+},
+{
+"ru": "Вперед, храбрые воины!"
+},
+{
+"ru": "Спасибо! Очень признательны! Бывайте!"
+},
+{
+"ru": "Большое спасибо! Будьте здоровы!"
+}
+]
+},
+{
+"id": 11,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"Hmph... Go wag your tail at him now, then."
+],
+"jp": "ふん・・・今からでも しっぽを振ってくるがいい",
+"choice": null,
+"context": [
+{
+"ru": "То... вино, как его называли... было весьма недурно."
+},
+{
+"ru": "Ух, Реон, я объелась! Больше ни кусочка не влезет..."
+},
+{
+"self": true
+},
+{
+"ru": "Вперед, храбрые воины!"
+},
+{
+"ru": "Спасибо! Очень признательны! Бывайте!"
+},
+{
+"ru": "Большое спасибо! Будьте здоровы!"
+}
+]
+},
+{
+"id": 12,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"Why, if it isn't Lord Haohmaru!"
+],
+"jp": "まあ、これは覇王丸様！",
+"choice": null,
+"context": [
+{
+"ru": "Мы думаем вернуться в Финляндию... Быть может, удастся исправить ущерб по всей Европе. Хорошо бы эта битва научила людей, как безумна война. Но ведь мы всего лишь люди..."
+},
+{
+"ru": "В Париже вновь мир... Вся Европа у вас в долгу."
+},
+{
+"ru": "Зигер!!"
+},
+{
+"self": true
+},
+{
+"ru": "Это Накоруру!"
+},
+{
+"ru": "Это Галфорд!"
+},
+{
+"ru": "Гэндзюро, постой!"
+}
+]
+},
+{
+"id": 13,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"Why, if it isn't Lord Ukyo!"
+],
+"jp": "まあ、これは右京様！",
+"choice": null,
+"context": [
+{
+"ru": "Зигер!!"
+},
+{
+"ru": "Это Накоруру!"
+},
+{
+"ru": "Это Галфорд!"
+},
+{
+"self": true
+},
+{
+"ru": "Гэндзюро, постой!"
+},
+{
+"ru": "Это Чам-Чам..."
+},
+{
+"ru": "Гав!!"
+}
+]
+},
+{
+"id": 14,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"What can I do for you?"
+],
+"jp": "何の用だい？",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Заходите еще."
+},
+{
+"ru": "Чье оружие ковать?"
+}
+]
+},
+{
+"id": 15,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"Anything else?"
+],
+"jp": "他にも用があるかい？",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Заходите еще."
+},
+{
+"ru": "Чье оружие ковать?"
+},
+{
+"ru": "Вам это не по карману."
+}
+]
+},
+{
+"id": 16,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"That's plenty for you."
+],
+"jp": "あんたは今ので十分だ",
+"choice": null,
+"context": [
+{
+"ru": "Заходите еще."
+},
+{
+"ru": "Чье оружие ковать?"
+},
+{
+"self": true
+},
+{
+"ru": "Вам это не по карману."
+},
+{
+"ru": "Прошу... подождите!"
+}
+]
+},
+{
+"id": 17,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"This person, then?"
+],
+"jp": "このお人でいいかい？",
+"choice": null,
+"context": [
+{
+"ru": "Заходите еще."
+},
+{
+"ru": "Чье оружие ковать?"
+},
+{
+"ru": "Вам это не по карману."
+},
+{
+"self": true
+},
+{
+"ru": "Прошу... подождите!"
+},
+{
+"ru": "Вот, все готово!"
+},
+{
+"ru": "Чью стихию менять?"
+}
+]
+},
+{
+"id": 18,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"How much should I forge it?"
+],
+"jp": "どのくらい鍛えるね？",
+"choice": null,
+"context": [
+{
+"ru": "Чье оружие ковать?"
+},
+{
+"ru": "Вам это не по карману."
+},
+{
+"self": true
+},
+{
+"ru": "Прошу... подождите!"
+},
+{
+"ru": "Вот, все готово!"
+},
+{
+"ru": "Чью стихию менять?"
+}
+]
+},
+{
+"id": 19,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"Is there anything else?"
+],
+"jp": "他にも用がありマスか？",
+"choice": null,
+"context": [
+{
+"ru": "Чью стихию менять?"
+},
+{
+"ru": "Какую стихию?"
+},
+{
+"ru": "Добро пожаловать!"
+},
+{
+"self": true
+},
+{
+"ru": "Вам это не по карману."
+}
+]
+},
+{
+"id": 20,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"Which one will it be?"
+],
+"jp": "どれにするのデスか？",
+"choice": null,
+"context": [
+{
+"ru": "Чью стихию менять?"
+},
+{
+"ru": "Какую стихию?"
+},
+{
+"ru": "Добро пожаловать!"
+},
+{
+"self": true
+},
+{
+"ru": "Вам это не по карману."
+},
+{
+"ru": "Добро пожаловать!"
+}
+]
+},
+{
+"id": 21,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"Nobody can equip this!"
+],
+"jp": "誰も装備できませーん！",
+"choice": null,
+"context": [
+{
+"ru": "Добро пожаловать!"
+},
+{
+"ru": "Вам это не по карману."
+},
+{
+"self": true
+},
+{
+"ru": "Добро пожаловать!"
+},
+{
+"ru": "Чего изволите?"
+},
+{
+"ru": "Мерси!"
+}
+]
+},
+{
+"id": 22,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"Equip it?"
+],
+"jp": "装備しますか？",
+"choice": null,
+"context": [
+{
+"ru": "Вам это не по карману."
+},
+{
+"self": true
+},
+{
+"ru": "Добро пожаловать!"
+},
+{
+"ru": "Чего изволите?"
+},
+{
+"ru": "Мерси!"
+}
+]
+},
+{
+"id": 23,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"You can't hold any more money!"
+],
+"jp": "お金がもう一杯でーす！",
+"choice": null,
+"context": [
+{
+"ru": "Больше вам не унести."
+},
+{
+"ru": "Что продаете?"
+},
+{
+"ru": "Сколько продадите?"
+},
+{
+"self": true
+},
+{
+"ru": "Мерси!"
+},
+{
+"ru": "Уверены?"
+}
+]
+},
+{
+"id": 24,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"You have nothing to sell!"
+],
+"jp": "売るものがありませーん！",
+"choice": null,
+"context": [
+{
+"ru": "Что продаете?"
+},
+{
+"ru": "Сколько продадите?"
+},
+{
+"ru": "Мерси!"
+},
+{
+"self": true
+},
+{
+"ru": "Уверены?"
+}
+]
+},
+{
+"id": 25,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"Head east down this road and you'll find an old temple.",
+"They say it's haunted, so folks call it the Ghost Temple.",
+"More importantly, demons are after Paris?",
+"Is that true?"
+],
+"jp": "この街道を東に行けば 古いお寺があるよ / お化けが出るっていうんで 「幽霊寺院」なんて言われてるのさ / それよりも 魔物がパリを狙ってるって？ / 本当かい？",
+"choice": null,
+"context": [
+{
+"ru": "Сен-Жермен...? Надо приготовиться!"
+},
+{
+"ru": "Сен-Жермен обладает невероятной силой... Будьте осторожны."
+},
+{
+"ru": "Сюда съезжаются мечники со всей Европы... Что же такое творится?"
+},
+{
+"self": true
+},
+{
+"ru": "Мечники из многих стран прибыли в Париж, чтобы сообща ударить по Сен-Жермену... Улицы закрыты, пока дело не решится!"
+},
+{
+"ru": "В последнее время то и дело грабят дворянские особняки... Демоны, воры... что дальше?"
+},
+{
+"ru": "Ах... сегодня вечером будет здорово! Что?! Меня не пригласили..."
+}
+]
+},
+{
+"id": 26,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"I came all this way to see it, and there's no Eiffel Tower yet?",
+"Seriously? I can't believe it!",
+"Like, you know?"
+],
+"jp": "せっかくぅ～、見にきたのにぃ～ エッフェル塔まだないのぉ～ / マジぃ～ し～んじらんな～い / って、か～んじぃ",
+"choice": null,
+"context": [
+{
+"ru": "Сюда съезжаются мечники со всей Европы... Что же такое творится?"
+},
+{
+"ru": "Мечники из многих стран прибыли в Париж, чтобы сообща ударить по Сен-Жермену... Улицы закрыты, пока дело не решится!"
+},
+{
+"ru": "В последнее время то и дело грабят дворянские особняки... Демоны, воры... что дальше?"
+},
+{
+"self": true
+},
+{
+"ru": "Ах... сегодня вечером будет здорово! Что?! Меня не пригласили..."
+},
+{
+"ru": "Ну как? Это знаменитейшая марка в Париже! Настоящая сумка от Джо Хигаси! Правда, прелесть?"
+},
+{
+"ru": "Э-э... разве это не... кожа аллигатора? Неужели вы не слышите крики убитых созданий...? Это же...! Мать-природа плакала бы от такого!"
+}
+]
+},
+{
+"id": 27,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"You like crocodile meat?",
+"Me like banana better than crocodile meat!"
+],
+"jp": "オマエ、ワニの肉が好きなのか？ / ボク、ワニの肉より バナナンの方がいいナ！",
+"choice": null,
+"context": [
+{
+"ru": "Ах... сегодня вечером будет здорово! Что?! Меня не пригласили..."
+},
+{
+"ru": "Ну как? Это знаменитейшая марка в Париже! Настоящая сумка от Джо Хигаси! Правда, прелесть?"
+},
+{
+"ru": "Э-э... разве это не... кожа аллигатора? Неужели вы не слышите крики убитых созданий...? Это же...! Мать-природа плакала бы от такого!"
+},
+{
+"self": true
+},
+{
+"ru": "Мы хотим посмотреть город. Нам еще нельзя выйти?"
+},
+{
+"ru": "Я приехала в Париж... в поисках маленькой любви..."
+},
+{
+"ru": "Устраивают бал, чтобы поднять боевой дух войск. Логично, но не привлечет ли это демонов?"
+}
+]
+},
+{
+"id": 28,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"French bread is tres bien! Come again!",
+"You feel a little stamina return.",
+"Do you know the Ghost Temple? It's east of the palace road.",
+"It was a monastery long ago, but now nobody's there.",
+"Because they say it's haunted, you see! Hahaha!"
+],
+"jp": "フランスのパンはトレビアンね！ また来てほしいね！ / なんだか、体力が少し回復した / 「幽霊寺院」って知ってマスか？ 宮殿前の街道を東に行ったところネ / 昔は修道院だったらしいデスが 今は誰もいないヨ / なんたって、お化けが出るって 噂デスからね、ハハハ！",
+"choice": null,
+"context": [
+{
+"ru": "Хм? Что ты сказал...?"
+},
+{
+"en": "Bonsoir! Today we have croissant sandwiches! It's 30GP per / serving... / Would you like some?Yes No"
+},
+{
+"en": "Bonsoir! Today we have fresh French bread! 10GP per / serving... / Would you like some?Yes No"
+},
+{
+"self": true
+},
+{
+"ru": "Заперто."
+},
+{
+"ru": "Вы закончили...?"
+}
+]
+},
+{
+"id": 29,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"Tasty, yes? Fresh from the oven!",
+"Your spirit rose a little!",
+"Rumor says some fellow named Count St. Germain",
+"is the boss of the bad guys.",
+"He uses Magiscience, a fusion of sorcery and science, they say."
+],
+"jp": "オイシイでしょ？　焼きたてネ！ / 気力が少し上がった！ / 噂では サンゼルマン伯爵ってヤツが / ワルの親玉だといいマス / 魔道と科学を合体させた 「魔科学」ってのを使うらしいネ",
+"choice": null,
+"context": [
+{
+"ru": "Что случилось? Вы в порядке, сударь?"
+},
+{
+"ru": "Что-то не так, сударь? Вам тоже нездоровится?!"
+},
+{
+"ru": "Что такое, дяденька?! Тебе больно?"
+},
+{
+"self": true
+},
+{
+"ru": "Сэр Лу... вам знакомы Колокола Анимус?"
+},
+{
+"ru": "В Версальском дворце соберутся воины со всего света... быть может, там мы встретимся снова."
+},
+{
+"ru": "Ну же, Шарлотта... Не упрямься так!"
+}
+]
+},
+{
+"id": 30,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"Ah, {NAME}... Do you seek power?"
+],
+"jp": "おや、これは{NAME}殿・・・ 力が欲しいと思われるかな？",
+"choice": null,
+"context": [
+{
+"ru": "Откуда вы родом? Не думали остаться здесь?"
+},
+{
+"ru": "Сен-Жермен повержен, его прислужники исчезли! Быть может, теперь Европа станет свободной."
+},
+{
+"ru": "Королева Антуанетта выберет себе рыцаря-спутника... Эх, вот бы и мне приглашение..."
+},
+{
+"self": true
+},
+{
+"ru": "Но сила, что я могу дать, тебе не нужна."
+},
+{
+"ru": "А-а... ты хочешь обрести силу лишь своими трудами."
+}
+]
+},
+{
+"id": 31,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"If you like, I can help you train in Master Lou's place."
+],
+"jp": "私で良ければ、ルー団長に代わって 修行のお手伝いをしてもよいが？",
+"choice": {
+"question": "Will you train?",
+"options": [
+"Yes",
+"No"
+]
+},
+"context": [
+{
+"ru": "Сен-Жермен повержен, его прислужники исчезли! Быть может, теперь Европа станет свободной."
+},
+{
+"ru": "Королева Антуанетта выберет себе рыцаря-спутника... Эх, вот бы и мне приглашение..."
+},
+{
+"ru": "Но сила, что я могу дать, тебе не нужна."
+},
+{
+"self": true
+},
+{
+"ru": "А-а... ты хочешь обрести силу лишь своими трудами."
+},
+{
+"ru": "Ах, превосходно! Ты и впрямь силен!"
+}
+]
+},
+{
+"id": 32,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"Then... try fighting this.",
+"It is Sieger's shadow,",
+"but even as a shadow it is as strong as the real one. Beware."
+],
+"jp": "では・・・これと戦ってみなさい / ズィーガー殿の影法師だが / 影とはいえ本物なみの強さを持つ 甘く見ぬことだ",
+"choice": null,
+"context": [
+{
+"ru": "Королева Антуанетта выберет себе рыцаря-спутника... Эх, вот бы и мне приглашение..."
+},
+{
+"ru": "Но сила, что я могу дать, тебе не нужна."
+},
+{
+"self": true
+},
+{
+"ru": "А-а... ты хочешь обрести силу лишь своими трудами."
+},
+{
+"ru": "Ах, превосходно! Ты и впрямь силен!"
+},
+{
+"ru": "Приходи в любое время. Тебе здесь всегда рады."
+}
+]
+},
+{
+"id": 33,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"Oh, a splendid technique! I have seen it well!",
+"That hidden skill shall be your fang against evil!",
+"But never grow proud of your power. Walk the path you believe in."
+],
+"jp": "おお、素晴らしき技 とくと見せてもらった！ / 秘められたその技、魔に対する 貴公らの牙となろう！ / だが、決して力におごることなく 信じる道を行くがよい",
+"choice": null,
+"context": [
+{
+"ru": "А-а... ты хочешь обрести силу лишь своими трудами."
+},
+{
+"ru": "Ах, превосходно! Ты и впрямь силен!"
+},
+{
+"self": true
+},
+{
+"ru": "Приходи в любое время. Тебе здесь всегда рады."
+},
+{
+"ru": "Но больше мне нечему тебя здесь научить. Иди своим путем и не сбивайся с него."
+}
+]
+},
+{
+"id": 34,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"Haohmaru learned the secret art",
+"Tenha Senkuzan!"
+],
+"jp": "覇王丸は秘奥義 / 「天覇旋空斬」を会得した！",
+"choice": null,
+"context": [
+{
+"ru": "Ах, превосходно! Ты и впрямь силен!"
+},
+{
+"ru": "Приходи в любое время. Тебе здесь всегда рады."
+},
+{
+"ru": "Но больше мне нечему тебя здесь научить. Иди своим путем и не сбивайся с него."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 35,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"Nakoruru learned the secret art",
+"Rera O Kamuy!"
+],
+"jp": "ナコルルは秘奥義 / 「レラ　オ　カムイ」を 会得した！",
+"choice": null,
+"context": [
+{
+"ru": "Приходи в любое время. Тебе здесь всегда рады."
+},
+{
+"ru": "Но больше мне нечему тебя здесь научить. Иди своим путем и не сбивайся с него."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 36,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"Galford learned the secret art",
+"Plasma Drive!"
+],
+"jp": "ガルフォードは秘奥義 / 「プラズマ　ドライヴ」を 会得した！",
+"choice": null,
+"context": [
+{
+"ru": "Приходи в любое время. Тебе здесь всегда рады."
+},
+{
+"ru": "Но больше мне нечему тебя здесь научить. Иди своим путем и не сбивайся с него."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 37,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"Ukyo Tachibana learned the secret art",
+"Hiken: Messatsu Mugasumi!"
+],
+"jp": "橘右京は秘奥義 / 「秘剣　滅刹夢霞」を 会得した！",
+"choice": null,
+"context": [
+{
+"ru": "Но больше мне нечему тебя здесь научить. Иди своим путем и не сбивайся с него."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 38,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"Genjuro Kibagami learned the secret art",
+"Onsatsujin!"
+],
+"jp": "牙神幻十郎は秘奥義 / 「怨殺刃」を会得した！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 39,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"Cham Cham learned the secret art",
+"Circulus Cornu!"
+],
+"jp": "チャムチャムは秘奥義 / 「キルクルス　コルヌー」を 会得した！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 40,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"Charlotte learned the secret art",
+"Ange Defense!"
+],
+"jp": "シャルロットは秘奥義 / 「アンジュ　デファンス」を 会得した！",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Этот город станет огромным полем боя... Но это мой дом... Я здесь родился и вырос... Я не отвернусь от него сейчас!"
+}
+]
+},
+{
+"id": 41,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"Kyoshiro Senryo learned the secret art",
+"Moujishi Renbu!"
+],
+"jp": "千両狂死郎は秘奥義 / 「猛獅子連舞」を会得した！",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Этот город станет огромным полем боя... Но это мой дом... Я здесь родился и вырос... Я не отвернусь от него сейчас!"
+},
+{
+"ru": "Все, кто здесь был, ушли. Наверное, во дворец."
+}
+]
+},
+{
+"id": 42,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"Rimururu learned the secret art",
+"Konru Rakuru!"
+],
+"jp": "リムルルは秘奥義 / 「コンル　ラクル」を会得した！",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Этот город станет огромным полем боя... Но это мой дом... Я здесь родился и вырос... Я не отвернусь от него сейчас!"
+},
+{
+"ru": "Все, кто здесь был, ушли. Наверное, во дворец."
+},
+{
+"ru": "Меня зовут Штрогейм. Я наемник. Я здесь, чтобы покончить с Сен-Жерменом."
+}
+]
+},
+{
+"id": 43,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"Reon of the Gale learned the secret art",
+"Fusatsu Hozan!"
+],
+"jp": "疾風の鈴音は秘奥義 / 「風殺崩斬」を会得した！",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Этот город станет огромным полем боя... Но это мой дом... Я здесь родился и вырос... Я не отвернусь от него сейчас!"
+},
+{
+"ru": "Все, кто здесь был, ушли. Наверное, во дворец."
+},
+{
+"ru": "Меня зовут Штрогейм. Я наемник. Я здесь, чтобы покончить с Сен-Жерменом."
+}
+]
+},
+{
+"id": 44,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"Hmm? Oh!",
+"What an avant-garde style!",
+"Ooh! Marvelous! Marvelous! I'm in ecstasy! I simply must!",
+"Normally it's 99999999GP, but for you, only 100GP!"
+],
+"jp": "んん？　おお！ / なんてアヴァンギャルドな スタイルなの？ / ンン～ッ！　いいワ！　いいワ！ 絶頂だワ！　仕方がないざ～ますゥ / 本当なら９９９９９９９９金の所を １００金にしてあげるざ～ますゥ！",
+"choice": {
+"question": "Get new clothes?",
+"options": [
+"Yes",
+"No"
+]
+},
+"context": [
+{
+"ru": "Бонжур! Добро пожаловать в Париж, путники! Скоро начнется бал... Хотя нас это, пожалуй, мало касается. Так..."
+},
+{
+"ru": "Боже мой... да это же наша леди Шарлотта! Вы уже побывали дома? Если хотите сперва отдохнуть здесь, конечно..."
+},
+{
+"ru": "Здравствуйте...! Добро пожаловать в лучшую гостиницу Парижа!"
+},
+{
+"self": true
+},
+{
+"en": "Enter?Yes No"
+}
+]
+},
+{
+"id": 45,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"Well!",
+"Eeeeeek!",
+"You scorn my tres bien designs!",
+"Hmph! Vermin who don't understand art",
+"can just go away!"
+],
+"jp": "んまッ！ / キィィィィィ！ / わたくしのトレビァンなデザインを バカにしたざ～ますわね！ / えええい！ 芸術の分からないクソ虫は / あっちへ行くざますゥ！",
+"choice": null,
+"context": [
+{
+"ru": "Бонжур! Добро пожаловать в Париж, путники! Скоро начнется бал... Хотя нас это, пожалуй, мало касается. Так..."
+},
+{
+"ru": "Боже мой... да это же наша леди Шарлотта! Вы уже побывали дома? Если хотите сперва отдохнуть здесь, конечно..."
+},
+{
+"ru": "Здравствуйте...! Добро пожаловать в лучшую гостиницу Парижа!"
+},
+{
+"self": true
+},
+{
+"en": "Enter?Yes No"
+},
+{
+"en": "Enter?Yes No"
+}
+]
+},
+{
+"id": 46,
+"file": "FLD/F_ERP.BIN",
+"pages": [],
+"jp": "",
+"choice": {
+"question": "Mademoiselle Nakoruru, is it?",
+"options": [
+"Yes",
+"No"
+]
+},
+"context": [
+{
+"ru": "Здравствуйте...! Добро пожаловать в лучшую гостиницу Парижа!"
+},
+{
+"en": "Enter?Yes No"
+},
+{
+"self": true
+},
+{
+"en": "Enter?Yes No"
+},
+{
+"en": "Enter?Yes No"
+}
+]
+},
+{
+"id": 47,
+"file": "FLD/F_ERP.BIN",
+"pages": [],
+"jp": "",
+"choice": {
+"question": "Monsieur Galford, is it?",
+"options": [
+"Yes",
+"No"
+]
+},
+"context": [
+{
+"en": "Enter?Yes No"
+},
+{
+"self": true
+},
+{
+"en": "Enter?Yes No"
+},
+{
+"en": "Enter?Yes No"
+}
+]
+},
+{
+"id": 48,
+"file": "FLD/F_ERP.BIN",
+"pages": [],
+"jp": "",
+"choice": {
+"question": "Mademoiselle Cham, is it?",
+"options": [
+"Yes",
+"No"
+]
+},
+"context": [
+{
+"en": "Enter?Yes No"
+},
+{
+"en": "Enter?Yes No"
+},
+{
+"self": true
+},
+{
+"en": "Enter?Yes No"
+}
+]
+},
+{
+"id": 49,
+"file": "FLD/F_ERP.BIN",
+"pages": [],
+"jp": "",
+"choice": {
+"question": "Charlotte, is it?",
+"options": [
+"Yes",
+"No"
+]
+},
+"context": [
+{
+"en": "Enter?Yes No"
+},
+{
+"en": "Enter?Yes No"
+},
+{
+"self": true
+},
+{
+"en": "Enter?Yes No"
+}
+]
+},
+{
+"id": 50,
+"file": "FLD/F_ERP.BIN",
+"pages": [],
+"jp": "",
+"choice": {
+"question": "Mademoiselle Rimururu?",
+"options": [
+"Yes",
+"No"
+]
+},
+"context": [
+{
+"en": "Enter?Yes No"
+},
+{
+"en": "Enter?Yes No"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 51,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"Well! Are you making fun of me?!",
+"Eeeek! Mock me and I'll bite you!"
+],
+"jp": "んまッ！　わたくしを おからかいになッたざ～ますか！ / キィィィ！ バカにするとかみつくざ～ますよ！",
+"choice": null,
+"context": [
+{
+"en": "Enter?Yes No"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 52,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"Well! You don't even have 100GP?",
+"Ooh, art always demands its price, you know!",
+"Ohohohohoho!"
+],
+"jp": "んまッ！　１００金も 持ち合わせがないざ～ますか？ / んん～ッ　芸術とは、とかく 代償を必要とするものさ～ますゥ！ / ンホホホホホホッ！",
+"choice": null,
+"context": [
+{
+"en": "Enter?Yes No"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 53,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"Ohohohoho! Now! What do you think?"
+],
+"jp": "ンホホホホッ！ さあ！　どうざますか！",
+"choice": null,
+"context": [
+{
+"en": "Enter?Yes No"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 54,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"I already know your measurements by heart!",
+"It should fit even better than your old outfit!"
+],
+"jp": "あなたの寸法は すでに見切ッているざます！ / 以前の服よりもフィット感は 向上しているはずざます！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 55,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"An outfit like this...",
+"I can tailor it in the blink of an eye!"
+],
+"jp": "このくらいの服・・・ / わたくしにかかれば、ほんの一瞬で 仕立てることができるざますよ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 56,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"Ohohohoho!",
+"This kind of design is my specialty!",
+"You're giving off pheromones",
+"that could knock any gentleman dead! Ohohohoho!"
+],
+"jp": "ンホホホホッ！ / このようなデザインは わたくしの得意中の得意！ / どのような殿方も、悩殺できる フェロモンを / ビシバシ発しておいでざ～ますよ！ ンホホホホッ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 57,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"My darling Charlotte...",
+"Ah... how lovely...",
+"I tried my best to express your nobility and beauty,",
+"but no beauty surpasses you yourself.",
+"Ah... Charlotte! You are simply too dazzling!"
+],
+"jp": "わたくしの 愛しいシャルロット・・・ / ああ・・・ステキ・・・ / あなたの気高さ、美しさを 精一杯表現はしてみたけれども / あなた自身に勝る美はないざます / ・・・ああ・・・シャルロット！ あなたはまぶしすぎるざます！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 58,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"Yeah... (I don't really get it.)"
+],
+"jp": "うん・・・ （なんか、よくわかんねぇぜ）",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 59,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"Wow... it's true! Fashionable even in a place like this!"
+],
+"jp": "わぁ・・・本当！ こんな所までおしゃれだわ",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 60,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"So jealous! Sister, you look wonderful!"
+],
+"jp": "いいな、いいなぁ！ 姉さん、ステキだよ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 61,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"Truly beautiful...",
+"Nakoruru, I'd love to see you in a party dress."
+],
+"jp": "本当に素敵だ・・・ / ナコルル、君にパーティードレスを 着せてみたいな",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 62,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"Hehe... thank you. Paris is a lovely place!"
+],
+"jp": "ふふ・・・ありがとう パリって、いいところね！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 63,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"Getting a ninja outfit made in Paris...",
+"That's surreal, and good!"
+],
+"jp": "パリで ニンジャ服を作ってもらうとは / シュールでグッドだぜ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 64,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"...I see. Japanese in style, yet unlike any kimono.",
+"...Truly the work of a master."
+],
+"jp": "・・・なるほど 和服でありながら和服とは違う / ・・・まさに匠の技",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 65,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"Hmm... now that you mention it... Yes, I like it."
+],
+"jp": "ふむ・・・そういえば なるほど、気に入ったぞ",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 66,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"Me not really get it, but it soft and comfy!"
+],
+"jp": "何か良く分かンないけど 着心地がやわらかくていいゾ",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 67,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"She make it match my Chonachona ears!"
+],
+"jp": "チョナチョナのつけ耳に 合わせてもらったゾ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 68,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"M-merci, madame... (This is why I didn't want to come!)"
+],
+"jp": "メ・・・メルシー、マダム （だから来たくなかったのだ！）",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 69,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"Hey, Charlotte, clothes from the real Paris sure suit you."
+],
+"jp": "おお、シャルロット やっぱり本場の服が似合うねぇ",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 70,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"I-is that so... Hahaha...",
+"Well! Charlotte? Who is this filthy man?"
+],
+"jp": "そ・・・そうかな・・・ ははは・・・ / ンまッ！　シャルロット？ この汚い男は誰ざますか？",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 71,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"Ooooh...",
+"Even the tailoring is different from Japan... Hmmm."
+],
+"jp": "おおおお・・・ / 仕立て一つとっても 日本とは違う・・・むうう",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 72,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"Oh my... Monsieur Kyoshiro...",
+"For you, and you alone, half price...",
+"Ooh, such a sturdy body! Such exotic makeup...",
+"Every bit of you",
+"stirs my very spirit...",
+"Um... teehee... I'm still single, you know...",
+"Nahahaha! I-is that so...",
+"Naha, nahahaha..."
+],
+"jp": "あら～ん・・・ ムッシュ狂死郎ン・・・ / あ・な・ただけは 半額サービスですワよン・・・ / ああン、本当にたくましいお体！ エキゾチックなお化粧・・・ / どれ一つとっても / わたくしのスピリッツを 揺さぶらぬモノはありませんわ～ン / あの・・・うふン・・・わたくし まだ独身なのですけれども・・・ / なはははは！ そ、そうでござるか・・・ / なは、なははは・・・",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"en": "Enter?Yes No"
+}
+]
+},
+{
+"id": 73,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"Yay! New clothes!"
+],
+"jp": "わあいっ！　新しい服だぁ！ ",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"en": "Enter?Yes No"
+}
+]
+},
+{
+"id": 74,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"Hehe... Rimururu, you look so pretty."
+],
+"jp": "ふふふ・・・リムルル きれいになったわよ",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"en": "Enter?Yes No"
+}
+]
+},
+{
+"id": 75,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"Really? Yay! Let's go for a walk outside later!"
+],
+"jp": "ほんと？　うれしいな！ 後でお外を散歩しようよ！",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"en": "Enter?Yes No"
+}
+]
+},
+{
+"id": 76,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"...No... I'm... fine...",
+"Reon... you...",
+"No, it's nothing. Nothing at all...",
+"Reon, when this is all over, please come to Paris again.",
+"...I'd like to make some clothes for you...",
+"Hehe... it's a promise. All right?",
+"...Y-yes... thank you... very much."
+],
+"jp": "・・・いや・・・ 俺は・・・いい・・・ / レオンさん・・・あなた・・・ / いえ、何でもありませんわ 何でも・・・ / レオンさん、全てが終わったら また一度パリに来て下さいな / ・・・わたくし、あなたのために 服を作って差し上げたいの・・・ / ふふふ・・・約束よ よろしくって？ / ・・・は、はい・・・ ありがとう・・・ございます",
+"choice": null,
+"context": [
+{
+"en": "Enter?Yes No"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 77,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"I'm training here in Paris... I wanna see how far",
+"the smithing I learned in Japan will get me abroad.",
+"The world sure is big...",
+"Well, this must be fate. I'll look at yours first."
+],
+"jp": "おいらは巴里で修行中なのさ・・・ 日本で身につけた鍛冶屋の技術が / 外国でどれだけ通用するか 試したくってね / 世界って、広いよな・・・ / どれ、これも何かの縁だ 先に見てやるよ",
+"choice": null,
+"context": [
+{
+"en": "Enter?Yes No"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 78,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"I hear Japanese swordsmiths are excellent.",
+"With a sword forged here,",
+"I'll cut St. Germain down! Hahahaha!"
+],
+"jp": "ニッポンの刀鍛冶は 優秀だと聞いています / ここで鍛えた剣を使って / サンゼルマンを 叩き斬ってやりますよ！はははは！",
+"choice": null,
+"context": [
+{
+"en": "Enter?Yes No"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 79,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"The swords he forges are excellent... Everyone says so.",
+"I've been waiting my turn for ages, too."
+],
+"jp": "彼の鍛えた刀は優秀でしてね・・・ みんなに評判なんですよ / 私もずいぶん 順番を待っているのですが",
+"choice": null,
+"context": [
+{
+"en": "Enter?Yes No"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 80,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"M-my turn still hasn't come!",
+"Hurry up! The battle's already begun!"
+],
+"jp": "ま・・・まだ順番が 回ってこないのです！ / 早くしないと！ 戦闘はもう始まっているのに！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 81,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"...Now it's a matter of pride!",
+"I'll wait as long as it takes!"
+],
+"jp": "・・・こうなったら意地です！ / いつまでだって、待ち続けます！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 82,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"Madame Lavoisier's designs are Europe's best! The latest trend!",
+"Queen Antoinette and royals and nobles of every nation",
+"all wear clothes she designed!"
+],
+"jp": "マダム・ラボアジェのデザインは 欧州で一番！　流行の最先端よ！ / アントワ王妃を始め 各国の王族や貴族も / マダムのデザインした服を 着ているのよ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 83,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"Now that there's peace,",
+"I really have to think about fashion!"
+],
+"jp": "平和になったら / やっぱりファッションに 気を使わなくっちゃ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 84,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"Ahh... I want to wear Madame's clothes to the ball, too!"
+],
+"jp": "ああ・・・私もマダムの服を着て 舞踏会に出席したぁい！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 85,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"If I'd gone to the ball, I'd have been burnt to a crisp...",
+"But I still want to go to a ball!"
+],
+"jp": "舞踏会に出ていたら 黒コゲになっちゃってたのね・・・ / でもやっぱり、舞踏会に出たぁい！",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Я убил свою мать... впрочем, неважно. А ты что сделала? Она снится мне с тех пор, как мы здесь. Идиотизм..."
+}
+]
+},
+{
+"id": 86,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"I am Paris's most tres bien fashion designer!",
+"Madame Lavoisier!"
+],
+"jp": "わたくしィがトレビァンな パリ一番の服飾デザイナァ！ / マダム・ラボアジェざ～ますゥ！",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Я убил свою мать... впрочем, неважно. А ты что сделала? Она снится мне с тех пор, как мы здесь. Идиотизм..."
+},
+{
+"ru": "Понятно... что ж, заходите как-нибудь."
+}
+]
+},
+{
+"id": 87,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"Paris destroyed?",
+"A demon attack?",
+"Do you mean to say that has any",
+"ill effect on my tres bien sense of style?! Eeeek!"
+],
+"jp": "パリ崩壊？ / 魔物の襲撃ィ？ / そのことが わたくしィのトレビァンな感性に / 何か悪影響ォを与えるゥとでも 言うざ～ますかァ！　キィィィ！",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Я убил свою мать... впрочем, неважно. А ты что сделала? Она снится мне с тех пор, как мы здесь. Идиотизм..."
+},
+{
+"ru": "Понятно... что ж, заходите как-нибудь."
+},
+{
+"ru": "Мерси!"
+}
+]
+},
+{
+"id": 88,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"Peace!",
+"Tres bien!",
+"Aaaaah! The inspiration is overflowing!",
+"If I don't design at least one outfit soon, I'll simply die!"
+],
+"jp": "平和ァ！ / トレビァンざ～ますゥ！ / ああああああァ！ あふれてくるインスピレイシォン！ / 早く一着だけでもデザインしないと 死んでしまいそうざ～ますゥ！",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Я убил свою мать... впрочем, неважно. А ты что сделала? Она снится мне с тех пор, как мы здесь. Идиотизм..."
+},
+{
+"ru": "Понятно... что ж, заходите как-нибудь."
+},
+{
+"ru": "Мерси!"
+}
+]
+},
+{
+"id": 89,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"I am an astrologer...",
+"From the stars racing across the heavens",
+"I can read your fate...",
+"Well? For 50GP, shall I read yours?"
+],
+"jp": "わしは占星術師・・・ / 天空を駆ける星々から / そなたらの運命を 読みとることができる・・・ / どうじゃ？ ５０金じゃが占ってみるか？",
+"choice": {
+"question": "Get your fortune read?",
+"options": [
+"Yes",
+"Not interested"
+]
+},
+"context": [
+{
+"ru": "Я... я не боюсь! С нами сэр Зигер! Победитель тысяч!"
+},
+{
+"ru": "Когда все уляжется, может, я стану солдатом..."
+},
+{
+"ru": "Я всего лишь экономка... Не знаю, нравится ли мне, что Париж так укрепили. Не станет ли от этого только хуже?"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 90,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"I see... That's fine too. It is your fate."
+],
+"jp": "そうか・・・それも良かろう そなたらの運命じゃ",
+"choice": null,
+"context": [
+{
+"ru": "Я... я не боюсь! С нами сэр Зигер! Победитель тысяч!"
+},
+{
+"ru": "Когда все уляжется, может, я стану солдатом..."
+},
+{
+"ru": "Я всего лишь экономка... Не знаю, нравится ли мне, что Париж так укрепили. Не станет ли от этого только хуже?"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 91,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"...I couldn't read how light your purse was.",
+"Next time, then..."
+],
+"jp": "・・・サイフの重さまでは 読みとれなんだわい / また次の機会にな・・・",
+"choice": null,
+"context": [
+{
+"ru": "Когда все уляжется, может, я стану солдатом..."
+},
+{
+"ru": "Я всего лишь экономка... Не знаю, нравится ли мне, что Париж так укрепили. Не станет ли от этого только хуже?"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 92,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"...Though not by nature, you've grown quite aggressive."
+],
+"jp": "・・・本来はそうでないにせよ 今はずいぶんと攻撃的になっておる",
+"choice": null,
+"context": [
+{
+"ru": "Я всего лишь экономка... Не знаю, нравится ли мне, что Париж так укрепили. Не станет ли от этого только хуже?"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 93,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"Is it endless unwanted battle? Your soul has grown fierce."
+],
+"jp": "望まぬ戦いの連続がそうさせるのか 魂が荒々しくなっとるな",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 94,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"It seems battle has made your soul a fierce one..."
+],
+"jp": "戦いの中で荒々しい魂の持ち主に なっておるようじゃのう・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 95,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"...A very aggressive soul... Born of a love of strife?"
+],
+"jp": "・・・かなり攻撃的な魂じゃ・・・ 乱を好む性質がそうさせるのか",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 96,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"A terribly fierce soul... Do the stars hate you so,",
+"or do they love you?"
+],
+"jp": "すさまじく荒々しい魂・・・ 星々によほど嫌われておるのか / それとも好かれておるのか",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 97,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"Sharp, both cold and hot!",
+"Your soul is dangerously aggressive."
+],
+"jp": "鋭い、そして冷たく熱い！ / そなたの魂は 危険なまでに攻撃的じゃ",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 98,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"Oh... how warm... Your soul is merciful as the Holy Mother."
+],
+"jp": "おお・・・なんと暖かい・・・ そなたの魂は聖母のように慈悲深い",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 99,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"Oh... to keep such compassion even in battle..."
+],
+"jp": "ほう・・・戦いの中でも このような慈悲性を保ちうるとは",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 100,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"...Hot, and vast... Your souls are full of compassion."
+],
+"jp": "・・・熱く、そして広い・・・ そなたらの魂には慈悲が満ちておる",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 101,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"Your soul leans toward compassion...",
+"Deeply, deeply..."
+],
+"jp": "魂が慈悲性に かたむいておる・・・ / 深く、深く・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 102,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"Oh! At the heart of a dry soul shines a star of mercy...",
+"Truly a miracle."
+],
+"jp": "おおっ！　かわいた魂の中心に 輝く慈悲の星がある・・・ / まさに奇跡じゃ",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 103,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"Hmm... your compassion swells, seeking a way out...",
+"Will it be fortune or misfortune?"
+],
+"jp": "むう・・・慈悲性が出口を求めて ふくれ上がっておる・・・ / 果たして吉か凶か",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 104,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"Now then... Mercury has entered Aquarius...",
+"A new encounter shall guide your fate."
+],
+"jp": "さて、と・・・みずがめ座に 水星が入ったか・・・ / 新しい出会いがそなたらの 運命を導くことじゃろう",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 105,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"Hmm... the moon in Pisces forms a good angle...",
+"It says you should readily accept others' requests."
+],
+"jp": "ふむ・・・うお座の月が 良い角度を作っておるな・・・ / 他人の依頼は素直に受けるべし と、でておるようじゃ",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 106,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"Oho, Venus has begun to retrograde in Scorpio...",
+"Something is hidden in a lonely place."
+],
+"jp": "ほうほう、さそり座で金星が 逆行し始めたのう・・・ / さびしい場所に隠しもの有りじゃ",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 107,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"Hmm... Mars has returned to Aries...",
+"Signs of war, of great upheaval!",
+"Peace shall be broken suddenly.",
+"Do not let your guard down."
+],
+"jp": "ふむ・・・火星がおひつじ座に 回帰したか・・・ / 戦乱の、大乱の兆し有り！ / 平和は突然に 破られることじゃろう / 油断なさるな",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 108,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"Oh, a time of great change!",
+"Saturn, Jupiter, and Mars in Aries are forming a fierce alignment.",
+"The sun holds the key to turning things around... likely you.",
+"...I'm counting on you."
+],
+"jp": "おおっ、大いなる変革のときじゃ！ / 土星と木星、おひつじ座の火星が すさまじい相関関係を作り出しとる / 逆転の鍵を握るのは太陽と出とるが おそらくそなたらのことじゃろう / ・・・頼むぞい",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 109,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"Hmm... the angle of Saturn and Mars has turned favorable...",
+"It seems we may live in peace for a while...",
+"But soon you shall lose a great star...",
+"Be prepared."
+],
+"jp": "うむ・・・土星と火星の角度が 良いものに変わったわい・・・ / しばらくは平和に くらせそうじゃのう・・・ / ただ、おぬしらは近いうちに 大きい星を失うことになる・・・ / 覚悟しておくことじゃ",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 110,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"By the way, Paris is at peace now, but",
+"your journey's end still seems far off...",
+"Yet a mysterious force of fate is at work in you,",
+"one that lets you grow by overcoming trials.",
+"...I hope for the best outcome."
+],
+"jp": "ところで、パリは平和になったが / そなたらの終着点は まだまだ先のようじゃ・・・ / しかしそなたらには 試練を乗り越えて大きくなれる / 不思議な運命の力が働いておる / ・・・最良の結果を期待しておるぞよ",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 111,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"Hmm... yes!",
+"{NAME}?"
+],
+"jp": "うむ・・・そうだ！ / {NAME}殿？",
+"choice": null,
+"context": [
+{
+"ru": "Вот как... значит, Шарлотта в порядке..."
+},
+{
+"ru": "Жива, несмотря на свое безрассудство..."
+},
+{
+"ru": "...Да, госпожа!"
+},
+{
+"self": true
+},
+{
+"ru": "Она! Это наша фамильная реликвия Кордэ! Тре бьен! Вы заслужили награду за труды!"
+},
+{
+"ru": "Вы слышали о балу королевы? Вам не прислали приглашения? Тогда возьмите приглашение дома Кордэ."
+},
+{
+"ru": "Вот, держите. Пусть оно вам пригодится."
+}
+]
+},
+{
+"id": 112,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"Pardon me, Genjuro...! If you like, let us talk a while.",
+"Might you tell me about your parents?"
+],
+"jp": "もし、幻十郎殿・・・！ よかったらもう少しお話でも / あなた方のご両親の話も 聞かせていただけまいか？",
+"choice": null,
+"context": [
+{
+"ru": "И не без причины, уверяю вас! Ей самое время заводить детей... Но она твердит, что она воин! А ведь она моя единственная дочь... Но в каком возрасте ребенок перестает быть малышом? Когда родителям пора отпустить?"
+},
+{
+"ru": "Ох, простите... мысли о ней так меня волнуют. Простите мою несдержанность..."
+},
+{
+"ru": "Мы закончили? Если да, то пора идти."
+},
+{
+"self": true
+},
+{
+"ru": "... У меня их нет."
+},
+{
+"ru": "Реон, если увидишь мою дочь, прошу, передай ей... Мать о ней волнуется."
+},
+{
+"ru": "Как пожелаете..."
+}
+]
+},
+{
+"id": 113,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"Charlotte... it seems you've been blessed with good friends."
+],
+"jp": "シャルロットよ・・・ よき友人に恵まれたようだな",
+"choice": null,
+"context": [
+{
+"ru": "Как пожелаете..."
+},
+{
+"ru": "Боже мой! Шарлотта!"
+},
+{
+"ru": "Реликвия Кордэ возвращена."
+},
+{
+"self": true
+},
+{
+"ru": "Хм... понятно. Я поговорю с ними."
+},
+{
+"ru": "А мой спутник - Гэндзюро."
+},
+{
+"ru": "Серджио так переживает... и все из-за семейной реликвии. Хоть бы он понял, что для меня он важнее..."
+}
+]
+},
+{
+"id": 114,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"So you came as well.",
+"I'm not one for places like this.",
+"Well, do enjoy yourselves."
+],
+"jp": "あなた方もおいでだったか / 私はこのような場所は苦手でな / まあ、楽しんでいって下され",
+"choice": null,
+"context": [
+{
+"ru": "Добро пожаловать в Версальский дворец!"
+},
+{
+"ru": "Не видели ли вы, случаем, королеву Викторию? Принцессу Стеллу так и не нашли... А теперь пропала и королева Виктория... Что же здесь творится...?"
+},
+{
+"ru": "Ах, какая прелестная юная особа на нашем балу. Позвольте подобрать вам платье по случаю."
+},
+{
+"self": true
+},
+{
+"ru": "Добро пожаловать, почтенные воины со всего света! Сегодня дайте отдых своим храбрым и усталым душам... Ибо завтра всех нас ждет битва! Веселитесь! А теперь... музыка!"
+},
+{
+"ru": "Не хочу надевать то, в чем нельзя драться."
+},
+{
+"ru": "Пожалуй, откажусь, спасибо."
+}
+]
+},
+{
+"id": 115,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"...",
+"Earth, you're gonna live a long life.",
+"Hey, everyone... let's go."
+],
+"jp": "・・・・・・・・・・・・・・・ / アースよ、おまえさんは 長生きするぜ / おい、みんな・・・ ・・・行こう",
+"choice": null,
+"context": [
+{
+"ru": "Ты что, заблудился?"
+},
+{
+"ru": "Ты заблудился."
+},
+{
+"ru": "Хе... есть немного."
+},
+{
+"self": true
+},
+{
+"ru": "... Пошли."
+},
+{
+"ru": "... Еще увидимся, Эрсквейк, если ты отсюда выберешься..."
+},
+{
+"ru": "... Пока!"
+}
+]
+},
+{
+"id": 116,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"Reon, what wrong? You feel bad?",
+"Use Reon power to find it good!"
+],
+"jp": "レオンどーした！ ちょーしワルいのか？ / レオンの力で バッチリ見つけてくれ！",
+"choice": null,
+"context": [
+{
+"ru": "Успокойся, Реон... Уверена, Мать-природа укажет нам путь..."
+},
+{
+"ru": "Нет, Реон! Успокойся! Тише...! Ты должен держать себя в руках!"
+},
+{
+"ru": "Если терпеливо продолжать поиски, мы найдем зацепку. Идемте дальше..."
+},
+{
+"self": true
+},
+{
+"ru": "Да угомонись ты уже! Не чуешь ничего - так и заткнись! Мне не нужны напоминания о том, чего ты не сделал!"
+},
+{
+"ru": "Проклятье... Так королева и правда демон!"
+},
+{
+"ru": "Кто здесь! Покажитесь...!"
+}
+]
+},
+{
+"id": 117,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"Kiiiii... Kyuru...",
+"I shall dispose of any who hinder Lord St. Germain! Kiii!",
+"Now! Lord St. Germain! The De Marche Cannon!",
+"With your blue, cold flame of love,",
+"burn me to ashes along with the palace!"
+],
+"jp": "キィィィィ・・・ キュル・・・ / サンゼルマン様の邪魔をするモノは わらわが処分いたします！キィィ！ / さあ！　サンゼルマン様！ ド・マルシェ砲を！ / あなたの青く冷たい愛の炎で 宮殿ごと / わらわを焼き尽くして下さいませ！",
+"choice": null,
+"context": [
+{
+"ru": "Этот путь ведет в сады. Бал вон там, позади."
+},
+{
+"ru": "Хватили лишнего, а? Может, свежий воздух в центральном саду поможет."
+},
+{
+"ru": "Это личный сад Ее Величества. Боюсь, без ее позволения я не могу вас пропустить."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 118,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"Whoa! Ow!"
+],
+"jp": "うわぁ！　いてっ！",
+"choice": null,
+"context": [
+{
+"ru": "Я сваливаю! Я сваливаю!"
+},
+{
+"ru": "Мы этого не забудем! Мы этого не забудем!"
+},
+{
+"ru": "Ладно, на этот раз мы вас пощадим! Жаль..."
+},
+{
+"self": true
+},
+{
+"ru": "Получена реликвия Корде!"
+},
+{
+"ru": "Хе-хе, а вы неплохи! Но теперь будете иметь дело со мной!"
+},
+{
+"ru": "Что, опять...?! Что ж, выбора нет. Вперед!"
+}
+]
+},
+{
+"id": 119,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"Nyaaa..."
+],
+"jp": "にゃーい・・・",
+"choice": null,
+"context": [
+{
+"ru": "В этой церкви спрятаны сундуки с сокровищами... мяу..."
+},
+{
+"ru": "Люди там внутри такие шумные... мяу... Можете что-нибудь сделать...?"
+},
+{
+"ru": "Мяу! Слыхали? Какая-то знаменитость в Париже - прислужник демонов! Мяу!"
+},
+{
+"self": true
+},
+{
+"ru": "(мур-р)... мяу?"
+},
+{
+"ru": "Мяу..."
+},
+{
+"ru": "{NAME} получает Мегатраву!"
+}
+]
+},
+{
+"id": 120,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"Gahahahaha!",
+"You're a million years too early to beat me!"
+],
+"jp": "ガッハッハッハッハ！ / オレ様に勝とうなんざ １００万年はえぇんだよ！",
+"choice": null,
+"context": [
+{
+"ru": "{NAME} получает Шарф!"
+},
+{
+"ru": "{NAME} получает Кожаные сапоги!"
+},
+{
+"ru": "{NAME} получает Звездную кольчугу!"
+},
+{
+"self": true
+},
+{
+"ru": "Ну, да!"
+},
+{
+"ru": "В этой церкви водятся призраки..."
+}
+]
+},
+{
+"id": 121,
+"file": "FLD/F_ERP.BIN",
+"pages": [
+"Go wash...",
+"your butt...",
+"and come back...",
+"later!!!"
+],
+"jp": "ケツ・・・ / 洗ってぇ・・・ / 出直してぇ・・・ / 来なぁ！！！",
+"choice": null,
+"context": [
+{
+"ru": "{NAME} получает Шарф!"
+},
+{
+"ru": "{NAME} получает Кожаные сапоги!"
+},
+{
+"ru": "{NAME} получает Звездную кольчугу!"
+},
+{
+"self": true
+},
+{
+"ru": "Ну, да!"
+},
+{
+"ru": "В этой церкви водятся призраки..."
+}
+]
+},
+{
+"id": 122,
+"file": "FLD/F_EZO.BIN",
+"pages": [
+"...!",
+"What? This... malice?",
+"I can feel it... from in there!"
+],
+"jp": "・・・！ / 何？ この・・・悪意？ / この奥から・・・感じる！",
+"choice": null,
+"context": [
+{
+"ru": "Отец! Прошу... держись!"
+},
+{
+"ru": "Они уничтожат Мать-природу. Ты сильная, Накоруру... Ты справишься..."
+},
+{
+"ru": "О...отец?! Отец-е-е-ец!"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 123,
+"file": "FLD/F_EZO.BIN",
+"pages": [
+"Ugh... hurry... run...",
+"Demons from Hell... are... coming...",
+"Gah!"
+],
+"jp": "ウゥ・・・ 早く・・・逃げろ・・・ / 魔界の悪魔が・・・ 来・・・る・・・ / ぐっ！",
+"choice": null,
+"context": [
+{
+"ru": "Отец! Прошу... держись!"
+},
+{
+"ru": "Они уничтожат Мать-природу. Ты сильная, Накоруру... Ты справишься..."
+},
+{
+"ru": "О...отец?! Отец-е-е-ец!"
+},
+{
+"self": true
+},
+{
+"ru": "Мне так жаль..."
+}
+]
+},
+{
+"id": 124,
+"file": "FLD/F_EZO.BIN",
+"pages": [
+"Father! It's me! It's Nakoruru!",
+"What's wrong? What happened?"
+],
+"jp": "父さん！　わたしよ！ ナコルルよ！ / どうしたの？ 一体、何が起こったの？",
+"choice": null,
+"context": [
+{
+"ru": "Они уничтожат Мать-природу. Ты сильная, Накоруру... Ты справишься..."
+},
+{
+"ru": "О...отец?! Отец-е-е-ец!"
+},
+{
+"self": true
+},
+{
+"ru": "Мне так жаль..."
+}
+]
+},
+{
+"id": 125,
+"file": "FLD/F_EZO.BIN",
+"pages": [
+"Nakoruru... is that... you, Nakoruru?",
+"Hurry... run...",
+"From the demon... in the form... of a bear...",
+"Wenkamuy's... servant..."
+],
+"jp": "ナコルル・・・ ナコルル・・・なのか？ / は・・・早く・・・ 逃・・・げろ / クマの・・・姿をした・・・ 悪魔・・・から・・・ / ウエンカムイの・・・手先・・・",
+"choice": null,
+"context": [
+{
+"ru": "О...отец?! Отец-е-е-ец!"
+},
+{
+"self": true
+},
+{
+"ru": "Мне так жаль..."
+}
+]
+},
+{
+"id": 126,
+"file": "FLD/F_EZO.BIN",
+"pages": [
+"Wenkamuy's servant? ...Huh?"
+],
+"jp": "ウエンカムイの手先？ ・・・はっ？",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Мне так жаль..."
+}
+]
+},
+{
+"id": 127,
+"file": "FLD/F_EZO.BIN",
+"pages": [
+"It feels a little warmer...",
+"Perhaps the sea ice has melted and Kamuy Port is usable now...",
+"Kamuy Port is southeast of Kamuy Kotan."
+],
+"jp": "いくらか あたたかくなったような・・・ / 海の氷もとけて、カムイの港も 使えるようになったかのう・・・ / カムイの港は カムイコタンの南東にあるぞ",
+"choice": null,
+"context": [
+{
+"ru": "С юга доносятся странные голоса... Ты слышишь их, Накоруру? Боюсь, они губят лес Камуй."
+},
+{
+"ru": "Ох, Накоруру... что случилось? Ты такая расстроенная... Прошу, не унывай..."
+},
+{
+"ru": "Этот лютый холод и правда странен. Кажется, он приходит с юга... Неужели с Матерью-природой стряслась беда?.."
+},
+{
+"self": true
+},
+{
+"ru": "Какая странная погода... Сдается мне, творится что-то недоброе."
+},
+{
+"ru": "Куда пропал Раметоку? Вот как... Мне жаль, Накоруру. Все наладится..."
+},
+{
+"ru": "Лес Камуй плачет. Ты ведь слышишь, правда? Что же случилось?.."
+}
+]
+},
+{
+"id": 128,
+"file": "FLD/F_EZO.BIN",
+"pages": [
+"S-sister...",
+"...R-right. Father will come home like always...",
+"He'll definitely come back... Definitely!"
+],
+"jp": "ね、姉さん・・・ / ・・・そ、そうだよね 父さんは、いつものように / 絶対帰ってくるよね・・・ 絶対！",
+"choice": null,
+"context": [
+{
+"ru": "Хватит, Римуруру!"
+},
+{
+"ru": "Но Мамахаха бросил хозяина... Да еще и принес сюда Тичиуси..."
+},
+{
+"ru": "Это какая-то ошибка! С ним все в порядке!"
+},
+{
+"self": true
+},
+{
+"ru": "Я слышу голос Матери-природы. Она даровала тебе силу и защиту..."
+},
+{
+"ru": "Вот как... Раметоку вернулся в объятия Камуй... У тебя добрая душа, Накоруру... Я бы не просил тебя так скоро занять его место... Сохрани эту доброту... и всегда внимай голосу природы."
+}
+]
+},
+{
+"id": 129,
+"file": "FLD/F_EZO.BIN",
+"pages": [
+"That's right... Father will definitely come home...",
+"Definitely!"
+],
+"jp": "そうよ・・・絶対 父さんは、帰ってくるの・・・ / 絶対！",
+"choice": null,
+"context": [
+{
+"ru": "Хватит, Римуруру!"
+},
+{
+"ru": "Но Мамахаха бросил хозяина... Да еще и принес сюда Тичиуси..."
+},
+{
+"ru": "Это какая-то ошибка! С ним все в порядке!"
+},
+{
+"self": true
+},
+{
+"ru": "Я слышу голос Матери-природы. Она даровала тебе силу и защиту..."
+},
+{
+"ru": "Вот как... Раметоку вернулся в объятия Камуй... У тебя добрая душа, Накоруру... Я бы не просил тебя так скоро занять его место... Сохрани эту доброту... и всегда внимай голосу природы."
+},
+{
+"ru": "Накоруру... ты избранная жрица Матери-природы... И избранная воительница Камуй... Ты должна быть сильной."
+}
+]
+},
+{
+"id": 130,
+"file": "FLD/F_EZO.BIN",
+"pages": [
+"What... Mamahaha?",
+"You're saying Mamahaha came back",
+"with only the sacred sword Chichiushi?!",
+"Hmm... hmm... I'm worried too.",
+"Nakoruru,",
+"go to the Kamuy Forest at once and search for your father, Rametok!",
+"...Yes.",
+"Take the sacred sword Chichiushi with you!",
+"We're counting on you to find Rametok!"
+],
+"jp": "なんと・・・ママハハが？ / ママハハが 宝刀チチウシだけを持って / 帰ってきたというのか！ / ううむ・・・ううむ・・・ わしも心配じゃ / ナコルルよ / 今すぐお前の父、ラメトクを探しに カムイの森へ行くがよい！ / ・・・はい / 宝刀チチウシを持って行け！ / ラメトクのことを 頼んだぞ！",
+"choice": null,
+"context": [
+{
+"ru": "Но Мамахаха бросил хозяина... Да еще и принес сюда Тичиуси..."
+},
+{
+"ru": "Это какая-то ошибка! С ним все в порядке!"
+},
+{
+"self": true
+},
+{
+"ru": "Я слышу голос Матери-природы. Она даровала тебе силу и защиту..."
+},
+{
+"ru": "Вот как... Раметоку вернулся в объятия Камуй... У тебя добрая душа, Накоруру... Я бы не просил тебя так скоро занять его место... Сохрани эту доброту... и всегда внимай голосу природы."
+},
+{
+"ru": "Накоруру... ты избранная жрица Матери-природы... И избранная воительница Камуй... Ты должна быть сильной."
+}
+]
+},
+{
+"id": 131,
+"file": "FLD/F_EZO.BIN",
+"pages": [
+"Oh... you want to come with me too?",
+"Hehe... I'm happy, but..."
+],
+"jp": "まあ・・・ おまえもついてきてくれるの？ / ふふふ・・うれしいんだけど",
+"choice": null,
+"context": [
+{
+"ru": "Боюсь, у вас не хватает денег..."
+},
+{
+"ru": "Эй...! А давай пойдем и встретимся с ним?"
+},
+{
+"ru": "Что с тобой?"
+},
+{
+"self": true
+},
+{
+"en": "Well, I certainly can't bring both of you... One of you must / stay to guard the village. / Yes or no?Bring MamahahaBring Shikuruu"
+},
+{
+"ru": "Мамахаха?"
+}
+]
+},
+{
+"id": 132,
+"file": "FLD/F_EZO.BIN",
+"pages": [
+"Shikuruu, I'm sorry. Please protect everyone in the village."
+],
+"jp": "シクルゥ、ごめんね 村のみんなを守ってあげて",
+"choice": null,
+"context": [
+{
+"ru": "Эй...! А давай пойдем и встретимся с ним?"
+},
+{
+"ru": "Что с тобой?"
+},
+{
+"en": "Well, I certainly can't bring both of you... One of you must / stay to guard the village. / Yes or no?Bring MamahahaBring Shikuruu"
+},
+{
+"self": true
+},
+{
+"ru": "Мамахаха?"
+},
+{
+"ru": "Прости, Мамахаха... Ты нужен мне здесь, хорошо?"
+}
+]
+},
+{
+"id": 133,
+"file": "FLD/F_EZO.BIN",
+"pages": [
+"All right... come, Shikuruu!",
+"Mamahaha, I'm sorry. This time you protect the village."
+],
+"jp": "そうね・・・おいで、シクルゥ！ / ママハハ、ごめんなさい 今度はおまえがこの村を守って",
+"choice": null,
+"context": [
+{
+"ru": "Что с тобой?"
+},
+{
+"en": "Well, I certainly can't bring both of you... One of you must / stay to guard the village. / Yes or no?Bring MamahahaBring Shikuruu"
+},
+{
+"self": true
+},
+{
+"ru": "Мамахаха?"
+},
+{
+"ru": "Прости, Мамахаха... Ты нужен мне здесь, хорошо?"
+}
+]
+},
+{
+"id": 134,
+"file": "FLD/F_EZO.BIN",
+"pages": [
+"What's wrong? You want to come with me?",
+"But..."
+],
+"jp": "どうしたの？ 一緒に行きたいのね？ / でも・・・",
+"choice": null,
+"context": [
+{
+"en": "Well, I certainly can't bring both of you... One of you must / stay to guard the village. / Yes or no?Bring MamahahaBring Shikuruu"
+},
+{
+"ru": "Мамахаха?"
+},
+{
+"self": true
+},
+{
+"ru": "Прости, Мамахаха... Ты нужен мне здесь, хорошо?"
+},
+{
+"ru": "Ки-и-и!"
+},
+{
+"ru": "Гр-р..."
+}
+]
+},
+{
+"id": 135,
+"file": "FLD/F_EZO.BIN",
+"pages": [
+"Hehe, all right then. Mamahaha! Come with me!",
+"Shikuruu, you protect Kamuy Kotan in our place!"
+],
+"jp": "ふふっ、それじゃあ ママハハ！　ついてきて！ / シクルゥは代わりに カムイコタンを守ってね！",
+"choice": null,
+"context": [
+{
+"ru": "Мамахаха?"
+},
+{
+"ru": "Прости, Мамахаха... Ты нужен мне здесь, хорошо?"
+},
+{
+"self": true
+},
+{
+"ru": "Ки-и-и!"
+},
+{
+"ru": "Гр-р..."
+},
+{
+"ru": "Ой... Накоруру? Чем могу помочь, милая? Если хочешь спать, разве не лучше дома? Но... что ж, дело есть дело..."
+}
+]
+},
+{
+"id": 136,
+"file": "FLD/F_EZO.BIN",
+"pages": [
+"...An endless, vast snowfield.",
+"In the land we now call Hokkaido,",
+"amid the great outdoors, in harmony with Mother Nature,",
+"there lived a peaceful people."
+],
+"jp": "・・・果てしなく広がる大雪原 / 今で言うところの 北海道の大地に / 大自然の中で 大自然と共に / 平和にくらしている人々がいた",
+"choice": null,
+"context": [
+{
+"ru": "Добро пожаловать в нашу деревню после долгого пути!"
+},
+{
+"ru": "Понятно. Тогда до встречи."
+},
+{
+"ru": "Да хранит тебя Камуй!"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 137,
+"file": "FLD/F_EZO.BIN",
+"pages": [
+"The name of this village is Kamuy Kotan."
+],
+"jp": "この村の名は　カムイコタン",
+"choice": null,
+"context": [
+{
+"ru": "Добро пожаловать в нашу деревню после долгого пути!"
+},
+{
+"ru": "Понятно. Тогда до встречи."
+},
+{
+"ru": "Да хранит тебя Камуй!"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 138,
+"file": "FLD/F_EZO.BIN",
+"pages": [
+"From this little village,",
+"one girl's fateful journey begins.",
+"...Yes,",
+"it was all fate."
+],
+"jp": "この小さな村から / 一人の少女の 運命の旅立ちが始まる / ・・・そう / 全ては運命だった",
+"choice": null,
+"context": [
+{
+"ru": "Понятно. Тогда до встречи."
+},
+{
+"ru": "Да хранит тебя Камуй!"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 139,
+"file": "FLD/F_EZO.BIN",
+"pages": [
+"Nakoruru's father was a man named Shirakoru.",
+"Big-hearted and strong... a fine Kamuy warrior who protected nature.",
+"We called Shirakoru Rametok, the brave one,",
+"and we were proud of him...",
+"Nakoruru, now you are the Kamuy warrior.",
+"Become a fine warrior like your father.",
+"Polish not only your skills, but your heart."
+],
+"jp": "ナコルルの父は シラコルという / 心広く、力強く・・・大自然を守る 立派なカムイの戦士じゃった / 我々はシラコルのことを ラメトク（勇者）と呼んで / 誇りに思っていたものじゃ・・・ / ナコルルよ 今ではお前がカムイの戦士 / 父のような 立派な戦士になるのじゃぞ / 技だけでなく、心も磨くのだ",
+"choice": null,
+"context": [
+{
+"ru": "Да хранит тебя Камуй!"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 140,
+"file": "FLD/F_EZO.BIN",
+"pages": [
+"We live together with nature.",
+"And the power of evil is eating away at it.",
+"Wenkamuy, the evil gods, are our enemy!",
+"Please, defeat Wenkamuy."
+],
+"jp": "わしらは自然と共に 生きておる / その大自然を 魔界の力はむしばんでいく / ウエンカムイ（悪神）は わしらの敵！ / どうかウエンカムイを 倒して下され",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 141,
+"file": "FLD/F_EZO.BIN",
+"pages": [
+"Oh, Nakoruru...",
+"If you're going on a journey, don't forget your herbs."
+],
+"jp": "おお、ナコルル・・・ / 旅をするのなら 薬草を忘れるでないぞ",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 142,
+"file": "FLD/F_EZO.BIN",
+"pages": [
+"Oh... sister...",
+"What about Father? Did you find him?"
+],
+"jp": "あっ・・・姉さん・・・ / 父さんは・・・どうだったの？",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 143,
+"file": "FLD/F_EZO.BIN",
+"pages": [
+"I see... so Father... still hasn't been found."
+],
+"jp": "そっかぁ・・・まだ父さん ・・・見つからないんだ",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 144,
+"file": "FLD/F_EZO.BIN",
+"pages": [
+"...No... no... that's a lie... a lie!",
+"That's awful! Sister!"
+],
+"jp": "・・・そんな・・・そんな うそだよ・・・うそ！ / ひどいよ！　姉さん！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 145,
+"file": "FLD/F_EZO.BIN",
+"pages": [
+"Waaah!"
+],
+"jp": "うわーん！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 146,
+"file": "FLD/F_EZO.BIN",
+"pages": [
+"Rimururu just ran off into the back woods in a big hurry.",
+"I think she might have been crying...",
+"Nakoruru, why don't you go check on her?"
+],
+"jp": "さっきリムルルが、すごい勢いで 裏の森に走っていったよ？ / 泣いてたんじゃ ないのかなぁ・・・ / ナコルル、見てきてあげたら？",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 147,
+"file": "FLD/F_EZO.BIN",
+"pages": [
+"Rimururu..."
+],
+"jp": "リムルル・・・",
+"choice": {
+"question": "What will you do?",
+"options": [
+"Encourage",
+"Comfort"
+]
+},
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 148,
+"file": "FLD/F_EZO.BIN",
+"pages": [
+"Rimururu... I understand how you feel, but you can't cry forever.",
+"...If you do, Father",
+"won't be able to return to nature in peace..."
+],
+"jp": "リムルル・・・気持ちは分かるけど いつまでも泣いていちゃダメよ / ・・・そんなことでは 父さんは安心して / 大自然に帰ることは できないわ・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 149,
+"file": "FLD/F_EZO.BIN",
+"pages": [
+"We're the children of Father, the one they called the brave...",
+"Right, Rimururu...?",
+"We have to become strong like Father.",
+"We can't stay sad forever.",
+"Come on, Rimururu, show me a happy smile."
+],
+"jp": "私たちは、勇者と言われた 父さんの子供なのよ・・・ / ね、リムルル・・・？ / 私たちも父さんのように 強くならなくちゃ / いつまでも 悲しんでちゃいけないわ / さ、リムルル 元気な笑顔を見せてちょうだい",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Накоруру, я пойду с тобой!"
+}
+]
+},
+{
+"id": 150,
+"file": "FLD/F_EZO.BIN",
+"pages": [
+"Rimururu... you poor thing...",
+"There, don't cry anymore...",
+"Father is with nature now, and he'll always",
+"be watching over us... right?"
+],
+"jp": "リムルル・・・ かわいそうに・・・ / さあ、もう泣かないで・・・ / 父さんは、大自然とともに いつまでも私たちを / 見守ってくれるはずよ ・・・ね？",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Накоруру, я пойду с тобой!"
+}
+]
+},
+{
+"id": 151,
+"file": "FLD/F_EZO.BIN",
+"pages": [
+"......Okay.",
+"...I understand, sister. ...I won't cry anymore!"
+],
+"jp": "・・・・・・うん / ・・・わかったよ、姉さん ・・・もう泣かない！",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Накоруру, я пойду с тобой!"
+}
+]
+},
+{
+"id": 152,
+"file": "FLD/F_EZO.BIN",
+"pages": [
+"You understand... Rimururu."
+],
+"jp": "わかってくれたのね・・・ リムルル",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Накоруру, я пойду с тобой!"
+}
+]
+},
+{
+"id": 153,
+"file": "FLD/F_EZO.BIN",
+"pages": [
+"Rimururu, no!",
+"I'm going to defeat the demons ravaging nature.",
+"...You stay here!"
+],
+"jp": "リムルル、だめよ！ / わたしは大自然を荒らす悪魔を 倒しに行くのよ / ・・・あなたはここにいなさい！",
+"choice": null,
+"context": [
+{
+"ru": "Накоруру, я пойду с тобой!"
+},
+{
+"self": true
+},
+{
+"ru": "Но... но я... Ладно."
+}
+]
+},
+{
+"id": 154,
+"file": "FLD/F_EZO.BIN",
+"pages": [
+"I can fight too!",
+"You've been teaching me the Shikanna Kamuy sword dance!",
+"Please, take me with you!"
+],
+"jp": "あたしだって戦えるよ！ / 姉さんにシカンナカムイ流刀舞術を 習ってるんだから！ / お願い、一緒に連れていって！",
+"choice": null,
+"context": [
+{
+"ru": "Накоруру, я пойду с тобой!"
+},
+{
+"self": true
+},
+{
+"ru": "Но... но я... Ладно."
+}
+]
+},
+{
+"id": 155,
+"file": "FLD/F_EZO.BIN",
+"pages": [
+"What am I going to do... Listen, Rimururu.",
+"We have to protect nature in Father's place.",
+"If you leave the village along with me,",
+"who will protect Kamuy Kotan?"
+],
+"jp": "困ったわね・・・ いいこと、リムルル / わたしたちは父さんの代わりに 大自然を守らなくちゃいけないのよ / わたしと一緒に あなたまでこの村を出たら / 誰がカムイコタンを守るというの？",
+"choice": null,
+"context": [
+{
+"ru": "Накоруру, я пойду с тобой!"
+},
+{
+"self": true
+},
+{
+"ru": "Но... но я... Ладно."
+}
+]
+},
+{
+"id": 156,
+"file": "FLD/F_EZO.BIN",
+"pages": [
+"Well then... I'm off!"
+],
+"jp": "それじゃあ・・・ 行って来るわね！",
+"choice": null,
+"context": [
+{
+"ru": "Но... но я... Ладно."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 157,
+"file": "FLD/F_EZO.BIN",
+"pages": [
+"...Sister, come home soon!"
+],
+"jp": "・・・姉さん 早く帰ってきてね！",
+"choice": null,
+"context": [
+{
+"ru": "Но... но я... Ладно."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 158,
+"file": "FLD/F_EZO.BIN",
+"pages": [
+"Even brave Rametok couldn't match that demon's servant...",
+"So why were you, Nakoruru, able to defeat it...",
+"Nakoruru, you must discover the reason yourself on your journey.",
+"Listen, winning battles is not the only kind of strength..."
+],
+"jp": "勇者ラメトクでもかなわなんだ 悪魔の使いを / なぜお前 ナコルルが倒せたのか・・・ / ナコルル、その理由はお前自身が これからの旅の中でつかんでゆけ / 良いか、戦って勝つことだけが 強さではないのじゃぞ・・・",
+"choice": null,
+"context": [
+{
+"ru": "Но... но я... Ладно."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 159,
+"file": "FLD/F_EZO.BIN",
+"pages": [
+"Rametok was certainly strong.",
+"...But Nakoruru, in you",
+"I sense a mysterious power...",
+"Perhaps you have a strength",
+"different from Rametok's."
+],
+"jp": "ラメトクは確かに強い / ・・・しかしナコルル ワシは、お前の中に / 不思議な力を感じるのじゃ・・・ / お前はラメトクとはまた違った / 別の強さを 持っているのかも知れぬな",
+"choice": null,
+"context": [
+{
+"ru": "Но... но я... Ладно."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 160,
+"file": "FLD/F_EZO.BIN",
+"pages": [
+"Oh... Nakoruru, is it?",
+"You there, her companions, take good care of Nakoruru!"
+],
+"jp": "おお・・・ナコルルか / お連れさんたち ナコルルを頼むぞい！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 161,
+"file": "FLD/F_EZO.BIN",
+"pages": [
+"A demonic darkness that frightens nature...",
+"It's spreading from the west!"
+],
+"jp": "大自然をおびえさせる 悪魔の暗闇・・・ / 西の方から広がっておる！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 162,
+"file": "FLD/F_EZO.BIN",
+"pages": [
+"Sister... I wonder if she's okay. I'm so worried..."
+],
+"jp": "姉さん・・・だいじょうぶかなぁ 気になるよぉ・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 163,
+"file": "FLD/F_EZO.BIN",
+"pages": [
+"What can I do fer ya?"
+],
+"jp": "何の用だべ？",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Заходите еще."
+},
+{
+"ru": "Чье оружие ковать?"
+}
+]
+},
+{
+"id": 164,
+"file": "FLD/F_EZO.BIN",
+"pages": [
+"Anythin' else ya need?"
+],
+"jp": "他にも用があるんか？",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Заходите еще."
+},
+{
+"ru": "Чье оружие ковать?"
+}
+]
+},
+{
+"id": 165,
+"file": "FLD/F_EZO.BIN",
+"pages": [
+"That's plenty fer you."
+],
+"jp": "あんたにはこれで十分だ",
+"choice": null,
+"context": [
+{
+"ru": "Заходите еще."
+},
+{
+"ru": "Чье оружие ковать?"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 166,
+"file": "FLD/F_EZO.BIN",
+"pages": [
+"Sorry, but ya ain't got enough money."
+],
+"jp": "悪いがお金が足りねぇべ",
+"choice": null,
+"context": [
+{
+"ru": "Заходите еще."
+},
+{
+"ru": "Чье оружие ковать?"
+},
+{
+"self": true
+},
+{
+"ru": "Вот, все готово!"
+}
+]
+},
+{
+"id": 167,
+"file": "FLD/F_EZO.BIN",
+"pages": [
+"This feller, then?"
+],
+"jp": "このお人でいいか？",
+"choice": null,
+"context": [
+{
+"ru": "Заходите еще."
+},
+{
+"ru": "Чье оружие ковать?"
+},
+{
+"self": true
+},
+{
+"ru": "Вот, все готово!"
+},
+{
+"ru": "Чью стихию менять?"
+}
+]
+},
+{
+"id": 168,
+"file": "FLD/F_EZO.BIN",
+"pages": [
+"How much should I forge it?"
+],
+"jp": "どのくらい鍛えるべ？",
+"choice": null,
+"context": [
+{
+"ru": "Чье оружие ковать?"
+},
+{
+"self": true
+},
+{
+"ru": "Вот, все готово!"
+},
+{
+"ru": "Чью стихию менять?"
+},
+{
+"ru": "Какую стихию?"
+}
+]
+},
+{
+"id": 169,
+"file": "FLD/F_EZO.BIN",
+"pages": [
+"All right, leave it to me!"
+],
+"jp": "おし、まかしときな！",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Вот, все готово!"
+},
+{
+"ru": "Чью стихию менять?"
+},
+{
+"ru": "Какую стихию?"
+}
+]
+},
+{
+"id": 170,
+"file": "FLD/F_EZO.BIN",
+"pages": [
+"Anythin' else ya need?"
+],
+"jp": "他にも用があんのか？",
+"choice": null,
+"context": [
+{
+"ru": "Вот, все готово!"
+},
+{
+"ru": "Чью стихию менять?"
+},
+{
+"ru": "Какую стихию?"
+},
+{
+"self": true
+},
+{
+"ru": "Какую стихию?"
+},
+{
+"ru": "Вам это не по карману."
+}
+]
+},
+{
+"id": 171,
+"file": "FLD/F_EZO.BIN",
+"pages": [
+"Nobody can equip this."
+],
+"jp": "誰も装備できねぇべ",
+"choice": null,
+"context": [
+{
+"ru": "Какую стихию?"
+},
+{
+"ru": "Вам это не по карману."
+},
+{
+"self": true
+},
+{
+"ru": "Добро пожаловать!"
+}
+]
+},
+{
+"id": 172,
+"file": "FLD/F_EZO.BIN",
+"pages": [
+"Equip it?"
+],
+"jp": "装備するかね？",
+"choice": null,
+"context": [
+{
+"ru": "Какую стихию?"
+},
+{
+"ru": "Вам это не по карману."
+},
+{
+"self": true
+},
+{
+"ru": "Добро пожаловать!"
+},
+{
+"ru": "Сколько вам нужно?"
+}
+]
+},
+{
+"id": 173,
+"file": "FLD/F_EZO.BIN",
+"pages": [
+"Who's gonna equip it?"
+],
+"jp": "誰が装備するんだべ？",
+"choice": null,
+"context": [
+{
+"ru": "Какую стихию?"
+},
+{
+"ru": "Вам это не по карману."
+},
+{
+"self": true
+},
+{
+"ru": "Добро пожаловать!"
+},
+{
+"ru": "Сколько вам нужно?"
+},
+{
+"ru": "Больше вам не унести."
+}
+]
+},
+{
+"id": 174,
+"file": "FLD/F_EZO.BIN",
+"pages": [
+"Which one should I take off?"
+],
+"jp": "どちらをはずすべ？",
+"choice": null,
+"context": [
+{
+"ru": "Вам это не по карману."
+},
+{
+"self": true
+},
+{
+"ru": "Добро пожаловать!"
+},
+{
+"ru": "Сколько вам нужно?"
+},
+{
+"ru": "Больше вам не унести."
+}
+]
+},
+{
+"id": 175,
+"file": "FLD/F_EZO.BIN",
+"pages": [
+"Yer money's full up."
+],
+"jp": "お金がもう一杯だべさ",
+"choice": null,
+"context": [
+{
+"ru": "Больше вам не унести."
+},
+{
+"ru": "Что продаете?"
+},
+{
+"ru": "Сколько продадите?"
+},
+{
+"self": true
+},
+{
+"ru": "Большое спасибо..."
+},
+{
+"ru": "Уверены?"
+}
+]
+},
+{
+"id": 176,
+"file": "FLD/F_EZO.BIN",
+"pages": [
+"Looks like ya got nothin' to sell."
+],
+"jp": "売るものがないようだべ",
+"choice": null,
+"context": [
+{
+"ru": "Что продаете?"
+},
+{
+"ru": "Сколько продадите?"
+},
+{
+"ru": "Большое спасибо..."
+},
+{
+"self": true
+},
+{
+"ru": "Уверены?"
+}
+]
+},
+{
+"id": 177,
+"file": "FLD/F_EZO.BIN",
+"pages": [
+"Tasty, right? Come again!",
+"You feel fired up!",
+"From what the sailors tell me,",
+"all sorts of strange rumors are going around Edo.",
+"If you're headed to Edo, you'd better be careful."
+],
+"jp": "うまかったろう また来てくれよ / なんだか、気合いが入った！ / 船員たちに聞いた話では / 江戸の方でいろいろと 変な噂が流れているそうだよ / あんたも江戸に行くんなら 気をつけた方がいいな",
+"choice": null,
+"context": [
+{
+"en": "Are you going to Edo? Passage for one is 50GP. / You want to go? Yes No"
+},
+{
+"en": "Welcome! Today's special is sea urchin with rice. 20GP per / serving. It's great for the stamina! / Care to try it? Yes No"
+},
+{
+"ru": "Добро пожаловать! Обязательно попробуйте сегодня лосося. Порция всего 12 GP... очень полезно для здоровья! Попробуете?"
+},
+{
+"self": true
+},
+{
+"ru": "Ой, у вас нет денег? Жаль."
+},
+{
+"ru": "Понятно. Что ж, заходите как-нибудь."
+},
+{
+"ru": "Нечем платить за проезд - не повезу."
+}
+]
+},
+{
+"id": 178,
+"file": "FLD/F_EZO.BIN",
+"pages": [
+"How's that? Feeling better, right?",
+"You recovered a little stamina!",
+"Do you know the Kamuy training grounds?",
+"Head east out of this port and go north, and you'll find them!"
+],
+"jp": "どうだい？　元気が出たろ！ / 少し体力が回復した！ / カムイの修行場を知ってるかい？ / この港を東に出て 北の方に行けば見つかるよ！",
+"choice": null,
+"context": [
+{
+"ru": "Понятно. Что ж, может, в другой раз..."
+},
+{
+"ru": "Прибываем в гавань Камуй...!"
+},
+{
+"en": "Ah, you're here. / Are you going to Edo, then? Yes No"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 179,
+"file": "FLD/F_EZO.BIN",
+"pages": [
+"Lots of demons around is rough, huh!",
+"Don't be stingy with your special moves. Use 'em freely!"
+],
+"jp": "魔物がたくさんいると 大変だよね！ / 奥義はケチらずに どんどん使っておいた方がいいぜ！",
+"choice": null,
+"context": [
+{
+"ru": "Отлично! А теперь береги себя в пути."
+},
+{
+"ru": "Возвращайся, когда станешь сильнее."
+},
+{
+"ru": "Ох... похоже, ты уже знаешь все, чему я мог научить."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 180,
+"file": "FLD/F_EZO.BIN",
+"pages": [
+"New power wells up inside!",
+"Your stats rose little by little!"
+],
+"jp": "新たな力がわき上がってきた！ / パラメータが少しずつ高まった！",
+"choice": null,
+"context": [
+{
+"ru": "Отлично! А теперь береги себя в пути."
+},
+{
+"ru": "Возвращайся, когда станешь сильнее."
+},
+{
+"ru": "Ох... похоже, ты уже знаешь все, чему я мог научить."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 181,
+"file": "FLD/F_HKU.BIN",
+"pages": [
+"...Hmph!",
+"...Still, it's an eyesore...",
+"I don't like Mizuki acting so high and mighty."
+],
+"jp": "・・・ふん！ / ・・・しかし、目ざわりだな・・・ / ミヅキがでかいツラしておるようで 気に入らぬ",
+"choice": null,
+"context": [
+{
+"ru": "Ты что-то искала?"
+},
+{
+"ru": "Проклятье! Будь у меня мой колокол! Так мы ничего не сможем сделать!"
+},
+{
+"ru": "Реон... Похоже, придется придумать что-то другое!"
+},
+{
+"self": true
+},
+{
+"ru": "Реон... Нужно найти что-то другое для этого дела!"
+},
+{
+"ru": "Реон... Нужно найти что-то другое для этого дела!"
+},
+{
+"ru": "Реон... Нужно найти другую силу на замену колоколу!"
+}
+]
+},
+{
+"id": 182,
+"file": "FLD/F_HKU.BIN",
+"pages": [
+"Fffff... Human hunger... human greed...",
+"Death... always close by... Fffff...",
+"My gold is human souls... Fear... despair...",
+"...It grows and grows!"
+],
+"jp": "ＦＦＦＦＦ・・・・・・ 人間の飢え・・・人間の欲望・・・ / 隣り合わせの・・・死・・・ ＦＦＦＦＦ・・・ / 俺の黄金は人間の魂・・・ 恐怖・・・絶望・・・ / ・・・増える増える！",
+"choice": null,
+"context": [
+{
+"ru": "Реон... Нужно найти что-то другое для этого дела!"
+},
+{
+"ru": "Реон... Нужно найти другую силу на замену колоколу!"
+},
+{
+"ru": "Реон... Надо найти что-то другое, чтобы с этим справиться..."
+},
+{
+"self": true
+},
+{
+"ru": "...Не сработало?"
+},
+{
+"ru": "...Не сработало?"
+},
+{
+"ru": "Ничего не произошло...?"
+}
+]
+},
+{
+"id": 183,
+"file": "FLD/F_HKU.BIN",
+"pages": [
+"Holy! Sieger!",
+"... Holy Break!"
+],
+"jp": "ホーリー殿！ ズィーガー！ / ・・・・・・・・・・ ホーリー・ブレイクッ！",
+"choice": null,
+"context": [
+{
+"ru": "Хм! Столько возни, и все без толку!"
+},
+{
+"ru": "...Не сработало?"
+},
+{
+"ru": "Нет... дайте попробовать еще раз!"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 184,
+"file": "FLD/F_HKU.BIN",
+"pages": [
+"No... that's ancient history now...",
+"These days he's in a heaven with no villains,",
+"probably relaxing and enjoying some fishing."
+],
+"jp": "いや・・・ もう昔話さ・・・ / 今じゃあ 悪人のいない天国で / のんびりと、つりでも 楽しんでいるだろうよ",
+"choice": null,
+"context": [
+{
+"ru": "Мне неспокойно... Кажется, скоро нападут демоны, и это затянется на годы... Не поможете? Вы умеете обращаться с ружьем?"
+},
+{
+"ru": "Мой отец... был здесь шерифом..."
+},
+{
+"ru": "Мой отец... был здесь шерифом..."
+},
+{
+"self": true
+},
+{
+"ru": "Ах... что ж, мне очень жаль."
+},
+{
+"ru": "Вы победили чудищ на мосту Золотые Ворота? Я в вас и не сомневался. Огромное спасибо."
+},
+{
+"ru": "Ты победила чудищ на мосту Золотые Ворота? Вот это девушка... Огромное спасибо."
+}
+]
+},
+{
+"id": 185,
+"file": "FLD/F_HKU.BIN",
+"pages": [
+"You lot gonna make fun of me too?",
+"Hmph! I've got no time to waste on you!",
+"Go on... get out of here!"
+],
+"jp": "お前らもワシをバカにするのか？ / ふん！　お前らに つきあっとるヒマはないわい！ / さあ・・・帰れ、帰れ！",
+"choice": null,
+"context": [
+{
+"ru": "Откуда вы, люди, вообще взялись? Сквозь барьер ведь никто не может пройти..."
+},
+{
+"ru": "У входа в город нашли святого человека без сознания... Его подобрали дети и привели сюда. Ему немного лучше, но в последнее время он сторонится людей. С тех пор, как начался этот переполох с демонами..."
+},
+{
+"ru": "Может, Золотое яблоко поможет святому поправиться."
+},
+{
+"self": true
+},
+{
+"ru": "Святой человек обожает яблоки! Он пришел издалека, чтобы попробовать Золотые яблоки!"
+},
+{
+"ru": "Святой человек сильно болен... Но все равно старается защищать город! Надеюсь, он поправится. Ему, небось, тяжко..."
+},
+{
+"ru": "Ого! Это же Золотое яблоко! Вы и правда его нашли!"
+}
+]
+},
+{
+"id": 186,
+"file": "FLD/F_HKU.BIN",
+"pages": [
+"Yes!"
+],
+"jp": "はいっ！",
+"choice": null,
+"context": [
+{
+"ru": "А то!"
+},
+{
+"ru": "Хе!"
+},
+{
+"ru": "Да?!"
+},
+{
+"self": true
+},
+{
+"ru": "Окей! Я ничегошеньки не поняла, но на меня можно положиться!"
+},
+{
+"ru": "Хорошо..."
+},
+{
+"ru": "Знайте... сила, что у вас теперь есть, божественного происхождения. Теперь вы сможете развеивать злые наваждения."
+}
+]
+},
+{
+"id": 187,
+"file": "FLD/F_HKU.BIN",
+"pages": [
+"Oh yes, Lord Holy left something with me for you.",
+"He told me to give this to you...",
+"Lord Holy called it the Key of Mu."
+],
+"jp": "そうそう、ホーリー様から お預かりした物があるんです / これをあなた方に お渡ししろと・・・ / ホーリー様は、「ムーの鍵」とか おっしゃってました",
+"choice": null,
+"context": [
+{
+"ru": "Реон освоил Священный удар!"
+},
+{
+"ru": "Мы нашли его в Терновом лесу. Принесли, потому что дети за вас волнуются."
+},
+{
+"ru": "Я знаю, что не вправе просить вас... Но если вдруг встретите моего сына в пути... Передайте, что у его семьи все хорошо."
+},
+{
+"self": true
+},
+{
+"ru": "Терновый лес на краю города... Там растут Золотые яблоки! Но лес проклят, и туда никого не пускают... Так мама говорит, по крайней мере."
+},
+{
+"ru": "Были бы мы сильнее, прогнали бы демонов...!"
+},
+{
+"ru": "Это Золотое яблоко! Эй, отдайте его святому человеку! Пожалуйста!"
+}
+]
+},
+{
+"id": 188,
+"file": "FLD/F_HKU.BIN",
+"pages": [
+"Was it good? It'll pump up your muscles!",
+"You recovered a little stamina!",
+"They're building a bridge north of town,",
+"but there's a strange rumor.",
+"They say whoever picks up gold there loses their life...",
+"Scary, huh?"
+],
+"jp": "おいしかった？ 筋肉がもりもりつくよ！ / 体力が少し回復した！ / 街の北では橋の工事を やっているんだけど / 変な噂があるのよ / 金を拾った者は 命を落とすって・・・ / 怖いわねぇ",
+"choice": null,
+"context": [
+{
+"ru": "Сам не знает, о чем говорит. Хотя похоже немного на коровий колокольчик..."
+},
+{
+"en": "Today, we've got hamburgers! Only 50GP apiece! Chock full of / good stuff! / Would you like one? Yes No"
+},
+{
+"en": "We specialize in apple pie here! You want some? Only 10GP a / slice... / Yes or no?Yes No"
+},
+{
+"self": true
+},
+{
+"ru": "Ладно... заходите как-нибудь еще."
+},
+{
+"en": "GP for one night. / Would you like to stay? Yes No"
+},
+{
+"ru": "Не роскошно, но постарайтесь хорошенько выспаться."
+}
+]
+},
+{
+"id": 189,
+"file": "FLD/F_HKU.BIN",
+"pages": [
+"Oh, you're broke? Well, can't be helped.",
+"Sigh, I want to show off my cooking..."
+],
+"jp": "まあ、一文無しなの？ それじゃあ、しょうがないわね / はあ、腕をふるいたいなぁ・・・",
+"choice": null,
+"context": [
+{
+"ru": "Сам не знает, о чем говорит. Хотя похоже немного на коровий колокольчик..."
+},
+{
+"en": "Today, we've got hamburgers! Only 50GP apiece! Chock full of / good stuff! / Would you like one? Yes No"
+},
+{
+"en": "We specialize in apple pie here! You want some? Only 10GP a / slice... / Yes or no?Yes No"
+},
+{
+"self": true
+},
+{
+"ru": "Ладно... заходите как-нибудь еще."
+},
+{
+"en": "GP for one night. / Would you like to stay? Yes No"
+},
+{
+"ru": "Не роскошно, но постарайтесь хорошенько выспаться."
+}
+]
+},
+{
+"id": 190,
+"file": "FLD/F_HKU.BIN",
+"pages": [
+"... Stupid..."
+],
+"jp": "・・・・・・・・・ばぁか・・・",
+"choice": null,
+"context": [
+{
+"ru": "...Вперед, девочка! Меня зовут Галфорд! А это - Клинок Справедливости! Я сражаюсь за справедливость и ни о чем не жалею! И..."
+},
+{
+"ru": "Я никогда не сдаюсь! Ни за что не отступлю!"
+},
+{
+"ru": "Гав!!"
+},
+{
+"self": true
+},
+{
+"ru": "Галфорд...!"
+},
+{
+"ru": "Что-то случилось? Мне послышалось, кто-то кричал."
+},
+{
+"ru": "Пошли, ребята!"
+}
+]
+},
+{
+"id": 191,
+"file": "FLD/F_HKU.BIN",
+"pages": [
+"It's said to be the key to a labyrinth on the ancient continent of Mu...",
+"He said you'd understand once you had it... that it would surely help.",
+"That's what he told me."
+],
+"jp": "なんでも古代ムー大陸の 迷宮の鍵だということです・・・ / 渡せばわかると・・・ 必ず役に立つと / おっしゃっていました",
+"choice": null,
+"context": [
+{
+"ru": "В твоей душе живет великая любовь к битве... Но не забывай о своем человеческом сердце... Иначе станешь тем самым чудовищем, с которым сражаешься."
+},
+{
+"ru": "Что? Демонические врата...?! Хм... Что ж, сейчас я ничем не могу вам помочь... Прошу, уходите!"
+},
+{
+"ru": "Что это...?"
+},
+{
+"self": true
+},
+{
+"ru": "Как съел Золотое яблоко, святой человек поправился! Да так, как не бывало уже много лет... Сказал, что отправится в какую-то Россию искать Золотой апельсин..."
+},
+{
+"ru": "Эти волшебники... Никогда не пойму, что у них на уме."
+},
+{
+"ru": "Я помню, как мама ласково говорила со мной... Сны все время ворошат эти воспоминания... Хмф... как же это бесит."
+}
+]
+},
+{
+"id": 192,
+"file": "FLD/F_HKU.BIN",
+"pages": [
+"Where is Lord Holy?"
+],
+"jp": "ホーリー様は？",
+"choice": null,
+"context": [
+{
+"ru": "В твоей душе живет великая любовь к битве... Но не забывай о своем человеческом сердце... Иначе станешь тем самым чудовищем, с которым сражаешься."
+},
+{
+"ru": "Что? Демонические врата...?! Хм... Что ж, сейчас я ничем не могу вам помочь... Прошу, уходите!"
+},
+{
+"ru": "Что это...?"
+},
+{
+"self": true
+},
+{
+"ru": "Как съел Золотое яблоко, святой человек поправился! Да так, как не бывало уже много лет... Сказал, что отправится в какую-то Россию искать Золотой апельсин..."
+},
+{
+"ru": "Эти волшебники... Никогда не пойму, что у них на уме."
+},
+{
+"ru": "Я помню, как мама ласково говорила со мной... Сны все время ворошат эти воспоминания... Хмф... как же это бесит."
+}
+]
+},
+{
+"id": 193,
+"file": "FLD/F_HKU.BIN",
+"pages": [
+"... Lucky... me..."
+],
+"jp": "・・・・・・・・・ ウンが・・・ついた",
+"choice": null,
+"context": [
+{
+"ru": "Мария давно сидит в своей комнате... Наверное, думает о сыне, который сбежал из дома..."
+},
+{
+"ru": "Э-э..."
+},
+{
+"ru": "{NAME} вляпался в конский навоз..."
+},
+{
+"self": true
+},
+{
+"ru": "Вокруг растут красивые цветы."
+},
+{
+"ru": "Это... могила моего отца..."
+},
+{
+"ru": "Я продолжу сражаться за справедливость...! Как и он! Надеюсь, он смотрит на меня оттуда!"
+}
+]
+},
+{
+"id": 194,
+"file": "FLD/F_HKU.BIN",
+"pages": [
+"Neigh! (Nothing beats a drink after a hard day's work!)"
+],
+"jp": "ヒヒン！ （一仕事の後の一杯は最高だね！）",
+"choice": null,
+"context": [
+{
+"ru": "Так и знал! Ты все еще немного похож на нее! К сожалению, она уехала из города. Ах да, она просила сохранить это письмо... Держи."
+},
+{
+"ru": "Спасибо..."
+},
+{
+"ru": "Э-э, простите..."
+},
+{
+"self": true
+},
+{
+"ru": "Ко-ко-ко..."
+}
+]
+},
+{
+"id": 195,
+"file": "FLD/F_HKU.BIN",
+"pages": [
+"Bwihihin! (Dealing with humans wears me out!)"
+],
+"jp": "ぶひひん！ （人間の相手も疲れるよ！）",
+"choice": null,
+"context": [
+{
+"ru": "Так и знал! Ты все еще немного похож на нее! К сожалению, она уехала из города. Ах да, она просила сохранить это письмо... Держи."
+},
+{
+"ru": "Спасибо..."
+},
+{
+"ru": "Э-э, простите..."
+},
+{
+"self": true
+},
+{
+"ru": "Ко-ко-ко..."
+}
+]
+},
+{
+"id": 196,
+"file": "FLD/F_HKU.BIN",
+"pages": [
+"Brrrrrn! (My name is Man o' War!)"
+],
+"jp": "ブルルルン！ （ぼくの名はマンノウォーさ！）",
+"choice": null,
+"context": [
+{
+"ru": "Спасибо..."
+},
+{
+"ru": "Э-э, простите..."
+},
+{
+"self": true
+},
+{
+"ru": "Ко-ко-ко..."
+}
+]
+},
+{
+"id": 197,
+"file": "FLD/F_HKU.BIN",
+"pages": [
+"Brrrrr... (Autographs later, okay?)"
+],
+"jp": "ブルルルル （サインは後でね！）",
+"choice": null,
+"context": [
+{
+"ru": "Э-э, простите..."
+},
+{
+"self": true
+},
+{
+"ru": "Ко-ко-ко..."
+}
+]
+}
+]

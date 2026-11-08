@@ -1,0 +1,59 @@
+run 1500
+press START 10
+run 400
+press B 6
+run 150
+press B 6
+run 150
+press B 6
+run 150
+press DOWN 6
+run 60
+press B 6
+run 150
+press DOWN 6
+run 60
+press B 6
+run 150
+press B 6
+run 150
+press B 6
+run 150
+press B 6
+run 150
+press B 6
+run 150
+press B 6
+run 150
+press B 6
+run 150
+press B 6
+run 150
+press B 6
+run 150
+press B 6
+run 150
+press B 6
+run 150
+press B 6
+run 150
+press B 6
+run 150
+hold DOWN
+run 90
+release DOWN
+hold DOWN
+run 90
+release DOWN
+hold DOWN
+run 90
+release DOWN
+hold DOWN
+run 90
+release DOWN
+hold DOWN
+run 90
+release DOWN
+hold DOWN
+run 90
+release DOWN

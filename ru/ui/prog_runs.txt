@@ -1,0 +1,314 @@
+002424    3 ms<0>Ju | next 4e75206a
+002588    3 ms<0>r, | next 4e754a2d
+00263e    3 ms<0>ul | next 4e75526a
+0026c4    3 ms<0>xn | next 4e75526a
+002772    3 ms<0>   | next 4e7549fa
+0027dc    3 ms<0>   | next 4e75422d
+003c90    4 Q <c><c>Q  | next 00100010
+005904    3 iv<0><0> | next 003c0008
+006f26   10 {109}{110}{111}{112}{113}{114}{115}{116}{117}{118}{119}{120}{121}{122}{123}{124}{125}{126}{127}{128} | next 740043ed
+009f16    3 Jt<c>U  | next 00104483
+00bb58    3 vh<0>Aa | next 20002601
+00c4c6    3 dddddd | next 43f90040
+00c4d2    4 dddddddd | next 600000ce
+00c96a   14 (z(z k k K KAuAuAvAve?e?e.e. | next 311f311f
+00d252    3 Hu<END><END> | next 1000197c
+00d26a    3 Hu<END><END> | next 1004238b
+00d290    3 Hu<END><END> | next 1000197c
+00d5e4    4  P<4><4> y | next 20535441
+00d640    4  P<4><4> y | next 20535441
+00dc44    5 xjyc<4>yc<8> | next 7000d3fc
+00f67c    8 cvcwCxcxcyCycze? | next 0eee0fff
+00f89a   32 dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd | next 13c000ff
+00f97e    4  p<c><c> p | next 00100010
+00f9ec    4  p<c><c> p | next 00100010
+00fa3a    4  p<c><c> p | next 00100010
+010688    4 a'<0>Jx<4> | next e9a1e9a2
+0107e0    4 Q <c><c>Q  | next 00100010
+01083e    4 Q <c><c>Q  | next 00100010
+011e06   15 idIukam'PaPsq,RhsftkvqvxWhxfy' | next 283a2842
+013ec4    5 70IxOtyu   | next 292a2b00
+013f9a    3 + <END><1> | next 00800010
+0149f0    4  p<c><c> p | next 00100010
+016a1c    4 Q <c><c>Q  | next 00100010
+016d8a    3 b.<0>pf | next 00304eb9
+018d34    3 eq70o  | next 7000102a
+019ede    3 qk<0><0> | next 0030257c
+01a070    4 Q <c><c>Q  | next 00100010
+01a0c4    4 Q <c><c>Q  | next 00100010
+01a124    4 Q <c><c>Q  | next 00100010
+01a592    3 qk<4><0> | next 0044422d
+01a6a6    3 qk<4><0> | next 004424bc
+01a952    3 edms<1> | next a95a303c
+01aad8    3 -cms<1> | next aae0303c
+01ac20    3  y<0>   | next 00482141
+01b5aa    3  y<1><0> | next 006442aa
+01b6b8    3 qk<0><0> | next 0030257c
+01bbe8    3 + qk<0> | next 60000040
+01c136    3 qk<1><0> | next 0044257c
+01c13e    3 qk<0><0> | next 004824bc
+01c42a    3 + Ixt. | next 48e3f000
+01cabe    3 p <c>p  | next 00102540
+01cb0e    4 + Ixt.p  | next 00402540
+01dd1c    3 m)qk<1> | next dd580030
+02051c   12 h h h h h h EgEgEgEgEgEg | next 040f0000
+0205fe   73 ep<END>ep<END><END><END><END><0><0><0><0><0><0><0><0><0><0><0><0><0><0><0><0><0><0><0><0><0><0><0><0><0><0><0><0><0><0><0><0><0><0><0><0><0><0><0><0><0><0><0><0><0><0><0><0><0><0><0><0><0><0><0><0><0><0><0><0><0><0><0><0><0><0> | next 03000006
+020852  366 Buy   <END>Sell  <END>Cancel  <END>GP  <END>s <END>Owned   <END>Defense <END>Yes <END>No  <END>                            <END>{147}{148}{149}{150}{151}{152}{153}{154}    {155}{156}{77}{157}{158}{159}      Exit<END>    <END>Attack<END>{101}{102}{103}{104}{105}{106}{107}{108}<END>: {79}{80}<END>: {81}{82}<END>: {83}{84}<END>: {85}{86}<END>: {87}{88}<END>: Ice<END>: {91}{92}<END>{101}{102}{103}{104}{105}{106}{107}{108}  <END>Effect  <END>  {130}{131}{132}{133}{134}{135}<END>          GP for  {130}{131}{132}{133}{134}{135}  up<END>    {136}{137}{138}{139}{140}{141}{142}s{143}{76}s{144}{145}{146}s <END>Use <END>{79}{80}<END>{81}{82}<END>{83}{84}<END>{85}{86}<END>{87}{88}<END>Ice<END>{91}{92}<END>{79}{80}   No specific attribute. <END>                            <END>{81}{82}   Emits crimson flames.  <END>     Strong against {83}{84}{160}{161}{79}{80}<END>{83}{84}   Emits an icy chill.    <END>     Strong against {81}{82}{160}{161}{79}{80}<END>{85}{86}   Fused with gale winds. <END>     Strong against {81}{82}{160}{161}{79}{80}<END>{87}{88}   Electrically charged.  <END>     Strong against {79}{80}    <END>Ice   Full of divine power.  <END>     Strong against {91}{92}{160}{161}{79}{80}<END>{91}{92}   The darkness within.   <END>     Strong against Ice{160}{161}{79}{80}<END>{81}{82}        <END> | next 41f90002
+020cfa    3 Crms<2> | next 0c004e75
+02205a    3 ms<2>-i | next 422d529d
+0220dc    3 ms<2>-i | next 532d02ef
+022132    3 ms<2>{107}{108} | next 4e75526a
+022166    3 ms<2> r | next 4e756100
+022182    3 ms<2>-i | next 4e756100
+0222d2    9 fd<2>dm<2>fd<2>Ee<2>fd | next 422d52a0
+022300    3 ms<2>Cr | next 4e754e71
+02233c    3 ms<2>l) | next 6018206a
+022356    3 ms<2>Mt | next 6100eebe
+022642    3 ms<2>Cr | next 4e754a2d
+022666    9 x?<2>vn<2>vn<2>x?<2>x? | next 70026100
+0226a2    3 ms<2>wt | next 4e754a2d
+0226b0    3 ms<2>Un | next 4e757002
+0226e2    3 ms<2>Ye | next 4e75206a
+022788    3 ms<2>   | next 532d02ef
+0227a6    3 ms<2>Un | next 4e75422a
+026862    3 p <c>p  | next 00103540
+0273dc    7 dddddddddddddd | next 4e755488
+02958e    9 kay y y y y y y y  | next 51cfffde
+02b498   72 OqOqOqOqOqPoOqOqOqOqOqOqOqOqOqPoOqOqOqOqOqOqOqOqOqPoOqOqOqOqOqOqOqOqOqPoPoOqOqOqOqOqOqOqOqOqPoOqOqOqOqOqOqOqOqOqPoOqOqOqOqOqOqOqOqOqPoOqOqOqOqOq | next e54d0882
+02bbf2    4 cvcvcvcv | next 32807000
+02bcec    3 kums<2> | next bcf64e75
+02da94    3 gyms<2> | next da9e4e75
+02e460    5 dddddddddd | next 4e75226a
+02e484    9 Agxzxzxzxzxzxzxzxz | next 4e750c6d
+02ed02    3 uf<7><0> | next 4eb90003
+02f69a    3 kjms<2> | next f6b03f00
+02f6d2    3 kjms<2> | next f6da4a2d
+02f702    3 kjms<2> | next f7183f00
+02f740    3 kjms<2> | next f7563f00
+02f784    3 kjms<2> | next f79a3f00
+02f7c8    3 kjms<2> | next f7de3f00
+02f808    3 kjms<2> | next f81e3f00
+02f848    3 kjms<2> | next f85e3f00
+02f886    3 kjms<2> | next f89c3f00
+02f8ce    3 kjms<2> | next f8e43f00
+02f91c    3 kjms<2> | next f9323f00
+02f942    3 kjms<2> | next f5884e75
+03001a    3 txtxYu | next 0606062b
+0308e4    3 ae<5><0> | next 6100011c
+0311fa    6 OsOsOsOsOr67 | next 201f1e1d
+0318c8    3 uf<0><END> | next c08380c2
+032268    3 ms<3>b, | next 082d0001
+03238a    3 ms<3>gw | next 082d0001
+035c1c    3 uf<7><0> | next 4eb90003
+0391d4    3 cpqk<4> | next 13e200f2
+03946c    3 b.<4>b. | next 10003551
+0397b2    4 ae<4><0>p  | next 007a2541
+039b92    3 'lqk<7> | next 033c00f2
+03ac30    4 Q <c><c>Q  | next 00100010
+03b35a    4 q-<c><c>q- | next 00100010
+03b396    4 Q <c><c>Q  | next 00100010
+03b9bc    3 {147}{148}ms<3> | next b9c86000
+03bdb2    4 Q <c><c>Q  | next 00100010
+03ccf0    3 dfae<0> | next 370082c0
+03e7c6    3 35jgto | next 082a0000
+03eca2    3 qk<8><0> | next 00ec2541
+042676    3 c!<1>za | next 0f0a0018
+0432f8    3  .{158}{159}e) | next 07e35166
+045060    4 oi<4><8><c> | next 0eff3656
+045b7a    3 c!<1>Fa | next 94ff00e7
+045cec    3     rl | next 2e5d25b0
+045cf4   12 rpszuhVevrx wu{172}{173}x?x   {185}{186} | next 002c00aa
+045d98    3 u-<0><0> | next 012d1287
+045e68    3 ja<4><e> | next 00180eff
+045fa6    3 MuOgdu | next 2ba322f6
+045fae   12 dzf'GPHohzIuiplviwiyMim, | next 002c0068
+0460f2    3   o <6> | next 87100eff
+046360    3 Kyo <4> | next 0eff24c6
+0464d0    3 h.o <4> | next 0eff2404
+046512    3 fuo <4> | next 0eff23c2
+046538    3 Fyo <4> | next 0eff237e
+0465c0    3 Cho <4> | next 0eff21b8
+046606    3 Ayo <4> | next 0eff22ce
+046628    3 . o <c> | next 0eff2268
+046630    3 azo <4> | next 0eff22a4
+04679c    3 {119}{120}o <1> | next 42400824
+047a92    3   <1>{79}{80} | next 022bf013
+04aaba    3 t)o <e> | next 0effde1a
+04bbd6    3 anm?tu | next f2ea28e8
+04bc9e    3 -Fi Pr | next a6be2820
+04bf98    4 iy<0><1>oj | next 10ff0004
+04bfd8    4 iy<0><1>oj | next 10ff0004
+04c06c    6 Ag<END>Tu+ <0>13 | next 009e3f01
+04ce40    4   <0><1>uh | next 3a040028
+04dede    3 {119}{120}o <a> | next 01284001
+04e7e8    3 za .{198}{199} | next 87100eff
+04f426    3 B o <1> | next 6c012a6d
+04f5fa    3 yw<0><e> | next 8f7a1120
+04f60e    3 yw<0><e> | next 92581120
+04f622    3 yw<0><e> | next 92b41120
+04fd02    3   <0><1> | next 28400129
+050dc8    3 k.<2><3> | next 61000dae
+050dd6    3 k.<2><8> | next 61000da0
+050de2    3 k.<2><d> | next 61000d94
+050e2c    3 k.<2><d> | next 363cf000
+050e4c    3 k.<3><d> | next 61000d2a
+050e5a    3 k.<9><d> | next 61000d1c
+050e68    3 k.<f><d> | next 61000d0e
+050fe4    3 k.<2><3> | next 61000b92
+050ff2    3 k.<2><8> | next 61000b84
+0510b8    3 k.<2><d> | next 363cf000
+05111c    3 k.<2><d> | next 6012243c
+051124    3 k.<2><d> | next 70766100
+051130    3 k.<4><d> | next 70776000
+051140    3 k.<3><d> | next 61000a36
+05114e    3 k.<9><d> | next 61000a28
+05115c    3 k.<f><d> | next 61000a1a
+051240    3 k.<5><d> | next 61000936
+0512ee    3 k.<2><d> | next 61000888
+0512fc    3 k.<4><5> | next 6100087a
+05130a    3 k.<4><a> | next 6100086c
+051bd8    3 70Jou. | next 31323334
+051cfa    3 ae<5><a> | next 2b4102da
+051d0e    3 k.<2><4> | next d46d02da
+051d3c    3 k.<4><5> | next d46d02da
+051d74    3 k.<2><4> | next d46d02da
+051dba    3 k.<d><6> | next d46d02da
+051dcc    3 k.<2><6> | next d46d02da
+051df4    3 k.<5><6> | next d46d02da
+0521be    3 ms<5>'T | next 4e75303c
+0521d6    3 ms<5>(g | next 4e75303c
+0521ee    3 ms<5>(w | next 4e757060
+052204    3 ms<5>14 | next 4e75422d
+052256    3 ms<5>au | next 4e756100
+0522b2    3 ms<5>cp | next 4a2d674d
+0522be    3 ms<5>cz | next 4e7541ed
+0522fc    3 ms<5>eb | next 4e757032
+052354    3 k.<6><4> | next 6100fdfa
+052362    3 k.<8><9> | next 6100fdec
+052370    3 k.<8><c> | next 6100fdde
+05237e    3 ms<5>Go | next 4a2d674d
+05238a    3 ms<5>gx | next 4e7541ea
+052416    3 k.<7><4> | next 6100fd38
+05243c    3 ms<5>kb | next 41ed5258
+052470    3 ms<5>nm | next 4e75357c
+0524ac    3 ms<5>mm | next 103c00f0
+0524da    3 k.<6><9> | next 6000fc74
+0524ee    3 k.<7><4> | next 6100fc60
+052510    3 ms<5>Ol | next 41ed4d08
+052548    3 ms<5>Ru | next 4e75303c
+05258a    3 k.<6><9> | next 6000fbc4
+05259c    3 k.<6><9> | next 363cf000
+0525c0    3 k.<7><9> | next 6100fb8e
+0525ce    3 k.<8><c> | next 6100fb80
+0525f4    3 ms<5>t- | next 41ea0076
+0526e0    3 ms<5>Ya | next 082d0000
+0526f2    6 ms<5>yoae<3><3> | next 4eb90005
+05270a    3 ms<5>zd | next 600004aa
+052728    6 ms<5>zyae<3><3> | next 4eb90005
+052740    3 ms<5>Ya | next 60000474
+0527b8    3 ms<5>   | next 302d4d48
+0527f4    6 ms<5>  ae<3><3> | next 4eb90005
+052808    3 ms<5>   | next 082d0000
+052822    6 ms<5>{241} ae<3><3> | next 4eb90005
+052836    3 ms<5>   | next 4efa0394
+052ec2    3 qk<c><9> | next 00386100
+052f14    3 qk<b><4> | next 00387e00
+052f38    3 qk<b><5> | next 00387e00
+0530e2    3 k.<2><d> | next 780f7a00
+05313c    3 k.<2><d> | next 61000884
+0531d2    3 k.<b><5> | next 610007ee
+05345c    3 k.<b><4> | next 61000564
+05346a    3 k.<2><d> | next 61000556
+0534dc    3 qk<c><6> | next 00386100
+053580    3 qk<4><7> | next 00386100
+05376e    3 qk<4><7> | next 00386100
+0537ac    3 k.<2><d> | next 61000214
+05396c    3 k.<2><d> | next 6154422a
+053de4    3 qk<c><4> | next 00383e2a
+053e3a    3 qk<c><5> | next 0038141c
+053eba    3 k.<2><d> | next 780f7a00
+053fdc    3 k.<2><d> | next 6000f9e4
+054368    3 k.<5><6> | next 78097a04
+054380    3 k.<5><8> | next 6000f640
+0543c8    3 k.<2><c> | next 780f7a01
+0543ee    3 k.<5><c> | next 6100f5d2
+0544b2    3 qk<c><5> | next 0038242a
+0546a0    3 k.<3><7> | next 780c7a02
+0546d8    3 qk<3><7> | next 00387e02
+054780    3 k.<2><d> | next 780f7a00
+0547c6    3 k.<2><d> | next 6000f1fa
+0549dc    5 {129} <END>k.<b><5> | next 78057a05
+054aba    3 k.<2><d> | next 780f7a00
+054ae2    3 k.<2><d> | next 363cf000
+054f40    3 Fa<c>g? | next 00300018
+054fc6    3 b.<0>Jt | next 00387805
+0576ae    4 70Joty{242}{243} | next 2a2b2c2d
+057a8a    3 ae<1><0> | next 41f9003c
+059300    3 qk<0><0> | next 0050257c
+05987c    3 qk<0><0> | next 0050257c
+059afe    3 qk<0><0> | next 0050257c
+05a194  694 Versus Input<END>Menu Select <END><END>Choose a save file<END>No save file available! <END><END>Is this okay? <END><END>Read<END> which file?<END>File 1<END>File 2<END><END>Perform special moves by<0>moving the stick and<0>pressing buttons like a <0>fighting game.<END>Select special moves<0>from a menu, just like a<0>traditional role-playing<0>game. <END>Use on whom?<END><END>- No data - <END><END>5 <END>4 <END>3 <END>2 <END>1 <END><END>Make your choice. <END>Input Method<END>Yes     No<END>What will you do? <END><END>A consumptive quick draw<0>master who seeks the<0>Perfect Flower, which <0>grows only in Hell. <END>An Ainu shrine maiden <0>who hears the voice of<0>nature and takes up her <0>sword to protect it.<END>A brash warrior who left<0>his hometown to seek out<0>strong foes and continue<0>his training. <END>A vicious, cruel man who<0>works in the underbelly <0>of Japan and loathes<0>the cheerful Haohmaru.<END>A cheery girl from the<0>land of Greenhell who <0>fights in place of her<0>brother, Tam Tam. <END>A kind man who crossed<0>the Pacific to study the<0>way of the ninja with <0>his dog, Poppy. <END>Over 100 years after the<0>Shimabara Rebellion, the<0>spirit of Amakusa has <0>returned for vengeance! <END>The world is falling to <0>darkness because of the <0>evil entity known as<0>Rashoujin Mizuki! <END><END>save<END>Loc.  <END>Cancel<END>Chapter Select<END>- Empty! -<END><END>Ultimate technique<END><END><END><END><END><END><END><END><END><END><END><END><END><END><END><END><END><END><END><END><END><END><END><END><END><END><END><END><END><END><END><END><END><END><END><END><END><END><END><END><END><END><END><END><END><END><END><END><END><END><END><END><END><END><END><END><END><END><END><END><END><END><END> | next 05040000
+05a728    4 70Joty{242}{243} | next 05040000
+05a7ee    4 70Joty{242}{243} | next 05040001
+05a9ce    4 70Joty{242}{243} | next 2a2b2c2d
+05aa10    4 70Joty{242}{243} | next 2a2b2c2d
+05aeb2    4 70Joty{242}{243} | next 0504000f
+05af78    4 70Joty{242}{243} | next 05040010
+05b07e    4 70Joty{242}{243} | next 2a2b2c2d
+05b180    4 70Joty{242}{243} | next 2a2b2c2d
+05b2b4    4 70Joty{242}{243} | next 05040014
+05b2fc    4 70Joty{242}{243} | next 05040014
+05b3c2    4 70Joty{242}{243} | next 05040015
+05b4f6    4 70Joty{242}{243} | next 2a2b2c2d
+05b5dc    4 70Joty{242}{243} | next 2a2b2c2d
+05b736    3 e Joty | next 0028292a
+05b904    3 ErOtZu | next 292a2b00
+05b982    8 70txJotxtxtxtxtx | next 04040025
+05ba28    4 70Joty{242}{243} | next 2a2b2c2d
+05bb28    4 70Joty{242}{243} | next 2a2b2c2d
+05c04a    4 70Joty{242}{243} | next 2a2b2c2d
+05c1da    3 ErOtZu | next 06020036
+05c228    3 ErOtZu | next 292a2b2c
+05c39a    4 70Joty{242}{243} | next 2a2b2c2d
+05c3d6    4 70Joty{242}{243} | next 2a2b2c2d
+05c44c    5 Er<0><0><0>Oa | next 0607003f
+05c45a    4 ty<0><0>{242}{243} | next 2a000000
+05c4ac    4 70Joty{242}{243} | next 01030041
+060780  133 {91}{92}{115}{116}{103}{104}{127}{128} C + F L i O u r X-F-a-k-u-p: .)?).H.Y.O'l(c'v 1 7(t(Y(I(t(Y(M(t(Y(p(t(Y0101011212121818183 3 3 4545457 7 7 a a a a?a?a?aaaaaaAdAdAdAgAgAgAjAjAjAmAmAmApApApasasasauauauaxaxaxb b b bcb?BiBuBoc cec cjcvcpD.ddd'Didvdpe ede EheoelErExeuf!kvkql lal.<END><END><END>le<END><END>li | next 10000000
+060d7c   56 Haohmaru<END>Nakoruru<END>Galford <END>Ukyo<END>Genjuro <END>Cham Cham <END>Reon<END>Charlotte <END>Kyoshiro<END>Rimururu<END>Bizuki<END>Hion  <END> | next 020c0000
+060ff8 3486 Nothing inside. <END> found  <END>! <END>You can't carry any more! <END>Save? <2>Yes <3>No<3><END>Oh? Very well, then. We shall <0>meet again. <END>The road ahead of you is long,<0>but do not lose faith!<END>Okay, you're all set. Please be safe in your travels. <END>Enter?<2>Yes <3>No<3><END>Exit? <2>Yes <3>No<3><END>Got <5><1> EXP<0>and <5><2> GP.<0><END> Level<5><3><END> Level<5><4><END> Level<5><5><END>Sword skill up! <END> Fighter<END> Soldier<END> Warrior<END> Master <END>Cyclone Slash <END>Crescent Moon Slash <END>Sake Strike <END>Earthquake Slash<END>Violent Cyclone Slash <END>Cyclone Wave<END>Gale Crescent Moon Slash<END>Temblor Slash <END>Imperial Horror Slash <END>Divine Cyclone Slash<END>Detonation Slash<END>Imperial God Sealing Slash<END>Spirit Dance<END>Guardian Woods<END>Fire Hawk <END>Spirit's Pride<END>Victory Blade <END>Spirit Blade<END>Lightning Fang<END>Spirit Lullaby<END>Divine Spirit Dance <END>Centered Spirit Blade <END>Flash Fang<END>Guardian Forest <END>Furious Hawk Dance<END>Flying Fang <END>Plasma Blade<END>Rush Dog<END>Replica Attack<END>Replica Dog <END>Strike Heads<END>Plasma Crossblade <END>Machine Gun Dog <END>Backstab<END>Lightning Wave<END>Plasma Factor <END>Shadow Copy <END>Shotgun Dog <END>Mega Strike Dog <END>Haze Blade -Flash-<END>Heat Haze <END>Swallow Swipe <END>Snowfall Slash<END>Haze Blade -Light-<END>Narrow Heat Haze<END>Twin Swallow Swipe<END>Snowfall Slash Fake <END>Chill Wind<END>Haze Blade -Mist- <END>Wild Heat Haze<END>Swallow Six Strike<END>Cherry Blossom Slash<END>Three-Point Kill -Fang<END>Lightwing Edge<END>Crimson <END>Droplet <END>Three-Point Kill -Horn<END>Twin Heavens Death<END>Scarlet Cherry Kill <END>Wild Cherry Blossom <END>Three-Point Kill -Phosphor<END>Death of 100 Demons <END>Three Heavens Death <END>Wing Strike <END>Wing Cloud<END>Pak Pak Fire<END>Eat Something <END>Leaping Claw<END>Pak Pak Skull <END>Glorious Singing<END>Eat a Lot <END>Pak Pak Spin<END>Amazing Peace <END>Little Fight<END>Spin Edge Slash <END>Soaring Destruction Slash <END>Wind Dance -Seagull-<END>Wind Edge- Mist Flight<END>Soaring Spectrum Slash<END>Spin Edge Rending Slash <END>Wind Edge- Mist Flight<END>Soaring Kingfisher Slash<END>Wind Dance -Falcon- <END>Wind Edge- Mist Array <END>Wind Edge- Shroud <END>Spin Edge Coiling Slash <END>Wind Erosion<END>Splash Fount<END>Power Gradation <END>Tri Slash <END>Mistral Gradation <END>Noble Slash <END>Final Square<END>Mirage Fount<END>Ascending Sky <END>Pure Slash<END>Kyoshiro Banquet Dance<END>Blazing Dance <END>Leaping Lion Tail <END>Spinning Dance Daybreak <END>Hell Toad <END>Blazing Dance Party <END>Mad Leaping Lion Tail <END>Spinning Dance New Moon <END>Great Hell Toad <END>Dance of Flesh and Blood<END>Freezing Power<END>Sky Prayer<END>Ice Fountain<END>Spirit Mirror <END>Blizzard Spear<END>Rushing Water <END>Ice Rock<END>Ice Flower<END>Freezing Bow<END>Blizzard Pike <END>Ice Pillar<END>Ice Flower Swarm<END>Earth Prayer<END>Rushing Seas<END>Ring Spirit Resonance <END>Ambition Daylight Form<END>Rending Divinity<END>Earth and Sky Wizard Form <END>Death and Rebirth <END>Ravenous Divinity <END>Sympathetic Divinity<END>Demonic Halo<END>Spin Edge Windsplitter<END>Spin Edge Wind Rupture<END>Wind Dance -Seagull-<END>Wind Edge Mist Push <END>Soaring Reed Cut<END>Spin Edge Wind Rupture<END>Wind Edge Dark Frost<END>Flying Spectrum Edge<END>Wind Dance -Falcon- <END>Wind Edge Honorable Mist<END>Wind Edge Dizzying Feather<END>Spin Edge Wind Coiler <END>Flying Calmbreaker<END><END><0>                  was learned!<END>Can't hold that.<END>  <END>gave up <END>{109}{110}<END>{111}{112}<END>{113}{114}<END>{115}{116}<END>{117}{118}<END>{119}{120}<END>{121}{122}<END>{123}{124}<END>{125}{126}<END>{127}{128}<END><0>Charge: <5><6>/ <5><7><END> (<5><b>) <0>was obtained! <END><0>but left it behind. <END><0> EXP Up!<END>Got + <5><d> HP!<END>Got + <5><d> SP!<END>Imperial Void Slash <END>Imperial Radiance Slash <END>Imperial Skyrender Slash<END>Imperial Negation Slash <END>Windrider Spirit<END>Shining Wind Fang <END>Shining Sky Fang<END>Shining Spirit Fang <END>Plasma Drive<END>Double Megastrike Heads <END>Double Gigastrike Heads <END>Double Terastrike Heads <END>Dream of Ruination<END>Clear Mind Remnant Strike <END>Clear Mind Afterglow Mist <END>Clear Mind Dark Eaglewood <END>Grudge Blade<END>Five Lights <END>Reverse Five Lights <END>Demon Five Lights <END>Looping Horn<END>Weapon Charge <END>Metamo Animal Attack<END>Metamo Gigas Attack <END>Wind Erosion<END>Phoenix Rebirth Slash <END>Dragon God Rebirth Slash<END>Avatar Rebirth Slash<END>Angel Defense <END>Gust Gradation<END>Splendor Gradation<END>Splash Gradation<END>Ferocious Lion Party Dance<END>Orochi Dance<END>Kirin Dance <END>Ogre Dance<END>Ice Rain<END>Frozen Wind Knife <END>Frozen Sky Knife<END>Frozen Spirit Knife <END>What will you do? <END>Enter Demon Road<END>Cancel<END>Cancel<END>Izumo to Aso<END>Peking to Silk Road Gate<END>Paris to Silk Road Gate <END>Greenhell to Atlas Gate <END>San Francisco to Muu Gate <END>Kyo to Muu Gate <END>Osorezan to Kyo Gate<END>Push the shrine?<2>Yes <3>No<3><END>The gateway to Hell has <0>been opened!<END>Enter gateway to Hell?<2>Yes <3>No<3><END><4> and company<0>decided not to enter. <END>Warp to Izumo?<2>Yes <3>No<3><END>Warp to Aso?<2>Yes <3>No<3><END>Warp to Peking? <2>Yes <3>No<3><END>Warp to Paris?<2>Yes <3>No<3><END>Warp to Greenhell?<2>Yes <3>No<3><END>Warp to San Francisco?<2>Yes <3>No<3><END>Warp to Kyo?<2>Yes <3>No<3><END>Warp to Osorezan? <2>Yes <3>No<3><END>       Izumo Demon Gate <END>        Aso Demon Gate<END>       Peking Demon Gate<END>        Paris Demon Gate<END>      Greenhell Demon Gate<END>    San Francisco Demon Gate<END>         Kyo Demon Gate <END>      Osorezan Demon Gate <END>HP +<5><d>! <END>SP +<5><d>! <END>ATK  +<5><d>! <END>DEF  +<5><d>! <END>SPD  +<5><d>! <END>It won't budge. <END>LCK  +<5><d>! <END>  <END><0>           learned a new move!<END> move!<END><END> got a new special move!<END>-g-m?! Z-d-u'v.I<END>.M.W?)-L?!-g-m?! Z-d-u'v.I<END>ixbo  Fyw'dk{78}             <END>dkjmh-MN                  <END>dkjmh-Ef{78}                 <END>dkjmkilB                  <END>e)eqPt                    <END>foEf                      <END>tofoEf                    <END>atfoEf                    <END>-c?)-d?)-gac-e?)-p(b      <END>-L?)-yac Z..'F-m's-g      <END>, -j:  y-o-w?) y-j'v-d    <END>, -j: .'.)-g y-j'v-d      <END>f,w'ifdl                  <END>ap      dl                <END>ap  ttATdl                <END>ap  ATumdl                <END> y...H'T  .P-t'm..-g      <END>?!-t'm(b?)  .A?!.P Z-f(B..<END>-g'e?!..-m.A?!.P Z-f(B..  <END>-g'e?!'v-f(a.A?!.P Z-f(B..<END>  qfb,dmct                <END>Ahxh{127}{128}ct                  <END>  {127}{128}ct                    <END>at{127}{128}ct                    <END>-e..?)  ?!-d(F            <END>?)'e-f  !)?!  - -y-f      <END>?)'e-f  -b..-m  - -y-f    <END>?)'e-f  -b-y Z  - -y-f    <END> O{83}{84}{101}{102} +{103}{104}Icea,<END>Afdyb. GLo a<END>jrAg{101}{102}{119}{120}{81}{82}<END>Afdyb.{81}{82} n j H<END>Afdyb.ahc'abccdj (<END>Afdyb.cuafab-f?)-d. (b.Sj dw (<END>Afdyb.'a??ab-f?)-d. (b.Sj dw (<END>Afdyb.(kac-u?)ab y-m?!-gj dw (<END>Afdyb.(Sac-f-g-eab-y(bj dw (<END>Afdyb.afab-y(bj dw (<END>Afdyb.d)asabaf (<END>cx Gkr{101}{102} +{103}{104}Icea,<2> -{81}{82}<3>{81}{82}{81}{82}{85}{86}<3><END>Afax{127}{128}in ({127}{128}Ar edu hee{81}{82}{109}{110}a-a-<END>Afax{127}{128}in ({117}{118}ky e +{103}{104}Icea,<2>ky e E<3>ky e{119}{120}{81}{82}<3><END><4>ck -Afax{127}{128}in (<0>ky e E{127}{128} G{79}{80}{91}{92} D B{109}{110}<END>ahc'ilaxcf<0>{121}{122}{81}{82}{91}{92} +{103}{104}Icea,<2> -{81}{82}<3>{81}{82}{81}{82}{85}{86}<3><END>ccdjilaxcf<0>{121}{122}{81}{82}{91}{92} +{103}{104}Icea,<2> -{81}{82}<3>{81}{82}{81}{82}{85}{86}<3><END>cuafilaxcf<0>{121}{122}{81}{82}{91}{92} +{103}{104}Icea,<2> -{81}{82}<3>{81}{82}{81}{82}{85}{86}<3><END>'a??ilaxcf<0>{121}{122}{81}{82}{91}{92} +{103}{104}Icea,<2> -{81}{82}<3>{81}{82}{81}{82}{85}{86}<3><END>.A??(b..-u?)ilaxcf<0>{121}{122}{81}{82}{91}{92} +{103}{104}Icea,<2> -{81}{82}<3>{81}{82}{81}{82}{85}{86}<3><END>-F..-t?!..-f-g-eilaxcf<0>{121}{122}{81}{82}{91}{92} +{103}{104}Icea,<2> -{81}{82}<3>{81}{82}{81}{82}{85}{86}<3><END>afilaxcf<0>{121}{122}{81}{82}{91}{92} +{103}{104}Icea,<2> -{81}{82}<3>{81}{82}{81}{82}{85}{86}<3><END>d)asilaxcf<0>{121}{122}{81}{82}{91}{92} +{103}{104}Icea,<2> -{81}{82}<3>{81}{82}{81}{82}{85}{86}<3><END>        ahc'ilaxcf<END>        ccdjilaxcf<END>        cuafilaxcf<END>        'a??ilaxcf<END>    .A??(b..-u?)ilaxcf<END>  -F..-t?!..-f-g-eilaxcf<END>        afilaxcf<END>        d)asilaxcf<END>ayaS    <5><d>    Chrca-a-<END>bwaS    <5><d>    Chrca-a-<END>geedaS  <5><d>    Chrca-a-<END>nijoaS  <5><d>    Chrca-a-<END>ojib{99}{100}  <5><d>    Chrca-a-<END>cx -AgIce{119}{120}Ice W{109}{110}<END>q,      <5><d>    Chrca-a-<END>  <END>EiFlcagla-a-<END> | next 02020000
+062d36  981 Herb<END>Salve <END>Ointment<END>Infusion<END>MegaHerb<END>Sake<END>Good Sake <END>Fine Sake <END>Great Sake<END>MegaSake<END>Slash Scroll<END>Bust Scroll <END>Yasha Scroll<END>Smoke Bomb<END>Antidote<END>SmellingSalt<END>Stimulant <END>Blessing<END>Panacea <END>{81}{82}Dust<END>{83}{84}Dust<END>{85}{86}Dust<END>{87}{88}Dust<END>IceDust<END>{91}{92}Dust<END>Wizard Kit<END>SorceryKit<END>Seer Gem<END>Storm Call<END>Needle<END>Curse Lance <END>Lead Lance<END>Shock Dust<END>Caltrop <END>- <END>- <END>- <END>- <END>- <END>- <END>- <END>- <END>- <END>- <END>- <END>- <END>- <END>- <END>Repellent <END>Spirit Tab<END>Life Tab<END>Speed Tab <END>Power Tab <END>Boiled Egg<END>Takoyaki<END>Izumo Soba<END>Banana<END>HairCrab<END>Atlas'Tear<END>Escargot<END>Muu's Mallet<END>Cloth <END>Fire Cloth<END>Pure Cloth<END>Storm Cloth <END>Gale Cloth<END>Snow Cloth<END>Chain Kimono<END>Lotus Kimono<END>Pure Kimono <END>Dark Kimono <END>Storm Kimono<END>Wind Kimono <END>Star Mail <END>Dark Mail <END>Thunder Mail<END>Ice Mail<END>Heavy Mail<END>Wind Mail <END>Ahau Hide <END>- <END>- <END>- <END>- <END>- <END>- <END>- <END>- <END>- <END>- <END>- <END>- <END>- <END>Cloth Glove <END>Hide Glove<END>Print Glove <END>Metal Glove <END>PhoenixGlove<END>Dragon Glove<END>Spirit Glove<END>Flight Glove<END>Copper Brace<END>Silver Brace<END>Gold Brace<END>CrystalBrace<END>Meteor Brace<END>Heat Brace<END>Slash Brace <END>Divine Brace<END>- <END>- <END>- <END>- <END>- <END>- <END>- <END>- <END>- <END>- <END>- <END>- <END>- <END>- <END>- <END>- <END>Sandals <END>Gold Sandals<END>Wind Sandals<END>StormSandals<END>TigerSandals<END>EarthSandals<END>EagleSandals<END>Evil Sandals<END>Boots <END>LeatherBoots<END>TitaniumBoot<END>Metal Boots <END>Heavy Boots <END>Elf Boots <END>Omega Boots <END>Last Boots<END>Cotton{181}{182}{183}{184}{185}{186}<END>Quilt {181}{182}{183}{184}{185}{186}<END>Silken{181}{182}{183}{184}{185}{186}<END>Garnet{181}{182}{183}{184}{185}{186}<END>Dragon{181}{182}{183}{184}{185}{186}<END>Meteor{181}{182}{183}{184}{185}{186}<END>Cherry{181}{182}{183}{184}{185}{186}<END>- <END>- <END>- <END>- <END>- <END>- <END>- <END>- <END>- <END>Braid <END>Battle Braid<END>Steel Braid <END>Ogre Braid<END>Cord Braid<END>Ribbon<END>Blue Ribbon <END>Red Ribbon<END>Gold Ribbon <END>Holy Ribbon <END>Earrings<END>Thief Ring<END>Throw Ring<END>Pearl Ring<END>Last Ring <END>Necklace<END>Amulet<END>Card<END>Man Makeup<END>SpiderMakeup<END>Fire Makeup <END>Pure Makeup <END>ChangeMakeup<END>Scarf <END>Ring<END>Hairpin <END>Rosary<END>Soul Stone<END>Talisman<END>Crest <END>- <END>- <END>- <END>- <END>- <END>- <END>- <END>- <END>- <END>- <END>- <END>- <END>- <END>- <END>- <END>- <END>- <END>- <END>- <END>- <END>- <END>- <END>- <END>- <END>- <END>- remove -<END>None<END><END>- <END>- <END>- <END>- <END>- remove -<END>None<END> | next 00120000
+0634f2   40 Inn     <END>Items   <END>Smithy  <END>Foods   <END>Drugs   <END>Gifts   <END>Armory  <END>Smithy<END><END> | next 02020000
+063744 1961 Heal 400 HP /1 char <END>Heal 800 HP /1 char <END>Heal 1200 HP /1 char<END>Heal all HP /1 char <END>Heal HP / All chars <END>Heal 400 SP /1 char <END>Heal 800 SP /1 char <END>Heal 1200 SP /1 char<END>Heal all SP /1 char <END>Heal SP / All chars <END>ATK up /1 char<0>Combat use only!<END>DEF up /1 char<0>Combat use only!<END>EVD up /1 char<0>Combat use only!<END>Escape combat <0>Combat use only!<END>Cure Poison /1 char <END>Cure Confusion /1 char<0>Combat use only!<END>Cure Dizzy /1 char<0>Combat use only!<END>Cure Curse /1 char<0>Combat use only!<END>Cure status ailments/1 char <END>Give element: {81}{82}/1 char <0>Combat use only!<END>Give element: {83}{84}/1 char <0>Combat use only!<END>Give element: {85}{86}/1 char <0>Combat use only!<END>Give element: {87}{88}/1 char <0>Combat use only!<END>Give element: Ice/1 char <0>Combat use only!<END>Give element: {91}{92}/1 char <0>Combat use only!<END>Revive from KO (S) /1 char<0>Combat use only!<END>Revive from KO (L) /1 char<0>Combat use only!<END>View enemy stats<END>?? /1 char<0>Combat use only!<END>Inflict Dizzy on foe<0>Combat use only!<END>Inflict Curse on foe<0>Combat use only!<END>Lower enemy SPD <0>Combat use only!<END>Lower enemy DEF <0>Combat use only!<END>Lower all foes' DEF <0>Combat use only!<END>None<END>None<END>None<END>None<END>None<END>None<END>None<END>None<END>None<END>None<END>None<END>None<END>None<END>None<END>Lower encounter rate<END>Increase Max SP /1 char <END>Increase Max HP /1 char <END>Increase SPD /1 char<END>Increase strength /1 char <END>Heal HP <END>Heal HP <END>Heal HP <END>Heal HP <END>??<END>??<END>Heal HP...? <END>A strange hammer<END>DEF  +1     Elmt: {79}{80}<END>DEF  +2     Elmt: {81}{82}<END>DEF  +4     Elmt: Ice<END>DEF  +6     Elmt: {87}{88}<END>DEF  +8     Elmt: {85}{86}<END>DEF  +10    Elmt: {83}{84}<END>DEF  +1     Elmt: {79}{80}<END>DEF  +2     Elmt: {81}{82}<END>DEF  +4     Elmt: Ice<END>DEF  +6     Elmt: {91}{92}<END>DEF  +8     Elmt: {87}{88}<END>DEF  +10    Elmt: {85}{86}<END>DEF  +14    Elmt: Ice<END>DEF  +14    Elmt: {91}{92}<END>DEF  +15    Elmt: {87}{88}<END>DEF  +14    Elmt: {83}{84}<END>DEF  +15    Elmt: {79}{80}<END>DEF  +15    Elmt: {85}{86}<END>DEF  +15    Elmt: {81}{82}<END>None          <END>None          <END>None          <END>None          <END>None          <END>None          <END>None          <END>None          <END>None          <END>None          <END>None          <END>None          <END>None          <END>DEF  +1 <END>DEF  +2 <END>ATK  +5     DEF  +3 <END>ATK  +5     DEF  +4 <END>ATK  +5     DEF  +5 <END>ATK  +10    DEF  +6 <END>ATK  +10    DEF  +7 <END>ATK  +10    DEF  +8 <END>DEF  +3 <END>DEF  +4 <END>DEF  +5 <END>DEF  +6 <END>DEF  +7 <END>DEF  +8 <END>ATK  +10    DEF  +9 <END>ATK  +10    DEF  +10  <END>None<END>None<END>None          <END>None          <END>None          <END>None          <END>None          <END>None          <END>None          <END>None<END>None<END>None<END>None<END>None<END>None<END>None<END>DEF  +3 <END>DEF  +4 <END>DEF  +5 <END>DEF  +6     EVD  +1 <END>DEF  +7     EVD  +1 <END>DEF  +8     EVD  +2 <END>DEF  +9     EVD  +2 <END>DEF  +10    EVD  +3 <END>DEF  +3 <END>DEF  +4 <END>DEF  +5 <END>DEF  +6     EVD  +1 <END>DEF  +7     EVD  +1 <END>DEF  +8     EVD  +2 <END>DEF  +9     EVD  +2 <END>DEF  +10    EVD  +3 <END>DEF  +1     EVD  +1 <END>DEF  +2     EVD  +1 <END>DEF  +3     EVD  +1 <END>DEF  +4     EVD  +2 <END>DEF  +5     EVD  +2 <END>DEF  +6     EVD  +3 <END>DEF  +7     EVD  +3 <END>None<END>None<END>None<END>None<END>None<END>None<END>None<END>None<END>None<END>Raise ATK by 1<END>Raise ATK by 2<END>Raise ATK by 3<END>Raise ATK by 4<END>Raise ATK by 5<END>Raise ATK by 1<END>Raise ATK by 2<END>Raise ATK by 3<END>Raise ATK by 4<END>Raise ATK by 5<END>Raise EVD by 1<END>Raise EVD by 2<END>Raise EVD by 3<END>Raise EVD by 4<END>Raise EVD by 5<END>Raise ATK by 1<END>Raise DEF by 1<END>Raise EVD by 1<END>Raise DEF by 1<END>Raise DEF by 2<END>Raise DEF by 3<END>Raise DEF by 4<END>Raise DEF by 5<END>Protect against Poison<END>Raise ATK by 5<END>Protect against Dizzy <END>Raise DEF by 5<END>Prevents status ailments<END>Protect against Curse <END>Protect against Confusion <END>None<END>None<END>None<END>None<END>None<END>None<END>None<END>None<END>None<END>None<END>None<END>None<END>None<END>None<END>None<END>None<END>None<END>None<END>None<END>None<END>None<END>None<END>None<END>None<END>None<END>None<END>None<END>None<END>None<END>None<END>None<END>None<END>None<END>None<END>None<END>None<END>None<END>None<END>None<END>None<END>None<END>None<END>None<END>None<END>None<END>None<END>None<END>None<END>None<END>None<END>None<END>None<END>None<END>None<END>None<END>None<END>None<END>None<END>None<END>None<END>None<END>None<END>None<END>None<END>None<END>None<END>None<END>None<END>None<END>None<END>None<END>None<END>None<END>None<END><END><END> | next 5106083c
+06b7a2    3 el<8><1> | next dc222318
+06b7aa    3 el<8><1> | next deb22318
+06b7b2    3 el<8><1> | next e0c62318
+06b7ba    3 el<8><1> | next e3342318
+06b7c2    3 el<8><1> | next e5bc2318
+06b7ca    3 el<8><1> | next f0022318
+06b7d2    3 el<8><1> | next f1ca2318
+06b7da    3 el<8><1> | next f6542318
+06b7e2    3 el<8><1> | next fb2c0006
+06ce80    6 txtxtxtxtxtx | next 4e4f4e4f
+06cf04    4 ztztyu<3> | next 0303030a
+06cf58    4   <0><0><0> | next 002f2f30
+06d040    3 j-j.   | next 3009300d
+06f170   21 70jojojojojojoJo70jojojojojojojojo<0><0><0><0> | next 11110000
+06f47a    4 txtxYu<1> | next 02030405
+070d9c    3 c <0><0> | next 18a018d0
+070e0e    8 {119}{120} S!!(e+ 18Agb? | next 03800390
+070e22    4 cvd'Die  | next 1cb02320
+070e6a   13 ewewewewewa'ewewewewewew<a> | next 0e0c0a0c
+072014 3194 Flower Pin<END>Shrine Rope <END>Temple Key<END>Mary Statue <END>Amakusa's Cross <END>Corundum<END>Hakone Pass <END>Secret Pass <END>National Pass <END>Wife's Ring <END>Hair of Time<END>Nicotine's Letter <END>Rockslide Soap<END>Gold Bell <END>Invitation<END>Xianbara Shield <END>Golden Banana <END>Muu's Key <END>Corday Heirloom <END>Gold Apple<END>Silver Bell <END>Bell<END>Silver Bell <END>Evil Talisman <END>Meat Bun<END>A hairpin that Kei left <0>with the dollmaker<END>A sacred shrine rope of <0>great binding power <END>A pass key for a shrine <0>said to be in Aso <END>An idol of Lady Toki, <0>revered by the villagers<END>A crucifix once worn by <0>Amakusa, long ago <END>A mineral needed by the <0>smithy in Ise <END>Enables passage through <0>Hakone gate <END>Pass from the shogunate <0>and given by Yagyu house<END>A pass needed for travel<0>throughout the nation <END>A ring which Sieger gave<0>to his beloved wife <END>Use at the Noh theater<0>and beat me!   Yoshikuni<END>An invitation to Izumo<0>from Nicotine <END>Allows one to move rocks<0>with ease <END>One of two bells Reon <0>uses to seal away evil<END>Invitation from Queen <0>Antoinette to a ball<END>A shield said to be able<0>to reflect evil energy<END>An offering to the great<0>Quetzalcoatl<END>Key to open the path<0>sealed by the Muu <END>Heirloom of the Cordays,<0>stolen by Earthquake<END>A strange fruit, sought <0>by the holy man <END>One of two bells Reon <0>uses to seal away evil<END>Bronze bell imbued with <0>power to destroy evil <END>A bell once used by Hion<0>for the ultimate prayer <END>Talisman to destroy evil<0>barriers<END>A very popular side dish<0>in Peking <END>Versus Input<END>Menu Select <END>Cyclone Slash <END>Crescent Moon Slash <END>Sake Strike <END>Earthquake Slash<END>Violent Cyclone Slash <END>Cyclone Wave<END>Gale Crescent Moon Slash<END>Strike Slash<END>Imperial Horror Slash <END>Divine Cyclone Slash<END>Detonation Slash<END>Imperial God Sealing Slash<END>Choose a save file<END>No save file available! <END>Imperial Void Slash <END>Imperial Radiance Slash <END>Imperial Skyrender Slash<END>Imperial Negation Slash <END>Plasma Blade<END>Plasma Crossblade <END>Plasma Factor <END>Strike Heads<END>Replica Attack<END>Shadow Copy <END>Backstab<END>Rush Dog<END>Shotgun Dog <END>Replica Dog <END>Machine Gun Dog <END>Mega Strike Dog <END>Lightning Wave<END>Is this okay? <END>Plasma Drive<END>Double Megastrike Heads <END>Double Gigastrike Heads <END>Double Terastrike Heads <END>Spirit Dance<END>Victory Blade <END>Divine Spirit Dance <END>Spirit Lullaby<END>Guardian Woods<END>Guardian Forest <END>Fire Hawk <END>Spirit Blade<END>Centered Spirit Blade <END>Furious Hawk Dance<END>Spirit Pride<END>Lightning Fang<END>Flash Fang<END>Flying Fang <END>Windrider Spirit<END>Shining Wind Fang <END>Shining Sky Fang<END>Shining Spirit Fang <END>Heat Haze <END>Narrow Heat Haze<END>Wild Heat Haze<END>Haze Blade -Flash-<END>Haze Blade -Light-<END>Haze Blade -Mist- <END>Snowfall Slash Fake <END>Snowfall Slash<END>Swallow Swipe <END>Twin Swallow Swipe<END>Swallow Six Strike<END>Chill Wind<END>Load<END> which file?<END>Dream of Ruination<END>Clear Mind Remnant Strike <END>Clear Mind Afterglow Mist <END>Clear Mind Dark Eaglewood <END>Cherry Blossom Slash<END>Wild Cherry Blossom <END>Three-Point Kill -Fang<END>Three-Point Kill -Horn<END>Three-Point Kill -Phosphor<END>Crimson <END>Scarlet Cherry Kill <END>Death of 100 Demons <END>Droplet <END>Lightwing Edge<END>Twin Heavens Death<END>Three Heavens Death <END>File 1<END>File 2<END>Grudge Blade<END>Five Lights <END>Reverse Five Lights <END>Demon Five Lights <END>Leaping Claw<END>Wing Strike <END>Wing Cloud<END>Pak Pak Skull <END>Pak Pak Spin<END>Pak Pak Fire<END>Eat Something <END>Eat a Lot <END>Glorious Singing<END>Amazing Peace <END>Little Fight<END><END>Use on whom?<END>Looping Horn<END>Weapon Charge <END>Metamo Animal Attack<END>Metamo Gigas Attack <END>Spin Edge Slash <END>Spin Edge Rending Slash <END>Spin Edge Coiling Slash <END>Soaring Destruction Slash <END>Soaring Kingfisher Slash<END>Soaring Spectrum Slash<END>Soaring Earthrender Slash <END>Wind Dance -Seagull-<END>Wind Dance -Falcon- <END>Wind Edge- Mist Flight<END>Wind Edge- Mist Array <END>Wind Edge- Shroud <END>Wind Edge- Mass Shroud<END>- No data - <END>Wind Erosion<END>Phoenix Rebirth Slash <END>Dragon God Rebirth Slash<END>Avatar Rebirth Slash<END>Splash Fount<END>Mirage Fount<END>Power Gradation <END>Mistral Gradation <END>Ascending Sky <END>Tri Slash <END>Noble Slash <END>Pure Slash<END>Final Square<END>5 <END>4 <END>3 <END>2 <END>1 <END>Angel Defense <END>Gust Gradation<END>Splendor Gradation<END>Splash Gradation<END>Ice Fountain<END>Spirit Mirror <END>Freezing Strength <END>Blizzard Lance<END>Long Blizzard Lance <END>Freezing Bow<END>Ice Rock<END>Ice Pillar<END>Ice Flower<END>Ice Flower Swarm<END>Sky Prayer<END>Earth Prayer<END>Flowing Water <END>Flowing Sea <END>Ice Rain<END>Freezing Wind Knife <END>Freezing Sky Knife<END>Freezing Spirit Knife <END>Kyoshiro Banquet Dance<END>Hell Toad <END>Giant Hell Toad <END>Blazing Dance <END>Blazing Dance Party <END>Spinning Dance Daybreak <END>Spinning Dance New Moon <END>Dance of Flesh and Blood<END>Leaping Lion Tail <END>Mad Leaping Lion Tail <END>Make your choice. <END>Input Method<END>Yes     No<END>Choose option.<END>Ferocious Lion Party<END>Orochi Dance<END>Kirin Dance <END>Ogre Dance<END>Ring Spirit Resonance <END>Ambition Daylight Form<END>Earth and Sky Wizard Form <END>Death and Rebirth <END>Ravenous Divinity <END>Sympathetic Divinity<END>Rending Divinity<END>Demonic Halo<END><END>{162}{163}{164}{165}{166}{167}{168}{169}{170}{171}{78} <END>{172}{173}{77}{174}{175}{76}{176}{177}{178}{179}{180}{78}<END>Spin Edge Windsplitter<END>Spin Edge Wind Rupture<END>Spin Edge Wind Coiler <END>Soaring Reed Cut<END>Kingfisher Feather Dance<END>Flying Spectrum Edge<END>Flying Calmbreaker<END>Wind Dance -Seagull-<END>Wind Dance -Falcon- <END>Wind Edge Mist Push <END>Wind Edge Honorable Mist<END>Wind Edge Dark Frost<END>Wind Edge Dizzying Feather<END>Saves <END>Loc.  <END>Cancel<END>Chapter Select<END>- Empty! -<END>ATK Elem<END>DEF Elem<END>{79}{80}<END>{81}{82}<END>{83}{84}<END>{85}{86}<END>{87}{88}<END>Ice<END>{91}{92}<END>Current <END>Equipped: <END>Unequip <END>Can't equip <END>- <END>Level <0>        <END>Fighter <END>Soldier <END>Warrior <END>Master<END>Change whose equipment? <END>ATK     DEF     EVD     Elmt<END>Attack 1 foe<END>Attack 1 foe + Confuse<END>{93}{94}{95}{96}{97}{98}{99}{100}1 foe <END>{93}{94}{95}{96}{97}{98}{99}{100}1 foe + Confuse <END>{93}{94}{95}{96}{97}{98}{99}{100}1 foe + Dizzy <END>{93}{94}{95}{96}{97}{98}{99}{100}1 foe + SP drain<END>{93}{94}{95}{96}{97}{98}{99}{100}1 foe + Curse <END>{93}{94}{95}{96}{97}{98}{99}{100}1 foe + Slowdown<END>Attack 2 foes + Confuse <END>{93}{94}{95}{96}{97}{98}{99}{100}2 foes<END>{93}{94}{95}{96}{97}{98}{99}{100}2 foes + Dizzy<END>Unblockable on 2 foes <END>Attacks all foes<END>Attack all + Confuse<END>{93}{94}{95}{96}{97}{98}{99}{100}on all foes <END>{93}{94}{95}{96}{97}{98}{99}{100}on all + Dizzy<END>Unblockable on all foes <END>Attack all in a line<END>{93}{94}{95}{96}{97}{98}{99}{100}all in a line <END>Two-slash attack<END>Three-slash attack<END>Heal 1 ally <END>Heal 1 ally - 1 <END>Heal 1 ally - 2 <END>Raise 1 ally's SPD<END>Raise 1 ally's EVD<END>Raise 1 ally's DEF<END>Heal all allies <END>Heal all allies - 1 <END>Heal all allies - 2 <END>Heal self <END>Raise own ATK <END>Become harder to hit<END>Single powerful attack<END>Attack in a circle<END>Ultimate technique<END>Desperation Move- Form 1<END>Desperation Move- Form 2<END>Desperation Move- Final <END>l <END>Final <END>nal <END>own ATK <END>Become harder to hit<END>Single powerful attack<END>Attack in a circle<END>Ultimate technique<END> | next 00400000
+073948  194 Kamuy Kotan <END>Kamuy Port<END>Greenhell <END>Old Scholar <END>Kokain<END>Edo South <END>Oshino<END>Mt. Fuji<END>Edo North <END>Ise <END>Anjou <END>Osaka <END>Kurusu<END>Sky Castle<END>Izumo <END>Beppu <END>Mt. Aso <END>Aso Core<END>Tiananmen <END>Paris <END>Palace Garden <END>San Francisco <END>Ise Past<END>Kyo South <END>Kyo North <END>Osorezan<END>Osorezan Past <END>Ise Shrine<END>Mutsu Road<END>Silk Road Gate<END>Dark Shrine <END>rk Shrine <END>?)-d. (b.Sj dwaa<END>c,i?ATcxaa<END> | next 44534b21
+074686    3   <END>{234}{235} | next 2025ffff
+07489a    5   <END>  <END><END> | next 2011ffff
+074932    3 {214}{215}<END><END> | next 201a281a
+07493e   21 {214}{215}<END><END><END><END><END><END><END><END><END><END><END><END><END><END><END><END><END><END><END><END> | next 201e281e
+07496e   11 {222}{223}<END><END><END><END><END><END><END><END><END><END> | next 20e328e3
+0749d2   17 {234}{235}<END>{234}{235}<END>{234}{235}<END>{234}{235}<END>{234}{235}<END>{234}{235}<END>{234}{235}<END>{234}{235}<END>{234}{235} | next 2025ffff
+074a1e   18 {241} <END><END><END><END><END><END><END><END><END><END><END><END><END><END><END><END><END> | next 282bffff
+074b18  242  /<END> (<END> /<END> +<END> +<END> +<END> +<END> +<END> (<END> (<END> (<END> (<END> (<END> (<END> A<END> (<END> /<END> /<END> /<END> /<END> /<END> /<END> /<END> /<END> /<END> (<END> /<END> +<END> +<END> +<END> +<END> +<END> (<END> (<END> (<END> (<END> (<END> (<END> A<END> (<END> /<END> /<END> /<END> /<END> /<END> /<END> /<END> /<END> /<END> (<END> /<END> +<END> +<END> +<END> +<END> +<END> (<END> (<END> (<END> (<END> (<END> (<END> A<END> (<END> /<END> /<END> /<END> /<END> /<END> /<END> /<END> /<END> /<END> (<END> /<END> +<END> +<END> +<END> +<END> +<END> (<END> (<END> (<END> (<END> (<END> (<END> A<END> (<END> /<END> /<END> /<END> /<END> /<END> /<END> /<END> /<END> /<END> (<END> /<END> +<END> +<END> +<END> +<END> +<END> (<END> (<END> (<END> (<END> (<END> (<END> A<END> (<END> /<END> /<END> /<END> /<END> /<END> /<END> /<END> /<END> /<END> | next 06120612
+077c2e   54 {119}{120}<END> C<END> K<END> S t<END><END><END><END>!!<END>.H<END>'e'F<END><END>(I<END>(s<END>+  .<END><END>60<END>AgagAoaoAvavBibjBu<END>c caAoao<END><END>'e'FDi<END>dv<END><END><END> | next 6010ffff
+077f2e  172  K<END> K<END> K<END> K<END> K<END> K<END> K<END> K<END> S t S t S t S t S t S t S t S t<END><END><END><END><END><END><END><END><END><END><END><END><END><END><END><END><END><END><END><END>'e'F'e'F'e'F'e'F'e'F'e'F'e'F'e'F'e'F<END><END><END><END><END><END><END><END><END><END><END><END>+  .+  .+  .+  .+  .+  .+  .+  .+  .+  .AvavAvavAvavAg<END>AgagAoaoAoaoAoaoBibjAg<END>Ag<END>Ag<END>AgagBibjc cac cac cac cac cac cac cac cac cac caBu<END>Bu<END>Bu<END><END><END><END><END>'e'F S t<END><END><END><END><END><END><END><END> | next 21202121
+07808a   42 c caAvav<END><END> K l S tAg<END>AgagAg<END>AoaoAoaoAoaoAoaoBibjBibjBibjBibjBibjBibj S tAoaoAoao | next 00150000

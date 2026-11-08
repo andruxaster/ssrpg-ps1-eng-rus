@@ -1,0 +1,3203 @@
+[
+{
+"id": 1980,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"For the people...?"
+],
+"jp": "民衆のため・・・・？",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Договорились!"
+}
+]
+},
+{
+"id": 1981,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Demons are trying to take root in this country.",
+"If this goes on, France will rot from the top down!"
+],
+"jp": "この国に魔物が 根を張ろうとしているのだ / このままではフランスは 上から腐ってしまう！",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Договорились!"
+}
+]
+},
+{
+"id": 1982,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"But the people living in Paris, and the farmers who grow our food...",
+"They matter just as much..."
+],
+"jp": "しかし、パリで生活している大衆や 食料を作ってくれている農民たちも / 同じように大事なのだ・・・",
+"choice": null,
+"context": [
+{
+"ru": "Договорились!"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 1983,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Only when every citizen is happy",
+"will the Queen truly be happy."
+],
+"jp": "国民みんなが幸せになって / 初めて王妃様は 幸せにおなりになるのだよ",
+"choice": null,
+"context": [
+{
+"ru": "Договорились!"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 1984,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Everyone... happy?"
+],
+"jp": "みんなが・・・・幸せに？",
+"choice": null,
+"context": [
+{
+"ru": "Договорились!"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 1985,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"That's right... everyone."
+],
+"jp": "そうだ・・・みんなだ",
+"choice": null,
+"context": [
+{
+"ru": "Договорились!"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 1986,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"That is why I go to fight."
+],
+"jp": "だから、私は戦いに行くのだ",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1987,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"I understand, sister!",
+"You're fighting to protect everyone in France!"
+],
+"jp": "分かりました、姉さま！ / 姉さまはフランスのみんなを 守るために戦われるのですね！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1988,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Wow, that's amazing! For everyone!"
+],
+"jp": "すごい、すごいや！ みんなのためかぁ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1989,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Darn, if only I were a little bigger and stronger,",
+"I could help you, sister..."
+],
+"jp": "ちぇ、ぼくがもう少し 大きくて強ければ / 姉さまのお手伝いが できたのに・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1990,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Hehehe... What are you saying, Kardan?"
+],
+"jp": "フフフ・・・ 何を言う、カルダン",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1991,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"It's because you'll protect the house as the eldest son of the Corday family",
+"that I can go off to battle with peace of mind!"
+],
+"jp": "お前がコルデ家の長男として 家を守ってくれるからこそ / 私は安心して 戦いに出ることができるのだぞ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1992,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"So I'll guard the house while you're away, sister!"
+],
+"jp": "ぼくが、ぼくが姉さまの 留守を守るんですね！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1993,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"That's right... Kardan."
+],
+"jp": "そうだ・・・カルダン",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1994,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"You really are a good boy.",
+"You're my pride and joy, little brother..."
+],
+"jp": "お前はほんとうにいい子だ / 私の自慢の弟だ・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1995,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Sister, you're the one I'm proudest of!",
+"There are lots of women who are just pretty,",
+"but nobody else is as strong and beautiful as you!"
+],
+"jp": "姉さまこそ ぼくの一番の自慢です！ / きれいなだけの女の人は たくさんいるけど / 姉さまのように強くてきれいな人は 他にいません！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1996,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Hehehe...",
+"Maybe that's why no one will marry me."
+],
+"jp": "ふふふ・・・ / だから嫁のもらい手が ないのかもしれないけど",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1997,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"...If only I were older,",
+"I'd propose to you myself, sister!"
+],
+"jp": "・・・もっと大きかったら / ぼくが姉さまに プロポーズするのになぁ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1998,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"...Merci... Kardan."
+],
+"jp": "・・・メルシィ・・・ カルダン",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1999,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Well then, I'm off."
+],
+"jp": "それでは行って来る",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2000,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Take care of Father and Mother for me.",
+"And be sure to listen to Belmont."
+],
+"jp": "父上と母上をよろしく頼む / ベルモントの言うことを ちゃんと聞くのだぞ",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2001,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Yes, sister!",
+"I'll be good, so come home soon!"
+],
+"jp": "はい、姉さま！ / いい子にしているから 早く帰ってきて下さいね！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2002,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"If anything happens, send a letter with Pierre, as always!"
+],
+"jp": "何かあったらいつものように ピエールに手紙を持たせるんだぞ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2003,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Yes, sister!"
+],
+"jp": "はい、姉さま！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2004,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Balman, take care of Kardan!"
+],
+"jp": "バルマン カルダンを頼むぞ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2005,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Woof... woof!"
+],
+"jp": "ばう・・・ばう！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2006,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"The people... look after the people... Listen to what they say...",
+"Be a good lord..."
+],
+"jp": "領民を・・・領民を頼む・・・ みんなの話に耳をかたむけて・・・ / 良い領主に・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2007,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Sister... I understand. For everyone...",
+"So that everyone can be happy..."
+],
+"jp": "姉さま・・・分かりました みんなのために・・・ / みんなが幸せになれるように・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2008,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"But... okay..."
+],
+"jp": "でも・・・ うん・・・",
+"choice": null,
+"context": [
+{
+"ru": "Накоруру, я пойду с тобой!"
+},
+{
+"ru": "Нет, Римуруру... ты останешься с бабушкой. Пойми меня, прошу..."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 2009,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"I'm off!"
+],
+"jp": "行って来るわね！",
+"choice": null,
+"context": [
+{
+"ru": "Накоруру, я пойду с тобой!"
+},
+{
+"ru": "Нет, Римуруру... ты останешься с бабушкой. Пойми меня, прошу..."
+},
+{
+"self": true
+},
+{
+"ru": "Сикуру?"
+}
+]
+},
+{
+"id": 2010,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"I'm glad Rimururu understood...",
+"Once she sets her mind on something, she won't listen."
+],
+"jp": "リムルルが分かってくれて 助かったわ・・・ / あの子は言い出したら 聞かないところがあるから",
+"choice": null,
+"context": [
+{
+"ru": "Накоруру, я пойду с тобой!"
+},
+{
+"ru": "Нет, Римуруру... ты останешься с бабушкой. Пойми меня, прошу..."
+},
+{
+"self": true
+},
+{
+"ru": "Сикуру?"
+}
+]
+},
+{
+"id": 2011,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Now, I'd better hurry to the port of Kamuy."
+],
+"jp": "さあ、カムイの港に 急がなくっちゃ",
+"choice": null,
+"context": [
+{
+"ru": "Нет, Римуруру... ты останешься с бабушкой. Пойми меня, прошу..."
+},
+{
+"self": true
+},
+{
+"ru": "Сикуру?"
+}
+]
+},
+{
+"id": 2012,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Hmph! You're the one who won't listen once you've decided, sis!"
+],
+"jp": "何よ、言い出したら聞かないのは 姉さんの方じゃない！",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Сикуру?"
+}
+]
+},
+{
+"id": 2013,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Please, Shikuruu! Take me to the port of Kamuy!",
+"I want to get there before sis! Please?"
+],
+"jp": "お願い、シクルゥ！ 私をカムイの港まで連れていって！ / 姉さんより早く行きたいの！ ね、お願い！",
+"choice": null,
+"context": [
+{
+"ru": "Сикуру?"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 2014,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Pretty please! Come on, Shikuruu, we're friends, aren't we?"
+],
+"jp": "どうしてもお願い！ ね、シクルゥ、友達じゃない！",
+"choice": null,
+"context": [
+{
+"ru": "Сикуру?"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 2015,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Oh, fine then!",
+"See if I care! No more snacks for you!",
+"And just so you know, I'm in charge of snacks while sis is away!"
+],
+"jp": "あーっそう！ / いいわよーだ！ もうおやつはあげないからね！ / 言っとくけど姉さんのいない間は おやつ係はあたしなんだから！",
+"choice": null,
+"context": [
+{
+"ru": "Сикуру?"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 2016,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Please! I'm worried about sis...",
+"She always works so hard for everyone,",
+"but she never thinks about herself...",
+"Come on, Shikuruu!"
+],
+"jp": "ね、お願い！ あたし、姉さんが心配なの・・・ / 姉さんはみんなのために がんばっちゃう人だけど / 自分のことは 考えない質だから・・・ / ねぇ、シクルゥったらぁ！",
+"choice": null,
+"context": [
+{
+"ru": "Сикуру?"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 2017,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Yay! Shikuruu, I love you!"
+],
+"jp": "わあっ！ シクルゥ、だぁい好きっ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2018,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Thank you, Shikuruu!",
+"I'll pay you back when I get home, so wait for me!"
+],
+"jp": "ありがとうシクルゥ！ / 帰ったらお礼するから 待っててね！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2019,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Okay then...",
+"Sis shouldn't be here yet..."
+],
+"jp": "さぁて・・・ / 姉さんはまだ 来ていないはずだけど・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2020,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Umm... Teehee, nice weather today, huh?"
+],
+"jp": "あの～っ・・・・ てへへへ、良いお天気ですね",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2021,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"You bet!",
+"I can finally take my ship out, so I'm in a great mood!",
+"You getting on the ship too, little lady?"
+],
+"jp": "おうよ！ / やっとこさ船を出せるようになって 上機嫌よ！ / お嬢ちゃんも、船に乗るのか？",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2022,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"You'll let me on?"
+],
+"jp": "乗せてくれるの？",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2023,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"If you've got a pass and money..."
+],
+"jp": "手形と金があったらな・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2024,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"A pass and money...?"
+],
+"jp": "手形と金・・・？",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2025,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"What... You've got no pass and no money?"
+],
+"jp": "何だ・・・ 手形も金もねぇのか",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2026,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"...Hm?",
+"Say, are you Nakoruru from Kamuy Kotan?"
+],
+"jp": "・・・ん？ / あんた、カムイコタンの ナコルルさんかい？",
+"choice": {
+"question": "Are you Nakoruru?",
+"options": [
+"Yeah!",
+"Nope!"
+]
+},
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2027,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"We've been waiting for you! Let's set sail!"
+],
+"jp": "待ってたぜ！ さっそく出港だ！",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Поднять якорь...!!"
+}
+]
+},
+{
+"id": 2028,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Wait, no, I'm not... Let go of me!"
+],
+"jp": "え、違うの、あたしは・・・ 離してぇ！",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Поднять якорь...!!"
+}
+]
+},
+{
+"id": 2029,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"What are you talking about!",
+"We held off sailing just to wait for you!"
+],
+"jp": "何言ってるんだい！ / あんたを待ってて 出港を遅らせてたんだぜ！",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Поднять якорь...!!"
+}
+]
+},
+{
+"id": 2030,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"But then sis will...",
+"Hey, listen to me!"
+],
+"jp": "でも、これじゃ姉さんが・・・ / ねぇ、聞いてよぉ！",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Поднять якорь...!!"
+},
+{
+"ru": "Вперед, Мамахаха!!"
+}
+]
+},
+{
+"id": 2031,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"No way! I don't want this!"
+],
+"jp": "うっそ！ やだぁ、こんなのぉ！",
+"choice": null,
+"context": [
+{
+"ru": "Поднять якорь...!!"
+},
+{
+"self": true
+},
+{
+"ru": "Вперед, Мамахаха!!"
+}
+]
+},
+{
+"id": 2032,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Sis! Siiiis!"
+],
+"jp": "姉さん、ねえさぁーん！",
+"choice": null,
+"context": [
+{
+"ru": "Поднять якорь...!!"
+},
+{
+"self": true
+},
+{
+"ru": "Вперед, Мамахаха!!"
+},
+{
+"ru": "Да?!"
+}
+]
+},
+{
+"id": 2033,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"...?",
+"Was I just hearing things...",
+"I thought I heard Rimururu's voice..."
+],
+"jp": "・・・？ / 空耳かしら・・・ / リムルルの声が 聞こえたような・・・",
+"choice": null,
+"context": [
+{
+"ru": "Поднять якорь...!!"
+},
+{
+"ru": "Вперед, Мамахаха!!"
+},
+{
+"self": true
+},
+{
+"ru": "Да?!"
+}
+]
+},
+{
+"id": 2034,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Heh, silly me.",
+"I'm still worried about Rimururu after all...",
+"She's not a child anymore. She wouldn't do anything reckless..."
+],
+"jp": "ふふっ、わたしったら / リムルルのことがやっぱり 心配なのね・・・ / あの子ももう子供じゃないんだから 無茶なんてするはずが・・・",
+"choice": null,
+"context": [
+{
+"ru": "Вперед, Мамахаха!!"
+},
+{
+"self": true
+},
+{
+"ru": "Да?!"
+}
+]
+},
+{
+"id": 2035,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Is that... Rimururu?",
+"The ship? The ship is... leaving?",
+"Why? ...Wait!",
+"Waaait!"
+],
+"jp": "あの子・・・リムルル？ / 船が？船が・・・出ていく？ / どうして？ ・・・待って！ / 待ってぇーっ！",
+"choice": null,
+"context": [
+{
+"ru": "Вперед, Мамахаха!!"
+},
+{
+"ru": "Да?!"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 2036,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"And so Nakoruru's trip to Edo was greatly delayed."
+],
+"jp": "こうしてナコルルの江戸行きは 大幅に遅れることになった",
+"choice": null,
+"context": [
+{
+"ru": "Да?!"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 2037,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"The revived Amakusa ravaged Japan as he pleased,",
+"and the Tokugawa shogunate perished in flames.",
+"Japan fell into a demon realm ruled by terror..."
+],
+"jp": "復活した天草は 日本を思うがままに荒らし回り / 徳川幕府は炎の中に滅び去る / 日本は恐怖が支配する魔界へと 堕ちていくのであった・・・",
+"choice": null,
+"context": [
+{
+"ru": "Да?!"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 2038,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Well then...",
+"You're in the way of my work. Scram."
+],
+"jp": "なんだい・・・ / じゃあ仕事の邪魔だ あっちへ行ってな",
+"choice": null,
+"context": [
+{
+"ru": "Да?!"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 2039,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"What work?!",
+"All you do is stand around waiting for customers!",
+"Hmph!"
+],
+"jp": "何よ！　仕事って！！ / ぼ～っと客を 待ってるだけじゃない！ / ふーんだ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2040,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Oh... uh-oh..."
+],
+"jp": "あっ・・・いけない・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2041,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Waaah, the ship's gonna leave at this rate..."
+],
+"jp": "あ～んっ、これじゃあ 船が出ちゃうよぉ・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2042,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"What do I do!"
+],
+"jp": "どうしよう！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2043,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Waaah... It's hopeless..."
+],
+"jp": "あ～ん・・・もうだめだぁ・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2044,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Young lady, crying won't help."
+],
+"jp": "お嬢さん、泣いていてはダメです",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2045,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"This is your last chance! Believe in yourself and go!"
+],
+"jp": "これが最後のチャンス！ 自分を信じて、ゴーです！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2046,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Believe in myself...",
+"Okay, I'll try!"
+],
+"jp": "自分を信じて・・・ / うん、やってみる！",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Спасибо..."
+}
+]
+},
+{
+"id": 2047,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Konru! Lend me your strength!"
+],
+"jp": "コンルっ！　力を貸して！",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Спасибо..."
+}
+]
+},
+{
+"id": 2048,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Hiyaaah!"
+],
+"jp": "えええいっっ！",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Спасибо..."
+}
+]
+},
+{
+"id": 2049,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Bon voyage! I wish you a successful journey!"
+],
+"jp": "ボン・ボヤージュ！ 旅の成功を祈っていますよぉ！",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Спасибо..."
+}
+]
+},
+{
+"id": 2050,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Whew, that was cramped!"
+],
+"jp": "あ～っ、きゅうくつだった！",
+"choice": null,
+"context": [
+{
+"ru": "Спасибо..."
+},
+{
+"self": true
+},
+{
+"ru": "Большое спасибо..."
+}
+]
+},
+{
+"id": 2051,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"I'd better hide before sis finds me..."
+],
+"jp": "姉さんに見つからないうちに 隠れなきゃ・・・",
+"choice": null,
+"context": [
+{
+"ru": "Спасибо..."
+},
+{
+"self": true
+},
+{
+"ru": "Большое спасибо..."
+}
+]
+},
+{
+"id": 2052,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Listen, your stowing away ends here..."
+],
+"jp": "いいですか 密航はここまでです・・・",
+"choice": null,
+"context": [
+{
+"ru": "Спасибо..."
+},
+{
+"self": true
+},
+{
+"ru": "Большое спасибо..."
+}
+]
+},
+{
+"id": 2053,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Now! I have to find Lord Jubei's mansion..."
+],
+"jp": "さあ！　十兵衛様のお屋敷を 探さなくっちゃ・・・",
+"choice": null,
+"context": [
+{
+"ru": "Большое спасибо..."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 2054,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Oh?",
+"Is this the 'Samurai Tavern' Grandfather mentioned...?",
+"Well, let's stop in for a bit."
+],
+"jp": "あら？ / これがおじいさまの言ってた 「侍酒場」かしら・・ / そうね 少し寄っていきましょう",
+"choice": null,
+"context": [
+{
+"ru": "Большое спасибо..."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 2055,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"I hope I can find some reliable companions here."
+],
+"jp": "頼りになる仲間を 見つけられればよいのだけれど",
+"choice": null,
+"context": [
+{
+"ru": "Большое спасибо..."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 2056,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Excuse me... I'm a traveler..."
+],
+"jp": "すみません・・・ 旅のものですが・・・",
+"choice": null,
+"context": [
+{
+"ru": "Большое спасибо..."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 2057,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Hm... Where am I..."
+],
+"jp": "ム・・・ここは・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2058,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"You are awake, Lord Yagyu?"
+],
+"jp": "お目覚めでございますか 柳生様",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2059,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Mm..."
+],
+"jp": "うム・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2060,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Where... where is this place?"
+],
+"jp": "ここは・・・ ここはどこじゃ？",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "...Да, госпожа!"
+}
+]
+},
+{
+"id": 2061,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Kokain Temple, deep in Hida...",
+"The Kokain of Master Nicotine Caffeine."
+],
+"jp": "奥飛騨の枯華院・・・ / 花諷院和狆様の 枯華院でございます",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "...Да, госпожа!"
+}
+]
+},
+{
+"id": 2062,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Hoh... So this is not the underworld after all..."
+],
+"jp": "ほう・・・ということはやはり 冥土ではない・・・",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "...Да, госпожа!"
+}
+]
+},
+{
+"id": 2063,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Nor is it Izumo, then?"
+],
+"jp": "また、出雲でもないのだな？",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "...Да, госпожа!"
+}
+]
+},
+{
+"id": 2064,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Was it Nicotine who moved me here from Izumo?",
+"Or was it you?"
+],
+"jp": "わしを出雲からこちらに 移されたのは和狆殿か？ / それともお手前か？",
+"choice": null,
+"context": [
+{
+"ru": "...Да, госпожа!"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 2065,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"We did so at Master Nicotine's request...",
+"He said you would return, freed from the demon realm, to the fortress in Izumo,",
+"and that we should go and fetch you."
+],
+"jp": "和狆様のご依頼で我々が・・・ / 魔界から解放された柳生様が 出雲の魔神要塞に帰ってこられる故 / お迎えせよ・・・と",
+"choice": null,
+"context": [
+{
+"ru": "...Да, госпожа!"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 2066,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Hmm... So Mizuki has been destroyed?"
+],
+"jp": "ふ・・・む・・・ すると、ミヅキは滅びたのだな？",
+"choice": null,
+"context": [
+{
+"ru": "...Да, госпожа!"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 2067,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Yes, sir..."
+],
+"jp": "ははっ・・・",
+"choice": null,
+"context": [
+{
+"ru": "...Да, госпожа!"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 2068,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Heh heh... I see. It seems those young whelps pulled it off."
+],
+"jp": "ふふ・・・そうか こわっぱめらがやりおったと見える",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2069,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"What has become of Edo?"
+],
+"jp": "江戸はどうなっておる？",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2070,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"It was destroyed by a monster called Ungo,",
+"but thanks to Lord Hattori Hanzo the Shogun escaped,",
+"and set up a temporary shogunate in Nikko."
+],
+"jp": "吽号とか申す化け物に 壊滅させられましたが / 服部半蔵様のご活躍で 将軍様は落ち延び / 日光に仮の幕府を 立てておりました",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2071,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"The Shogun has now returned to Edo, and rebuilding progresses daily."
+],
+"jp": "今では将軍様も江戸にご帰還され 日々復興が進んでおります",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2072,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"I see... Hanzo has had a hard time of it..."
+],
+"jp": "そうか・・・ 半蔵殿にはご苦労なこと・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2073,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Still, it is a blessing it ended no worse.",
+"At worst, every last soul in the land",
+"might have been devoured by demons."
+],
+"jp": "しかしその程度で済んで 何よりじゃったわ / 最悪の場合 日の本に住む民草のことごとくが / 魔物どもに食いつくされる可能性も あったわけじゃからな",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2074,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"...No, first I must say all is well that ends well."
+],
+"jp": "・・・いや、まずはめでたしと 言わねばならぬわい",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2075,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Indeed..."
+],
+"jp": "左様で・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2076,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"...Now it is the humans that worry me.",
+"The Osaka loyalists still stirring about,",
+"and the western lords... I fear they will make mischief..."
+],
+"jp": "・・・こうなるとむしろ 人間どもの方が心配だわ / 未だうごめいておる大阪方の残党や / 西国の外様大名どもが悪さをせぬか 気がかりじゃのう・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2077,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Well, no matter. Given the circumstances,",
+"a little rest now and then won't hurt..."
+],
+"jp": "まあよい、この際じゃ / のんびりするのも たまには良かろう・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2078,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Come to think of it, I'm hungry.",
+"Might I have some rice porridge?"
+],
+"jp": "そう言えば腹が減った / カユなど、いただけぬか？",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2079,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Right away..."
+],
+"jp": "ただいま・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2080,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"How are you feeling now?"
+],
+"jp": "もうお体の具合は？",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2081,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Thanks to you, I feel ten years younger!",
+"Haha, my body moves like never before!"
+],
+"jp": "そなたらのおかげで前よりも １０歳ばかり若うなったわい！ / はは、体のキレが違うわ！",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Дзюбэй? Ягю Дзюбэй, что ли?!"
+}
+]
+},
+{
+"id": 2082,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Is that so...",
+"But you're not fully recovered yet,",
+"so please don't overdo it."
+],
+"jp": "それはそれは・・・ / しかし、まだ本調子では ありませんから / ご無理はなさらないで 下さいね",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Дзюбэй? Ягю Дзюбэй, что ли?!"
+}
+]
+},
+{
+"id": 2083,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Heh heh... My sword moves of its own accord."
+],
+"jp": "ふふ・・・ 剣が勝手に動きよるでな",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Дзюбэй? Ягю Дзюбэй, что ли?!"
+}
+]
+},
+{
+"id": 2084,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Even I cannot stop it!",
+"Hahahaha!"
+],
+"jp": "いかなわしでも止められぬのよ / ふははは！",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Дзюбэй? Ягю Дзюбэй, что ли?!"
+}
+]
+},
+{
+"id": 2085,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"...Returning from the demon realm... What devilish luck you have..."
+],
+"jp": "・・・魔界から復活を果たすとは なんと悪運の強いヤツよ・・・",
+"choice": null,
+"context": [
+{
+"ru": "Дзюбэй? Ягю Дзюбэй, что ли?!"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 2086,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"I, the great Ongokuki, shall take your soul",
+"and devour it once more!"
+],
+"jp": "この御獄鬼（おんごくき）様が 貴様の魂 / 改めて喰いつくしてくれるぞ！",
+"choice": null,
+"context": [
+{
+"ru": "Дзюбэй? Ягю Дзюбэй, что ли?!"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 2087,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"...Kukukuku... Does it hurt? ...Are you afraid...?",
+"Cry!",
+"Wail!",
+"The terrified screams of foolish humans",
+"are the flesh and blood of us demons!"
+],
+"jp": "・・・クククク・・・苦しいか ・・・恐ろしいか・・・ / 泣け！ / わめけ！ / 愚かな人間どもの 恐怖の叫びこそが / 我ら魔族の血肉となるのよ！",
+"choice": null,
+"context": [
+{
+"ru": "Дзюбэй? Ягю Дзюбэй, что ли?!"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 2088,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"...Hey!"
+],
+"jp": "・・・おい！",
+"choice": null,
+"context": [
+{
+"ru": "Дзюбэй? Ягю Дзюбэй, что ли?!"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 2089,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"...Hey, I said hey!"
+],
+"jp": "・・・おいったらおい！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2090,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"...Jubei, are you even listening to me?"
+],
+"jp": "・・・十兵衛 お前、まじめに聞いているのか？",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2091,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Heh heh heh... Perhaps I'm getting old...",
+"I seem to be hearing things..."
+],
+"jp": "ふっふっふっふ・・・ わしも年かのう・・・ / なにやら空耳が 聞こえてくるようじゃが・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2092,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"...Kukukuku",
+"...I see, I see... So great is your fear",
+"that you've lost your hearing...",
+"Very well!"
+],
+"jp": "・・・クククク / ・・・そうかそうか・・・ 恐ろしさのあまり / 耳が聞こえなくなって しまったのだな・・・ / よかろう！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2093,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Gwahahahaha!",
+"Surprised, Jubei?!"
+],
+"jp": "がぁ～はっはっはっは！ / 驚いたか十兵衛！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2094,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Cry!"
+],
+"jp": "泣け！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2095,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Scream!"
+],
+"jp": "叫べ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2096,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Tremble in fear!"
+],
+"jp": "恐怖しろ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2097,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"I'll drink your blood",
+"and offer it to revive Lord Ambrosia!"
+],
+"jp": "貴様の生き血をすすって / アンブロジァ様復活への 供物にしてくれるわ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2098,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Hey! Jubei! Listen to me properly!"
+],
+"jp": "こら！　十兵衛！ 真面目に聞かんかい！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2099,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"...I'm listening."
+],
+"jp": "・・・聞いとるぞ",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2100,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"It seems you finally understand your situation..."
+],
+"jp": "どうやら自分の置かれている立場が 分かったようだな・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2101,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"That's right!"
+],
+"jp": "そうよ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2102,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Now I shall devour your soul,",
+"and with despair that tears your body apart and fear like a bottomless swamp,",
+"you'll go back to the demon realm ruled by darkness!"
+],
+"jp": "お前は今からオレ様に 魂を喰われて / 身を引きちぎられるような絶望と 底なしの沼のような恐怖と共に / 暗黒が支配する魔界へと 逆戻りすることになるのだぁ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2103,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Hahaha!"
+],
+"jp": "はっはっはっ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2104,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Kukuku... So afraid all you can do is laugh...",
+"Isn't that right, Jubei..."
+],
+"jp": "ククク・・・ 恐怖のあまり笑うしかない・・・ / そうだな？ 十兵衛・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2105,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Heh heh... You there, demon. Enough speeches, quite enough.",
+"I'll play with you to pass the time,",
+"so come on, have at me."
+],
+"jp": "ふっふっ・・・そこな魔物よ 口上は十分、もう十分じゃ / 退屈しのぎに 相手してつかわすから / ほれ、かかってこんか",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2106,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Grr... Such bravado..."
+],
+"jp": "ぬぬ・・・強がりを・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2107,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Consider this mercy.",
+"One instant!",
+"In one instant I'll shatter your soul!"
+],
+"jp": "せめてもの情けよ / 一瞬！ / 一瞬で貴様の魂を 砕ききってくれるわ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2108,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Take this, my strongest secret art!"
+],
+"jp": "食らえ、最強奥義！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2109,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Lord Ambrosia! Grant me ultimate power!"
+],
+"jp": "アンブロジァ様！ 我に究極の力を！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2110,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Ooooooooh!"
+],
+"jp": "おおおおおおお！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2111,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Super Rending Demon Claw Fang Blast!",
+"Thunder Blood Wind Formation!"
+],
+"jp": "超裂魔爪牙断爆！ / 雷鳴血風の陣ッ！！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2112,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Gyawawan!"
+],
+"jp": "ぎゃわわん！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2113,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Th-that's cruel! Gyaaah!"
+],
+"jp": "ひ、びでぇ！　ぎへぇぇ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2114,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Lord Yagyu... You could leave the likes of this to us..."
+],
+"jp": "柳生様・・・このような手合いは 私どもにお任せ下されば・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2115,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Hahahaha! It's fine, it's fine! A harmless demon like this..."
+],
+"jp": "はっはっはっは！　よいよい！ このような人畜無害の魔物・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2116,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Come, demon. Finished already? How pathetic..."
+],
+"jp": "これ、魔物よ もう終いか、情けない・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2117,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Gr-grrr... Yagyu is still Yagyu, even rotten...",
+"To think you had such a secret art...",
+"I, Ongokuki, let my guard down."
+],
+"jp": "ぬ、ぬぬぬぬ・・・ さすがは腐っても柳生・・・ / そ、そのような秘奥義が あったとは・・・ / この御獄鬼、油断したわい",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2118,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"You still don't understand. One like you cannot defeat me!"
+],
+"jp": "まだ分からんようじゃのう お主程度ではわしは討てぬぞ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2119,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Huh?"
+],
+"jp": "はあ？",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2120,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"I'm telling you to go catch a wild rabbit and eat that instead."
+],
+"jp": "その辺りの野ウサギでも捕まえて 喰っておれと申しておるのだ",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2121,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Kukuku... Laughable, laughable... Lost your nerve, Jubei?"
+],
+"jp": "ククク・・・笑止笑止・・・ 臆したか十兵衛",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2122,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"The reason I, the great Ongokuki, came all the way from the demon realm...",
+"To kill you and devour your soul. What else could it be?"
+],
+"jp": "この御獄鬼様がわざわざ 魔界から出向いた理由・・・ / 貴様を殺して魂を喰らう それ以外にあるまい？",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2123,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"I'd have liked another option..."
+],
+"jp": "それ以外の選択肢が 欲しかったがのう・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2124,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"This time I won't hold back! Take thiiiis!"
+],
+"jp": "今度はようしゃせぬぞ！ くらええええぃ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2125,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Ultimate Super Rending Demon Claw Fang Fierce Blast Final Chapter!"
+],
+"jp": "絶頂超裂魔爪牙断猛爆最終章！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2126,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Blazing Passion Kill Formation, Third Sword Fang, Starving Wolf Strangler..."
+],
+"jp": "炎情熱殺の陣 三ノ太刀牙・飢狼絞死殺・・・",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Хм-м... очень дорогое на вид кольцо."
+}
+]
+},
+{
+"id": 2127,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Gwah!"
+],
+"jp": "ぐわっ！",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Хм-м... очень дорогое на вид кольцо."
+}
+]
+},
+{
+"id": 2128,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"My, my, what a melodramatic fellow."
+],
+"jp": "やれやれ、大仰なやつよ",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Хм-м... очень дорогое на вид кольцо."
+}
+]
+},
+{
+"id": 2129,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Lord Yagyu, what shall we do with this one..."
+],
+"jp": "柳生様、こやつ いかがいたしましょうか・・・",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Хм-м... очень дорогое на вид кольцо."
+}
+]
+},
+{
+"id": 2130,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Say... why don't you just give up already?"
+],
+"jp": "のう・・・もういい加減に あきらめたらどうじゃ？",
+"choice": null,
+"context": [
+{
+"ru": "Хм-м... очень дорогое на вид кольцо."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 2131,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Kukuku... Begging for your life now?",
+"So the Yagyu sword has finally shown its true colors."
+],
+"jp": "ククク・・・今さら命乞いか？ / 柳生の剣、とうとう馬脚を 現したというわけだな",
+"choice": null,
+"context": [
+{
+"ru": "Хм-м... очень дорогое на вид кольцо."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 2132,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"...My, my. I should have chosen better whom to show mercy."
+],
+"jp": "・・・やれやれ、情けも相手を見て かけるべきじゃったのう",
+"choice": null,
+"context": [
+{
+"ru": "Хм-м... очень дорогое на вид кольцо."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 2133,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Kukuku... Only embers of your life remain.",
+"I hope it lasts until you reach Edo..."
+],
+"jp": "ククク・・・ 貴様の命の残り火もあとわずか / 江戸にたどり着くまで もてばよいが・・・",
+"choice": null,
+"context": [
+{
+"ru": "Хм-м... очень дорогое на вид кольцо."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 2134,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Tremble in fear!",
+"With every step you take, your candle of life",
+"grows shorter, inch by inch..."
+],
+"jp": "恐怖しろ！ / 貴様が一歩を踏み出すたびに 命のろうそく、一寸刻みに / 短くなって・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2135,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Ow!"
+],
+"jp": "あたっ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2136,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"J-Jubei! You! Watch where you're going!",
+"Can't you even follow the rules of the road?!"
+],
+"jp": "じ・・・十兵衛ッ 貴様ッ、気をつけろ！ / 交通ルールも守れんのか、貴様は！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2137,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Wh-what's this?! Y-you wanna fight?!"
+],
+"jp": "な、なんだなんだ！ や、やるのか！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2138,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"All right, bring it on! Behold! My ultimate secret art... Hm?"
+],
+"jp": "ようし、望むところだ！ 見よ！　究極奥義・・・ん？",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2139,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Wh-what? Humans...?"
+],
+"jp": "な・・・なんだぁ？ 人間どもが・・・？",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2140,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"You'd be... Yagyu Jubei, right..."
+],
+"jp": "柳生・・・ 十兵衛さんだねぇ・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2141,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Hm... I am."
+],
+"jp": "ム・・・いかにも",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2142,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Word was you were dead,",
+"but turns out you were alive all along..."
+],
+"jp": "あんたは死んだってことに なってたらしいけど / 実は生きてたんだってね・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2143,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Thing is, there's folks who don't do so well if you're alive...",
+"...that's how it is, see."
+],
+"jp": "なんかさぁ、あんたが生きてたら 良い思いができないお人がいる / ・・・みたいなんだな、これが",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2144,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Assassins hired by the Osaka faction?",
+"Or Mori? ...Shimazu, perhaps?"
+],
+"jp": "大阪方にやとわれた刺客かな？ / それとも毛利？・・・島津か？",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2145,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Come on, that doesn't matter, you know that.",
+"You've made enemies... of everybody."
+],
+"jp": "そんなこたあ、あんた 意味ないじゃん、分かったって / あんた、恨まれてんだよね ・・・みんなに",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2146,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Heh... Fair point.",
+"Indeed, there are too many to count on both hands."
+],
+"jp": "ふふん・・・理屈じゃの / 確かに思い当たる筋が多すぎて 両手の指でも数え切れんわい",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Убирайся отсюда!"
+}
+]
+},
+{
+"id": 2147,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"You're a smart one after all."
+],
+"jp": "やっぱあんた、頭良いわ",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Убирайся отсюда!"
+}
+]
+},
+{
+"id": 2148,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Then you get that it's about time you died, right?"
+],
+"jp": "んじゃ、そろそろ死に時だってのも 分かるよな？",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Убирайся отсюда!"
+}
+]
+},
+{
+"id": 2149,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Heh heh heh... Time for YOU to die!"
+],
+"jp": "フフフ・・・そなたのな！",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Убирайся отсюда!"
+},
+{
+"ru": "Эй, погоди-ка...!!"
+}
+]
+},
+{
+"id": 2150,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Prepare yourself, Jubei!"
+],
+"jp": "十兵衛、覚悟ォ！",
+"choice": null,
+"context": [
+{
+"ru": "Убирайся отсюда!"
+},
+{
+"self": true
+},
+{
+"ru": "Эй, погоди-ка...!!"
+}
+]
+},
+{
+"id": 2151,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Your life is mine!"
+],
+"jp": "お命ちょうだいっ！",
+"choice": null,
+"context": [
+{
+"ru": "Убирайся отсюда!"
+},
+{
+"self": true
+},
+{
+"ru": "Эй, погоди-ка...!!"
+}
+]
+},
+{
+"id": 2152,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Jubei belongs to me, the great Ongokuki..."
+],
+"jp": "十兵衛はこの御獄鬼さまが・・・",
+"choice": null,
+"context": [
+{
+"ru": "Убирайся отсюда!"
+},
+{
+"ru": "Эй, погоди-ка...!!"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 2153,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Ow ow! What're you doing?! Hey!"
+],
+"jp": "いてて！ なにすんだ！　おい！",
+"choice": null,
+"context": [
+{
+"ru": "Эй, погоди-ка...!!"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 2154,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Gwaaah!"
+],
+"jp": "ぐわぁぁぁ！",
+"choice": null,
+"context": [
+{
+"ru": "Эй, погоди-ка...!!"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 2155,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Guoh!"
+],
+"jp": "ぐぉっ！",
+"choice": null,
+"context": [
+{
+"ru": "Эй, погоди-ка...!!"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 2156,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Now then... Perhaps I'll ask your name."
+],
+"jp": "さて・・・ 名でも聞いておこうかのう",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2157,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"You're not as good as the rumors say, Yagyu Jubei.",
+"...Were you busy plucking nose hairs?"
+],
+"jp": "噂ほどではないな、柳生十兵衛 / ・・・ハナ毛でも 抜いておったのか？",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2158,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Heh heh heh... Then let your body test the truth of the rumors."
+],
+"jp": "ふふふ・・・では噂の真実 お手前の体で確かめてもらおう",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2159,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Kukuku... A small fry like you after Jubei's life?",
+"Small as you are, I admire your spirit!"
+],
+"jp": "ククク・・・雑魚の分際で 十兵衛の命を狙うとは / 小物ながら 見上げた心意気だのう！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2160,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"You've been noisy for a while now...",
+"What're you supposed to be?"
+],
+"jp": "さっきから うるさいやつじゃな・・・ / 何だぁ？　貴様？",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Гья-а-а-а-а-а-а!!!!"
+}
+]
+},
+{
+"id": 2161,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Here, he is no match for you.",
+"Stand back, stand back!"
+],
+"jp": "これ、お主にかなう 相手ではないぞ / 下がれ、下がっておれ！",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Гья-а-а-а-а-а-а!!!!"
+}
+]
+},
+{
+"id": 2162,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Your soul, though not as fine as Jubei's,",
+"looks rather tasty...",
+"Be honored to be killed by the great Ongokuki!"
+],
+"jp": "貴様の魂 十兵衛ほどではないにしろ / なかなか美味そうではある・・・ / この御獄鬼様に殺されることを 名誉に思え！",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Гья-а-а-а-а-а-а!!!!"
+}
+]
+},
+{
+"id": 2163,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Final secret art! Vacuum Rending Elemental Destruc..."
+],
+"jp": "最終奥義！ 真空裂破素壊・・・・",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Гья-а-а-а-а-а-а!!!!"
+}
+]
+},
+{
+"id": 2164,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Hmph... Filthy demon scum..."
+],
+"jp": "ふん・・・ 薄汚い魔物風情が・・・",
+"choice": null,
+"context": [
+{
+"ru": "Гья-а-а-а-а-а-а!!!!"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 2165,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"...There was no need to kill him."
+],
+"jp": "・・・何も殺すことは ないであろう",
+"choice": null,
+"context": [
+{
+"ru": "Гья-а-а-а-а-а-а!!!!"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 2166,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Nonsense... The weak die.",
+"Humans and demons alike."
+],
+"jp": "たわごとを・・・ 弱いやつは死ぬ / 人間も魔物も同じことよ",
+"choice": null,
+"context": [
+{
+"ru": "Гья-а-а-а-а-а-а!!!!"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 2167,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"The weak die... I see."
+],
+"jp": "弱いやつは死ぬ・・・か なるほどのう",
+"choice": null,
+"context": [
+{
+"ru": "Гья-а-а-а-а-а-а!!!!"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 2168,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"And now you die too!"
+],
+"jp": "そして貴様も死ねぃ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2169,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Im... impossible... So fast..."
+],
+"jp": "ば・・・ばかな・・・ 速い・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2170,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"...Needless killing debases the soul.",
+"You think you hone your skill, but in truth you lower your worth as a man."
+],
+"jp": "・・・無益な殺生は魂を卑しめる / 技を磨いているようで、その実は 人としての器量を堕としめる",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2171,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"In the end, you may beat the weak, but never overcome the strong...",
+"You can never surpass your limits and keep growing."
+],
+"jp": "結果、弱きには勝てども 強きには克てぬ・・・ / 自らの限界を超えてそれ以上 どこまでも成長することはできん",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2172,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Not understanding that, you are a mere assassin,",
+"and it was your fate to be cut down here."
+],
+"jp": "それが分からぬお主は しょせん一介の刺客止まり / ここで斬り果てるが運命だったのよ",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2173,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Ugh... I regret..."
+],
+"jp": "ク・・・む、無念・・・",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Ты..."
+}
+]
+},
+{
+"id": 2174,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Strangely, I couldn't hate that fellow.",
+"Do demons have something like life, just as men do?"
+],
+"jp": "不思議に憎めぬ やつじゃったのう / 魔物にも人と同じ 生命らしきものがあるのか・・・",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Ты..."
+}
+]
+},
+{
+"id": 2175,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Perhaps devouring souls is, unexpectedly,",
+"an expression of a wish to draw closer",
+"to us who walk the true path of life."
+],
+"jp": "魂を喰らうというのも、存外 / 生命の正道を歩むわしらに 近づきたいという想いの / 現れなのかも知れぬ",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Ты..."
+}
+]
+},
+{
+"id": 2176,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"...Thinking so, I pity him."
+],
+"jp": "・・・そう思うと哀れじゃが",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Ты..."
+}
+]
+},
+{
+"id": 2177,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Might I ask one favor of you..."
+],
+"jp": "一つ、頼まれてくれぬか・・・",
+"choice": null,
+"context": [
+{
+"ru": "Ты..."
+},
+{
+"self": true
+}
+]
+}
+]

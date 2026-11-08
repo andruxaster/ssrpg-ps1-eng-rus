@@ -1,0 +1,2287 @@
+[
+{
+"id": "u0012",
+"en": "Nothing inside. ",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 8,
+"en_tiles": [
+8
+],
+"where": [
+[
+"msgs",
+0
+]
+],
+"n": 1,
+"jp": "・・・中身は<235f>だった・・・"
+},
+{
+"id": "u0013",
+"en": " found  ",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 4,
+"en_tiles": [
+4
+],
+"where": [
+[
+"msgs",
+1
+]
+],
+"n": 1,
+"jp": "は"
+},
+{
+"id": "u0014",
+"en": "! ",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 1,
+"en_tiles": [
+1
+],
+"where": [
+[
+"msgs",
+2
+]
+],
+"n": 1,
+"jp": "を、\n手に入れた！！"
+},
+{
+"id": "u0015",
+"en": "You can't carry any more! ",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 15,
+"en_tiles": [
+13
+],
+"where": [
+[
+"msgs",
+3
+]
+],
+"n": 1,
+"jp": "これ以上もてない！！"
+},
+{
+"id": "u0016",
+"en": "Save? <2>Yes <3>No<3>",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 15,
+"en_tiles": [
+6
+],
+"where": [
+[
+"msgs",
+4
+]
+],
+"n": 1,
+"jp": "�xーブします？<2>はい<3>いいえ<3>"
+},
+{
+"id": "u0017",
+"en": "Oh? Very well, then. We shall \nmeet again. ",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 15,
+"en_tiles": [
+15,
+6
+],
+"where": [
+[
+"msgs",
+5
+]
+],
+"n": 1,
+"jp": "それはそれは・・・　まぁ、また\nお会いすることもあるでしょう"
+},
+{
+"id": "u0018",
+"en": "The road ahead of you is long,\nbut do not lose faith!",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 15,
+"en_tiles": [
+15,
+11
+],
+"where": [
+[
+"msgs",
+6
+]
+],
+"n": 1,
+"jp": "まだまだ先は長いですよ\n勇気を出してレッツゴーです"
+},
+{
+"id": "u0019",
+"en": "Okay, you're all set. Please be safe in your travels. ",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 27,
+"en_tiles": [
+27
+],
+"where": [
+[
+"msgs",
+7
+]
+],
+"n": 1,
+"jp": "はい、」<2746><2471><22a6>・・・と\n安心して旅を売けてください"
+},
+{
+"id": "u0020",
+"en": "Enter?<2>Yes <3>No<3>",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 15,
+"en_tiles": [
+6
+],
+"where": [
+[
+"msgs",
+8
+]
+],
+"n": 1,
+"jp": "入りますか？<2>はい<3>いいえ<3>"
+},
+{
+"id": "u0021",
+"en": "Exit? <2>Yes <3>No<3>",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 15,
+"en_tiles": [
+6
+],
+"where": [
+[
+"msgs",
+9
+]
+],
+"n": 1,
+"jp": "出ますか？<2>はい<3>いいえ<3>"
+},
+{
+"id": "u0022",
+"en": "Got <5><1> EXP\nand <5><2> GP.\n",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 15,
+"en_tiles": [
+4,
+4,
+0
+],
+"where": [
+[
+"msgs",
+10
+]
+],
+"n": 1,
+"jp": "<2545><254c>　<5><1>\n金　　<5><2>　をたた　\n"
+},
+{
+"id": "u0023",
+"en": " Level<5><3>",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 3,
+"en_tiles": [
+3
+],
+"where": [
+[
+"msgs",
+11
+]
+],
+"n": 1,
+"jp": "Ｌ<21f2><5><3>"
+},
+{
+"id": "u0024",
+"en": " Level<5><4>",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 3,
+"en_tiles": [
+3
+],
+"where": [
+[
+"msgs",
+12
+]
+],
+"n": 1,
+"jp": "Ｌ<21f2><5><4>"
+},
+{
+"id": "u0025",
+"en": " Level<5><5>",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 3,
+"en_tiles": [
+3
+],
+"where": [
+[
+"msgs",
+13
+]
+],
+"n": 1,
+"jp": "Ｌ<21f2><5><5>"
+},
+{
+"id": "u0026",
+"en": "Sword skill up! ",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 8,
+"en_tiles": [
+8
+],
+"where": [
+[
+"msgs",
+14
+]
+],
+"n": 1,
+"jp": "　　騒　　ぎ　　上　　<259b>　！！"
+},
+{
+"id": "u0027",
+"en": " Fighter",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 4,
+"en_tiles": [
+4
+],
+"where": [
+[
+"msgs",
+15
+]
+],
+"n": 1,
+"jp": "　<2233>騒れ<2234>　"
+},
+{
+"id": "u0028",
+"en": " Soldier",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 4,
+"en_tiles": [
+4
+],
+"where": [
+[
+"msgs",
+16
+]
+],
+"n": 1,
+"jp": "　<2233>騒客<2234>　"
+},
+{
+"id": "u0029",
+"en": " Warrior",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 4,
+"en_tiles": [
+4
+],
+"where": [
+[
+"msgs",
+17
+]
+],
+"n": 1,
+"jp": "　<2233>騒豪<2234>　"
+},
+{
+"id": "u0030",
+"en": " Master ",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 4,
+"en_tiles": [
+4
+],
+"where": [
+[
+"msgs",
+18
+]
+],
+"n": 1,
+"jp": "　<2233>騒<238d><2234>　"
+},
+{
+"id": "u0168",
+"en": "\n                  was learned!",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 15,
+"en_tiles": [
+0,
+15
+],
+"where": [
+[
+"msgs",
+161
+]
+],
+"n": 1,
+"jp": "　　　　　　　　　　　　いた！！"
+},
+{
+"id": "u0169",
+"en": "Can't hold that.",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 8,
+"en_tiles": [
+8
+],
+"where": [
+[
+"msgs",
+162
+]
+],
+"n": 1,
+"jp": "その道<23b6>はもう持てません　"
+},
+{
+"id": "u0170",
+"en": "gave up ",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 4,
+"en_tiles": [
+4
+],
+"where": [
+[
+"msgs",
+164
+]
+],
+"n": 1,
+"jp": "をあきらめた　"
+},
+{
+"id": "u0171",
+"en": "\nCharge: <5><6>/ <5><7>",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 15,
+"en_tiles": [
+0,
+5
+],
+"where": [
+[
+"msgs",
+175
+]
+],
+"n": 1,
+"jp": "　\n　　<22a9><2364>の<244c>け金<5><6><2235><5><7>"
+},
+{
+"id": "u0172",
+"en": " (<5><b>) \nwas obtained! ",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 15,
+"en_tiles": [
+2,
+7
+],
+"where": [
+[
+"msgs",
+176
+]
+],
+"n": 1,
+"jp": "を、\n<5><b><2751>手に入れた！！"
+},
+{
+"id": "u0173",
+"en": "\nbut left it behind. ",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 15,
+"en_tiles": [
+0,
+10
+],
+"where": [
+[
+"msgs",
+177
+]
+],
+"n": 1,
+"jp": "を、\nあきらめた・・・"
+},
+{
+"id": "u0174",
+"en": "\n EXP Up!",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 15,
+"en_tiles": [
+0,
+4
+],
+"where": [
+[
+"msgs",
+178
+]
+],
+"n": 1,
+"jp": "\n　　<2545><254c><2666>　上<259b>！！"
+},
+{
+"id": "u0175",
+"en": "Got + <5><d> HP!",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 5,
+"en_tiles": [
+5
+],
+"where": [
+[
+"msgs",
+179
+]
+],
+"n": 1,
+"jp": "最大体力が　<5><d>　上<259b>！"
+},
+{
+"id": "u0176",
+"en": "Got + <5><d> SP!",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 5,
+"en_tiles": [
+5
+],
+"where": [
+[
+"msgs",
+180
+]
+],
+"n": 1,
+"jp": "最大気力が　<5><d>　上<259b>！"
+},
+{
+"id": "u0216",
+"en": "What will you do? ",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 9,
+"en_tiles": [
+9
+],
+"where": [
+[
+"msgs",
+221
+],
+[
+"menu2",
+227
+]
+],
+"n": 2,
+"jp": "どうしますか？"
+},
+{
+"id": "u0217",
+"en": "Enter Demon Road",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 8,
+"en_tiles": [
+8
+],
+"where": [
+[
+"msgs",
+222
+]
+],
+"n": 1,
+"jp": "魔街道を進む"
+},
+{
+"id": "u0218",
+"en": "Cancel",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 3,
+"en_tiles": [
+3
+],
+"where": [
+[
+"msgs",
+223
+],
+[
+"msgs",
+224
+],
+[
+"keyitems",
+265
+],
+[
+"menu2",
+265
+]
+],
+"n": 4,
+"jp": "移動しない"
+},
+{
+"id": "u0219",
+"en": "Izumo to Aso",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 6,
+"en_tiles": [
+6
+],
+"where": [
+[
+"msgs",
+225
+]
+],
+"n": 1,
+"jp": "魔街道出雲〜<22a5><22e1>へ"
+},
+{
+"id": "u0220",
+"en": "Peking to Silk Road Gate",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 15,
+"en_tiles": [
+12
+],
+"where": [
+[
+"msgs",
+226
+]
+],
+"n": 1,
+"jp": "魔街道北京〜シルクロード迷<22f2>へ"
+},
+{
+"id": "u0221",
+"en": "Paris to Silk Road Gate ",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 15,
+"en_tiles": [
+12
+],
+"where": [
+[
+"msgs",
+227
+]
+],
+"n": 1,
+"jp": "魔街道パリ〜シルクロード迷<22f2>へ"
+},
+{
+"id": "u0222",
+"en": "Greenhell to Atlas Gate ",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 15,
+"en_tiles": [
+12
+],
+"where": [
+[
+"msgs",
+228
+]
+],
+"n": 1,
+"jp": "魔街道Ｇ・<2198>ル〜アトラス迷<22f2>へ"
+},
+{
+"id": "u0223",
+"en": "San Francisco to Muu Gate ",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 15,
+"en_tiles": [
+13
+],
+"where": [
+[
+"msgs",
+229
+]
+],
+"n": 1,
+"jp": "魔街道Ｓ・シスコ〜ムー迷<22f2>へ"
+},
+{
+"id": "u0224",
+"en": "Kyo to Muu Gate ",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 8,
+"en_tiles": [
+8
+],
+"where": [
+[
+"msgs",
+230
+]
+],
+"n": 1,
+"jp": "魔街道京〜ムー迷<22f2>へ"
+},
+{
+"id": "u0225",
+"en": "Osorezan to Kyo Gate",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 10,
+"en_tiles": [
+10
+],
+"where": [
+[
+"msgs",
+231
+]
+],
+"n": 1,
+"jp": "魔街道恐山〜京へ"
+},
+{
+"id": "u0226",
+"en": "Push the shrine?<2>Yes <3>No<3>",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 15,
+"en_tiles": [
+11
+],
+"where": [
+[
+"msgs",
+232
+]
+],
+"n": 1,
+"jp": "社を<245b>しますか？<2>はい<3>いいえ<3>"
+},
+{
+"id": "u0227",
+"en": "The gateway to Hell has \nbeen opened!",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 15,
+"en_tiles": [
+12,
+6
+],
+"where": [
+[
+"msgs",
+233
+]
+],
+"n": 1,
+"jp": "魔界の<23ee>への入り口が<2309>いた！！"
+},
+{
+"id": "u0228",
+"en": "Enter gateway to Hell?<2>Yes <3>No<3>",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 15,
+"en_tiles": [
+14
+],
+"where": [
+[
+"msgs",
+234
+]
+],
+"n": 1,
+"jp": "魔界の<23ee>へと<2463>りますか？<2><2463>りる<3><2463>りない<3>"
+},
+{
+"id": "u0229",
+"en": "<4> and company\ndecided not to enter. ",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 15,
+"en_tiles": [
+6,
+11
+],
+"where": [
+[
+"msgs",
+235
+]
+],
+"n": 1,
+"jp": "<4><22b1>は魔界の<23ee>へ\n<2463>りるのをあきらめた"
+},
+{
+"id": "u0230",
+"en": "Warp to Izumo?<2>Yes <3>No<3>",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 15,
+"en_tiles": [
+10
+],
+"where": [
+[
+"msgs",
+236
+]
+],
+"n": 1,
+"jp": "出雲迷界の\nにいきますか？<2>はい<3>いいえ<3>"
+},
+{
+"id": "u0231",
+"en": "Warp to Aso?<2>Yes <3>No<3>",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 15,
+"en_tiles": [
+9
+],
+"where": [
+[
+"msgs",
+237
+]
+],
+"n": 1,
+"jp": "<22a5><22e1>迷界の\nにいきますか？<2>はい<3>いいえ<3>"
+},
+{
+"id": "u0232",
+"en": "Warp to Peking? <2>Yes <3>No<3>",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 15,
+"en_tiles": [
+11
+],
+"where": [
+[
+"msgs",
+238
+]
+],
+"n": 1,
+"jp": "北京迷界の\nにいきますか？<2>はい<3>いいえ<3>"
+},
+{
+"id": "u0233",
+"en": "Warp to Paris?<2>Yes <3>No<3>",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 15,
+"en_tiles": [
+10
+],
+"where": [
+[
+"msgs",
+239
+]
+],
+"n": 1,
+"jp": "パリ迷界の\nにいきますか？<2>はい<3>いいえ<3>"
+},
+{
+"id": "u0234",
+"en": "Warp to Greenhell?<2>Yes <3>No<3>",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 15,
+"en_tiles": [
+12
+],
+"where": [
+[
+"msgs",
+240
+]
+],
+"n": 1,
+"jp": "グリーン<2198>ル迷界の\nにいきますか？<2>はい<3>いいえ<3>"
+},
+{
+"id": "u0235",
+"en": "Warp to San Francisco?<2>Yes <3>No<3>",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 15,
+"en_tiles": [
+14
+],
+"where": [
+[
+"msgs",
+241
+]
+],
+"n": 1,
+"jp": "サンフランシスコ迷界の\nにいきますか？<2>はい<3>いいえ<3>"
+},
+{
+"id": "u0236",
+"en": "Warp to Kyo?<2>Yes <3>No<3>",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 15,
+"en_tiles": [
+9
+],
+"where": [
+[
+"msgs",
+242
+]
+],
+"n": 1,
+"jp": "京迷界の\nにいきますか？<2>はい<3>いいえ<3>"
+},
+{
+"id": "u0237",
+"en": "Warp to Osorezan? <2>Yes <3>No<3>",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 15,
+"en_tiles": [
+12
+],
+"where": [
+[
+"msgs",
+243
+]
+],
+"n": 1,
+"jp": "恐山迷界の\nにいきますか？<2>はい<3>いいえ<3>"
+},
+{
+"id": "u0238",
+"en": "       Izumo Demon Gate ",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 15,
+"en_tiles": [
+12
+],
+"where": [
+[
+"msgs",
+244
+]
+],
+"n": 1,
+"jp": "　　　　出雲迷界の"
+},
+{
+"id": "u0239",
+"en": "        Aso Demon Gate",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 11,
+"en_tiles": [
+11
+],
+"where": [
+[
+"msgs",
+245
+]
+],
+"n": 1,
+"jp": "　　　　<22a5><22e1>迷界の"
+},
+{
+"id": "u0240",
+"en": "       Peking Demon Gate",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 15,
+"en_tiles": [
+12
+],
+"where": [
+[
+"msgs",
+246
+]
+],
+"n": 1,
+"jp": "　　　　北京迷界の"
+},
+{
+"id": "u0241",
+"en": "        Paris Demon Gate",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 15,
+"en_tiles": [
+12
+],
+"where": [
+[
+"msgs",
+247
+]
+],
+"n": 1,
+"jp": "　　　　パリ迷界の"
+},
+{
+"id": "u0242",
+"en": "      Greenhell Demon Gate",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 15,
+"en_tiles": [
+13
+],
+"where": [
+[
+"msgs",
+248
+]
+],
+"n": 1,
+"jp": "　　グリーン<2198>ル迷界の"
+},
+{
+"id": "u0243",
+"en": "    San Francisco Demon Gate",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 15,
+"en_tiles": [
+14
+],
+"where": [
+[
+"msgs",
+249
+]
+],
+"n": 1,
+"jp": "　サンフランシスコ迷界の"
+},
+{
+"id": "u0244",
+"en": "         Kyo Demon Gate ",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 15,
+"en_tiles": [
+12
+],
+"where": [
+[
+"msgs",
+250
+]
+],
+"n": 1,
+"jp": "　　　　京迷界の"
+},
+{
+"id": "u0245",
+"en": "      Osorezan Demon Gate ",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 15,
+"en_tiles": [
+13
+],
+"where": [
+[
+"msgs",
+251
+]
+],
+"n": 1,
+"jp": "　　　　恐山迷界の"
+},
+{
+"id": "u0246",
+"en": "HP +<5><d>! ",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 3,
+"en_tiles": [
+3
+],
+"where": [
+[
+"msgs",
+252
+]
+],
+"n": 1,
+"jp": "体力　　<5><d>　　上<259b>！！"
+},
+{
+"id": "u0247",
+"en": "SP +<5><d>! ",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 3,
+"en_tiles": [
+3
+],
+"where": [
+[
+"msgs",
+253
+]
+],
+"n": 1,
+"jp": "気力　　<5><d>　　上<259b>！！"
+},
+{
+"id": "u0248",
+"en": "ATK  +<5><d>! ",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 4,
+"en_tiles": [
+4
+],
+"where": [
+[
+"msgs",
+254
+]
+],
+"n": 1,
+"jp": "<2372><2308>力　<5><d>　　上<259b>！！"
+},
+{
+"id": "u0249",
+"en": "DEF  +<5><d>! ",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 4,
+"en_tiles": [
+4
+],
+"where": [
+[
+"msgs",
+255
+]
+],
+"n": 1,
+"jp": "<24df><2424>力　<5><d>　　上<259b>！！"
+},
+{
+"id": "u0250",
+"en": "SPD  +<5><d>! ",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 4,
+"en_tiles": [
+4
+],
+"where": [
+[
+"msgs",
+256
+]
+],
+"n": 1,
+"jp": "一っさ　<5><d>　　上<259b>！！"
+},
+{
+"id": "u0251",
+"en": "It won't budge. ",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 8,
+"en_tiles": [
+8
+],
+"where": [
+[
+"msgs",
+257
+]
+],
+"n": 1,
+"jp": "社は動かなかった"
+},
+{
+"id": "u0252",
+"en": "LCK  +<5><d>! ",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 4,
+"en_tiles": [
+4
+],
+"where": [
+[
+"msgs",
+258
+]
+],
+"n": 1,
+"jp": "運　　　<5><d>　　上<259b>！！"
+},
+{
+"id": "u0253",
+"en": "\n           learned a new move!",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 15,
+"en_tiles": [
+0,
+15
+],
+"where": [
+[
+"msgs",
+260
+]
+],
+"n": 1,
+"jp": "奥ないた！！"
+},
+{
+"id": "u0555",
+"en": "Versus Input",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 6,
+"en_tiles": [
+6
+],
+"where": [
+[
+"keyitems",
+50
+],
+[
+"menu2",
+50
+]
+],
+"n": 2,
+"jp": "格法コマンド"
+},
+{
+"id": "u0556",
+"en": "Menu Select ",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 6,
+"en_tiles": [
+6
+],
+"where": [
+[
+"keyitems",
+51
+],
+[
+"menu2",
+51
+]
+],
+"n": 2,
+"jp": "ぎ名�xレクト"
+},
+{
+"id": "u0557",
+"en": "Strike Slash",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 6,
+"en_tiles": [
+6
+],
+"where": [
+[
+"keyitems",
+59
+]
+],
+"n": 1,
+"jp": "<2308>震斬"
+},
+{
+"id": "u0566",
+"en": "Use on whom?",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 6,
+"en_tiles": [
+6
+],
+"where": [
+[
+"keyitems",
+155
+],
+[
+"menu2",
+155
+]
+],
+"n": 2,
+"jp": "誰が使用しますか？"
+},
+{
+"id": "u0579",
+"en": "Make your choice. ",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 9,
+"en_tiles": [
+9
+],
+"where": [
+[
+"keyitems",
+224
+],
+[
+"menu2",
+224
+]
+],
+"n": 2,
+"jp": "（定しますか？"
+},
+{
+"id": "u0580",
+"en": "Input Method",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 6,
+"en_tiles": [
+6
+],
+"where": [
+[
+"keyitems",
+225
+],
+[
+"menu2",
+225
+]
+],
+"n": 2,
+"jp": "奥なの使用方法は？"
+},
+{
+"id": "u0581",
+"en": "Yes     No",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 5,
+"en_tiles": [
+5
+],
+"where": [
+[
+"keyitems",
+226
+],
+[
+"menu2",
+226
+]
+],
+"n": 2,
+"jp": "はい　　いいえ"
+},
+{
+"id": "u0582",
+"en": "Choose option.",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 7,
+"en_tiles": [
+7
+],
+"where": [
+[
+"keyitems",
+227
+]
+],
+"n": 1,
+"jp": "何を行いますか？"
+},
+{
+"id": "u0585",
+"en": "Saves ",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 3,
+"en_tiles": [
+3
+],
+"where": [
+[
+"keyitems",
+263
+]
+],
+"n": 1,
+"jp": "<229b>目"
+},
+{
+"id": "u0586",
+"en": "Loc.  ",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 3,
+"en_tiles": [
+3
+],
+"where": [
+[
+"keyitems",
+264
+],
+[
+"menu2",
+264
+]
+],
+"n": 2,
+"jp": "場所<2233>"
+},
+{
+"id": "u0587",
+"en": "Chapter Select",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 7,
+"en_tiles": [
+7
+],
+"where": [
+[
+"keyitems",
+266
+],
+[
+"menu2",
+266
+]
+],
+"n": 2,
+"jp": "物語を選<23a7>してすさい"
+},
+{
+"id": "u0588",
+"en": "- Empty! -",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 5,
+"en_tiles": [
+5
+],
+"where": [
+[
+"keyitems",
+267
+],
+[
+"menu2",
+267
+]
+],
+"n": 2,
+"jp": "<223a>る物はありません<223a>"
+},
+{
+"id": "u0589",
+"en": "ATK Elem",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 4,
+"en_tiles": [
+4
+],
+"where": [
+[
+"keyitems",
+268
+]
+],
+"n": 1,
+"jp": "<2372><2308><26d9>性<2235>"
+},
+{
+"id": "u0590",
+"en": "DEF Elem",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 4,
+"en_tiles": [
+4
+],
+"where": [
+[
+"keyitems",
+269
+]
+],
+"n": 1,
+"jp": "<24df><2424><26d9>性<2235>"
+},
+{
+"id": "u0591",
+"en": "Current ",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 4,
+"en_tiles": [
+4
+],
+"where": [
+[
+"keyitems",
+277
+]
+],
+"n": 1,
+"jp": "<22a9><2364>"
+},
+{
+"id": "u0592",
+"en": "Equipped: ",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 5,
+"en_tiles": [
+5
+],
+"where": [
+[
+"keyitems",
+278
+]
+],
+"n": 1,
+"jp": "<22a9><2364>の<268c><2415>"
+},
+{
+"id": "u0593",
+"en": "Unequip ",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 4,
+"en_tiles": [
+4
+],
+"where": [
+[
+"keyitems",
+279
+]
+],
+"n": 1,
+"jp": "<268c><2415>をはずします"
+},
+{
+"id": "u0594",
+"en": "Can't equip ",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 6,
+"en_tiles": [
+6
+],
+"where": [
+[
+"keyitems",
+280
+]
+],
+"n": 1,
+"jp": "<268c><2415>できません"
+},
+{
+"id": "u0595",
+"en": "Level \n        ",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 4,
+"en_tiles": [
+3,
+4
+],
+"where": [
+[
+"keyitems",
+282
+]
+],
+"n": 1,
+"jp": "Ｌ<21f2>\n<2233>騒？<2234>"
+},
+{
+"id": "u0596",
+"en": "Fighter ",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 4,
+"en_tiles": [
+4
+],
+"where": [
+[
+"keyitems",
+283
+]
+],
+"n": 1,
+"jp": "れ"
+},
+{
+"id": "u0597",
+"en": "Soldier ",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 4,
+"en_tiles": [
+4
+],
+"where": [
+[
+"keyitems",
+284
+]
+],
+"n": 1,
+"jp": "客"
+},
+{
+"id": "u0598",
+"en": "Warrior ",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 4,
+"en_tiles": [
+4
+],
+"where": [
+[
+"keyitems",
+285
+]
+],
+"n": 1,
+"jp": "豪"
+},
+{
+"id": "u0599",
+"en": "Master",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 3,
+"en_tiles": [
+3
+],
+"where": [
+[
+"keyitems",
+286
+]
+],
+"n": 1,
+"jp": "<238d>"
+},
+{
+"id": "u0600",
+"en": "Change whose equipment? ",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 12,
+"en_tiles": [
+12
+],
+"where": [
+[
+"keyitems",
+287
+]
+],
+"n": 1,
+"jp": "だれの<268c><2415>を変<2437>しますか？"
+},
+{
+"id": "u0601",
+"en": "ATK     DEF     EVD     Elmt",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 14,
+"en_tiles": [
+14
+],
+"where": [
+[
+"keyitems",
+288
+]
+],
+"n": 1,
+"jp": "<2372>　　　<24df>　　　<23f4>　　　<26d9>性"
+},
+{
+"id": "u0672",
+"en": "Buy   ",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 3,
+"en_tiles": [
+3
+],
+"where": [
+[
+"menu1",
+0
+]
+],
+"n": 1,
+"jp": "買う"
+},
+{
+"id": "u0673",
+"en": "Sell  ",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 3,
+"en_tiles": [
+3
+],
+"where": [
+[
+"menu1",
+1
+]
+],
+"n": 1,
+"jp": "女る"
+},
+{
+"id": "u0674",
+"en": "Cancel  ",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 4,
+"en_tiles": [
+4
+],
+"where": [
+[
+"menu1",
+2
+]
+],
+"n": 1,
+"jp": "やめる"
+},
+{
+"id": "u0675",
+"en": "GP  ",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 2,
+"en_tiles": [
+2
+],
+"where": [
+[
+"menu1",
+3
+]
+],
+"n": 1,
+"jp": "金"
+},
+{
+"id": "u0676",
+"en": "s ",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 1,
+"en_tiles": [
+1
+],
+"where": [
+[
+"menu1",
+4
+]
+],
+"n": 1,
+"jp": "<248f>"
+},
+{
+"id": "u0677",
+"en": "Owned   ",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 4,
+"en_tiles": [
+4
+],
+"where": [
+[
+"menu1",
+5
+]
+],
+"n": 1,
+"jp": "所持か"
+},
+{
+"id": "u0678",
+"en": "Defense ",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 4,
+"en_tiles": [
+4
+],
+"where": [
+[
+"menu1",
+6
+]
+],
+"n": 1,
+"jp": "<24df><2424>力"
+},
+{
+"id": "u0679",
+"en": "Yes ",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 2,
+"en_tiles": [
+2
+],
+"where": [
+[
+"menu1",
+7
+]
+],
+"n": 1,
+"jp": "はい"
+},
+{
+"id": "u0680",
+"en": "No  ",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 2,
+"en_tiles": [
+2
+],
+"where": [
+[
+"menu1",
+8
+]
+],
+"n": 1,
+"jp": "いいえ"
+},
+{
+"id": "u0681",
+"en": "{T1554}{T1555}{T1556}{T1557}    {T1558}{T1559}{T1560}      Exit",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 14,
+"en_tiles": [
+14
+],
+"where": [
+[
+"menu1",
+10
+]
+],
+"n": 1,
+"jp": "<26d9>性変化　　騒をうえる　終<22a6>"
+},
+{
+"id": "u0682",
+"en": "Attack",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 3,
+"en_tiles": [
+3
+],
+"where": [
+[
+"menu1",
+12
+]
+],
+"n": 1,
+"jp": "<2372><2308>力"
+},
+{
+"id": "u0683",
+"en": ": {T2}",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 2,
+"en_tiles": [
+2
+],
+"where": [
+[
+"menu1",
+14
+]
+],
+"n": 1,
+"jp": "<2238>無"
+},
+{
+"id": "u0684",
+"en": ": {T3}",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 2,
+"en_tiles": [
+2
+],
+"where": [
+[
+"menu1",
+15
+]
+],
+"n": 1,
+"jp": "<2238><250b>"
+},
+{
+"id": "u0685",
+"en": ": {T4}",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 2,
+"en_tiles": [
+2
+],
+"where": [
+[
+"menu1",
+16
+]
+],
+"n": 1,
+"jp": "<2238>冷"
+},
+{
+"id": "u0686",
+"en": ": {T5}",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 2,
+"en_tiles": [
+2
+],
+"where": [
+[
+"menu1",
+17
+]
+],
+"n": 1,
+"jp": "<2238><2339>"
+},
+{
+"id": "u0687",
+"en": ": {T6}",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 2,
+"en_tiles": [
+2
+],
+"where": [
+[
+"menu1",
+18
+]
+],
+"n": 1,
+"jp": "<2238><24e8>"
+},
+{
+"id": "u0688",
+"en": ": {T7}",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 2,
+"en_tiles": [
+2
+],
+"where": [
+[
+"menu1",
+19
+]
+],
+"n": 1,
+"jp": "<2238><238d>"
+},
+{
+"id": "u0689",
+"en": ": {T8}",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 2,
+"en_tiles": [
+2
+],
+"where": [
+[
+"menu1",
+20
+]
+],
+"n": 1,
+"jp": "<2238>魔"
+},
+{
+"id": "u0690",
+"en": "Effect  ",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 4,
+"en_tiles": [
+4
+],
+"where": [
+[
+"menu1",
+22
+]
+],
+"n": 1,
+"jp": "そ果説<228e>"
+},
+{
+"id": "u0691",
+"en": "  {T1543}{T1544}{T1545}",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 4,
+"en_tiles": [
+4
+],
+"where": [
+[
+"menu1",
+23
+]
+],
+"n": 1,
+"jp": "武れレベル"
+},
+{
+"id": "u0692",
+"en": "          GP for  {T1543}{T1544}{T1545}  up",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 14,
+"en_tiles": [
+14
+],
+"where": [
+[
+"menu1",
+24
+]
+],
+"n": 1,
+"jp": "金　　　　で<242d>の武れレベルへ"
+},
+{
+"id": "u0693",
+"en": "    {T1546}{T1547}{T1548}{T1549}{T1550}{T1551}{T1552}s ",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 10,
+"en_tiles": [
+10
+],
+"where": [
+[
+"menu1",
+25
+]
+],
+"n": 1,
+"jp": "<223a>まだうえる事は出来ません<223a>"
+},
+{
+"id": "u0694",
+"en": "Use ",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 2,
+"en_tiles": [
+2
+],
+"where": [
+[
+"menu1",
+26
+]
+],
+"n": 1,
+"jp": "使用"
+},
+{
+"id": "u0695",
+"en": "{T2}   No specific attribute. ",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 14,
+"en_tiles": [
+14
+],
+"where": [
+[
+"menu1",
+34
+]
+],
+"n": 1,
+"jp": "無　　なにも<26d9>性をもたない　"
+},
+{
+"id": "u0696",
+"en": "{T3}   Emits crimson flames.  ",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 14,
+"en_tiles": [
+14
+],
+"where": [
+[
+"menu1",
+36
+]
+],
+"n": 1,
+"jp": "<250b>　　<2380><27a4>の<250b>が立ち<259b>る　　"
+},
+{
+"id": "u0697",
+"en": "     Strong against {T4}{T1561}{T2}",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 13,
+"en_tiles": [
+13
+],
+"where": [
+[
+"menu1",
+37
+]
+],
+"n": 1,
+"jp": "　　　　冷と無に強い　　　　"
+},
+{
+"id": "u0698",
+"en": "{T4}   Emits an icy chill.    ",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 14,
+"en_tiles": [
+14
+],
+"where": [
+[
+"menu1",
+38
+]
+],
+"n": 1,
+"jp": "冷　　氷<22b3>した冷気をもつ　　"
+},
+{
+"id": "u0699",
+"en": "     Strong against {T3}{T1561}{T2}",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 13,
+"en_tiles": [
+13
+],
+"where": [
+[
+"menu1",
+39
+],
+[
+"menu1",
+41
+]
+],
+"n": 2,
+"jp": "　　　　<250b>と無に強い　　　　"
+},
+{
+"id": "u0700",
+"en": "{T5}   Fused with gale winds. ",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 14,
+"en_tiles": [
+14
+],
+"where": [
+[
+"menu1",
+40
+]
+],
+"n": 1,
+"jp": "<2339>　　<24d7><2339>の竜<252b>が<2601><252b>く　　"
+},
+{
+"id": "u0701",
+"en": "{T6}   Electrically charged.  ",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 14,
+"en_tiles": [
+14
+],
+"where": [
+[
+"menu1",
+42
+]
+],
+"n": 1,
+"jp": "<24e8>　　<26a3>光の<265d><2547>が<2695>く　　　"
+},
+{
+"id": "u0702",
+"en": "     Strong against {T2}    ",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 13,
+"en_tiles": [
+13
+],
+"where": [
+[
+"menu1",
+43
+]
+],
+"n": 1,
+"jp": "　　　　無に強い　　　　　　"
+},
+{
+"id": "u0703",
+"en": "{T7}   Full of divine power.  ",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 14,
+"en_tiles": [
+14
+],
+"where": [
+[
+"menu1",
+44
+]
+],
+"n": 1,
+"jp": "<238d>　　<24ec><2438>に満ちた力をっ加　"
+},
+{
+"id": "u0704",
+"en": "     Strong against {T8}{T1561}{T2}",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 13,
+"en_tiles": [
+13
+],
+"where": [
+[
+"menu1",
+45
+]
+],
+"n": 1,
+"jp": "　　　　魔と無に強い　　　　"
+},
+{
+"id": "u0705",
+"en": "{T8}   The darkness within.   ",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 14,
+"en_tiles": [
+14
+],
+"where": [
+[
+"menu1",
+46
+]
+],
+"n": 1,
+"jp": "魔　　神像が自らの力を<25b1><261e>　"
+},
+{
+"id": "u0706",
+"en": "     Strong against {T7}{T1561}{T2}",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 13,
+"en_tiles": [
+13
+],
+"where": [
+[
+"menu1",
+47
+]
+],
+"n": 1,
+"jp": "　　　　<238d>と無に強い　　　　"
+},
+{
+"id": "u0707",
+"en": "Read",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 2,
+"en_tiles": [
+2
+],
+"where": [
+[
+"menu2",
+118
+]
+],
+"n": 1,
+"jp": ""
+},
+{
+"id": "u0708",
+"en": "Perform special moves by\nmoving the stick and\npressing buttons like a \nfighting game.",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 12,
+"en_tiles": [
+12,
+10,
+12,
+7
+],
+"where": [
+[
+"menu2",
+153
+]
+],
+"n": 1,
+"jp": ""
+},
+{
+"id": "u0709",
+"en": "Select special moves\nfrom a menu, just like a\ntraditional role-playing\ngame. ",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 12,
+"en_tiles": [
+10,
+12,
+12,
+3
+],
+"where": [
+[
+"menu2",
+154
+]
+],
+"n": 1,
+"jp": ""
+},
+{
+"id": "u0718",
+"en": "save",
+"kind": "служебная строка/сообщение",
+"max_tiles_per_line": 2,
+"en_tiles": [
+2
+],
+"where": [
+[
+"menu2",
+263
+]
+],
+"n": 1,
+"jp": ""
+}
+]

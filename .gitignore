@@ -1,0 +1,26 @@
+# game data and third-party inputs (see README)
+/ps1/
+/ngcd/
+/out/
+/fonts*/
+/jpsx/
+/patch/
+/pcsx_rearmed/
+/build*/
+/ru_ps1/out/
+/ps1ui/gfx/*.PSI
+/ps1ui/gfx/*.PFX
+/ps1ui/gfx/*.BIN
+/mov/w/
+/mov/rep/
+/emu/sys/
+/emu/shots/
+/emu/fe
+/tools/eccfix
+/tools/iso2mode1
+*.bin
+*.iso
+*.pkl
+*.png
+!/patches/**/*.png
+__pycache__/

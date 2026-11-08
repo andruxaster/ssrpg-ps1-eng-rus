@@ -1,0 +1,4604 @@
+[
+{
+"id": 1584,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"Hey, {NAME}? That thing down at the bottom of the crater...",
+"Isn't that the Animus Bell we saw in Izumo?",
+"If it is... Hm?"
+],
+"jp": "おい、{NAME}？ あの火口の底にあるヤツ・・・ / あれは、出雲で見た 邪銅鐸じゃないのか？ / だとしたら・・・ん？",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1585,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"That big ornament down there...",
+"Could it be the Animus Bell Master Nicotine told us about?",
+"...Oh? Is someone over there...?"
+],
+"jp": "あの大きな置物は・・・ / 和狆様の言っていた 邪銅鐸じゃないかしら / ・・・あら？ あんな所に人が・・・？",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1586,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"{NAME}! That's the Animus Bell! But we can't reach it down in the crater.",
+"Hm? An intruder?!"
+],
+"jp": "{NAME}！　あれは邪銅鐸だ！ しかし、火口の底では手が出せない / ん？曲者！？",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1587,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"...{NAME}, do you see it?",
+"That is the Animus Bell Master Nicotine spoke of...",
+"So it fell all the way from Izumo into this crater...",
+"But to destroy it, we must first get down there...",
+"Hm? Who goes there?"
+],
+"jp": "・・・{NAME}、気がついたか？ / あれは和狆殿がおっしゃっていた 邪銅鐸だ・・・ / 出雲から、この火口に 落ちてきたというわけだな・・・ / されど、破壊するためには まず底に降りねば・・・ / む？　何奴？",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1588,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"That thing the demons are guarding... is that the so-called Animus Bell?",
+"I'd smash it to bits, but there's no way down to the crater floor.",
+"Honestly, this Mizuki is more trouble than she's worth.",
+"...Hm? Who's there!"
+],
+"jp": "魔物どもが守っているあれは 例の邪銅鐸とやらか・・・ / あれをぶちこわそうにも 火口の底には降りられそうもない / まったく、ミヅキとやらも 手間をかけさせてくれる / ・・・む？　誰だ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1589,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"Hey, hey, {NAME}!",
+"...Isn't that the thing Grandpa told us to break?",
+"The Animus Bell, right?",
+"Huh? There's somebody there! Look, over there!"
+],
+"jp": "ねえねえ、{NAME}！ / ・・・あれッて、じいちゃンが 壊せッて言ってた / 邪銅鐸じゃないのかなぁ？ / あれぇ？　人がいるよ？ ほら、あそこ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1590,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"...{NAME}.",
+"Is that not the Animus Bell Master Nicotine ordered us to destroy?",
+"But why would it be in such a place...",
+"Hm? Who goes there!"
+],
+"jp": "・・・{NAME} / あれは、和狆殿が破壊せよと 命じられた / 邪銅鐸ではないか？ しかし、なぜあんな所に・・・ / む？　何者だ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1591,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"Hmm... So that would be the Animus Bell...",
+"A fine stroke of luck to find it so soon, but getting down into the crater...",
+"...will be no easy feat.",
+"Hmm? And who might that fellow be?"
+],
+"jp": "ふむ・・・あれに見えるは 邪銅鐸でござるか・・・ / 早速見つかるとは幸先が良いが はてさて火口の底に降りるは / 当に至難・・・ / ぬぬ？ あれなる御仁は？",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1592,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"Hey... isn't that the thing old man Nicotine told us about?",
+"The Animus Bell?",
+"...Huh, what? There's someone down there!"
+],
+"jp": "ねえ・・・あれって 和狆のおじいさんが言ってた / 邪銅鐸じゃない？ / ・・・えっ、何？ あんな所に人がいるよ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1593,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"Oh, whatever... Let's just get out of this crater!",
+"We'll figure out how to get down there after that!"
+],
+"jp": "まあいいや・・・ とにかく火口の外に出ようぜ！ / 火口の底に降りる手段は それから考えよう！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1594,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"Let's climb back up for now...",
+"Somehow we have to reach the place where the Animus Bell is."
+],
+"jp": "とにかく上に登りましょう・・・ / なんとかして邪銅鐸のある場所に 行かなくては",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1595,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"...Well, there's no point in staying here.",
+"Let's head up to the summit and figure out how to get down there!"
+],
+"jp": "・・・とにかく ここにいてもしょうがない / 一度頂上に出て 火口の底に降りる方法を考えよう！",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Мое имя - Реон... Реон, звенящий вихрь! Передай Мидзуки... я уничтожу все Колокола Анимус!"
+}
+]
+},
+{
+"id": 1596,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"Cough...",
+"Nothing good will come of lingering in such foul air.",
+"Let us climb back up for now...",
+"...and think again about how to reach the crater floor."
+],
+"jp": "げほっ・・・ / こんな空気の悪いところにいても 何も良いことはありません / とにかく上に登って / 改めて火口の底に降りる方法を 考えるとしましょう",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Мое имя - Реон... Реон, звенящий вихрь! Передай Мидзуки... я уничтожу все Колокола Анимус!"
+}
+]
+},
+{
+"id": 1597,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"...Tch. Very well.",
+"I'll get out of this crater for now.",
+"...Maybe I'll find some way down to the bottom."
+],
+"jp": "・・・ちっ、まあ良いわ / とりあえず火口の外に出るとするか / ・・・底に行く方法が 何か見つかるかも知れぬ",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Мое имя - Реон... Реон, звенящий вихрь! Передай Мидзуки... я уничтожу все Колокола Анимус!"
+}
+]
+},
+{
+"id": 1598,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"Argh! I don't get it anymore!",
+"Let's just get outta here!",
+"Staying here won't get us down to the bottom!"
+],
+"jp": "ええいッ！ もう分ッかんないゾ！ / とにかく、外に出よう！ / ここにいたッて 底には降りられないンだ！",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Мое имя - Реон... Реон, звенящий вихрь! Передай Мидзуки... я уничтожу все Колокола Анимус!"
+}
+]
+},
+{
+"id": 1599,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"And she wishes to forgive even Lord Amakusa.",
+"For that, what is needed is your strength...",
+"With your strength, please... save Lord Amakusa..."
+],
+"jp": "そして、天草様をも許そうと 望んでおられるのです / そのためには必要なのは あなたの力・・・ / あなたの力で どうか天草様を・・・",
+"choice": null,
+"context": [
+{
+"ru": "Я что-то видел... это... это был ангел?"
+},
+{
+"ru": "Я видел что-то странное на вершине горы! В самом жерле, похоже, полно демонов!"
+},
+{
+"ru": "Тут творится что-то странное! Я видел каких-то людей, они молились и что-то говорили об Амакусе. Интересно, о ком это...?"
+},
+{
+"self": true
+},
+{
+"ru": "Что это?"
+},
+{
+"ru": "Что это?"
+},
+{
+"ru": "Что?!"
+}
+]
+},
+{
+"id": 1600,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"...I wonder when the Seven Realms Sage will show up..."
+],
+"jp": "・・・・・・はやく七界道士様 いらっしゃらないかな・・・",
+"choice": null,
+"context": [
+{
+"ru": "Ого! Это и есть Небесный замок?"
+},
+{
+"ru": "Боже...! Это Небесный замок!"
+},
+{
+"ru": "Скоро, совсем скоро... господин Амакуса переделает мир! Да только на гору нашу всякие чужаки повадились..."
+},
+{
+"self": true
+},
+{
+"ru": "Поворачивай назад..."
+},
+{
+"ru": "Вот с помощью чего он хочет захватить мир?! Ну уж нет... ни за что. Я этого не допущу! Но как мне туда забраться...?"
+},
+{
+"ru": "Будь ты проклят, Амакуса!! И как мне теперь туда попасть?"
+}
+]
+},
+{
+"id": 1601,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"Well done finding this place.",
+"...Known only to a select few, this is Aso's hidden inn."
+],
+"jp": "よく見つけることができましたね / ・・・知る人ぞ知る ここが阿蘇の隠し宿屋です",
+"choice": null,
+"context": [
+{
+"ru": "Небесный замок...?"
+},
+{
+"ru": "Нет, нет, нельзя! Здесь владения Ситикая Доси...! Что? Он что?!"
+},
+{
+"ru": "А-а-а-а-а!!"
+},
+{
+"self": true
+},
+{
+"en": "GP to stay one night. / Would you like to stay? Yes No"
+}
+]
+},
+{
+"id": 1602,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"That was quite an earthquake! Heaven help us...",
+"But if I was scared of a few quakes...",
+"...I couldn't keep this hidden inn going like my forefathers did!"
+],
+"jp": "大きい地震でしたね！ くわばらくわばら・・・ / でも、地震なんぞを怖がってちゃあ / 代々続いたこの隠し宿屋は やっていけませんや！",
+"choice": null,
+"context": [
+{
+"ru": "Небесный замок...?"
+},
+{
+"ru": "Нет, нет, нельзя! Здесь владения Ситикая Доси...! Что? Он что?!"
+},
+{
+"ru": "А-а-а-а-а!!"
+},
+{
+"self": true
+},
+{
+"en": "GP to stay one night. / Would you like to stay? Yes No"
+}
+]
+},
+{
+"id": 1603,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"Now, please rest from your travels..."
+],
+"jp": "さあ 旅の疲れをいやして下さい・・・",
+"choice": null,
+"context": [
+{
+"ru": "А-а-а-а-а!!"
+},
+{
+"en": "GP to stay one night. / Would you like to stay? Yes No"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 1604,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"I see. But please don't overdo it."
+],
+"jp": "そうですか でも、ご無理はなさらぬように",
+"choice": null,
+"context": [
+{
+"en": "GP to stay one night. / Would you like to stay? Yes No"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 1605,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"I hate to be cold about it, but you don't have enough money..."
+],
+"jp": "冷たいことを言うようですが お金が、足りません・・・",
+"choice": null,
+"context": [
+{
+"en": "GP to stay one night. / Would you like to stay? Yes No"
+},
+{
+"self": true
+},
+{
+"ru": "Мои грехи прощены... Умоляю вас... Душу господина Амакусы... нужно отправить в мир иной..."
+}
+]
+},
+{
+"id": 1606,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"It's dangerous out there lately. Please be careful!"
+],
+"jp": "最近は物騒ですから どうかお気をつけて！",
+"choice": null,
+"context": [
+{
+"en": "GP to stay one night. / Would you like to stay? Yes No"
+},
+{
+"self": true
+},
+{
+"ru": "Мои грехи прощены... Умоляю вас... Душу господина Амакусы... нужно отправить в мир иной..."
+}
+]
+},
+{
+"id": 1607,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"I'm gonna take over from my dad...",
+"...and become a great hidden inn manager too!"
+],
+"jp": "父ちゃんの跡を継いで / ボクも立派な 隠し宿屋の支配人になるんだい！",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Мои грехи прощены... Умоляю вас... Душу господина Амакусы... нужно отправить в мир иной..."
+}
+]
+},
+{
+"id": 1608,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"I am the mysterious item dealer... a seeker of love and truth..."
+],
+"jp": "ワシは謎の道具屋・・・ 愛と真実の探求者・・・",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Мои грехи прощены... Умоляю вас... Душу господина Амакусы... нужно отправить в мир иной..."
+}
+]
+},
+{
+"id": 1609,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"Heh... I figured you'd croaked long ago.",
+"But you put up more of a fight than these worthless demons here...",
+"Is that it?"
+],
+"jp": "ほう・・・とっくに くたばったかと思ったが / ここのクズ魔物どもよりは 手応えがある・・・ / と言うわけだな？",
+"choice": null,
+"context": [
+{
+"ru": "А? Это ты! Ты уже давно за нами таскаешься... Так что выкладывай... что ты задумал?!"
+},
+{
+"ru": "Это вы... Что вам вообще здесь нужно?!"
+},
+{
+"ru": "О! Это ты... Что ты вообще задумал? Ничего не понимаю!"
+},
+{
+"self": true
+},
+{
+"ru": "Эй, ты! Я же шла впереди. Мог бы и подождать!"
+},
+{
+"ru": "Туннель внизу ведет прямо в сердце горы Асо..."
+},
+{
+"ru": "И к чему ты это?"
+}
+]
+},
+{
+"id": 1610,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"So... fast... Lord Ha... on..."
+],
+"jp": "は・・・速い・・・ 破怨さ・・・ま・・・",
+"choice": null,
+"context": [
+{
+"ru": "Хм... хитрый мелкий заморыш."
+},
+{
+"ru": "Ушел... видно, дружить не хочет."
+},
+{
+"ru": "Я даже бананов есть не буду, пока не побью Мидзуки! И лорд Кецалькоатль точно проследит, чтобы я сдержала слово!"
+},
+{
+"self": true
+},
+{
+"ru": "...? Видать, у тебя свои причины."
+}
+]
+},
+{
+"id": 1611,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"A sword! Not bad..."
+],
+"jp": "太刀か！ やるな・・・",
+"choice": null,
+"context": [
+{
+"ru": "Хм... хитрый мелкий заморыш."
+},
+{
+"ru": "Ушел... видно, дружить не хочет."
+},
+{
+"ru": "Я даже бананов есть не буду, пока не побью Мидзуки! И лорд Кецалькоатль точно проследит, чтобы я сдержала слово!"
+},
+{
+"self": true
+},
+{
+"ru": "...? Видать, у тебя свои причины."
+}
+]
+},
+{
+"id": 1612,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"...You're no ordinary person, are you?"
+],
+"jp": "・・・ただ者じゃないわね",
+"choice": null,
+"context": [
+{
+"ru": "Ушел... видно, дружить не хочет."
+},
+{
+"ru": "Я даже бананов есть не буду, пока не побью Мидзуки! И лорд Кецалькоатль точно проследит, чтобы я сдержала слово!"
+},
+{
+"self": true
+},
+{
+"ru": "...? Видать, у тебя свои причины."
+}
+]
+},
+{
+"id": 1613,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"...are you?"
+],
+"jp": "ないわね",
+"choice": null,
+"context": [
+{
+"ru": "Я даже бананов есть не буду, пока не побью Мидзуки! И лорд Кецалькоатль точно проследит, чтобы я сдержала слово!"
+},
+{
+"self": true
+},
+{
+"ru": "...? Видать, у тебя свои причины."
+}
+]
+},
+{
+"id": 1614,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"But..."
+],
+"jp": "だが",
+"choice": null,
+"context": [
+{
+"ru": "...? Видать, у тебя свои причины."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 1615,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"...is it?!"
+],
+"jp": "か！",
+"choice": null,
+"context": [
+{
+"ru": "...? Видать, у тебя свои причины."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 1616,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"...and my work was all done, too!"
+],
+"jp": "仕事は終わりなのによう！",
+"choice": null,
+"context": [
+{
+"ru": "...? Видать, у тебя свои причины."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 1617,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"...or I'll eat you up!"
+],
+"jp": "ていると 食ッちまうぞ！",
+"choice": null,
+"context": [
+{
+"ru": "...? Видать, у тебя свои причины."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 1618,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"Move left / leave it"
+],
+"jp": "左に動かすほっておく",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1619,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"You came for Yuzawa-en too, traveler?",
+"Yuzawa-en's closed for now. The hot water stopped flowing.",
+"Know any other good hot springs around?"
+],
+"jp": "旅のお人・・・あんたも 湯沢園にやってきたのかい？ / 湯沢園はお湯が出なくて 臨時休業さ / どこかにいい温泉場 知らない？",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Добро пожаловать в Бэппу, деревню горячих источников! Окунитесь в наши воды, и все тревоги растают! По крайней мере, так нам положено говорить. На Асо упал огромный огненный шар? Правда? Думаете, мы тут в безопасности?"
+},
+{
+"ru": "Добро пожаловать в Бэппу, деревню горячих источников... Окунитесь в наши воды, и все тревоги растают... Вы ведь в Сад Юдзава пришли, да? Только он пока закрыт. По-моему, это демоны! Моя семья тут раньше работала, разбирала завалы... А мыло, что я оставил на удачу, пропало! Спорим, его демон утащил!"
+}
+]
+},
+{
+"id": 1620,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"What's that?",
+"The demons were why the water stopped?",
+"And you lot beat them?",
+"Whoa, I'm impressed!"
+],
+"jp": "なんだって？ / お湯が出ないのは 魔物の仕業だったって？ / それで あんたたちが倒したの？ / ひゃーお見それしやした！",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Добро пожаловать в Бэппу, деревню горячих источников! Окунитесь в наши воды, и все тревоги растают! По крайней мере, так нам положено говорить. На Асо упал огромный огненный шар? Правда? Думаете, мы тут в безопасности?"
+},
+{
+"ru": "Добро пожаловать в Бэппу, деревню горячих источников... Окунитесь в наши воды, и все тревоги растают... Вы ведь в Сад Юдзава пришли, да? Только он пока закрыт. По-моему, это демоны! Моя семья тут раньше работала, разбирала завалы... А мыло, что я оставил на удачу, пропало! Спорим, его демон утащил!"
+}
+]
+},
+{
+"id": 1621,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"You another tourist here for Yuzawa-en...?",
+"It was closed, wasn't it...?",
+"Just between us, it's not only that the water stopped.",
+"There's a demon in Yuzawa-en right now! I saw it!",
+"A huge demon, stomping around in the hot spring...",
+"Huh?",
+"How do I know about the demon...?",
+"Hehehe...",
+"That's my secret!"
+],
+"jp": "あんたも湯沢園目当ての 観光客かい・・・ / 臨時休業だっただろう ・・・ / ここだけの話 お湯が出ないだけじゃないんだ / 今、湯沢園には魔物がいるんだぜ！ おいらは見たんだ！ / 温泉の中をでっけえ魔物が のしのし歩いてたのを・・・ / え？ / なんで魔物のことを 知っているのかって・・・？ / てへへへ・・・ / それはおいらの秘密だい！",
+"choice": null,
+"context": [
+{
+"ru": "Добро пожаловать в Бэппу, деревню горячих источников! Окунитесь в наши воды, и все тревоги растают! По крайней мере, так нам положено говорить. На Асо упал огромный огненный шар? Правда? Думаете, мы тут в безопасности?"
+},
+{
+"ru": "Добро пожаловать в Бэппу, деревню горячих источников... Окунитесь в наши воды, и все тревоги растают... Вы ведь в Сад Юдзава пришли, да? Только он пока закрыт. По-моему, это демоны! Моя семья тут раньше работала, разбирала завалы... А мыло, что я оставил на удачу, пропало! Спорим, его демон утащил!"
+},
+{
+"self": true
+},
+{
+"ru": "Мой кореш ушел на Асо, да так и не вернулся... Там снаружи правда кругом демоны?"
+},
+{
+"ru": "Ой-ой-ой! Беда! В Саду Юдзава демоны!"
+},
+{
+"ru": "Демоны в горячих источниках... Это сильно ударит по туристам... И моей гостинице не поможет... Источники - главное, что приносит доход."
+}
+]
+},
+{
+"id": 1622,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"You beat the demon? Thanks!",
+"Now if only the hot water came back...",
+"Not that I'm planning to bathe in it, mind you..."
+],
+"jp": "魔物をやっつけてくれたのかい？ ありがとう！ / あとはお湯さえ出ればなぁ・・・ / いや、おいらが入るってわけじゃ ないんだけどね・・・",
+"choice": null,
+"context": [
+{
+"ru": "Добро пожаловать в Бэппу, деревню горячих источников! Окунитесь в наши воды, и все тревоги растают! По крайней мере, так нам положено говорить. На Асо упал огромный огненный шар? Правда? Думаете, мы тут в безопасности?"
+},
+{
+"ru": "Добро пожаловать в Бэппу, деревню горячих источников... Окунитесь в наши воды, и все тревоги растают... Вы ведь в Сад Юдзава пришли, да? Только он пока закрыт. По-моему, это демоны! Моя семья тут раньше работала, разбирала завалы... А мыло, что я оставил на удачу, пропало! Спорим, его демон утащил!"
+},
+{
+"self": true
+},
+{
+"ru": "Мой кореш ушел на Асо, да так и не вернулся... Там снаружи правда кругом демоны?"
+},
+{
+"ru": "Ой-ой-ой! Беда! В Саду Юдзава демоны!"
+},
+{
+"ru": "Демоны в горячих источниках... Это сильно ударит по туристам... И моей гостинице не поможет... Источники - главное, что приносит доход."
+}
+]
+},
+{
+"id": 1623,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"What was that white shadow just now?",
+"A whoosh of wind and the pretty sound of a bell..."
+],
+"jp": "さっきの白い影 なんじゃろか？ / ビュッてつむじ風と きれいな鈴の音・・・",
+"choice": null,
+"context": [
+{
+"ru": "Простите... тысяча извинений... При таких бедах... мы не можем принимать гостей. Может, в другой раз?"
+},
+{
+"ru": "Все пропало! Моя семья три поколения держит этот источник! А теперь ему конец!"
+},
+{
+"ru": "Эх... я приехал сюда специально ради Сада Юдзава... Ну почему он закрыт...?"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 1624,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"Well, look at you in white there...",
+"Ain't I seen you somewhere before...?"
+],
+"jp": "あれま、そこの白い人・・・ / どっかで見たような・・・",
+"choice": null,
+"context": [
+{
+"ru": "Простите... тысяча извинений... При таких бедах... мы не можем принимать гостей. Может, в другой раз?"
+},
+{
+"ru": "Все пропало! Моя семья три поколения держит этот источник! А теперь ему конец!"
+},
+{
+"ru": "Эх... я приехал сюда специально ради Сада Юдзава... Ну почему он закрыт...?"
+},
+{
+"self": true
+},
+{
+"ru": "Что мы натворили? Зачем демоны пришли сюда?!"
+}
+]
+},
+{
+"id": 1625,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"Can't play outside town, so we play inside.",
+"Us kids got our own troubles, y'know."
+],
+"jp": "町の外で遊べんから 町の中で遊んでるだ / コドモにはコドモの 苦労があるんよ",
+"choice": null,
+"context": [
+{
+"ru": "Все пропало! Моя семья три поколения держит этот источник! А теперь ему конец!"
+},
+{
+"ru": "Эх... я приехал сюда специально ради Сада Юдзава... Ну почему он закрыт...?"
+},
+{
+"self": true
+},
+{
+"ru": "Что мы натворили? Зачем демоны пришли сюда?!"
+},
+{
+"ru": "Понятно... что ж, заходите как-нибудь еще."
+}
+]
+},
+{
+"id": 1626,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"You smell like soap...",
+"A hot spring trip in times like these? I'm jealous."
+],
+"jp": "石鹸の香りがするだ・・・ / このご時世に、温泉旅行とは うらやましかね",
+"choice": null,
+"context": [
+{
+"ru": "Эх... я приехал сюда специально ради Сада Юдзава... Ну почему он закрыт...?"
+},
+{
+"self": true
+},
+{
+"ru": "Что мы натворили? Зачем демоны пришли сюда?!"
+},
+{
+"ru": "Понятно... что ж, заходите как-нибудь еще."
+},
+{
+"ru": "Большое спасибо..."
+}
+]
+},
+{
+"id": 1627,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"Somethin's goin' on over at Yuzawa-en!",
+"Folks say a demon showed up!"
+],
+"jp": "何か湯沢園の方が騒がしいだ！ / 魔物が出たとか言うとるよ！",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Что мы натворили? Зачем демоны пришли сюда?!"
+},
+{
+"ru": "Понятно... что ж, заходите как-нибудь еще."
+},
+{
+"ru": "Большое спасибо..."
+}
+]
+},
+{
+"id": 1628,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"What's that?",
+"The demons were why the water stopped?",
+"And you beat them?",
+"Whoaaa... You must be really strong!"
+],
+"jp": "なんだって？ / お湯が出ないのは 魔物の仕業だったって？ / それで あんたが倒したの？ / ひゃあああ・・・ あんた、強いんだねぇ",
+"choice": null,
+"context": [
+{
+"ru": "Что мы натворили? Зачем демоны пришли сюда?!"
+},
+{
+"ru": "Понятно... что ж, заходите как-нибудь еще."
+},
+{
+"ru": "Большое спасибо..."
+},
+{
+"self": true
+},
+{
+"ru": "Т-т-т-тут уже полно д-д-д-д-демонов!!"
+},
+{
+"ru": "В горячих источниках демоны?"
+},
+{
+"ru": "Там внутри еще остался мальчик! Помогите ему кто-нибудь!"
+}
+]
+},
+{
+"id": 1629,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"You beat the demon and got the hot water flowing again...",
+"That was you?",
+"Now Yuzawa-en's back to normal! My daily routine is back on!"
+],
+"jp": "魔物をやっつけて お湯を出してくれたのも / あんただって？ / これで湯沢園も元通り！ おいらの日課も復活だ！",
+"choice": null,
+"context": [
+{
+"ru": "Что мы натворили? Зачем демоны пришли сюда?!"
+},
+{
+"ru": "Понятно... что ж, заходите как-нибудь еще."
+},
+{
+"ru": "Большое спасибо..."
+},
+{
+"self": true
+},
+{
+"ru": "Т-т-т-тут уже полно д-д-д-д-демонов!!"
+},
+{
+"ru": "В горячих источниках демоны?"
+},
+{
+"ru": "Там внутри еще остался мальчик! Помогите ему кто-нибудь!"
+}
+]
+},
+{
+"id": 1630,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"The water! The water! The hot water's gushing out again!"
+],
+"jp": "お湯が！　お湯が！ お湯がまた、わき出してます！",
+"choice": null,
+"context": [
+{
+"ru": "Отдохнул в источниках - и снова за работу!"
+},
+{
+"ru": "Да... Сад Юдзава - лучшая причина приехать в Бэппу!"
+},
+{
+"ru": "Эй! Эй! Слыхали? Демонов в Саду Юдзава перебили!"
+},
+{
+"self": true
+},
+{
+"ru": "Что?! Правда? Отлично, можно вернуться внутрь!"
+},
+{
+"ru": "Прошу, заходите! Вода горячая и теплая!"
+},
+{
+"ru": "Простите за беспокойство, но теперь все хорошо! Если хотите искупаться, спросите хозяина."
+}
+]
+},
+{
+"id": 1631,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"Well? Did you like it?",
+"Spirit was restored a little!",
+"Ever heard of Rock-Sliding Soap? It's a Beppu specialty!",
+"They say it's used for digging hot springs, but...",
+"Go ask the old lady at Inagaki Temple!"
+],
+"jp": "どうだい 気に入ったかい？ / 気力が少し回復した！ / 「岩滑りの石鹸」を知ってるかい？ 別府特産の石鹸さ！ / 何でも、温泉を掘るときに 使うらしいけど・・・ / 稲垣寺のばあさんにでも 聞いてみな！",
+"choice": null,
+"context": [
+{
+"ru": "Ого! Что это было? Хм? Это тот же малый, что и раньше..."
+},
+{
+"ru": "Что...?! Кто это! Ха! Опять он...?!"
+},
+{
+"ru": "Ч-что... ой... эй-эй...! Голова кружится...! Эй... погоди-ка... Это был тот тип, что и раньше!"
+},
+{
+"self": true
+},
+{
+"ru": "Вы уже были в Саду Юдзава? Вот где потрясающие горячие источники!"
+},
+{
+"ru": "Сад Юдзава - лучше всех, говорю вам! Знаю, времена тяжелые, но вы все же загляните..."
+},
+{
+"ru": "Обожаю, обожаю, обожаю! Сад Юдзава - чудо!"
+}
+]
+},
+{
+"id": 1632,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"How about it... some shaved ice! Want some?",
+"Just 50GP!"
+],
+"jp": "どうだい・・・「氷がし」！ 買わないかい？ / 金５０でいいよ",
+"choice": {
+"question": "Buy shaved ice?",
+"options": [
+"Buy",
+"Don't buy"
+]
+},
+"context": [
+{
+"en": "By the way, it's going to be GP to stay the night. / Would you like to stay? Yes No"
+},
+{
+"ru": "Приятного отдыха..."
+},
+{
+"ru": "Боюсь, у вас не хватает денег... Мне ужасно жаль."
+},
+{
+"self": true
+},
+{
+"ru": "Что, не любите яйца?"
+},
+{
+"ru": "Ой-ой... вы больше не унесете."
+}
+]
+},
+{
+"id": 1633,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"With shaved ice on hand, you'll be fine in a pinch!"
+],
+"jp": "「氷がし」があったら もしもの時にも安心だよ！",
+"choice": null,
+"context": [
+{
+"en": "By the way, it's going to be GP to stay the night. / Would you like to stay? Yes No"
+},
+{
+"ru": "Приятного отдыха..."
+},
+{
+"ru": "Боюсь, у вас не хватает денег... Мне ужасно жаль."
+},
+{
+"self": true
+},
+{
+"ru": "Что, не любите яйца?"
+},
+{
+"ru": "Ой-ой... вы больше не унесете."
+},
+{
+"en": "Today's special is slow-boiled eggs over rice! 50GP a / serving... good for the constitution, so how about it? / Yes or no?Yes No"
+}
+]
+},
+{
+"id": 1634,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"No money, no shaved ice. Simple as that."
+],
+"jp": "お金がなけりゃあ そりゃ、買えねぇよな",
+"choice": null,
+"context": [
+{
+"ru": "Боюсь, у вас не хватает денег... Мне ужасно жаль."
+},
+{
+"ru": "Что, не любите яйца?"
+},
+{
+"self": true
+},
+{
+"ru": "Ой-ой... вы больше не унесете."
+},
+{
+"en": "Today's special is slow-boiled eggs over rice! 50GP a / serving... good for the constitution, so how about it? / Yes or no?Yes No"
+},
+{
+"en": "Today's special is steamed buns. 20GP a serving! Try them out! / Great for what ails you! / Yes or no?Yes No"
+}
+]
+},
+{
+"id": 1635,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"Tasty, eh? Come again.",
+"Health was restored a little!",
+"Northwest of Beppu there's a place called Monkey Mountain...",
+"Long ago some greedy fool said he'd strike a hot spring...",
+"...and dug a tunnel all the way toward Aso's crater.",
+"What an idiot, huh?"
+],
+"jp": "うまかったろう また来てくれよ / 体力が少し回復した！ / 別府の北西に猿山ってのが あるんだ・・・ / 昔どっかの欲張りが 温泉を掘り当てるんだって言って / 阿蘇の火口目指して トンネルを掘ってたんだぜ / バカなヤツだねぇ",
+"choice": null,
+"context": [
+{
+"ru": "Ой-ой... вы больше не унесете."
+},
+{
+"en": "Today's special is slow-boiled eggs over rice! 50GP a / serving... good for the constitution, so how about it? / Yes or no?Yes No"
+},
+{
+"en": "Today's special is steamed buns. 20GP a serving! Try them out! / Great for what ails you! / Yes or no?Yes No"
+},
+{
+"self": true
+},
+{
+"ru": "Что, денег нет? Очень жаль."
+},
+{
+"ru": "Понятно. Что ж, заходите как-нибудь."
+}
+]
+},
+{
+"id": 1636,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"What... what am I supposed to do..."
+],
+"jp": "うち・・・ 一体、どうしたらええの・・・",
+"choice": null,
+"context": [
+{
+"en": "Today's special is steamed buns. 20GP a serving! Try them out! / Great for what ails you! / Yes or no?Yes No"
+},
+{
+"ru": "Что, денег нет? Очень жаль."
+},
+{
+"ru": "Понятно. Что ж, заходите как-нибудь."
+},
+{
+"self": true
+},
+{
+"ru": "Проклятье!!!"
+}
+]
+},
+{
+"id": 1637,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"Ooooh! It's just as Lord Haon said!",
+"This cave really does connect Aso to Beppu!",
+"It's all thanks to that tunnel the stupid humans dug...",
+"...and the power of this Rock-Sliding Soap! Meki!",
+"Just like thiiis... slide the rock..."
+],
+"jp": "うおおお！ 破怨様の言うとおりだ！ / この洞窟が、阿蘇から別府まで つながっておるとは！ / これもバカな人間が掘ってくれた トンネルと / この「岩滑りの石鹸」の力メキ！ / こ～んな風に・・・ 岩を滑らせて・・・",
+"choice": null,
+"context": [
+{
+"ru": "Что, денег нет? Очень жаль."
+},
+{
+"ru": "Понятно. Что ж, заходите как-нибудь."
+},
+{
+"self": true
+},
+{
+"ru": "Проклятье!!!"
+},
+{
+"ru": "Тьфу... может, оно упало куда-то в источники? Придется искать, видно... хм."
+}
+]
+},
+{
+"id": 1638,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"Mekikikiki... now then...",
+"All I have to do is slide that rock in the cave nice and smooth...",
+"...and Kyushu becomes a sea of fire! Bye-bye, Beppu! Mekiki!",
+"Stupid humans, with no idea what fate awaits them..."
+],
+"jp": "メキキキキ・・・さあて / 後は洞窟の中の、あの岩を つるりと滑らせるだけで / 九州は火の海！ この別府もさようなら！　メキキ！ / バカな人間どもめ 数刻後の運命も知らずに・・・",
+"choice": null,
+"context": [
+{
+"ru": "Что, денег нет? Очень жаль."
+},
+{
+"ru": "Понятно. Что ж, заходите как-нибудь."
+},
+{
+"self": true
+},
+{
+"ru": "Проклятье!!!"
+},
+{
+"ru": "Тьфу... может, оно упало куда-то в источники? Придется искать, видно... хм."
+}
+]
+},
+{
+"id": 1639,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"Mekiki... this is bad...",
+"Without the Rock-Sliding Soap, Lord Haon's plan will...",
+"How could the great Mekira make such a blunder! Meki!"
+],
+"jp": "メキキ・・・困った・・・ / 「岩滑りの石鹸」がないと 破怨様の計画が・・・ / このメキラ様としたことが 大失敗メキ！",
+"choice": null,
+"context": [
+{
+"ru": "Проклятье!!!"
+},
+{
+"self": true
+},
+{
+"ru": "Тьфу... может, оно упало куда-то в источники? Придется искать, видно... хм."
+}
+]
+},
+{
+"id": 1640,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"Kyaaaaaaah!",
+"Pervert!"
+],
+"jp": "きゃあああああー！ / えっちぃ！",
+"choice": null,
+"context": [
+{
+"ru": "Проклятье!!!"
+},
+{
+"ru": "Тьфу... может, оно упало куда-то в источники? Придется искать, видно... хм."
+},
+{
+"self": true
+},
+{
+"ru": "Что такое? Ты тоже хочешь со мной?"
+}
+]
+},
+{
+"id": 1641,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"Blasted demons..."
+],
+"jp": "魔物どもめ・・・",
+"choice": null,
+"context": [
+{
+"ru": "Проклятье!!!"
+},
+{
+"ru": "Тьфу... может, оно упало куда-то в источники? Придется искать, видно... хм."
+},
+{
+"self": true
+},
+{
+"ru": "Что такое? Ты тоже хочешь со мной?"
+},
+{
+"en": "I can't bring both of you with me, I'm afraid. I need one of / you to watch over Kamuy Kotan. / Yes or no?Bring MamahahaBring Shikuruu"
+}
+]
+},
+{
+"id": 1642,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"Tch... of all places, a hot spring...",
+"No choice, then."
+],
+"jp": "ちっ・・・ よりによって温泉か・・・ / 仕方がない",
+"choice": null,
+"context": [
+{
+"ru": "Тьфу... может, оно упало куда-то в источники? Придется искать, видно... хм."
+},
+{
+"self": true
+},
+{
+"ru": "Что такое? Ты тоже хочешь со мной?"
+},
+{
+"en": "I can't bring both of you with me, I'm afraid. I need one of / you to watch over Kamuy Kotan. / Yes or no?Bring MamahahaBring Shikuruu"
+},
+{
+"ru": "Прости, Сикуру... Присмотри за деревней, хорошо?"
+}
+]
+},
+{
+"id": 1643,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"Oh my... Shikuruu? It's Shikuruu!"
+],
+"jp": "まあ・・・シクルゥ？ シクルゥじゃない！",
+"choice": null,
+"context": [
+{
+"ru": "Тьфу... может, оно упало куда-то в источники? Придется искать, видно... хм."
+},
+{
+"self": true
+},
+{
+"ru": "Что такое? Ты тоже хочешь со мной?"
+},
+{
+"en": "I can't bring both of you with me, I'm afraid. I need one of / you to watch over Kamuy Kotan. / Yes or no?Bring MamahahaBring Shikuruu"
+},
+{
+"ru": "Прости, Сикуру... Присмотри за деревней, хорошо?"
+}
+]
+},
+{
+"id": 1644,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"Mamahaha! It's you, Mamahaha!"
+],
+"jp": "ママハハ！ ママハハなのね！",
+"choice": null,
+"context": [
+{
+"en": "I can't bring both of you with me, I'm afraid. I need one of / you to watch over Kamuy Kotan. / Yes or no?Bring MamahahaBring Shikuruu"
+},
+{
+"ru": "Прости, Сикуру... Присмотри за деревней, хорошо?"
+},
+{
+"ru": "Ну, идем, Сикуру! Прости, Мамахаха... Пожалуйста, охраняй деревню за меня!"
+},
+{
+"self": true
+},
+{
+"ru": "Прости, Мамахаха... Присмотри за деревней, хорошо?"
+},
+{
+"ru": "Ну, идем, Мамахаха! Прости, Сикуру... Пожалуйста, охраняй деревню за меня!"
+},
+{
+"ru": "Ки-и-и!"
+}
+]
+},
+{
+"id": 1645,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"Did you fly all the way from Kamuy Kotan?",
+"Hehe... it's been a while!"
+],
+"jp": "カムイコタンから 飛んできてくれたの？ / ふふっ・・・久しぶりね！",
+"choice": null,
+"context": [
+{
+"en": "I can't bring both of you with me, I'm afraid. I need one of / you to watch over Kamuy Kotan. / Yes or no?Bring MamahahaBring Shikuruu"
+},
+{
+"ru": "Прости, Сикуру... Присмотри за деревней, хорошо?"
+},
+{
+"ru": "Ну, идем, Сикуру! Прости, Мамахаха... Пожалуйста, охраняй деревню за меня!"
+},
+{
+"self": true
+},
+{
+"ru": "Прости, Мамахаха... Присмотри за деревней, хорошо?"
+},
+{
+"ru": "Ну, идем, Мамахаха! Прости, Сикуру... Пожалуйста, охраняй деревню за меня!"
+},
+{
+"ru": "Ки-и-и!"
+}
+]
+},
+{
+"id": 1646,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"Sounds like a fuss outside... I wonder what happened..."
+],
+"jp": "なんだか外が騒がしいな・・・ 何かあったのかな・・・",
+"choice": null,
+"context": [
+{
+"ru": "Прошу... простите мою грубость..."
+},
+{
+"ru": "Что-то случилось?"
+},
+{
+"ru": "Я... я справлюсь!"
+},
+{
+"self": true
+},
+{
+"ru": "Вы бывали в Кюсю? Если не спешите, там хорошо оттачивать мастерство. Это к северу от Бэппу, найдете..."
+},
+{
+"ru": "Слыхали про Скользящее мыло? Это гордость нашей деревни! Интересно, а для кожи оно полезно...?"
+},
+{
+"ru": "Говорят, какого-то агента сегуна убил демон... И что правительство затевает что-то большое... Лишь бы не оказалось поздно остановить демонов..."
+}
+]
+},
+{
+"id": 1647,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"Hey, hey, didja know?",
+"That strange rock on Monkey Mountain is the lid to a cave!",
+"The hole from when they were digging for hot springs ages ago...",
+"...is still there!",
+"If they made it a date spot, it'd be sooo romantic!",
+"...if only."
+],
+"jp": "ねぇねぇ知ってる？ / 猿山の変な石って 洞窟のフタなんですって / むかぁし温泉をほってた アナボコが / まだ残ってるの！ / デートコースにしてくれたら ムード満点！ / ・・・なのになぁ",
+"choice": null,
+"context": [
+{
+"ru": "Говорят, какого-то агента сегуна убил демон... И что правительство затевает что-то большое... Лишь бы не оказалось поздно остановить демонов..."
+},
+{
+"ru": "Там чудище в купальне! Спорим, он какой-то суперизвращенец!"
+},
+{
+"ru": "Говорят, есть дорога, что пересекает границу нашего мира и самого ада... Зови ее дорогой в ад или дорогой судьбы... Думаю, кто-то уже прошел по ней..."
+},
+{
+"self": true
+},
+{
+"ru": "Когда копали горячие источники, намучились мы. Бывает, камень ну никак не сдвинешь... Вот тут Скользящее мыло и выручает. Намылишь - и он сам отъезжает в сторону. Да... Без этого мыла не было бы и Бэппу..."
+},
+{
+"ru": "Так... а при чем тут сад Юдзава и это чудище...? Земные жилы связаны с Асо, что ли...? Э-э... ну... ладно... вроде понятно... наверное."
+},
+{
+"ru": "Они хотят взорвать гору Асо и залить Кюсю лавой?! Да что... что же эти твари задумали...?"
+}
+]
+},
+{
+"id": 1648,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"Wh... what's going on?! That came from Yuzawa-en!"
+],
+"jp": "な・・・なんだなんだ！？ 湯沢園の方角だぞ！？",
+"choice": null,
+"context": [
+{
+"ru": "Они хотят взорвать гору Асо и залить Кюсю лавой?! Да что... что же эти твари задумали...?"
+},
+{
+"ru": "Я специально приехала ради источников...! А теперь мне ждать?! Это просто недопустимо!"
+},
+{
+"ru": "Демоны пришли? Ой, какой ужас!!"
+},
+{
+"self": true
+},
+{
+"ru": "Хозяин совсем пал духом, боюсь... Все из-за этой истории с демонами, понимаете."
+},
+{
+"ru": "Хо... хозяин...? Хозяин!"
+}
+]
+},
+{
+"id": 1649,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"Up ahead there's a temple and a blacksmith."
+],
+"jp": "ここの先には お寺や鍛冶屋が有るんですよ",
+"choice": null,
+"context": [
+{
+"ru": "Они хотят взорвать гору Асо и залить Кюсю лавой?! Да что... что же эти твари задумали...?"
+},
+{
+"ru": "Я специально приехала ради источников...! А теперь мне ждать?! Это просто недопустимо!"
+},
+{
+"ru": "Демоны пришли? Ой, какой ужас!!"
+},
+{
+"self": true
+},
+{
+"ru": "Хозяин совсем пал духом, боюсь... Все из-за этой истории с демонами, понимаете."
+},
+{
+"ru": "Хо... хозяин...? Хозяин!"
+},
+{
+"ru": "Что такое...? Потише..."
+}
+]
+},
+{
+"id": 1650,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"No hot water at Yuzawa-en...",
+"What?",
+"No water, but a monster came out?",
+"Eeeek?!"
+],
+"jp": "湯沢園は お湯が出ないよ・・・ / えっ？ / お湯は出ないが 怪物が出た？ / ひぇーっ！？",
+"choice": null,
+"context": [
+{
+"ru": "Я специально приехала ради источников...! А теперь мне ждать?! Это просто недопустимо!"
+},
+{
+"ru": "Демоны пришли? Ой, какой ужас!!"
+},
+{
+"self": true
+},
+{
+"ru": "Хозяин совсем пал духом, боюсь... Все из-за этой истории с демонами, понимаете."
+},
+{
+"ru": "Хо... хозяин...? Хозяин!"
+},
+{
+"ru": "Что такое...? Потише..."
+}
+]
+},
+{
+"id": 1651,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"Something's going on over at Yuzawa-en...?"
+],
+"jp": "湯沢園の方が騒がしいぞ・・・？",
+"choice": null,
+"context": [
+{
+"ru": "Вот он, кусочек рая, прямо здесь..."
+},
+{
+"ru": "Ла-ла-ла-ла-ла-а-а..."
+},
+{
+"ru": "После купанья мой грим всегда выглядит ужасно..."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 1652,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"Wanted to wash off the grime before settin' sail, but...",
+"Been hearin' nothin' but bad rumors lately.",
+"At least let me have a nice long soak in the bath."
+],
+"jp": "船出の前に アカを落としたかっただが・・・ / 最近イヤな噂ばっかり聞くだで / せめてフロぐれぇは ゆっくりと、つかりたいだぁよ",
+"choice": null,
+"context": [
+{
+"ru": "Вот он, кусочек рая, прямо здесь..."
+},
+{
+"ru": "Ла-ла-ла-ла-ла-а-а..."
+},
+{
+"ru": "После купанья мой грим всегда выглядит ужасно..."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 1653,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"Sure am glad I can take a bath again, but...",
+"Seems Izumo got torn up somethin' fierce by demons...",
+"...so the authorities went and banned ships from leavin' port...",
+"Got nothin' to do, so I'm in the bath every day."
+],
+"jp": "フロに入れるようになったのは うれしいけんど / 出雲が魔物にぐちゃぐちゃに されたっつーんで / お上から、出港差し止めの おふれが出ちまっただぁよ・・・ / やることがねぇんで 毎日フロばっか入ってるだ",
+"choice": null,
+"context": [
+{
+"ru": "Ла-ла-ла-ла-ла-а-а..."
+},
+{
+"ru": "После купанья мой грим всегда выглядит ужасно..."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 1654,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"Come on back anytime."
+],
+"jp": "また来たらええっちや",
+"choice": null,
+"context": [
+{
+"ru": "Добро пожаловать!"
+},
+{
+"ru": "Чего изволите?"
+},
+{
+"self": true
+},
+{
+"ru": "Чье оружие ковать?"
+},
+{
+"ru": "Денег не хватает."
+}
+]
+},
+{
+"id": 1655,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"This oughta do ya."
+],
+"jp": "あんたんこれでええっちや",
+"choice": null,
+"context": [
+{
+"ru": "Добро пожаловать!"
+},
+{
+"ru": "Чего изволите?"
+},
+{
+"ru": "Чье оружие ковать?"
+},
+{
+"self": true
+},
+{
+"ru": "Денег не хватает."
+}
+]
+},
+{
+"id": 1656,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"That person all right?"
+],
+"jp": "そんお人でえーっか？",
+"choice": null,
+"context": [
+{
+"ru": "Чье оружие ковать?"
+},
+{
+"ru": "Денег не хватает."
+},
+{
+"self": true
+},
+{
+"ru": "Вот, все готово!"
+},
+{
+"ru": "Чью стихию менять?"
+}
+]
+},
+{
+"id": 1657,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"How much trainin' ya want?"
+],
+"jp": "どんくらい鍛えるっか？",
+"choice": null,
+"context": [
+{
+"ru": "Чье оружие ковать?"
+},
+{
+"ru": "Денег не хватает."
+},
+{
+"self": true
+},
+{
+"ru": "Вот, все готово!"
+},
+{
+"ru": "Чью стихию менять?"
+},
+{
+"ru": "Какую стихию?"
+}
+]
+},
+{
+"id": 1658,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"Right, leave it to me!"
+],
+"jp": "おし、まかしとき！",
+"choice": null,
+"context": [
+{
+"ru": "Денег не хватает."
+},
+{
+"self": true
+},
+{
+"ru": "Вот, все готово!"
+},
+{
+"ru": "Чью стихию менять?"
+},
+{
+"ru": "Какую стихию?"
+}
+]
+},
+{
+"id": 1659,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"What'll it be?"
+],
+"jp": "どげしたか？",
+"choice": null,
+"context": [
+{
+"ru": "Вот, все готово!"
+},
+{
+"ru": "Чью стихию менять?"
+},
+{
+"ru": "Какую стихию?"
+},
+{
+"self": true
+},
+{
+"ru": "Вам это не по карману."
+}
+]
+},
+{
+"id": 1660,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"Anythin' else ya need?"
+],
+"jp": "他にも用があるっか？",
+"choice": null,
+"context": [
+{
+"ru": "Вот, все готово!"
+},
+{
+"ru": "Чью стихию менять?"
+},
+{
+"ru": "Какую стихию?"
+},
+{
+"self": true
+},
+{
+"ru": "Вам это не по карману."
+}
+]
+},
+{
+"id": 1661,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"What're ya buyin'?"
+],
+"jp": "何を買いよるか？",
+"choice": null,
+"context": [
+{
+"ru": "Чью стихию менять?"
+},
+{
+"ru": "Какую стихию?"
+},
+{
+"self": true
+},
+{
+"ru": "Вам это не по карману."
+}
+]
+},
+{
+"id": 1662,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"Nobody can equip that."
+],
+"jp": "誰も装備できんちや",
+"choice": null,
+"context": [
+{
+"ru": "Вам это не по карману."
+},
+{
+"self": true
+},
+{
+"ru": "Большое спасибо..."
+}
+]
+},
+{
+"id": 1663,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"Gonna equip it?"
+],
+"jp": "装備するっか？",
+"choice": null,
+"context": [
+{
+"ru": "Вам это не по карману."
+},
+{
+"self": true
+},
+{
+"ru": "Большое спасибо..."
+},
+{
+"ru": "Сколько продадите?"
+}
+]
+},
+{
+"id": 1664,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"Who's equippin' it?"
+],
+"jp": "誰ん装備するっか？",
+"choice": null,
+"context": [
+{
+"ru": "Вам это не по карману."
+},
+{
+"self": true
+},
+{
+"ru": "Большое спасибо..."
+},
+{
+"ru": "Сколько продадите?"
+},
+{
+"ru": "Больше вам не унести."
+}
+]
+},
+{
+"id": 1665,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"Which one ya takin' off?"
+],
+"jp": "どちらをはずすっか？",
+"choice": null,
+"context": [
+{
+"ru": "Вам это не по карману."
+},
+{
+"self": true
+},
+{
+"ru": "Большое спасибо..."
+},
+{
+"ru": "Сколько продадите?"
+},
+{
+"ru": "Больше вам не унести."
+}
+]
+},
+{
+"id": 1666,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"Your money's full up."
+],
+"jp": "お金が一杯っちや",
+"choice": null,
+"context": [
+{
+"ru": "Больше вам не унести."
+},
+{
+"ru": "Что продаете?"
+},
+{
+"ru": "Сколько продадите?"
+},
+{
+"self": true
+},
+{
+"ru": "Большое спасибо..."
+}
+]
+},
+{
+"id": 1667,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"Ya got nothin' to sell."
+],
+"jp": "売るものがないちや",
+"choice": null,
+"context": [
+{
+"ru": "Что продаете?"
+},
+{
+"ru": "Сколько продадите?"
+},
+{
+"ru": "Большое спасибо..."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 1668,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"That all right?"
+],
+"jp": "それでええんか？",
+"choice": null,
+"context": [
+{
+"ru": "Сколько продадите?"
+},
+{
+"ru": "Большое спасибо..."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 1669,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"Huh...",
+"So that monster Mekira was after this soap...",
+"Has it got something to do with us stopping Aso's eruption?",
+"Right! Kid, leave the demon hunting to the great Haohmaru!"
+],
+"jp": "ふーん・・・ / あのメキラとか言う 化け物がこの石鹸を・・・ / 阿蘇の噴火を止めたことと 何か関係があるのか？ / よし！　坊主、とにかく魔物退治は この覇王丸さまにまかせな！",
+"choice": null,
+"context": [
+{
+"ru": "Хорошо... значит, будешь ее личным телохранителем!"
+},
+{
+"ru": "Тогда что бы ни случилось, ты должен ее защитить."
+},
+{
+"ru": "Договорились! Если кто плохой к ней сунется, он у меня получит! Ах да! Вот та штука, которую искал демон. Возьмите... может, она вам пригодится!"
+},
+{
+"self": true
+},
+{
+"ru": "Хорошо! Обещаете?"
+}
+]
+},
+{
+"id": 1670,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"...But why would a demon want soap?",
+"Surely it didn't come to bathe in the hot springs...",
+"Could it be connected to the eruption of Aso the demons planned?",
+"Hehe... oh, never mind.",
+"Little one, don't worry about the demons anymore.",
+"We'll take care of them."
+],
+"jp": "・・・それにしても どうして魔物が石鹸を？ / まさか温泉に入りに来たわけじゃ ないでしょうし・・・ / 魔物が企んでいた阿蘇の噴火と 何か関係があるのかしら？ / ふふっ・・・まあいいわ / 坊や 魔物のことはもう心配しないで / わたしたちが何とかするから",
+"choice": null,
+"context": [
+{
+"ru": "Хорошо... значит, будешь ее личным телохранителем!"
+},
+{
+"ru": "Тогда что бы ни случилось, ты должен ее защитить."
+},
+{
+"ru": "Договорились! Если кто плохой к ней сунется, он у меня получит! Ах да! Вот та штука, которую искал демон. Возьмите... может, она вам пригодится!"
+},
+{
+"self": true
+},
+{
+"ru": "Хорошо! Обещаете?"
+},
+{
+"ru": "Э-э... ладно... Вот что искал демон, господин самурай. Возьмите, в благодарность за помощь!"
+}
+]
+},
+{
+"id": 1671,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"Strange soap, huh...?",
+"That demon was saying something about Aso erupting...",
+"You think it's connected to this?",
+"...Anyway, BOY...",
+"Leave the bad demons to me!",
+"I'll teach them a lesson, no problem!"
+],
+"jp": "変わったソープだな・・・？ / あの魔物は阿蘇の噴火がどうとか 言っていたが / こいつと関係があるというのか？ / ・・・まあとにかく、ＢＯＹ / 悪い魔物のことは このオレにまかせな！ / バッチリこらしめてやるからな！",
+"choice": null,
+"context": [
+{
+"ru": "Тогда что бы ни случилось, ты должен ее защитить."
+},
+{
+"ru": "Договорились! Если кто плохой к ней сунется, он у меня получит! Ах да! Вот та штука, которую искал демон. Возьмите... может, она вам пригодится!"
+},
+{
+"self": true
+},
+{
+"ru": "Хорошо! Обещаете?"
+},
+{
+"ru": "Э-э... ладно... Вот что искал демон, господин самурай. Возьмите, в благодарность за помощь!"
+},
+{
+"ru": "Огромное вам спасибо...!"
+}
+]
+},
+{
+"id": 1672,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"Cough... demons and soap make an odd pairing, but...",
+"From the way the demon spoke, to make Aso erupt...",
+"...this soap must surely play some part.",
+"...Thank you, little one.",
+"...Leave the demons to us."
+],
+"jp": "ごほっ・・・魔物と石鹸とは 異な取り合わせだが・・・ / 魔物の口振りから察するに 阿蘇を噴火させるために / この石鹸が何らかの役割を 果たすことは間違いあるまい / ・・・ありがとう坊や / ・・・魔物のことは 任せておきなさい",
+"choice": null,
+"context": [
+{
+"ru": "Договорились! Если кто плохой к ней сунется, он у меня получит! Ах да! Вот та штука, которую искал демон. Возьмите... может, она вам пригодится!"
+},
+{
+"self": true
+},
+{
+"ru": "Хорошо! Обещаете?"
+},
+{
+"ru": "Э-э... ладно... Вот что искал демон, господин самурай. Возьмите, в благодарность за помощь!"
+},
+{
+"ru": "Огромное вам спасибо...!"
+}
+]
+},
+{
+"id": 1673,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"Oho! Splendid! The god Tenjin's mighty pleased!"
+],
+"jp": "おお！　見事じゃ！ 天神様も大喜びタイ！",
+"choice": null,
+"context": [
+{
+"en": "/ Would you like to train?Yes No"
+},
+{
+"ru": "Хорошо... испытай свою силу против этого."
+},
+{
+"ru": "Вот как... что ж, доброго пути."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 1674,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"Well done!",
+"I reckon ye'll surely accomplish great things!"
+],
+"jp": "ようがんばった！ / おんしはきっと、大事ば なしとげることができっとよ！",
+"choice": null,
+"context": [
+{
+"en": "/ Would you like to train?Yes No"
+},
+{
+"ru": "Хорошо... испытай свою силу против этого."
+},
+{
+"ru": "Вот как... что ж, доброго пути."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 1675,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"Don't let it trouble ye.",
+"Get stronger and come train here again."
+],
+"jp": "気にすることはなかよ / 力をつけて 再びここで修行ばしたらよかと",
+"choice": null,
+"context": [
+{
+"ru": "Хорошо... испытай свою силу против этого."
+},
+{
+"ru": "Вот как... что ж, доброго пути."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 1676,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"Yer trainin' here is done.",
+"Ye're a full-fledged warrior now."
+],
+"jp": "ここでの修行は すんどるタイ / おんしはもう、一人前じゃ",
+"choice": null,
+"context": [
+{
+"ru": "Вот как... что ж, доброго пути."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 1677,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"Uh... um...",
+"Well done... finding... this place?",
+"...Known only to... huh? Wait?",
+"Known only to a select few... this is Aso's hidden inn!",
+"...it is."
+],
+"jp": "え・・・えっと・・・ / よく・・・見つけることが？ できました・・・ね / ・・・知る人ぞ・・・？　アレ？ / 知る人ぞ・・・知る ここが阿蘇の隠し宿屋だい！ / ・・・です",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"en": "GP to stay one night. / Would you like to stay? Yes No"
+},
+{
+"ru": "Спите сладко...!"
+},
+{
+"ru": "П... простите..."
+}
+]
+},
+{
+"id": 1678,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"P-please be careful!",
+"...Phewww... I was so nervous..."
+],
+"jp": "ど、どうかお気をつけて！ / ・・・ふぇぇぇぇ ・・・キンチョーしたぁ",
+"choice": null,
+"context": [
+{
+"ru": "Спите сладко...!"
+},
+{
+"ru": "П... простите..."
+},
+{
+"ru": "Вам это не по карману."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 1679,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"My son has taken over from me...",
+"...as the 128th manager of Aso's hidden inn.",
+"He's still green, so please go easy on him."
+],
+"jp": "私の跡を継いで / 息子が第１２８代 阿蘇隠し宿屋支配人になりました / まだまだ未熟ですが どうかお目こぼしを",
+"choice": null,
+"context": [
+{
+"ru": "Спите сладко...!"
+},
+{
+"ru": "П... простите..."
+},
+{
+"ru": "Вам это не по карману."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 1680,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"Hmm... you desire items, do you not?",
+"No, no, no need to hide it... I can tell..."
+],
+"jp": "ふむ・・・そなた 道具を欲しておるな？ / いやいや隠さなくともよい・・・ わしには分かる・・・",
+"choice": null,
+"context": [
+{
+"ru": "П... простите..."
+},
+{
+"ru": "Вам это не по карману."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 1681,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"Those folks who went to check out the crater sure have it rough...",
+"...Hm?",
+"We're lookin' into the fireball that fell on Aso.",
+"...But you know what?",
+"Aside from demons runnin' wild, nothin' much is outta the ordinary."
+],
+"jp": "火口の方を調べに行った連中は 大変じゃのう・・・ / ・・・ん？ / わしらは阿蘇に落ちたっちゅう 火の玉について / 調べておるところたい ・・・ばってん / 魔物が暴れちょるぐらいで 特に変わったことはなかね",
+"choice": null,
+"context": [
+{
+"ru": "Вам это не по карману."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 1682,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"I wanna finish this job quick and soak in a hot spring!",
+"Yuzawa-en in Beppu would be nice!",
+"Beppu's to the east, round the far side of Mount Aso."
+],
+"jp": "早う仕事ば済ませて ゆっくり温泉にでもつかりたか！ / 別府の湯沢園なんか、ええのお！ / 別府は阿蘇山をぐるりと回って 東にあるとよ",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1683,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"The authorities are so fussy lately...",
+"A few demons stir things up and they start shakin' in their boots...",
+"A true Kyushu man stays calm and steady!",
+"Steady as a rock!"
+],
+"jp": "最近お上はうるさいのう・・・ / ちょいと魔物が騒がしいと すうぐにビクビクしよる・・・ / 九州男児なら どかーんと構えんしゃい！ / どかーんと！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1684,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"I came 'cause I heard there's a legendary hidden inn round here.",
+"...Hm? Don't go sayin' such things!",
+"I ain't tryin' to slack off!",
+"This is a nap! A nap!"
+],
+"jp": "このあたりに伝説の 隠し宿屋があると聞いてきたんじゃ / ・・・ん？ 人聞きの悪いことを言うでなか！ / サボリを決めこもうっちゅうんじゃ ないわい！ / これは、仮眠じゃ！　仮眠！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1685,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"Headed to Beppu?",
+"Demons are crawlin' all over lately, so be careful.",
+"Beppu's on the east side of Kyushu, but it's a ways off.",
+"Best get yourself ready."
+],
+"jp": "別府に行くんか？ / 最近は魔物がうようよしちょるから 気ぃつけた方がええよ / 別府は九州の東にあるけんど 結構遠かよ / 準備はしておいた方がよか",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1686,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"Oh! Long time no see, little lady."
+],
+"jp": "おお！ 久しぶりだな、お嬢ちゃん",
+"choice": null,
+"context": [
+{
+"ru": "Эй, спасибо! Я пришел остановить Амакусу, но в итоге попался..."
+},
+{
+"ru": "Спасибо. Ты знаешь мою сестру?"
+},
+{
+"ru": "Накоруру?! Прости меня! Но видишь? Говорила же, я умею сражаться!"
+},
+{
+"self": true
+},
+{
+"ru": "О, спасибо... Я кузнец, знаете ли. На Кюсю довольно известный... но меня бросили сюда. Может, я смогу чем-то помочь вам против этих демонов?"
+},
+{
+"ru": "Надеюсь, моя работа вам здесь пригодится... Вы уже освободили остальных?"
+},
+{
+"ru": "Амакуса Сиро был убит в Симабаре сто лет назад. Из-за его ярости его призрак смог вернуться..."
+}
+]
+},
+{
+"id": 1687,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"Sister... I won't ask you to take me along anymore!",
+"Protect nature with your own hands, Sister!",
+"I'll be waiting! Promise you'll come back!"
+],
+"jp": "姉さん・・・ もう連れてってなんて言わない！ / 大自然を・・・ 姉さんの手で守って上げて！ / あたし、待ってるから！ 絶対・・・帰ってきて！",
+"choice": null,
+"context": [
+{
+"ru": "Надеюсь, моя работа вам здесь пригодится... Вы уже освободили остальных?"
+},
+{
+"ru": "Амакуса Сиро был убит в Симабаре сто лет назад. Из-за его ярости его призрак смог вернуться..."
+},
+{
+"ru": "Наверное, его как-то соблазнило некое темное божество... Он был бескорыстным человеком и жил, чтобы помогать людям. Он никогда бы так не поступил... Сила тьмы свела его с ума..."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 1688,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"...What's this?!",
+"It's the rock those Lord Ambra fanatics worshipped...",
+"It looks just like... an egg... An egg? No way?"
+],
+"jp": "・・・こいつは！？ / アンブ神を狂信していた連中の 祭っていた岩・・・ / まるで・・・卵のようだぜ・・・ 卵？　まさか？",
+"choice": null,
+"context": [
+{
+"ru": "Надеюсь, моя работа вам здесь пригодится... Вы уже освободили остальных?"
+},
+{
+"ru": "Амакуса Сиро был убит в Симабаре сто лет назад. Из-за его ярости его призрак смог вернуться..."
+},
+{
+"ru": "Наверное, его как-то соблазнило некое темное божество... Он был бескорыстным человеком и жил, чтобы помогать людям. Он никогда бы так не поступил... Сила тьмы свела его с ума..."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 1689,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"NO! It's the symbol of Lord Ambra! No thank you!",
+"But why would it be here... Could it be... the real thing?"
+],
+"jp": "ＮＯ！　アンブ神のシンボルだ！ もうノーサンキューだぜ・・・ / しかし、なぜこんなところに・・・ まさか・・・本物なのか？",
+"choice": null,
+"context": [
+{
+"ru": "Амакуса Сиро был убит в Симабаре сто лет назад. Из-за его ярости его призрак смог вернуться..."
+},
+{
+"ru": "Наверное, его как-то соблазнило некое темное божество... Он был бескорыстным человеком и жил, чтобы помогать людям. Он никогда бы так не поступил... Сила тьмы свела его с ума..."
+},
+{
+"self": true
+},
+{
+"ru": "Что это...?! Очередной камень для поклонения тех фанатиков Амбры? Наверное, его сделала Усивака... Нет, этот живой! Яйцо?"
+}
+]
+},
+{
+"id": 1690,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"Whoa! This looks like something!",
+"It's the rock the Lord Ambra people were praying to!",
+"Pak Pak, isn't this an egg? ...This egg is alive!"
+],
+"jp": "うわあ！ これ、何かに似てるよ！ / アンブ神の人たちが 祈ッてた岩だ！ / パクパク、これ、卵じゃないか？ ・・・この卵は、生きてるゾ！",
+"choice": null,
+"context": [
+{
+"ru": "Наверное, его как-то соблазнило некое темное божество... Он был бескорыстным человеком и жил, чтобы помогать людям. Он никогда бы так не поступил... Сила тьмы свела его с ума..."
+},
+{
+"self": true
+},
+{
+"ru": "Что это...?! Очередной камень для поклонения тех фанатиков Амбры? Наверное, его сделала Усивака... Нет, этот живой! Яйцо?"
+},
+{
+"ru": "Темная энергия, исходящая отсюда, питает замок!"
+}
+]
+},
+{
+"id": 1691,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"This is...?! Lord Ambra's stone...",
+"No, I can sense it... an intense wave of evil...",
+"It's an egg! The egg of Lord Ambra himself!"
+],
+"jp": "これは・・・！？ アンブ神の石・・・ / いえ、私には感じる・・・ 強烈な、邪悪の波動・・・ / これは、卵よ！ アンブ神そのものの・・・卵！",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Что это...?! Очередной камень для поклонения тех фанатиков Амбры? Наверное, его сделала Усивака... Нет, этот живой! Яйцо?"
+},
+{
+"ru": "Темная энергия, исходящая отсюда, питает замок!"
+},
+{
+"ru": "Темная сила... исходит отсюда! И это яйцо отдает ее всю замку!"
+}
+]
+},
+{
+"id": 1692,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"What is this...?!",
+"It seems to be the rock the Ambra fanatics worshipped...",
+"As I recall, the Ambra cult teaches that their god is born from an egg...",
+"The egg of Lord Ambra... Is it to be born from here?!"
+],
+"jp": "これは・・・！？ / アンブ神の狂信者たちが 祭っていた岩のようだ・・・ / 確か、アンブ教の教えでは アンブ神が卵から生まれると・・・ / アンブ神の卵・・・ ここから生まれるというのか！",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Что это...?! Очередной камень для поклонения тех фанатиков Амбры? Наверное, его сделала Усивака... Нет, этот живой! Яйцо?"
+},
+{
+"ru": "Темная энергия, исходящая отсюда, питает замок!"
+},
+{
+"ru": "Темная сила... исходит отсюда! И это яйцо отдает ее всю замку!"
+}
+]
+},
+{
+"id": 1693,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"Amakusa! Amakusa's power!"
+],
+"jp": "アマクサ！ アマクサの力！",
+"choice": null,
+"context": [
+{
+"ru": "Бесполезно! Сила копится слишком быстро!"
+},
+{
+"ru": "Бесполезно! Эта штука накопила слишком много силы!"
+},
+{
+"ru": "Сила Амакусы!"
+},
+{
+"self": true
+},
+{
+"ru": "Сила Амакусы!"
+},
+{
+"ru": "Ее нужно как-то сдержать!"
+},
+{
+"ru": "Иди вперед, {NAME}! Мы здесь справимся!"
+}
+]
+},
+{
+"id": 1694,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"We gotta do something about this power!"
+],
+"jp": "このチカラ なンとかしないとダメだ！",
+"choice": null,
+"context": [
+{
+"ru": "Сила Амакусы!"
+},
+{
+"ru": "Сила Амакусы!"
+},
+{
+"ru": "Ее нужно как-то сдержать!"
+},
+{
+"self": true
+},
+{
+"ru": "Иди вперед, {NAME}! Мы здесь справимся!"
+},
+{
+"ru": "Иди, Галфорд! Мы тут сами разберемся!"
+},
+{
+"ru": "Иди!"
+}
+]
+},
+{
+"id": 1695,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"Go on! Dance in my place!"
+],
+"jp": "行け～い！ ワシの代わりに舞ってくれぃ！",
+"choice": null,
+"context": [
+{
+"ru": "Иди вперед, {NAME}! Мы здесь справимся!"
+},
+{
+"ru": "Иди, Галфорд! Мы тут сами разберемся!"
+},
+{
+"ru": "Иди!"
+},
+{
+"self": true
+},
+{
+"ru": "Давай, шевелись! И держись!"
+},
+{
+"ru": "Амакусу надо остановить!"
+},
+{
+"ru": "Сила Амакусы!"
+}
+]
+},
+{
+"id": 1696,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"Amakusa, beat him!"
+],
+"jp": "アマクサ、やッつけちゃえ！",
+"choice": null,
+"context": [
+{
+"ru": "Иди, Галфорд! Мы тут сами разберемся!"
+},
+{
+"ru": "Иди!"
+},
+{
+"ru": "Давай, шевелись! И держись!"
+},
+{
+"self": true
+},
+{
+"ru": "Амакусу надо остановить!"
+},
+{
+"ru": "Сила Амакусы!"
+},
+{
+"ru": "Эм... ты держись, ладно?!"
+}
+]
+},
+{
+"id": 1697,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"Give it back! Give back the Palenque Stone!",
+"Then I'll forgive you, 'cause the darkness is controlling you!"
+],
+"jp": "カエセ、返せ！ パレンケストーン！ / そしたら暗黒に操られて いるンだから、許してやるよ！",
+"choice": null,
+"context": [
+{
+"ru": "А-а, так это ты..."
+},
+{
+"ru": "Очнись, Амакуса! Тобой манипулируют!"
+},
+{
+"ru": "Открой глаза, Амакуса! Тобой просто управляют!"
+},
+{
+"self": true
+},
+{
+"ru": "Открой глаза, Амакуса! Тобой управляет тьма!"
+},
+{
+"ru": "Открой глаза, Амакуса! Тобой управляет тьма!"
+},
+{
+"ru": "Убить тебя, разумеется."
+}
+]
+},
+{
+"id": 1698,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"...You... Ushiwaka?!"
+],
+"jp": "・・・お前、牛若！？",
+"choice": null,
+"context": [
+{
+"ru": "Если не примкнешь ко мне... то умрешь!"
+},
+{
+"ru": "А-а, это ты, девчонка... Как ты посмела явиться сюда...?"
+},
+{
+"ru": "Усивака...?!"
+},
+{
+"self": true
+},
+{
+"ru": "Усивака...?!"
+},
+{
+"ru": "А-а, это ты, девчонка... Как ты посмела явиться сюда...?"
+},
+{
+"ru": "Мой Темный владыка, Амброзия! Вынеси свой приговор недостойным!"
+}
+]
+},
+{
+"id": 1699,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"You... Ushiwaka?!"
+],
+"jp": "オマエ、牛若！？",
+"choice": null,
+"context": [
+{
+"ru": "А-а, это ты, девчонка... Как ты посмела явиться сюда...?"
+},
+{
+"ru": "Усивака...?!"
+},
+{
+"ru": "Усивака...?!"
+},
+{
+"self": true
+},
+{
+"ru": "А-а, это ты, девчонка... Как ты посмела явиться сюда...?"
+},
+{
+"ru": "Мой Темный владыка, Амброзия! Вынеси свой приговор недостойным!"
+},
+{
+"ru": "Заткнись! Я тебя прикончу!"
+}
+]
+},
+{
+"id": 1700,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"Wow! A skull?",
+"Did that light want to show me this?"
+],
+"jp": "ワオ！　しゃれこうべ？ / あの光は こいつを見せたかったのか？",
+"choice": null,
+"context": [
+{
+"ru": "Ну что, Амакуса... похоже, мы квиты."
+},
+{
+"ru": "Тебе не уйти!"
+},
+{
+"ru": "Что за...? Это настоящий череп?"
+},
+{
+"self": true
+},
+{
+"ru": "Нет! Не подходи туда!"
+}
+]
+},
+{
+"id": 1701,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"Wha, what's this? What is it?",
+"Huh...? It's a skeleton..."
+],
+"jp": "なンだなンだァ？ なになに、これなに？ / あれぇ・・・？ ガイコツだぁ・・・",
+"choice": null,
+"context": [
+{
+"ru": "Ну что, Амакуса... похоже, мы квиты."
+},
+{
+"ru": "Тебе не уйти!"
+},
+{
+"ru": "Что за...? Это настоящий череп?"
+},
+{
+"self": true
+},
+{
+"ru": "Нет! Не подходи туда!"
+}
+]
+},
+{
+"id": 1702,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"A small room in a place like this...?",
+"Oh!",
+"A skull... a human skull...",
+"But why would it be here?"
+],
+"jp": "こんな所に小部屋が・・・？ / まあ！ / しゃれこうべ、だわ・・・ 人の頭の骨・・・ / でも、どうして こんなところにあるの？",
+"choice": null,
+"context": [
+{
+"ru": "Тебе не уйти!"
+},
+{
+"ru": "Что за...? Это настоящий череп?"
+},
+{
+"self": true
+},
+{
+"ru": "Нет! Не подходи туда!"
+},
+{
+"ru": "{NAME}Прошу, остановитесь... мой господин Сиро..."
+}
+]
+},
+{
+"id": 1703,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"What is this! Human bones...?",
+"Hmph... what, is there something special about it..."
+],
+"jp": "何だ、これは！ 人骨・・・？ / ふん・・・こいつに 何かあるとでも言うのか・・・",
+"choice": null,
+"context": [
+{
+"ru": "Что за...? Это настоящий череп?"
+},
+{
+"self": true
+},
+{
+"ru": "Нет! Не подходи туда!"
+},
+{
+"ru": "{NAME}Прошу, остановитесь... мой господин Сиро..."
+},
+{
+"ru": "Что?! Кто здесь?!"
+}
+]
+},
+{
+"id": 1704,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"Hm... something on the pedestal...",
+"A skull... and a small one at that...",
+"A child's, or a woman's... but why..."
+],
+"jp": "む・・・何かが台の上に・・・ / しゃれこうべ・・・だ それも小さい・・・ / 子供か、女性のものだろう しかし、どうして・・・",
+"choice": null,
+"context": [
+{
+"ru": "Нет! Не подходи туда!"
+},
+{
+"self": true
+},
+{
+"ru": "{NAME}Прошу, остановитесь... мой господин Сиро..."
+},
+{
+"ru": "Что?! Кто здесь?!"
+},
+{
+"ru": "Это я, Тэн... прошу, вспомните, кто я..."
+}
+]
+},
+{
+"id": 1705,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"Amakusa... When I think of it, he was a sad man..."
+],
+"jp": "天草・・・ 思えば哀しい男よ・・・",
+"choice": null,
+"context": [
+{
+"ru": "Давай!"
+},
+{
+"ru": "А, а-а-а-а... Я... я... Моя... моя душа... о... госпожа Тэн..."
+},
+{
+"ru": "Лорд Амакуса..."
+},
+{
+"self": true
+},
+{
+"ru": "О! Камень Паленке!"
+},
+{
+"ru": "Амакуса Сиро Токисада... какая жалкая душа..."
+},
+{
+"ru": "Ну что, Амакуса... похоже, мы квиты."
+}
+]
+},
+{
+"id": 1706,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"Oh, Haohmaru... So you've struck down Amakusa!"
+],
+"jp": "おお、覇王丸・・・ 見事天草を仕留めたかァ！",
+"choice": null,
+"context": [
+{
+"ru": "Иди вперед, {NAME}! Мы здесь справимся!"
+},
+{
+"ru": "Иди вперед, {NAME}! Мы здесь справимся!"
+},
+{
+"ru": "Иди вперед, {NAME}! Мы здесь справимся!"
+},
+{
+"self": true
+},
+{
+"ru": "{NAME}... ты победил Амакусу...?"
+},
+{
+"ru": "Накоруру...? У тебя получилось?"
+},
+{
+"ru": "Галфорд! Амакуса...?"
+}
+]
+},
+{
+"id": 1707,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"Ohh, Lady Cham Cham... You have defeated Amakusa?"
+],
+"jp": "おおっ、チャムチャム殿・・・ 見事天草を倒してござったか？",
+"choice": null,
+"context": [
+{
+"ru": "Иди вперед, {NAME}! Мы здесь справимся!"
+},
+{
+"ru": "Иди вперед, {NAME}! Мы здесь справимся!"
+},
+{
+"ru": "{NAME}... ты победил Амакусу...?"
+},
+{
+"self": true
+},
+{
+"ru": "Накоруру...? У тебя получилось?"
+},
+{
+"ru": "Галфорд! Амакуса...?"
+},
+{
+"ru": "Что?!"
+}
+]
+},
+{
+"id": 1708,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"Wh-what has happened?!"
+],
+"jp": "な、何が起こったのだ！",
+"choice": null,
+"context": [
+{
+"ru": "Накоруру...? У тебя получилось?"
+},
+{
+"ru": "Галфорд! Амакуса...?"
+},
+{
+"ru": "Что?!"
+},
+{
+"self": true
+},
+{
+"ru": "А...? Что происходит?!"
+},
+{
+"ru": "Накоруру? Что происходит?!"
+},
+{
+"ru": "Тут все рушится?!"
+}
+]
+},
+{
+"id": 1709,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"It vanished into the depths of the mansion... Does it want me to go there?"
+],
+"jp": "館の奥に消えていった・・・ そこに行けと言うことか？",
+"choice": null,
+"context": [
+{
+"ru": "Он меня куда-то ведет...? На восток...!"
+},
+{
+"ru": "Ты меня куда-то ведешь...? Ладно, я за тобой!"
+},
+{
+"ru": "Ты меня куда-то ведешь...? На восток?"
+},
+{
+"self": true
+},
+{
+"ru": "Оно улетело на восток... посмотрим, куда..."
+},
+{
+"ru": "Мы были вместе в Симабаре..."
+},
+{
+"ru": "Мне... мне не нужно прошлое..."
+}
+]
+},
+{
+"id": 1710,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"...Huh?",
+"That's weird... this can't be...",
+"One more time! Give me one more chance!"
+],
+"jp": "・・・あれ？ / おかしいな・・・ こんなはずは・・・ / もう一回！ もう一回チャンスを下さい！",
+"choice": null,
+"context": [
+{
+"en": "All right... I can help heal any injuries you might have. / Do you need healing?Yes No"
+},
+{
+"ru": "Что, не доверяете мне? Ну и ладно... Вы можете вытащить нас отсюда? Прошу, скорее!"
+},
+{
+"ru": "Здоровье восстановлено! Ну как? Впечатляет, правда?"
+},
+{
+"self": true
+},
+{
+"ru": "Теперь... я понимаю по-настоящему... В отчаянии и сожалении... я искал лишь... силы! Но... желание сделало меня игрушкой Темного владыки!"
+},
+{
+"ru": "Тэн! Где ты?! Тьма застлала мне глаза... я тебя не вижу!"
+}
+]
+},
+{
+"id": 1711,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"GO! There's no time to hesitate!"
+],
+"jp": "ＧＯ！ 迷ってる時間はないハズね！",
+"choice": null,
+"context": [
+{
+"en": "All right... I can help heal any injuries you might have. / Do you need healing?Yes No"
+},
+{
+"ru": "Что, не доверяете мне? Ну и ладно... Вы можете вытащить нас отсюда? Прошу, скорее!"
+},
+{
+"ru": "Здоровье восстановлено! Ну как? Впечатляет, правда?"
+},
+{
+"self": true
+},
+{
+"ru": "Теперь... я понимаю по-настоящему... В отчаянии и сожалении... я искал лишь... силы! Но... желание сделало меня игрушкой Темного владыки!"
+},
+{
+"ru": "Тэн! Где ты?! Тьма застлала мне глаза... я тебя не вижу!"
+},
+{
+"ru": "Я здесь..."
+}
+]
+},
+{
+"id": 1712,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"Go! Stop Amakusa!"
+],
+"jp": "行ってくれ！ 天草を止めるのだ！",
+"choice": null,
+"context": [
+{
+"ru": "Что, не доверяете мне? Ну и ладно... Вы можете вытащить нас отсюда? Прошу, скорее!"
+},
+{
+"ru": "Здоровье восстановлено! Ну как? Впечатляет, правда?"
+},
+{
+"self": true
+},
+{
+"ru": "Теперь... я понимаю по-настоящему... В отчаянии и сожалении... я искал лишь... силы! Но... желание сделало меня игрушкой Темного владыки!"
+},
+{
+"ru": "Тэн! Где ты?! Тьма застлала мне глаза... я тебя не вижу!"
+},
+{
+"ru": "Я здесь..."
+}
+]
+},
+{
+"id": 1713,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"Guhaa! This is the end!"
+],
+"jp": "グハァ！　ここまでだ！",
+"choice": null,
+"context": [
+{
+"ru": "И это все, что ты мне даруешь?"
+},
+{
+"ru": "Боже! Мой Темный владыка! Ты отвернешься от меня?!"
+},
+{
+"ru": "Тогда... погибни вместе со мной!"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 1714,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"SHIT!"
+],
+"jp": "ＳＨＩＴ！",
+"choice": null,
+"context": [
+{
+"ru": "И это все, что ты мне даруешь?"
+},
+{
+"ru": "Боже! Мой Темный владыка! Ты отвернешься от меня?!"
+},
+{
+"ru": "Тогда... погибни вместе со мной!"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 1715,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"Mere humans, getting cocky... I won't let you interfere with Lord Amakusa!"
+],
+"jp": "人間風情が調子にのりおって・・・ 天草様の邪魔はさせんぞ！",
+"choice": null,
+"context": [
+{
+"ru": "Боже! Мой Темный владыка! Ты отвернешься от меня?!"
+},
+{
+"ru": "Тогда... погибни вместе со мной!"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 1716,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"Heh... so we're surrounded, huh..."
+],
+"jp": "フフ・・・ 囲まれたってわけか・・・",
+"choice": null,
+"context": [
+{
+"ru": "Тогда... погибни вместе со мной!"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 1717,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"Awfully calm, aren't you... Now, go to Hell!"
+],
+"jp": "大した余裕だな・・・ さあ、魔界へ行け！",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Простите за вторжение!"
+}
+]
+},
+{
+"id": 1718,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"Gwaaaah!"
+],
+"jp": "ぐわあああ！",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Простите за вторжение!"
+}
+]
+},
+{
+"id": 1719,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"Whoa!",
+"What happened?!"
+],
+"jp": "うおおっ！ / 何が起こったのだ！",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Простите за вторжение!"
+},
+{
+"ru": "Мастер Хандзо..."
+}
+]
+},
+{
+"id": 1720,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"Grrr... who goes there!"
+],
+"jp": "ぬぬぬ・・・何奴！",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Простите за вторжение!"
+},
+{
+"ru": "Мастер Хандзо..."
+},
+{
+"ru": "Галфорд... прошу... умоляю тебя... Спаси моего сына... спаси... Синдзо..."
+}
+]
+},
+{
+"id": 1721,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"What? More humans?!"
+],
+"jp": "何だと？　また人間！？",
+"choice": null,
+"context": [
+{
+"ru": "Простите за вторжение!"
+},
+{
+"self": true
+},
+{
+"ru": "Мастер Хандзо..."
+},
+{
+"ru": "Галфорд... прошу... умоляю тебя... Спаси моего сына... спаси... Синдзо..."
+}
+]
+},
+{
+"id": 1722,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"B-but..."
+],
+"jp": "し・・・しかし・・・",
+"choice": null,
+"context": [
+{
+"ru": "Простите за вторжение!"
+},
+{
+"ru": "Мастер Хандзо..."
+},
+{
+"ru": "Галфорд... прошу... умоляю тебя... Спаси моего сына... спаси... Синдзо..."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 1723,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"There's no time! Now, go!"
+],
+"jp": "時間がない！ さあ、早く行けい！",
+"choice": null,
+"context": [
+{
+"ru": "Мастер Хандзо..."
+},
+{
+"ru": "Галфорд... прошу... умоляю тебя... Спаси моего сына... спаси... Синдзо..."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 1724,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"...OK, Hanzo...",
+"Wait for me! I'll be back as soon as I'm done!"
+],
+"jp": "・・・ＯＫ、半蔵殿・・・ / 待っててくれ！ すぐに片づけてくるぜっ！",
+"choice": null,
+"context": [
+{
+"ru": "Мастер Хандзо..."
+},
+{
+"ru": "Галфорд... прошу... умоляю тебя... Спаси моего сына... спаси... Синдзо..."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 1725,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"...Galford.",
+"In this battle, you seem to have grasped something.",
+"I chose to bet on you.",
+"I felt that you could do more than simply fight and defeat Amakusa Shiro...",
+"...that you could accomplish more than that...",
+"Now go... Shinzo... I'm counting on you!"
+],
+"jp": "・・・ガルフォードよ / 今回の戦いで お主は何かをつかんだようだな / ワシは、お主に賭けてみたのだ / お主なら、あの天草四郎に 単純に戦って勝つ以上のことを / やってくれそうな気がしてな・・・ / さあ行け・・・ 真蔵を・・・頼む！",
+"choice": null,
+"context": [
+{
+"ru": "Галфорд... прошу... умоляю тебя... Спаси моего сына... спаси... Синдзо..."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 1726,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"Kukukukuku... You fools...",
+"Still, I shall praise your courage in defying me.",
+"Now, the vengeance begins!",
+"I shall utterly destroy the hated Tokugawa, and on this filthy earth...",
+"...build a hellish paradise ruled by the Dark Lord!",
+"Fuhahahahaha! I will slaughter you all!"
+],
+"jp": "ククククク・・・ 愚か者めが・・・ / しかし、我に逆らう 勇気だけはほめておいてやろう / さあ、復讐が始まる！ / 憎き徳川を滅ぼし尽くし 汚れた地上に / 暗黒神の支配する 地獄の楽園を築くのだ！ / フハハハハハハ！ 皆殺しにしてくれる！",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Что ж... буду молиться, чтобы путь ваш был безопасен..."
+}
+]
+},
+{
+"id": 1727,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"Hohohohoho!",
+"This is what happens when I get serious!",
+"Maggots like you merely entering Lord Amakusa's sight...",
+"...is more than I can bear!",
+"You shan't die easily! I'll torment you slowly...",
+"...until you beg me for death!"
+],
+"jp": "ホホホホホホ！ / わらわが本気を出せば この通りよ！ / 貴様らのようなウジ虫が 天草様の視界に入るだけで / わらわは我慢が出来ぬ！ / さあ、簡単には死ねぬぞ！ じわじわといたぶって / 貴様の方から死を乞い願うまで 苦しませてくれるわッ！",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Что ж... буду молиться, чтобы путь ваш был безопасен..."
+}
+]
+},
+{
+"id": 1728,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"I am Akaboko, of the red mole...",
+"For 200GP per person, I will fully restore your health and spirit..."
+],
+"jp": "私は、赤い黒子の赤黒子・・・ / 一人分金２００で体力・気力を 全回復してさしあげますが・・・",
+"choice": {
+"question": "Full restore?",
+"options": [
+"Yes",
+"No"
+]
+},
+"context": [
+{
+"self": true
+},
+{
+"ru": "Что ж... буду молиться, чтобы путь ваш был безопасен..."
+},
+{
+"ru": "Ох... у вас не хватает денег..."
+}
+]
+},
+{
+"id": 1729,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"The castle's falling?!",
+"Everyone, grab onto something! Anything!"
+],
+"jp": "城が落ちている！？ / みんなァ、何でもいいっ 何かにしがみつけぇぇぇえ！",
+"choice": null,
+"context": [
+{
+"ru": "Что ж... буду молиться, чтобы путь ваш был безопасен..."
+},
+{
+"ru": "Ох... у вас не хватает денег..."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 1730,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"We're falling?! This place?!",
+"The sky castle has lost its magic and is falling!"
+],
+"jp": "落ちるの！？ ここが！？ / 魔力を失った天空城が 落ちているんだわ！",
+"choice": null,
+"context": [
+{
+"ru": "Что ж... буду молиться, чтобы путь ваш был безопасен..."
+},
+{
+"ru": "Ох... у вас не хватает денег..."
+},
+{
+"self": true
+},
+{
+"ru": "Что... тут все рушится?!"
+}
+]
+},
+{
+"id": 1731,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"The castle's falling?! SHIT!",
+"Everyone, calm down! Brace for impact!"
+],
+"jp": "城が落ちる！？ ＳＨＩＴ！ / みんな、落ち着くんだ！ ショックに備えろ！",
+"choice": null,
+"context": [
+{
+"ru": "Ох... у вас не хватает денег..."
+},
+{
+"self": true
+},
+{
+"ru": "Что... тут все рушится?!"
+}
+]
+},
+{
+"id": 1732,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"The sky castle... is falling... Kei..."
+],
+"jp": "天空城が・・・落ちている・・・ 圭どの・・・",
+"choice": null,
+"context": [
+{
+"ru": "Ох... у вас не хватает денег..."
+},
+{
+"self": true
+},
+{
+"ru": "Что... тут все рушится?!"
+}
+]
+},
+{
+"id": 1733,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"The castle's falling? Honestly, right to the very end!"
+],
+"jp": "城が落ちる？ まったく、最後の最後までこれか！",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Что... тут все рушится?!"
+}
+]
+},
+{
+"id": 1734,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"Anything else you need?"
+],
+"jp": "まだ用があるかな？",
+"choice": null,
+"context": [
+{
+"ru": "Чего изволите?"
+},
+{
+"self": true
+},
+{
+"ru": "Старайся!"
+},
+{
+"ru": "Чье оружие ковать?"
+},
+{
+"ru": "Вам это не по карману."
+}
+]
+},
+{
+"id": 1735,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"Is this person all right?"
+],
+"jp": "このお人でいいかな？",
+"choice": null,
+"context": [
+{
+"ru": "Старайся!"
+},
+{
+"ru": "Чье оружие ковать?"
+},
+{
+"ru": "Вам это не по карману."
+},
+{
+"self": true
+},
+{
+"ru": "Чью стихию менять?"
+}
+]
+},
+{
+"id": 1736,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"How much training would you like?"
+],
+"jp": "どのくらい鍛えるのかな？",
+"choice": null,
+"context": [
+{
+"ru": "Чье оружие ковать?"
+},
+{
+"ru": "Вам это не по карману."
+},
+{
+"self": true
+},
+{
+"ru": "Чью стихию менять?"
+},
+{
+"ru": "Какую стихию?"
+}
+]
+},
+{
+"id": 1737,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"Right, wait just a moment."
+],
+"jp": "よし、少し待ってなさい",
+"choice": null,
+"context": [
+{
+"ru": "Вам это не по карману."
+},
+{
+"self": true
+},
+{
+"ru": "Чью стихию менять?"
+},
+{
+"ru": "Какую стихию?"
+}
+]
+},
+{
+"id": 1738,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"Mm, looking good!"
+],
+"jp": "うむ、いい感じじゃ！",
+"choice": null,
+"context": [
+{
+"ru": "Вам это не по карману."
+},
+{
+"self": true
+},
+{
+"ru": "Чью стихию менять?"
+},
+{
+"ru": "Какую стихию?"
+}
+]
+},
+{
+"id": 1739,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"How may I help you?"
+],
+"jp": "ご用は何でしょう？",
+"choice": null,
+"context": [
+{
+"ru": "Чью стихию менять?"
+},
+{
+"ru": "Какую стихию?"
+},
+{
+"self": true
+},
+{
+"ru": "Вам это не по карману."
+}
+]
+},
+{
+"id": 1740,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"Take your pick!"
+],
+"jp": "どれでもどうぞ！",
+"choice": null,
+"context": [
+{
+"ru": "Чью стихию менять?"
+},
+{
+"ru": "Какую стихию?"
+},
+{
+"self": true
+},
+{
+"ru": "Вам это не по карману."
+}
+]
+},
+{
+"id": 1741,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"No one can equip this, though."
+],
+"jp": "誰も装備できませんが",
+"choice": null,
+"context": [
+{
+"ru": "Вам это не по карману."
+},
+{
+"self": true
+},
+{
+"ru": "Старайся!"
+}
+]
+},
+{
+"id": 1742,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"Who will equip it?"
+],
+"jp": "誰が装備するんですか？",
+"choice": null,
+"context": [
+{
+"ru": "Вам это не по карману."
+},
+{
+"self": true
+},
+{
+"ru": "Старайся!"
+},
+{
+"ru": "Сколько вам нужно?"
+},
+{
+"ru": "Больше вам не унести."
+}
+]
+},
+{
+"id": 1743,
+"file": "FLD/F_KYU.BIN",
+"pages": [
+"Which one will you remove?"
+],
+"jp": "どちらをはずします？",
+"choice": null,
+"context": [
+{
+"ru": "Вам это не по карману."
+},
+{
+"self": true
+},
+{
+"ru": "Старайся!"
+},
+{
+"ru": "Сколько вам нужно?"
+},
+{
+"ru": "Больше вам не унести."
+}
+]
+},
+{
+"id": 1744,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"We finally did it!",
+"We beat Mizuki! We beat Mizuki!"
+],
+"jp": "とうとうやった！ / ミヅキを、ミヅキを倒したぞ！",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Кто ты...?!"
+}
+]
+},
+{
+"id": 1745,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"...Wh... where am I... What am I..."
+],
+"jp": "・・・こ・・・ここは・・・ 私は・・・一体",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Кто ты...?!"
+}
+]
+},
+{
+"id": 1746,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Y-yes... I remember now...",
+"I fought that demon called Xibalba...",
+"And then... then... Mizuki...",
+"Ugh... my head feels like it's splitting..."
+],
+"jp": "そ、そうだ・・・ 思い出した・・・ / 私はあのシバルバとか言う 魔物と戦い・・・ / それからあの・・・ あの・・・ミヅキと・・・ / うう・・・ 頭が割れるように痛い・・・",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Кто ты...?!"
+}
+]
+},
+{
+"id": 1747,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"I AM TAM TAM. WARRIOR OF GREENHELL...",
+"WHAT YOU DOING IN SACRED TEMPLE...?"
+],
+"jp": "私ハ　たむたむ ぐりーんへるノ　戦士・・・ / オマエコソ　神聖ナル神殿デ イッタイ　何ヲ　シテイルノダ・・・",
+"choice": null,
+"context": [
+{
+"ru": "Кто ты...?!"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 1748,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"I am Sieger... knight of the Drache Reich..."
+],
+"jp": "私はドラッヘ・ライヒの騎士 ズィーガー・・・だ・・・",
+"choice": null,
+"context": [
+{
+"ru": "Кто ты...?!"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 1749,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Sieger...? You say SIEGER?!"
+],
+"jp": "ずぃーがー・・・？ ずぃーがー　ダト！？",
+"choice": null,
+"context": [
+{
+"ru": "Кто ты...?!"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 1750,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"I'm so glad you're better, Sieger..."
+],
+"jp": "良かッたね、ズィーガー 元気になッて・・・",
+"choice": null,
+"context": [
+{
+"ru": "Кто ты...?!"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 1751,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Mm... Cham Cham.",
+"It's all thanks to the care of you, your brother, and everyone...",
+"Thank you, truly."
+],
+"jp": "ム・・・チャムチャム / キミや兄上を始め 皆の手厚い看護のおかげだ・・・ / 本当にありがとう",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1752,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Hehehe...",
+"You're the hero who saved our village, Sieger!",
+"This is the least we could do!"
+],
+"jp": "へへへ・・・ / ズィーガーは 村を守ッてくれた英雄だもン / このくらいは当然だよ",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1753,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"If my soul was able to return from the demon realm...",
+"...then Mizuki must be destroyed, and her hold on me broken...",
+"...is that not so?"
+],
+"jp": "私の魂が 魔界から戻ってこれたということは / ミヅキが滅びて 魔界の束縛から解放された・・・ / ということなのだろう",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1754,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"But now that the Demon Road is closed...",
+"...how am I to return to my homeland..."
+],
+"jp": "しかし魔街道が 閉じてしまった今・・・ / 私はどうやって 故国に帰ればよいのだ・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1755,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Sieger..."
+],
+"jp": "ズィーガー・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1756,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Ah... hero from a foreign land, you seem fully recovered."
+],
+"jp": "おお・・・異国の勇者よ すっかり良くなったようじゃな",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1757,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"I am most grateful... This is all thanks to you."
+],
+"jp": "かたじけない・・・ これもみなさんのおかげです",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1758,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Still, this Super Green Juice works wonders...",
+"I feel even stronger than before."
+],
+"jp": "それにしても この「超青汁」はよく効く・・・ / 以前より力が増したような 気がします",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1759,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Is that so...",
+"If there is anything else you wish, we shall grant it."
+],
+"jp": "それはそれは・・・ / 他に望みがあれば かなえてさしあげるが？",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1760,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"If anything, I should be the one thanking you...",
+"But I shall accept your kind offer.",
+"Please tell me the way to a port with ships to my homeland."
+],
+"jp": "お礼なら私がして 差し上げたいぐらいですよ・・・ / しかし、お言葉に 甘えることにしましょう / 故国に帰る船が出ている 港までの道を教えて欲しいのですが",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1761,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"...Hero, that is the one thing we cannot do.",
+"Greenhell is cut off from the outside world, untouched by it.",
+"There is no way out, and none from outside can enter."
+],
+"jp": "・・・勇者よ、それだけはできぬ / ここグリーンヘルは外界とへだたり 交わることがない / 外に出る道はないし 外のものはここには入ってこれぬ",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1762,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"...I see... It cannot be helped.",
+"I will follow the river down and search for a port.",
+"Thank you for everything."
+],
+"jp": "・・・そうですか ・・・仕方がない / とにかく川を下って 港をさがすことにしましょう / それでは、世話になりました",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1763,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"S-Sieger, that's crazy..."
+],
+"jp": "ズ、ズィーガー それは無茶だよ・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1764,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Back home, my wife and my knights must be praying for my safety.",
+"I want to show them I'm alive as soon as I can."
+],
+"jp": "故国では妻や部下の騎士たちが 私の無事を祈って待っているはず / 早く私の姿を見せて 安心させてやりたいのだ",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1765,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"I UNDERSTAND, HERO. FOLLOW TAM TAM."
+],
+"jp": "ワカッタ　勇者ヨ たむたむニ　ツイテコイ",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1766,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"OUR GREAT GOD, LORD QUETZALCOATL!",
+"ANSWER VOICE OF WARRIOR TAM TAM!"
+],
+"jp": "我ガ偉大ナル けつあるくあとるノ　神ヨ！ / 戦士たむたむノ　声ニ　答エヨ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1767,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Warrior Tam Tam... What do you ask of me..."
+],
+"jp": "戦士タムタムよ・・・ 我に何用か・・・",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Стой! Реон!!"
+}
+]
+},
+{
+"id": 1768,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"FOREIGN HERO CANNOT GO HOME. HE IN TROUBLE.",
+"PLEASE USE YOUR GREAT POWER. SEND HERO HOME..."
+],
+"jp": "異国ノ　勇者ガ 故郷ニ帰レズ　困ッテイル / アナタノ偉大ナル　オ力デ 勇者ヲ　故郷ニ　送ッテ欲シイ・・・",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Стой! Реон!!"
+}
+]
+},
+{
+"id": 1769,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Very well...",
+"That hero is a true warrior who protected my temple from demons.",
+"Warrior Tam Tam, your wish is granted..."
+],
+"jp": "承知・・・ / その勇者は我が神殿を魔物から 守護してくれた真の戦士 / 戦士タムタムよ 汝が願いはかなえられた・・・",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Стой! Реон!!"
+}
+]
+},
+{
+"id": 1770,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"GREAT QUETZALCOATL! I GIVE THANKS FROM HEART!"
+],
+"jp": "偉大ナル　けつあるくあとるヨ！ 心カラノ　感謝ヲ　捧ゲン！",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Стой! Реон!!"
+}
+]
+},
+{
+"id": 1771,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"I am grateful for the offer, but I must decline."
+],
+"jp": "申し出には感謝するが お断りさせてもらう。",
+"choice": null,
+"context": [
+{
+"ru": "Стой! Реон!!"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 1772,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Wh-why not?"
+],
+"jp": "ど、どうしてぇ？",
+"choice": null,
+"context": [
+{
+"ru": "Стой! Реон!!"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 1773,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"I am a knight sworn to the Emperor of the Drache Reich...",
+"However kind the offer, I cannot accept the help...",
+"...of a foreign god."
+],
+"jp": "私はドラッヘ・ライヒの皇帝に 忠誠を誓った騎士・・・ / 好意あふれる申し出とはいえ 異教の神に / 助けを借りるわけには いかないのだ",
+"choice": null,
+"context": [
+{
+"ru": "Стой! Реон!!"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 1774,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Please don't think ill of me..."
+],
+"jp": "悪く思わないでくれ・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1775,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"...B... but..."
+],
+"jp": "・・・そ・・・そんなぁ・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 1776,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Forgive me..."
+],
+"jp": "済まぬ・・・",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Что ты имеешь в виду?!"
+}
+]
+},
+{
+"id": 1777,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Then let us put it this way...",
+"Hero, it was we who nursed you back to health.",
+"So would you grant us a wish in return?"
+],
+"jp": "それでは こういうことにしよう・・・ / 勇者よ そなたを介抱したのは我々じゃ / そこで我々の願いを かなえては下さらぬか？",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Что ты имеешь в виду?!"
+}
+]
+},
+{
+"id": 1778,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"...?",
+"If it is within my power, gladly..."
+],
+"jp": "・・・？ / 私にできることなら 喜んで・・・",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Что ты имеешь в виду?!"
+}
+]
+},
+{
+"id": 1779,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Then, as thanks...",
+"...take Cham Cham with you to your homeland...",
+"...and show her around a bit, would you?"
+],
+"jp": "それではお礼として / このチャムチャムを そなたの祖国へと連れていって / ・・・いろいろと 見物させてやってはくれまいか？",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Что ты имеешь в виду?!"
+}
+]
+},
+{
+"id": 1780,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"That way, you are not accepting help.",
+"For we will be using Lord Quetzalcoatl's power...",
+"...to send Cham Cham, you see."
+],
+"jp": "それならば 助けを借りるわけではない / チャムチャムを送りとどけるために / 我らがケツアルクアトル神の お力を使うわけじゃからな",
+"choice": null,
+"context": [
+{
+"ru": "Что ты имеешь в виду?!"
+},
+{
+"self": true
+},
+{
+"ru": "Хм?!"
+}
+]
+},
+{
+"id": 1781,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"What do you say? I think it is not a bad deal."
+],
+"jp": "どうじゃろう？ 悪い話ではないと思うのじゃが",
+"choice": null,
+"context": [
+{
+"ru": "Что ты имеешь в виду?!"
+},
+{
+"self": true
+},
+{
+"ru": "Хм?!"
+}
+]
+}
+]

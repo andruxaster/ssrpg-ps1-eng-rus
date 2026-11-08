@@ -1,0 +1,2340 @@
+[
+{
+"id": "u0391",
+"en": "Inn     ",
+"jp": "宿<227d>　　",
+"kind": "название лавки",
+"max_tiles_per_line": 4,
+"en_tiles": [
+4
+],
+"where": [
+[
+"shops",
+0
+]
+],
+"n": 1
+},
+{
+"id": "u0392",
+"en": "Items   ",
+"jp": "道<23b6><227d>　",
+"kind": "название лавки",
+"max_tiles_per_line": 4,
+"en_tiles": [
+4
+],
+"where": [
+[
+"shops",
+1
+]
+],
+"n": 1
+},
+{
+"id": "u0393",
+"en": "Smithy  ",
+"jp": "う<22cd><227d>　",
+"kind": "название лавки",
+"max_tiles_per_line": 4,
+"en_tiles": [
+4
+],
+"where": [
+[
+"shops",
+2
+]
+],
+"n": 1
+},
+{
+"id": "u0394",
+"en": "Foods   ",
+"jp": "<24b0><227d>　　",
+"kind": "название лавки",
+"max_tiles_per_line": 4,
+"en_tiles": [
+4
+],
+"where": [
+[
+"shops",
+3
+]
+],
+"n": 1
+},
+{
+"id": "u0395",
+"en": "Drugs   ",
+"jp": "<2408><227d>　　",
+"kind": "название лавки",
+"max_tiles_per_line": 4,
+"en_tiles": [
+4
+],
+"where": [
+[
+"shops",
+4
+]
+],
+"n": 1
+},
+{
+"id": "u0396",
+"en": "Gifts   ",
+"jp": "て<255d>物<227d>",
+"kind": "название лавки",
+"max_tiles_per_line": 4,
+"en_tiles": [
+4
+],
+"where": [
+[
+"shops",
+5
+]
+],
+"n": 1
+},
+{
+"id": "u0397",
+"en": "Armory  ",
+"jp": "武<23b6><227d>　",
+"kind": "название лавки",
+"max_tiles_per_line": 4,
+"en_tiles": [
+4
+],
+"where": [
+[
+"shops",
+6
+]
+],
+"n": 1
+},
+{
+"id": "u0398",
+"en": "Smithy",
+"jp": "刀<227d>　　",
+"kind": "название лавки",
+"max_tiles_per_line": 4,
+"en_tiles": [
+3
+],
+"where": [
+[
+"shops",
+7
+]
+],
+"n": 1
+},
+{
+"id": "u0507",
+"en": "Flower Pin",
+"jp": "花かんざし",
+"kind": "название ключевого предмета",
+"max_tiles_per_line": 9,
+"en_tiles": [
+5
+],
+"where": [
+[
+"keyitems",
+0
+]
+],
+"n": 1
+},
+{
+"id": "u0508",
+"en": "Shrine Rope ",
+"jp": "しめなわ",
+"kind": "название ключевого предмета",
+"max_tiles_per_line": 9,
+"en_tiles": [
+6
+],
+"where": [
+[
+"keyitems",
+1
+]
+],
+"n": 1
+},
+{
+"id": "u0509",
+"en": "Temple Key",
+"jp": "礼<2587><2399>の<22b0>い<2460>",
+"kind": "название ключевого предмета",
+"max_tiles_per_line": 9,
+"en_tiles": [
+5
+],
+"where": [
+[
+"keyitems",
+2
+]
+],
+"n": 1
+},
+{
+"id": "u0510",
+"en": "Mary Statue ",
+"jp": "<238d>母そ",
+"kind": "название ключевого предмета",
+"max_tiles_per_line": 9,
+"en_tiles": [
+6
+],
+"where": [
+[
+"keyitems",
+3
+]
+],
+"n": 1
+},
+{
+"id": "u0511",
+"en": "Amakusa's Cross ",
+"jp": "天草のクルス",
+"kind": "название ключевого предмета",
+"max_tiles_per_line": 9,
+"en_tiles": [
+8
+],
+"where": [
+[
+"keyitems",
+4
+]
+],
+"n": 1
+},
+{
+"id": "u0512",
+"en": "Corundum",
+"jp": "<2783><2435>",
+"kind": "название ключевого предмета",
+"max_tiles_per_line": 9,
+"en_tiles": [
+4
+],
+"where": [
+[
+"keyitems",
+5
+]
+],
+"n": 1
+},
+{
+"id": "u0513",
+"en": "Hakone Pass ",
+"jp": "<243c>根手形",
+"kind": "название ключевого предмета",
+"max_tiles_per_line": 9,
+"en_tiles": [
+6
+],
+"where": [
+[
+"keyitems",
+6
+]
+],
+"n": 1
+},
+{
+"id": "u0514",
+"en": "Secret Pass ",
+"jp": "金密手形",
+"kind": "название ключевого предмета",
+"max_tiles_per_line": 9,
+"en_tiles": [
+6
+],
+"where": [
+[
+"keyitems",
+7
+]
+],
+"n": 1
+},
+{
+"id": "u0515",
+"en": "National Pass ",
+"jp": "全国手形",
+"kind": "название ключевого предмета",
+"max_tiles_per_line": 9,
+"en_tiles": [
+7
+],
+"where": [
+[
+"keyitems",
+8
+]
+],
+"n": 1
+},
+{
+"id": "u0516",
+"en": "Wife's Ring ",
+"jp": "愛<2547>の<2462><23f1>",
+"kind": "название ключевого предмета",
+"max_tiles_per_line": 9,
+"en_tiles": [
+6
+],
+"where": [
+[
+"keyitems",
+9
+]
+],
+"n": 1
+},
+{
+"id": "u0517",
+"en": "Hair of Time",
+"jp": "時の後ろ髪",
+"kind": "название ключевого предмета",
+"max_tiles_per_line": 9,
+"en_tiles": [
+6
+],
+"where": [
+[
+"keyitems",
+10
+]
+],
+"n": 1
+},
+{
+"id": "u0518",
+"en": "Nicotine's Letter ",
+"jp": "が<22a4>の手<2504>",
+"kind": "название ключевого предмета",
+"max_tiles_per_line": 9,
+"en_tiles": [
+9
+],
+"where": [
+[
+"keyitems",
+11
+]
+],
+"n": 1
+},
+{
+"id": "u0519",
+"en": "Rockslide Soap",
+"jp": "岩<25a4>りのい<2571>",
+"kind": "название ключевого предмета",
+"max_tiles_per_line": 9,
+"en_tiles": [
+7
+],
+"where": [
+[
+"keyitems",
+12
+]
+],
+"n": 1
+},
+{
+"id": "u0520",
+"en": "Gold Bell ",
+"jp": "金の法の",
+"kind": "название ключевого предмета",
+"max_tiles_per_line": 9,
+"en_tiles": [
+5
+],
+"where": [
+[
+"keyitems",
+13
+]
+],
+"n": 1
+},
+{
+"id": "u0521",
+"en": "Invitation",
+"jp": "招待を",
+"kind": "название ключевого предмета",
+"max_tiles_per_line": 9,
+"en_tiles": [
+5
+],
+"where": [
+[
+"keyitems",
+14
+]
+],
+"n": 1
+},
+{
+"id": "u0522",
+"en": "Xianbara Shield ",
+"jp": "シャンバラの盾",
+"kind": "название ключевого предмета",
+"max_tiles_per_line": 9,
+"en_tiles": [
+8
+],
+"where": [
+[
+"keyitems",
+15
+]
+],
+"n": 1
+},
+{
+"id": "u0523",
+"en": "Golden Banana ",
+"jp": "自金のバナナン",
+"kind": "название ключевого предмета",
+"max_tiles_per_line": 9,
+"en_tiles": [
+7
+],
+"where": [
+[
+"keyitems",
+16
+]
+],
+"n": 1
+},
+{
+"id": "u0524",
+"en": "Muu's Key ",
+"jp": "ムーの<2460>",
+"kind": "название ключевого предмета",
+"max_tiles_per_line": 9,
+"en_tiles": [
+5
+],
+"where": [
+[
+"keyitems",
+17
+]
+],
+"n": 1
+},
+{
+"id": "u0525",
+"en": "Corday Heirloom ",
+"jp": "コルデの家る",
+"kind": "название ключевого предмета",
+"max_tiles_per_line": 9,
+"en_tiles": [
+8
+],
+"where": [
+[
+"keyitems",
+18
+]
+],
+"n": 1
+},
+{
+"id": "u0526",
+"en": "Gold Apple",
+"jp": "自金のリンゴ",
+"kind": "название ключевого предмета",
+"max_tiles_per_line": 9,
+"en_tiles": [
+5
+],
+"where": [
+[
+"keyitems",
+19
+]
+],
+"n": 1
+},
+{
+"id": "u0527",
+"en": "Silver Bell ",
+"jp": "<2467>の法の",
+"kind": "название ключевого предмета",
+"max_tiles_per_line": 9,
+"en_tiles": [
+6
+],
+"where": [
+[
+"keyitems",
+20
+],
+[
+"keyitems",
+22
+]
+],
+"n": 2
+},
+{
+"id": "u0528",
+"en": "Bell",
+"jp": "法の",
+"kind": "название ключевого предмета",
+"max_tiles_per_line": 9,
+"en_tiles": [
+2
+],
+"where": [
+[
+"keyitems",
+21
+]
+],
+"n": 1
+},
+{
+"id": "u0529",
+"en": "Evil Talisman ",
+"jp": "破邪の<267b>",
+"kind": "название ключевого предмета",
+"max_tiles_per_line": 9,
+"en_tiles": [
+7
+],
+"where": [
+[
+"keyitems",
+23
+]
+],
+"n": 1
+},
+{
+"id": "u0530",
+"en": "Meat Bun",
+"jp": "」まん",
+"kind": "название ключевого предмета",
+"max_tiles_per_line": 9,
+"en_tiles": [
+4
+],
+"where": [
+[
+"keyitems",
+24
+]
+],
+"n": 1
+},
+{
+"id": "u0531",
+"en": "A hairpin that Kei left \nwith the dollmaker",
+"jp": "お<25d5>さんがからくり<227d>に\n忘れていったかんざし",
+"kind": "описание ключевого предмета",
+"max_tiles_per_line": 13,
+"en_tiles": [
+12,
+9
+],
+"where": [
+[
+"keyitems",
+25
+]
+],
+"n": 1
+},
+{
+"id": "u0532",
+"en": "A sacred shrine rope of \ngreat binding power ",
+"jp": "強力な服部<2382>力を<23d1>する\nしめなわ",
+"kind": "описание ключевого предмета",
+"max_tiles_per_line": 13,
+"en_tiles": [
+12,
+10
+],
+"where": [
+[
+"keyitems",
+26
+]
+],
+"n": 1
+},
+{
+"id": "u0533",
+"en": "A pass key for a shrine \nsaid to be in Aso ",
+"jp": "<22a5><22e1>にあると言われる\n礼<2587><2399>の<22b0>い<2460>",
+"kind": "описание ключевого предмета",
+"max_tiles_per_line": 13,
+"en_tiles": [
+12,
+9
+],
+"where": [
+[
+"keyitems",
+27
+]
+],
+"n": 1
+},
+{
+"id": "u0534",
+"en": "An idol of Lady Toki, \nrevered by the villagers",
+"jp": "村人が大切にしている\n時姫ゆかりの<238d>母そ",
+"kind": "описание ключевого предмета",
+"max_tiles_per_line": 13,
+"en_tiles": [
+11,
+12
+],
+"where": [
+[
+"keyitems",
+28
+]
+],
+"n": 1
+},
+{
+"id": "u0535",
+"en": "A crucifix once worn by \nAmakusa, long ago ",
+"jp": "天草四郎がその昔\n身につけていた十<2586><267d>",
+"kind": "описание ключевого предмета",
+"max_tiles_per_line": 13,
+"en_tiles": [
+12,
+9
+],
+"where": [
+[
+"keyitems",
+29
+]
+],
+"n": 1
+},
+{
+"id": "u0536",
+"en": "A mineral needed by the \nsmithy in Ise ",
+"jp": "伊勢のう<22cd><227d>が\n大切にしていた<2783>の<2435>",
+"kind": "описание ключевого предмета",
+"max_tiles_per_line": 13,
+"en_tiles": [
+12,
+7
+],
+"where": [
+[
+"keyitems",
+30
+]
+],
+"n": 1
+},
+{
+"id": "u0537",
+"en": "Enables passage through \nHakone gate ",
+"jp": "<243c>根の悪所を<23d3>けることが\nできる手形",
+"kind": "описание ключевого предмета",
+"max_tiles_per_line": 13,
+"en_tiles": [
+12,
+6
+],
+"where": [
+[
+"keyitems",
+31
+]
+],
+"n": 1
+},
+{
+"id": "u0538",
+"en": "Pass from the shogunate \nand given by Yagyu house",
+"jp": "わ生家が<25c1>ふより\nたまわった手形",
+"kind": "описание ключевого предмета",
+"max_tiles_per_line": 13,
+"en_tiles": [
+12,
+12
+],
+"where": [
+[
+"keyitems",
+32
+]
+],
+"n": 1
+},
+{
+"id": "u0539",
+"en": "A pass needed for travel\nthroughout the nation ",
+"jp": "全国を旅するために\nまらな手形",
+"kind": "описание ключевого предмета",
+"max_tiles_per_line": 13,
+"en_tiles": [
+12,
+11
+],
+"where": [
+[
+"keyitems",
+33
+]
+],
+"n": 1
+},
+{
+"id": "u0540",
+"en": "A ring which Sieger gave\nto his beloved wife ",
+"jp": "ズィーガーが愛する<2547>に\n<21c0>レゼントした<2462><23f1>",
+"kind": "описание ключевого предмета",
+"max_tiles_per_line": 13,
+"en_tiles": [
+12,
+10
+],
+"where": [
+[
+"keyitems",
+34
+]
+],
+"n": 1
+},
+{
+"id": "u0541",
+"en": "Use at the Noh theater\nand beat me!   Yoshikuni",
+"jp": "<2382>楽<2399>にて使われたし\n我に勝て！　　美州姫より",
+"kind": "описание ключевого предмета",
+"max_tiles_per_line": 13,
+"en_tiles": [
+11,
+12
+],
+"where": [
+[
+"keyitems",
+35
+]
+],
+"n": 1
+},
+{
+"id": "u0542",
+"en": "An invitation to Izumo\nfrom Nicotine ",
+"jp": "が<22a4>が<257a>から<263f>いた\n出雲への招待を",
+"kind": "описание ключевого предмета",
+"max_tiles_per_line": 13,
+"en_tiles": [
+11,
+7
+],
+"where": [
+[
+"keyitems",
+36
+]
+],
+"n": 1
+},
+{
+"id": "u0543",
+"en": "Allows one to move rocks\nwith ease ",
+"jp": "大きな岩をも<25a4>らす\nことのできるい<2571>",
+"kind": "описание ключевого предмета",
+"max_tiles_per_line": 13,
+"en_tiles": [
+12,
+5
+],
+"where": [
+[
+"keyitems",
+37
+]
+],
+"n": 1
+},
+{
+"id": "u0544",
+"en": "One of two bells Reon \nuses to seal away evil",
+"jp": "飛��が作った魔を服じる\nための法<23b6>　<2467>の法のと対",
+"kind": "описание ключевого предмета",
+"max_tiles_per_line": 13,
+"en_tiles": [
+11,
+11
+],
+"where": [
+[
+"keyitems",
+38
+],
+[
+"keyitems",
+45
+]
+],
+"n": 2
+},
+{
+"id": "u0545",
+"en": "Invitation from Queen \nAntoinette to a ball",
+"jp": "アントワ王イ主<281b>の戦れを\n<24bd><25a5>する<22bd><24eb>会への招待を",
+"kind": "описание ключевого предмета",
+"max_tiles_per_line": 13,
+"en_tiles": [
+11,
+10
+],
+"where": [
+[
+"keyitems",
+39
+]
+],
+"n": 1
+},
+{
+"id": "u0546",
+"en": "A shield said to be able\nto reflect evil energy",
+"jp": "邪悪な力を<25d4>ね返すと\n言われる、<2396><2628>を持った盾",
+"kind": "описание ключевого предмета",
+"max_tiles_per_line": 13,
+"en_tiles": [
+12,
+11
+],
+"where": [
+[
+"keyitems",
+40
+]
+],
+"n": 1
+},
+{
+"id": "u0547",
+"en": "An offering to the great\nQuetzalcoatl",
+"jp": "ケツアルクアトル神への\n<25b6>げもの",
+"kind": "описание ключевого предмета",
+"max_tiles_per_line": 13,
+"en_tiles": [
+12,
+6
+],
+"where": [
+[
+"keyitems",
+41
+]
+],
+"n": 1
+},
+{
+"id": "u0548",
+"en": "Key to open the path\nsealed by the Muu ",
+"jp": "ムー迷<22f2>の閉ざされた道を\n<2309>く<2460>",
+"kind": "описание ключевого предмета",
+"max_tiles_per_line": 13,
+"en_tiles": [
+10,
+9
+],
+"where": [
+[
+"keyitems",
+42
+]
+],
+"n": 1
+},
+{
+"id": "u0549",
+"en": "Heirloom of the Cordays,\nstolen by Earthquake",
+"jp": "アースクおイクが盗んだ\nコルデ家の家る",
+"kind": "описание ключевого предмета",
+"max_tiles_per_line": 13,
+"en_tiles": [
+12,
+10
+],
+"where": [
+[
+"keyitems",
+43
+]
+],
+"n": 1
+},
+{
+"id": "u0550",
+"en": "A strange fruit, sought \nby the holy man ",
+"jp": "魔術んホーリーが探し\n求めていた幻の果実",
+"kind": "описание ключевого предмета",
+"max_tiles_per_line": 13,
+"en_tiles": [
+12,
+8
+],
+"where": [
+[
+"keyitems",
+44
+]
+],
+"n": 1
+},
+{
+"id": "u0551",
+"en": "Bronze bell imbued with \npower to destroy evil ",
+"jp": "邪ちろを破壊する事が\nできる先<25b3>伝来の法<23b6>",
+"kind": "описание ключевого предмета",
+"max_tiles_per_line": 13,
+"en_tiles": [
+12,
+11
+],
+"where": [
+[
+"keyitems",
+46
+]
+],
+"n": 1
+},
+{
+"id": "u0552",
+"en": "A bell once used by Hion\nfor the ultimate prayer ",
+"jp": "かつて飛��がま勝祈願の\nために<2421><2676>した法の",
+"kind": "описание ключевого предмета",
+"max_tiles_per_line": 13,
+"en_tiles": [
+12,
+12
+],
+"where": [
+[
+"keyitems",
+47
+]
+],
+"n": 1
+},
+{
+"id": "u0553",
+"en": "Talisman to destroy evil\nbarriers",
+"jp": "邪悪な<22b3>界を破るお<267b>",
+"kind": "описание ключевого предмета",
+"max_tiles_per_line": 13,
+"en_tiles": [
+12,
+4
+],
+"where": [
+[
+"keyitems",
+48
+]
+],
+"n": 1
+},
+{
+"id": "u0554",
+"en": "A very popular side dish\nin Peking ",
+"jp": "北京<27fe><24f5>の人気ん理\nのたへの差しいれ",
+"kind": "описание ключевого предмета",
+"max_tiles_per_line": 13,
+"en_tiles": [
+12,
+5
+],
+"where": [
+[
+"keyitems",
+49
+]
+],
+"n": 1
+},
+{
+"id": "u0602",
+"en": "Attack 1 foe",
+"jp": "れ体へ<2372><2308>",
+"kind": "описание действия приема (меню)",
+"max_tiles_per_line": 13,
+"en_tiles": [
+6
+],
+"where": [
+[
+"keyitems",
+289
+]
+],
+"n": 1
+},
+{
+"id": "u0603",
+"en": "Attack 1 foe + Confuse",
+"jp": "れ体へ<2372><2308><2239><2420>乱",
+"kind": "описание действия приема (меню)",
+"max_tiles_per_line": 13,
+"en_tiles": [
+11
+],
+"where": [
+[
+"keyitems",
+290
+]
+],
+"n": 1
+},
+{
+"id": "u0604",
+"en": "{T9}{T10}{T11}{T12}1 foe ",
+"jp": "れ体へ<26d9>性<2372><2308>",
+"kind": "описание действия приема (меню)",
+"max_tiles_per_line": 13,
+"en_tiles": [
+7
+],
+"where": [
+[
+"keyitems",
+291
+]
+],
+"n": 1
+},
+{
+"id": "u0605",
+"en": "{T9}{T10}{T11}{T12}1 foe + Confuse ",
+"jp": "れ体へ<26d9>性<2372><2308><2239><2420>乱",
+"kind": "описание действия приема (меню)",
+"max_tiles_per_line": 13,
+"en_tiles": [
+12
+],
+"where": [
+[
+"keyitems",
+292
+]
+],
+"n": 1
+},
+{
+"id": "u0606",
+"en": "{T9}{T10}{T11}{T12}1 foe + Dizzy ",
+"jp": "れ体へ<26d9>性<2372><2308><2239>放心",
+"kind": "описание действия приема (меню)",
+"max_tiles_per_line": 13,
+"en_tiles": [
+11
+],
+"where": [
+[
+"keyitems",
+293
+]
+],
+"n": 1
+},
+{
+"id": "u0607",
+"en": "{T9}{T10}{T11}{T12}1 foe + SP drain",
+"jp": "れ体へ<26d9>性<2372><2308><2239>気力<2561><24c8>",
+"kind": "описание действия приема (меню)",
+"max_tiles_per_line": 13,
+"en_tiles": [
+12
+],
+"where": [
+[
+"keyitems",
+294
+]
+],
+"n": 1
+},
+{
+"id": "u0608",
+"en": "{T9}{T10}{T11}{T12}1 foe + Curse ",
+"jp": "れ体へ<26d9>性<2372><2308><2239>呪い",
+"kind": "описание действия приема (меню)",
+"max_tiles_per_line": 13,
+"en_tiles": [
+11
+],
+"where": [
+[
+"keyitems",
+295
+]
+],
+"n": 1
+},
+{
+"id": "u0609",
+"en": "{T9}{T10}{T11}{T12}1 foe + Slowdown",
+"jp": "れ体へ<26d9>性<2239><259d>さ<272c>す",
+"kind": "описание действия приема (меню)",
+"max_tiles_per_line": 13,
+"en_tiles": [
+12
+],
+"where": [
+[
+"keyitems",
+296
+]
+],
+"n": 1
+},
+{
+"id": "u0610",
+"en": "Attack 2 foes + Confuse ",
+"jp": "２体へ<2372><2308><2239><2420>乱",
+"kind": "описание действия приема (меню)",
+"max_tiles_per_line": 13,
+"en_tiles": [
+12
+],
+"where": [
+[
+"keyitems",
+297
+]
+],
+"n": 1
+},
+{
+"id": "u0611",
+"en": "{T9}{T10}{T11}{T12}2 foes",
+"jp": "２体へ<26d9>性<2372><2308>",
+"kind": "описание действия приема (меню)",
+"max_tiles_per_line": 13,
+"en_tiles": [
+7
+],
+"where": [
+[
+"keyitems",
+298
+]
+],
+"n": 1
+},
+{
+"id": "u0612",
+"en": "{T9}{T10}{T11}{T12}2 foes + Dizzy",
+"jp": "２体へ<26d9>性<2372><2308><2239>放心",
+"kind": "описание действия приема (меню)",
+"max_tiles_per_line": 13,
+"en_tiles": [
+11
+],
+"where": [
+[
+"keyitems",
+299
+]
+],
+"n": 1
+},
+{
+"id": "u0613",
+"en": "Unblockable on 2 foes ",
+"jp": "２体<24df><2424>不<2382><2372><2308>",
+"kind": "описание действия приема (меню)",
+"max_tiles_per_line": 13,
+"en_tiles": [
+11
+],
+"where": [
+[
+"keyitems",
+300
+]
+],
+"n": 1
+},
+{
+"id": "u0614",
+"en": "Attacks all foes",
+"jp": "全体へ<2372><2308>",
+"kind": "описание действия приема (меню)",
+"max_tiles_per_line": 13,
+"en_tiles": [
+8
+],
+"where": [
+[
+"keyitems",
+301
+]
+],
+"n": 1
+},
+{
+"id": "u0615",
+"en": "Attack all + Confuse",
+"jp": "全体へ<2372><2308><2239><2420>乱",
+"kind": "описание действия приема (меню)",
+"max_tiles_per_line": 13,
+"en_tiles": [
+10
+],
+"where": [
+[
+"keyitems",
+302
+]
+],
+"n": 1
+},
+{
+"id": "u0616",
+"en": "{T9}{T10}{T11}{T12}on all foes ",
+"jp": "全体へ<26d9>性<2372><2308>",
+"kind": "описание действия приема (меню)",
+"max_tiles_per_line": 13,
+"en_tiles": [
+10
+],
+"where": [
+[
+"keyitems",
+303
+]
+],
+"n": 1
+},
+{
+"id": "u0617",
+"en": "{T9}{T10}{T11}{T12}on all + Dizzy",
+"jp": "全体へ<26d9>性<2372><2308><2239>放心",
+"kind": "описание действия приема (меню)",
+"max_tiles_per_line": 13,
+"en_tiles": [
+11
+],
+"where": [
+[
+"keyitems",
+304
+]
+],
+"n": 1
+},
+{
+"id": "u0618",
+"en": "Unblockable on all foes ",
+"jp": "全体<24df><2424>不<2382><2372><2308>",
+"kind": "описание действия приема (меню)",
+"max_tiles_per_line": 13,
+"en_tiles": [
+12
+],
+"where": [
+[
+"keyitems",
+305
+]
+],
+"n": 1
+},
+{
+"id": "u0619",
+"en": "Attack all in a line",
+"jp": "<2374>れ<267a>へ<2372><2308>",
+"kind": "описание действия приема (меню)",
+"max_tiles_per_line": 13,
+"en_tiles": [
+10
+],
+"where": [
+[
+"keyitems",
+306
+]
+],
+"n": 1
+},
+{
+"id": "u0620",
+"en": "{T9}{T10}{T11}{T12}all in a line ",
+"jp": "<2374>れ<267a>へ<26d9>性<2372><2308>",
+"kind": "описание действия приема (меню)",
+"max_tiles_per_line": 13,
+"en_tiles": [
+11
+],
+"where": [
+[
+"keyitems",
+307
+]
+],
+"n": 1
+},
+{
+"id": "u0621",
+"en": "Two-slash attack",
+"jp": "２<229b>斬り<2372><2308>",
+"kind": "описание действия приема (меню)",
+"max_tiles_per_line": 13,
+"en_tiles": [
+8
+],
+"where": [
+[
+"keyitems",
+308
+]
+],
+"n": 1
+},
+{
+"id": "u0622",
+"en": "Three-slash attack",
+"jp": "<21d6><229b>斬り<2372><2308>",
+"kind": "описание действия приема (меню)",
+"max_tiles_per_line": 13,
+"en_tiles": [
+9
+],
+"where": [
+[
+"keyitems",
+309
+]
+],
+"n": 1
+},
+{
+"id": "u0623",
+"en": "Heal 1 ally ",
+"jp": "味方れ体を体力<229b>復",
+"kind": "описание действия приема (меню)",
+"max_tiles_per_line": 13,
+"en_tiles": [
+6
+],
+"where": [
+[
+"keyitems",
+310
+]
+],
+"n": 1
+},
+{
+"id": "u0624",
+"en": "Heal 1 ally - 1 ",
+"jp": "味方れ体の体力<229b>復・れ",
+"kind": "описание действия приема (меню)",
+"max_tiles_per_line": 13,
+"en_tiles": [
+8
+],
+"where": [
+[
+"keyitems",
+311
+]
+],
+"n": 1
+},
+{
+"id": "u0625",
+"en": "Heal 1 ally - 2 ",
+"jp": "味方れ体の体力<229b>復・２",
+"kind": "описание действия приема (меню)",
+"max_tiles_per_line": 13,
+"en_tiles": [
+8
+],
+"where": [
+[
+"keyitems",
+312
+]
+],
+"n": 1
+},
+{
+"id": "u0626",
+"en": "Raise 1 ally's SPD",
+"jp": "味方れ体の<259d>さ上<259b>",
+"kind": "описание действия приема (меню)",
+"max_tiles_per_line": 13,
+"en_tiles": [
+9
+],
+"where": [
+[
+"keyitems",
+313
+]
+],
+"n": 1
+},
+{
+"id": "u0627",
+"en": "Raise 1 ally's EVD",
+"jp": "味方れ体の<229b><23f4>上<259b>",
+"kind": "описание действия приема (меню)",
+"max_tiles_per_line": 13,
+"en_tiles": [
+9
+],
+"where": [
+[
+"keyitems",
+314
+]
+],
+"n": 1
+},
+{
+"id": "u0628",
+"en": "Raise 1 ally's DEF",
+"jp": "味方れ体の<24df><2424>上<259b>",
+"kind": "описание действия приема (меню)",
+"max_tiles_per_line": 13,
+"en_tiles": [
+9
+],
+"where": [
+[
+"keyitems",
+315
+]
+],
+"n": 1
+},
+{
+"id": "u0629",
+"en": "Heal all allies ",
+"jp": "味方全体を体力<229b>復",
+"kind": "описание действия приема (меню)",
+"max_tiles_per_line": 13,
+"en_tiles": [
+8
+],
+"where": [
+[
+"keyitems",
+316
+]
+],
+"n": 1
+},
+{
+"id": "u0630",
+"en": "Heal all allies - 1 ",
+"jp": "味方全体の体力<229b>復・れ",
+"kind": "описание действия приема (меню)",
+"max_tiles_per_line": 13,
+"en_tiles": [
+10
+],
+"where": [
+[
+"keyitems",
+317
+]
+],
+"n": 1
+},
+{
+"id": "u0631",
+"en": "Heal all allies - 2 ",
+"jp": "味方全体の体力<229b>復・２",
+"kind": "описание действия приема (меню)",
+"max_tiles_per_line": 13,
+"en_tiles": [
+10
+],
+"where": [
+[
+"keyitems",
+318
+]
+],
+"n": 1
+},
+{
+"id": "u0632",
+"en": "Heal self ",
+"jp": "自分自身へ体力<229b>復",
+"kind": "описание действия приема (меню)",
+"max_tiles_per_line": 13,
+"en_tiles": [
+5
+],
+"where": [
+[
+"keyitems",
+319
+]
+],
+"n": 1
+},
+{
+"id": "u0633",
+"en": "Raise own ATK ",
+"jp": "分身して<2372><2308>上<259b>",
+"kind": "описание действия приема (меню)",
+"max_tiles_per_line": 13,
+"en_tiles": [
+7
+],
+"where": [
+[
+"keyitems",
+320
+]
+],
+"n": 1
+},
+{
+"id": "u0634",
+"en": "Become harder to hit",
+"jp": "<23bf>をみし狙われにくくなる",
+"kind": "описание действия приема (меню)",
+"max_tiles_per_line": 13,
+"en_tiles": [
+10
+],
+"where": [
+[
+"keyitems",
+321
+]
+],
+"n": 1
+},
+{
+"id": "u0635",
+"en": "Single powerful attack",
+"jp": "ま殺の一<2308>",
+"kind": "описание действия приема (меню)",
+"max_tiles_per_line": 13,
+"en_tiles": [
+11
+],
+"where": [
+[
+"keyitems",
+322
+]
+],
+"n": 1
+},
+{
+"id": "u0636",
+"en": "Attack in a circle",
+"jp": "<24c1>をに<2372><2308>",
+"kind": "описание действия приема (меню)",
+"max_tiles_per_line": 13,
+"en_tiles": [
+9
+],
+"where": [
+[
+"keyitems",
+323
+]
+],
+"n": 1
+},
+{
+"id": "u0637",
+"en": "Ultimate technique",
+"jp": "秘奥な",
+"kind": "описание действия приема (меню)",
+"max_tiles_per_line": 13,
+"en_tiles": [
+9
+],
+"where": [
+[
+"keyitems",
+324
+],
+[
+"menu2",
+324
+]
+],
+"n": 2
+},
+{
+"id": "u0638",
+"en": "Desperation Move- Form 1",
+"jp": "成長奥な　初期形<2418>",
+"kind": "описание действия приема (меню)",
+"max_tiles_per_line": 13,
+"en_tiles": [
+12
+],
+"where": [
+[
+"keyitems",
+325
+]
+],
+"n": 1
+},
+{
+"id": "u0639",
+"en": "Desperation Move- Form 2",
+"jp": "成長奥な　<23f5><270d>形<2418>",
+"kind": "описание действия приема (меню)",
+"max_tiles_per_line": 13,
+"en_tiles": [
+12
+],
+"where": [
+[
+"keyitems",
+326
+]
+],
+"n": 1
+},
+{
+"id": "u0640",
+"en": "Desperation Move- Final ",
+"jp": "成長奥な　最終形<2418>",
+"kind": "описание действия приема (меню)",
+"max_tiles_per_line": 13,
+"en_tiles": [
+12
+],
+"where": [
+[
+"keyitems",
+327
+]
+],
+"n": 1
+},
+{
+"id": "u0641",
+"en": "Kamuy Kotan ",
+"jp": "カムイコタン<2234>",
+"kind": "название места на карте",
+"max_tiles_per_line": 7,
+"en_tiles": [
+6
+],
+"where": [
+[
+"places",
+0
+]
+],
+"n": 1
+},
+{
+"id": "u0642",
+"en": "Kamuy Port",
+"jp": "カムイの港<2234>",
+"kind": "название места на карте",
+"max_tiles_per_line": 7,
+"en_tiles": [
+5
+],
+"where": [
+[
+"places",
+1
+]
+],
+"n": 1
+},
+{
+"id": "u0643",
+"en": "Greenhell ",
+"jp": "グリーン<2198>ル<2234>",
+"kind": "название места на карте",
+"max_tiles_per_line": 7,
+"en_tiles": [
+5
+],
+"where": [
+[
+"places",
+2
+]
+],
+"n": 1
+},
+{
+"id": "u0644",
+"en": "Old Scholar ",
+"jp": "<2299><2358>��の<232c><2234>",
+"kind": "название места на карте",
+"max_tiles_per_line": 7,
+"en_tiles": [
+6
+],
+"where": [
+[
+"places",
+3
+]
+],
+"n": 1
+},
+{
+"id": "u0645",
+"en": "Kokain",
+"jp": "<234e>う院<2234>",
+"kind": "название места на карте",
+"max_tiles_per_line": 7,
+"en_tiles": [
+3
+],
+"where": [
+[
+"places",
+4
+]
+],
+"n": 1
+},
+{
+"id": "u0646",
+"en": "Edo South ",
+"jp": "江戸・究町<2234>",
+"kind": "название места на карте",
+"max_tiles_per_line": 7,
+"en_tiles": [
+5
+],
+"where": [
+[
+"places",
+5
+]
+],
+"n": 1
+},
+{
+"id": "u0647",
+"en": "Oshino",
+"jp": "<23b7><236a>村<2234>",
+"kind": "название места на карте",
+"max_tiles_per_line": 7,
+"en_tiles": [
+3
+],
+"where": [
+[
+"places",
+6
+]
+],
+"n": 1
+},
+{
+"id": "u0648",
+"en": "Mt. Fuji",
+"jp": "富れ山<2234>",
+"kind": "название места на карте",
+"max_tiles_per_line": 7,
+"en_tiles": [
+4
+],
+"where": [
+[
+"places",
+7
+]
+],
+"n": 1
+},
+{
+"id": "u0649",
+"en": "Edo North ",
+"jp": "江戸・北町<2234>",
+"kind": "название места на карте",
+"max_tiles_per_line": 7,
+"en_tiles": [
+5
+],
+"where": [
+[
+"places",
+8
+]
+],
+"n": 1
+},
+{
+"id": "u0650",
+"en": "Ise ",
+"jp": "伊勢<2234>",
+"kind": "название места на карте",
+"max_tiles_per_line": 7,
+"en_tiles": [
+2
+],
+"where": [
+[
+"places",
+9
+]
+],
+"n": 1
+},
+{
+"id": "u0651",
+"en": "Anjou ",
+"jp": "安生村<2234>",
+"kind": "название места на карте",
+"max_tiles_per_line": 7,
+"en_tiles": [
+3
+],
+"where": [
+[
+"places",
+10
+]
+],
+"n": 1
+},
+{
+"id": "u0652",
+"en": "Osaka ",
+"jp": "大阪<2234>",
+"kind": "название места на карте",
+"max_tiles_per_line": 7,
+"en_tiles": [
+3
+],
+"where": [
+[
+"places",
+11
+]
+],
+"n": 1
+},
+{
+"id": "u0653",
+"en": "Kurusu",
+"jp": "久<2436><244a>島<2234>",
+"kind": "название места на карте",
+"max_tiles_per_line": 7,
+"en_tiles": [
+3
+],
+"where": [
+[
+"places",
+12
+]
+],
+"n": 1
+},
+{
+"id": "u0654",
+"en": "Sky Castle",
+"jp": "天<235f>城<2234>",
+"kind": "название места на карте",
+"max_tiles_per_line": 7,
+"en_tiles": [
+5
+],
+"where": [
+[
+"places",
+13
+]
+],
+"n": 1
+},
+{
+"id": "u0655",
+"en": "Izumo ",
+"jp": "出雲<2234>",
+"kind": "название места на карте",
+"max_tiles_per_line": 7,
+"en_tiles": [
+3
+],
+"where": [
+[
+"places",
+14
+]
+],
+"n": 1
+},
+{
+"id": "u0656",
+"en": "Beppu ",
+"jp": "別ふ<2234>",
+"kind": "название места на карте",
+"max_tiles_per_line": 7,
+"en_tiles": [
+3
+],
+"where": [
+[
+"places",
+15
+]
+],
+"n": 1
+},
+{
+"id": "u0657",
+"en": "Mt. Aso ",
+"jp": "<22a5><22e1>山<2234>",
+"kind": "название места на карте",
+"max_tiles_per_line": 7,
+"en_tiles": [
+4
+],
+"where": [
+[
+"places",
+16
+]
+],
+"n": 1
+},
+{
+"id": "u0658",
+"en": "Aso Core",
+"jp": "<22a5><22e1>・<2326>口<2234>",
+"kind": "название места на карте",
+"max_tiles_per_line": 7,
+"en_tiles": [
+4
+],
+"where": [
+[
+"places",
+17
+]
+],
+"n": 1
+},
+{
+"id": "u0659",
+"en": "Tiananmen ",
+"jp": "北京・天安の<2234>",
+"kind": "название места на карте",
+"max_tiles_per_line": 7,
+"en_tiles": [
+5
+],
+"where": [
+[
+"places",
+18
+]
+],
+"n": 1
+},
+{
+"id": "u0660",
+"en": "Paris ",
+"jp": "パリ<2234>",
+"kind": "название места на карте",
+"max_tiles_per_line": 7,
+"en_tiles": [
+3
+],
+"where": [
+[
+"places",
+19
+]
+],
+"n": 1
+},
+{
+"id": "u0661",
+"en": "Palace Garden ",
+"jp": "パリ・ベルサイ<21a0><22f2>殿<2234>",
+"kind": "название места на карте",
+"max_tiles_per_line": 7,
+"en_tiles": [
+7
+],
+"where": [
+[
+"places",
+20
+]
+],
+"n": 1
+},
+{
+"id": "u0662",
+"en": "San Francisco ",
+"jp": "サンフランシスコ<2234>",
+"kind": "название места на карте",
+"max_tiles_per_line": 7,
+"en_tiles": [
+7
+],
+"where": [
+[
+"places",
+21
+]
+],
+"n": 1
+},
+{
+"id": "u0663",
+"en": "Ise Past",
+"jp": "伊勢・過<22f5><2234>",
+"kind": "название места на карте",
+"max_tiles_per_line": 7,
+"en_tiles": [
+4
+],
+"where": [
+[
+"places",
+22
+]
+],
+"n": 1
+},
+{
+"id": "u0664",
+"en": "Kyo South ",
+"jp": "京・究町<2234>",
+"kind": "название места на карте",
+"max_tiles_per_line": 7,
+"en_tiles": [
+5
+],
+"where": [
+[
+"places",
+23
+]
+],
+"n": 1
+},
+{
+"id": "u0665",
+"en": "Kyo North ",
+"jp": "京・北町<2234>",
+"kind": "название места на карте",
+"max_tiles_per_line": 7,
+"en_tiles": [
+5
+],
+"where": [
+[
+"places",
+24
+]
+],
+"n": 1
+},
+{
+"id": "u0666",
+"en": "Osorezan",
+"jp": "恐山<2234>",
+"kind": "название места на карте",
+"max_tiles_per_line": 7,
+"en_tiles": [
+4
+],
+"where": [
+[
+"places",
+25
+]
+],
+"n": 1
+},
+{
+"id": "u0667",
+"en": "Osorezan Past ",
+"jp": "恐山・過<22f5><2234>",
+"kind": "название места на карте",
+"max_tiles_per_line": 7,
+"en_tiles": [
+7
+],
+"where": [
+[
+"places",
+26
+]
+],
+"n": 1
+},
+{
+"id": "u0668",
+"en": "Ise Shrine",
+"jp": "伊勢神<22f2><2234>",
+"kind": "название места на карте",
+"max_tiles_per_line": 7,
+"en_tiles": [
+5
+],
+"where": [
+[
+"places",
+27
+]
+],
+"n": 1
+},
+{
+"id": "u0669",
+"en": "Mutsu Road",
+"jp": "ろ奥道<2234>",
+"kind": "название места на карте",
+"max_tiles_per_line": 7,
+"en_tiles": [
+5
+],
+"where": [
+[
+"places",
+28
+]
+],
+"n": 1
+},
+{
+"id": "u0670",
+"en": "Silk Road Gate",
+"jp": "シルクロード迷<22f2><2234>",
+"kind": "название места на карте",
+"max_tiles_per_line": 7,
+"en_tiles": [
+7
+],
+"where": [
+[
+"places",
+29
+]
+],
+"n": 1
+},
+{
+"id": "u0671",
+"en": "Dark Shrine ",
+"jp": "地こ神社<2234>",
+"kind": "название места на карте",
+"max_tiles_per_line": 7,
+"en_tiles": [
+6
+],
+"where": [
+[
+"places",
+30
+]
+],
+"n": 1
+},
+{
+"id": "u0710",
+"en": "A consumptive quick draw\nmaster who seeks the\nPerfect Flower, which \ngrows only in Hell. ",
+"jp": "",
+"kind": "описание персонажа (экран выбора)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+12,
+10,
+11,
+10
+],
+"where": [
+[
+"menu2",
+240
+]
+],
+"n": 1
+},
+{
+"id": "u0711",
+"en": "An Ainu shrine maiden \nwho hears the voice of\nnature and takes up her \nsword to protect it.",
+"jp": "",
+"kind": "описание персонажа (экран выбора)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+11,
+11,
+12,
+10
+],
+"where": [
+[
+"menu2",
+241
+]
+],
+"n": 1
+},
+{
+"id": "u0712",
+"en": "A brash warrior who left\nhis hometown to seek out\nstrong foes and continue\nhis training. ",
+"jp": "",
+"kind": "описание персонажа (экран выбора)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+12,
+12,
+12,
+7
+],
+"where": [
+[
+"menu2",
+242
+]
+],
+"n": 1
+},
+{
+"id": "u0713",
+"en": "A vicious, cruel man who\nworks in the underbelly \nof Japan and loathes\nthe cheerful Haohmaru.",
+"jp": "",
+"kind": "описание персонажа (экран выбора)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+12,
+12,
+10,
+11
+],
+"where": [
+[
+"menu2",
+243
+]
+],
+"n": 1
+},
+{
+"id": "u0714",
+"en": "A cheery girl from the\nland of Greenhell who \nfights in place of her\nbrother, Tam Tam. ",
+"jp": "",
+"kind": "описание персонажа (экран выбора)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+11,
+11,
+11,
+9
+],
+"where": [
+[
+"menu2",
+244
+]
+],
+"n": 1
+},
+{
+"id": "u0715",
+"en": "A kind man who crossed\nthe Pacific to study the\nway of the ninja with \nhis dog, Poppy. ",
+"jp": "",
+"kind": "описание персонажа (экран выбора)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+11,
+12,
+11,
+8
+],
+"where": [
+[
+"menu2",
+245
+]
+],
+"n": 1
+},
+{
+"id": "u0716",
+"en": "Over 100 years after the\nShimabara Rebellion, the\nspirit of Amakusa has \nreturned for vengeance! ",
+"jp": "",
+"kind": "описание персонажа (экран выбора)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+12,
+12,
+11,
+12
+],
+"where": [
+[
+"menu2",
+246
+]
+],
+"n": 1
+},
+{
+"id": "u0717",
+"en": "The world is falling to \ndarkness because of the \nevil entity known as\nRashoujin Mizuki! ",
+"jp": "",
+"kind": "описание персонажа (экран выбора)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+12,
+12,
+10,
+9
+],
+"where": [
+[
+"menu2",
+247
+]
+],
+"n": 1
+}
+]

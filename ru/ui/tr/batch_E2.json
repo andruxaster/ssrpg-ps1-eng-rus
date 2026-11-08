@@ -1,0 +1,4111 @@
+[
+{
+"id": "u1001",
+"en": "Curse Blade ",
+"jp": "呪殺<32f>",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+6
+],
+"where": [
+[
+"emp",
+"EMP_011E.PRG"
+],
+[
+"emp",
+"EMP_011F.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u1002",
+"en": "Sinister Illusion Blade ",
+"jp": "ど迷幻<564><32f>",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+12
+],
+"where": [
+[
+"emp",
+"EMP_011E.PRG"
+],
+[
+"emp",
+"EMP_011F.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u1003",
+"en": "Blinding Ruination",
+"jp": "<629>輝<4f9><236><32f>",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+9
+],
+"where": [
+[
+"emp",
+"EMP_011E.PRG"
+],
+[
+"emp",
+"EMP_011F.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u1005",
+"en": "Halo of Judgment",
+"jp": "光<2c7>断",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+8
+],
+"where": [
+[
+"emp",
+"EMP_0800.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1006",
+"en": "Stunning Light",
+"jp": "放心光",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+7
+],
+"where": [
+[
+"emp",
+"EMP_0800.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1009",
+"en": "Sonic Fist",
+"jp": "ソニックフィスト",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+5
+],
+"where": [
+[
+"emp",
+"EMP_0801.PRG"
+],
+[
+"emp",
+"EMP_080D.PRG"
+],
+[
+"emp",
+"EMP_0812.PRG"
+]
+],
+"n": 3
+},
+{
+"id": "u1011",
+"en": "Tail Smash",
+"jp": "だ<477>断",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+5
+],
+"where": [
+[
+"emp",
+"EMP_0801.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1013",
+"en": "Lick",
+"jp": "<6db>なめずり",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+2
+],
+"where": [
+[
+"emp",
+"EMP_0801.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1014",
+"en": "HP Absorb ",
+"jp": "体力を<437>いとる",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+5
+],
+"where": [
+[
+"emp",
+"EMP_0801.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1016",
+"en": "Wild Scythe ",
+"jp": "<66a>乱れ",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+6
+],
+"where": [
+[
+"emp",
+"EMP_0801.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1018",
+"en": "Tera Breath ",
+"jp": "テラ　ブレス",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+6
+],
+"where": [
+[
+"emp",
+"EMP_0802.PRG"
+],
+[
+"emp",
+"EMP_0807.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u1019",
+"en": "Kellpy Bomb ",
+"jp": "ケルピーボム",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+6
+],
+"where": [
+[
+"emp",
+"EMP_0802.PRG"
+],
+[
+"emp",
+"EMP_0807.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u1021",
+"en": "Death Sentence",
+"jp": "死の<62b>告",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+7
+],
+"where": [
+[
+"emp",
+"EMP_0802.PRG"
+],
+[
+"emp",
+"EMP_0807.PRG"
+],
+[
+"emp",
+"EMP_0809.PRG"
+],
+[
+"emp",
+"EMP_080C.PRG"
+]
+],
+"n": 10
+},
+{
+"id": "u1022",
+"en": "Gatling Shot",
+"jp": "ガトリングショット",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+6
+],
+"where": [
+[
+"emp",
+"EMP_0802.PRG"
+],
+[
+"emp",
+"EMP_0807.PRG"
+],
+[
+"emp",
+"EMP_0809.PRG"
+],
+[
+"emp",
+"EMP_080C.PRG"
+]
+],
+"n": 10
+},
+{
+"id": "u1024",
+"en": "Time Current",
+"jp": "<3f4>流",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+6
+],
+"where": [
+[
+"emp",
+"EMP_0802.PRG"
+],
+[
+"emp",
+"EMP_0807.PRG"
+],
+[
+"emp",
+"EMP_0809.PRG"
+],
+[
+"emp",
+"EMP_080C.PRG"
+]
+],
+"n": 12
+},
+{
+"id": "u1025",
+"en": "Time Reverse",
+"jp": "<3f4>戻",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+6
+],
+"where": [
+[
+"emp",
+"EMP_0802.PRG"
+],
+[
+"emp",
+"EMP_0807.PRG"
+],
+[
+"emp",
+"EMP_0809.PRG"
+],
+[
+"emp",
+"EMP_080C.PRG"
+]
+],
+"n": 12
+},
+{
+"id": "u1028",
+"en": "Toxic Shears",
+"jp": "<5d4>バサミ",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+6
+],
+"where": [
+[
+"emp",
+"EMP_0803.PRG"
+],
+[
+"emp",
+"EMP_0806.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u1029",
+"en": "Coil Spin ",
+"jp": "とぐろ<171>し",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+5
+],
+"where": [
+[
+"emp",
+"EMP_0803.PRG"
+],
+[
+"emp",
+"EMP_0806.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u1031",
+"en": "Stun Shot ",
+"jp": "放心<5d0>",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+5
+],
+"where": [
+[
+"emp",
+"EMP_0803.PRG"
+],
+[
+"emp",
+"EMP_0806.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u1032",
+"en": "Bite",
+"jp": "かみつき",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+2
+],
+"where": [
+[
+"emp",
+"EMP_0803.PRG"
+],
+[
+"emp",
+"EMP_0806.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u1034",
+"en": "Flash Headbutt",
+"jp": "<579>光のョ<1de>",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+7
+],
+"where": [
+[
+"emp",
+"EMP_0803.PRG"
+],
+[
+"emp",
+"EMP_0806.PRG"
+],
+[
+"emp",
+"EMP_0808.PRG"
+]
+],
+"n": 3
+},
+{
+"id": "u1035",
+"en": "Empty Leg Strike",
+"jp": "断<235>の<699><1de>",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+8
+],
+"where": [
+[
+"emp",
+"EMP_0803.PRG"
+],
+[
+"emp",
+"EMP_0806.PRG"
+],
+[
+"emp",
+"EMP_0808.PRG"
+]
+],
+"n": 3
+},
+{
+"id": "u1037",
+"en": "Enemy Shadow Capture",
+"jp": "<223>か<670><389>",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+10
+],
+"where": [
+[
+"emp",
+"EMP_0803.PRG"
+],
+[
+"emp",
+"EMP_0806.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u1038",
+"en": "Dark War Dance",
+"jp": "迷乱連<193>",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+7
+],
+"where": [
+[
+"emp",
+"EMP_0803.PRG"
+],
+[
+"emp",
+"EMP_0806.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u1040",
+"en": "Pinioning ",
+"jp": "はがいじめ",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+5
+],
+"where": [
+[
+"emp",
+"EMP_0804.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1041",
+"en": "Bloodsucking Tongue ",
+"jp": "<437>い<6db>",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+10
+],
+"where": [
+[
+"emp",
+"EMP_0804.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1043",
+"en": "Intoxicating Breath ",
+"jp": "酔いの息<2db>",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+10
+],
+"where": [
+[
+"emp",
+"EMP_0805.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1044",
+"en": "Intoxicating Charge ",
+"jp": "酔いのの進",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+10
+],
+"where": [
+[
+"emp",
+"EMP_0805.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1045",
+"en": "Sickle Swipe",
+"jp": "<66a>返し",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+6
+],
+"where": [
+[
+"emp",
+"EMP_0805.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1046",
+"en": "Sickle Squall ",
+"jp": "<66a>の<20f>",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+7
+],
+"where": [
+[
+"emp",
+"EMP_0805.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1048",
+"en": "Clown Shadow",
+"jp": "クラウン　シャドウ",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+6
+],
+"where": [
+[
+"emp",
+"EMP_0808.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1049",
+"en": "Renade",
+"jp": "レネイド",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+3
+],
+"where": [
+[
+"emp",
+"EMP_0808.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1051",
+"en": "Ferocity",
+"jp": "<633>破連<1de>",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+4
+],
+"where": [
+[
+"emp",
+"EMP_0808.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1052",
+"en": "Wild Monkey Dance ",
+"jp": "狂乱<238><193>",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+9
+],
+"where": [
+[
+"emp",
+"EMP_0808.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1054",
+"en": "Six Strikes ",
+"jp": "<5ae>連破",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+6
+],
+"where": [
+[
+"emp",
+"EMP_0808.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1055",
+"en": "Groundrunner Blade",
+"jp": "地走刀",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+9
+],
+"where": [
+[
+"emp",
+"EMP_0808.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1057",
+"en": "Firebomb Spirit Fist",
+"jp": "<3d7><3e1>神<5b2>",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+10
+],
+"where": [
+[
+"emp",
+"EMP_0809.PRG"
+],
+[
+"emp",
+"EMP_0816.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u1058",
+"en": "Firebomb Shot ",
+"jp": "<3d7><3e1><32f>",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+7
+],
+"where": [
+[
+"emp",
+"EMP_0809.PRG"
+],
+[
+"emp",
+"EMP_0816.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u1060",
+"en": "Rending Talon ",
+"jp": "<6b6><4a6>",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+7
+],
+"where": [
+[
+"emp",
+"EMP_080A.PRG"
+],
+[
+"emp",
+"EMP_0817.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u1062",
+"en": "Conflagration ",
+"jp": "豪<3e1>",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+7
+],
+"where": [
+[
+"emp",
+"EMP_080A.PRG"
+],
+[
+"emp",
+"EMP_0817.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u1063",
+"en": "Double Incandescence",
+"jp": "<6d7>こ<4b9>連<1de>",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+10
+],
+"where": [
+[
+"emp",
+"EMP_080A.PRG"
+],
+[
+"emp",
+"EMP_0817.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u1065",
+"en": "Three-Point Slice ",
+"jp": "三連破",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+9
+],
+"where": [
+[
+"emp",
+"EMP_080A.PRG"
+],
+[
+"emp",
+"EMP_0817.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u1066",
+"en": "Rising Dragon Sickle",
+"jp": "<471>竜男<66a>",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+10
+],
+"where": [
+[
+"emp",
+"EMP_080A.PRG"
+],
+[
+"emp",
+"EMP_0817.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u1067",
+"en": "Windstorm Sickle",
+"jp": "<3fa><20f>男<66a>",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+8
+],
+"where": [
+[
+"emp",
+"EMP_080A.PRG"
+],
+[
+"emp",
+"EMP_0817.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u1069",
+"en": "Dual-Target Talons",
+"jp": "<4b9>殺、<6b6><4a6>",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+9
+],
+"where": [
+[
+"emp",
+"EMP_080B.PRG"
+],
+[
+"emp",
+"EMP_0818.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u1070",
+"en": "Fascination ",
+"jp": "<532><17c>",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+6
+],
+"where": [
+[
+"emp",
+"EMP_080B.PRG"
+],
+[
+"emp",
+"EMP_0818.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u1072",
+"en": "Bone Slicer ",
+"jp": "邪<4bc>刺し",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+6
+],
+"where": [
+[
+"emp",
+"EMP_080B.PRG"
+],
+[
+"emp",
+"EMP_0818.PRG"
+],
+[
+"emp",
+"EMP_082A.PRG"
+],
+[
+"emp",
+"EMP_082C.PRG"
+]
+],
+"n": 4
+},
+{
+"id": "u1074",
+"en": "Blaze ",
+"jp": "<1fc><3e1>連<1de>",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+3
+],
+"where": [
+[
+"emp",
+"EMP_080B.PRG"
+],
+[
+"emp",
+"EMP_0818.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u1076",
+"en": "Javelin ",
+"jp": "<6de><3f8><32f>",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+4
+],
+"where": [
+[
+"emp",
+"EMP_080B.PRG"
+],
+[
+"emp",
+"EMP_0818.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u1077",
+"en": "Super Groundrunner Sword",
+"jp": "超<583>地走刀",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+12
+],
+"where": [
+[
+"emp",
+"EMP_080B.PRG"
+],
+[
+"emp",
+"EMP_0818.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u1079",
+"en": "Fire Strike ",
+"jp": "ファイヤーストライク",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+6
+],
+"where": [
+[
+"emp",
+"EMP_080C.PRG"
+],
+[
+"emp",
+"EMP_0811.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u1081",
+"en": "Element Scramble",
+"jp": "<5af>性変えるぜ！",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+8
+],
+"where": [
+[
+"emp",
+"EMP_080C.PRG"
+],
+[
+"emp",
+"EMP_0811.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u1082",
+"en": "Take this!",
+"jp": "これでも喰らいな",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+5
+],
+"where": [
+[
+"emp",
+"EMP_080C.PRG"
+],
+[
+"emp",
+"EMP_0811.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u1084",
+"en": "Flame Blast ",
+"jp": "フレムブラスト",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+6
+],
+"where": [
+[
+"emp",
+"EMP_080D.PRG"
+],
+[
+"emp",
+"EMP_0812.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u1085",
+"en": "Rolling Slash ",
+"jp": "ローリングクラッシュ",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+7
+],
+"where": [
+[
+"emp",
+"EMP_080D.PRG"
+],
+[
+"emp",
+"EMP_0812.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u1087",
+"en": "Arc Ground",
+"jp": "アーク　グラウンド",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+5
+],
+"where": [
+[
+"emp",
+"EMP_080D.PRG"
+],
+[
+"emp",
+"EMP_0812.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u1088",
+"en": "Brain Slash ",
+"jp": "ブレイン　スラッシュ",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+6
+],
+"where": [
+[
+"emp",
+"EMP_080D.PRG"
+],
+[
+"emp",
+"EMP_0812.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u1090",
+"en": "Stun Dash ",
+"jp": "スタンダッシュ",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+5
+],
+"where": [
+[
+"emp",
+"EMP_080D.PRG"
+],
+[
+"emp",
+"EMP_0812.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u1091",
+"en": "Double Horn ",
+"jp": "ダブルホーン",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+6
+],
+"where": [
+[
+"emp",
+"EMP_080D.PRG"
+],
+[
+"emp",
+"EMP_0812.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u1093",
+"en": "Buster Killer ",
+"jp": "バスターキラー",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+7
+],
+"where": [
+[
+"emp",
+"EMP_080E.PRG"
+],
+[
+"emp",
+"EMP_0813.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u1094",
+"en": "Energy Drain",
+"jp": "おナジードレイン",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+6
+],
+"where": [
+[
+"emp",
+"EMP_080E.PRG"
+],
+[
+"emp",
+"EMP_0813.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u1096",
+"en": "Neck Bomb ",
+"jp": "ネック・ボム",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+5
+],
+"where": [
+[
+"emp",
+"EMP_080E.PRG"
+],
+[
+"emp",
+"EMP_0813.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u1098",
+"en": "Lay Seed",
+"jp": "レイ・シード",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+4
+],
+"where": [
+[
+"emp",
+"EMP_080E.PRG"
+],
+[
+"emp",
+"EMP_0813.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u1100",
+"en": "Shield Change ",
+"jp": "チェンジ　シールド",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+7
+],
+"where": [
+[
+"emp",
+"EMP_080F.PRG"
+],
+[
+"emp",
+"EMP_0810.PRG"
+],
+[
+"emp",
+"EMP_0814.PRG"
+],
+[
+"emp",
+"EMP_0815.PRG"
+]
+],
+"n": 4
+},
+{
+"id": "u1102",
+"en": "Turn Ground ",
+"jp": "ターン　グラウンド",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+6
+],
+"where": [
+[
+"emp",
+"EMP_080F.PRG"
+],
+[
+"emp",
+"EMP_0814.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u1103",
+"en": "Flame Breaker ",
+"jp": "フレイム　ブレイカー",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+7
+],
+"where": [
+[
+"emp",
+"EMP_080F.PRG"
+],
+[
+"emp",
+"EMP_0814.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u1105",
+"en": "Reverse ",
+"jp": "リバース",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+4
+],
+"where": [
+[
+"emp",
+"EMP_080F.PRG"
+],
+[
+"emp",
+"EMP_0814.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u1106",
+"en": "Grand Sword ",
+"jp": "グランド　ソード",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+6
+],
+"where": [
+[
+"emp",
+"EMP_080F.PRG"
+],
+[
+"emp",
+"EMP_0814.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u1108",
+"en": "Morning Dust",
+"jp": "モーニング・ダスト",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+6
+],
+"where": [
+[
+"emp",
+"EMP_080F.PRG"
+],
+[
+"emp",
+"EMP_0814.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u1110",
+"en": "Quick End ",
+"jp": "クイックおンド",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+5
+],
+"where": [
+[
+"emp",
+"EMP_0810.PRG"
+],
+[
+"emp",
+"EMP_0815.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u1111",
+"en": "Heat Weapon ",
+"jp": "Ｆートウェポン",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+6
+],
+"where": [
+[
+"emp",
+"EMP_0810.PRG"
+],
+[
+"emp",
+"EMP_0815.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u1113",
+"en": "Shining ",
+"jp": "シャイニング",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+4
+],
+"where": [
+[
+"emp",
+"EMP_0810.PRG"
+],
+[
+"emp",
+"EMP_0815.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u1114",
+"en": "Genocide Cannon ",
+"jp": "ジェうサイド　キャうン",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+8
+],
+"where": [
+[
+"emp",
+"EMP_0810.PRG"
+],
+[
+"emp",
+"EMP_0815.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u1115",
+"en": "Deadly Crush",
+"jp": "<4f2>殺",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+6
+],
+"where": [
+[
+"emp",
+"EMP_0819.PRG"
+],
+[
+"emp",
+"EMP_081B.PRG"
+],
+[
+"emp",
+"EMP_081F.PRG"
+],
+[
+"emp",
+"EMP_0824.PRG"
+]
+],
+"n": 6
+},
+{
+"id": "u1116",
+"en": "Suppression ",
+"jp": "服殺",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+6
+],
+"where": [
+[
+"emp",
+"EMP_0819.PRG"
+],
+[
+"emp",
+"EMP_081B.PRG"
+],
+[
+"emp",
+"EMP_081F.PRG"
+],
+[
+"emp",
+"EMP_0824.PRG"
+]
+],
+"n": 6
+},
+{
+"id": "u1118",
+"en": "Schume",
+"jp": "スキューム",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+3
+],
+"where": [
+[
+"emp",
+"EMP_081A.PRG"
+],
+[
+"emp",
+"EMP_0820.PRG"
+],
+[
+"emp",
+"EMP_0821.PRG"
+]
+],
+"n": 3
+},
+{
+"id": "u1119",
+"en": "Cell Copy ",
+"jp": "�xルコピー",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+5
+],
+"where": [
+[
+"emp",
+"EMP_081A.PRG"
+],
+[
+"emp",
+"EMP_0820.PRG"
+],
+[
+"emp",
+"EMP_0821.PRG"
+]
+],
+"n": 3
+},
+{
+"id": "u1120",
+"en": "Glare ",
+"jp": "にらみ",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+3
+],
+"where": [
+[
+"emp",
+"EMP_081A.PRG"
+],
+[
+"emp",
+"EMP_0829.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u1122",
+"en": "Claw Trimmer",
+"jp": "クロトリマ",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+6
+],
+"where": [
+[
+"emp",
+"EMP_081A.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1123",
+"en": "Kabuto Gabur",
+"jp": "カブト・ガブル",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+6
+],
+"where": [
+[
+"emp",
+"EMP_081D.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1125",
+"en": "Muura Gabur ",
+"jp": "ムーラ・ガブル",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+6
+],
+"where": [
+[
+"emp",
+"EMP_081E.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1126",
+"en": "Luuna ",
+"jp": "ルーナ",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+3
+],
+"where": [
+[
+"emp",
+"EMP_081E.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1128",
+"en": "Murta Gabur ",
+"jp": "ムルタ・ガブル",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+6
+],
+"where": [
+[
+"emp",
+"EMP_081E.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1129",
+"en": "Kubitum ",
+"jp": "クビトかム",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+4
+],
+"where": [
+[
+"emp",
+"EMP_081E.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1131",
+"en": "Lock On ",
+"jp": "ロックオン",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+4
+],
+"where": [
+[
+"emp",
+"EMP_0820.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1132",
+"en": "Deadly Ice Axe",
+"jp": "キリング・ピッケル",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+7
+],
+"where": [
+[
+"emp",
+"EMP_0820.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1134",
+"en": "Torneodo",
+"jp": "トルネオド",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+4
+],
+"where": [
+[
+"emp",
+"EMP_0820.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1135",
+"en": "Mitra Mitos ",
+"jp": "ミトラ・ミトス",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+6
+],
+"where": [
+[
+"emp",
+"EMP_0820.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1137",
+"en": "Shell Darkrush",
+"jp": "ショルダークラッシュ",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+7
+],
+"where": [
+[
+"emp",
+"EMP_0820.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1138",
+"en": "Neck Firebomb ",
+"jp": "ネック・ファイヤーボム",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+7
+],
+"where": [
+[
+"emp",
+"EMP_0820.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1140",
+"en": "Crazy Wave",
+"jp": "クレイジーウィッ<96>",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+5
+],
+"where": [
+[
+"emp",
+"EMP_0821.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1142",
+"en": "One Hit Dagger",
+"jp": "ワンＦット・ダガー",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+7
+],
+"where": [
+[
+"emp",
+"EMP_0822.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1143",
+"en": "Throwing Dagger ",
+"jp": "スローイン・ダガー",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+8
+],
+"where": [
+[
+"emp",
+"EMP_0822.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1145",
+"en": "Flame Shot",
+"jp": "フレムショット",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+5
+],
+"where": [
+[
+"emp",
+"EMP_0822.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1146",
+"en": "Rolling Tail",
+"jp": "ローリングテイル",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+6
+],
+"where": [
+[
+"emp",
+"EMP_0822.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1148",
+"en": "Roar",
+"jp": "<56a><512>びをあげる",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+2
+],
+"where": [
+[
+"emp",
+"EMP_0822.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1150",
+"en": "Meteor Breath ",
+"jp": "メテオ　ブレス",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+7
+],
+"where": [
+[
+"emp",
+"EMP_0823.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1151",
+"en": "Counter Spark ",
+"jp": "カウンタースパーク",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+7
+],
+"where": [
+[
+"emp",
+"EMP_0823.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1153",
+"en": "Blind Search",
+"jp": "ブラインド・サーチ",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+6
+],
+"where": [
+[
+"emp",
+"EMP_0823.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1155",
+"en": "Point Shot",
+"jp": "ポイント・ショット",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+5
+],
+"where": [
+[
+"emp",
+"EMP_0823.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1156",
+"en": "Smart Shot",
+"jp": "スマート・ショット",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+5
+],
+"where": [
+[
+"emp",
+"EMP_0823.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1158",
+"en": "Curse Web ",
+"jp": "呪いの<411>",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+5
+],
+"where": [
+[
+"emp",
+"EMP_0824.PRG"
+],
+[
+"emp",
+"EMP_0825.PRG"
+],
+[
+"emp",
+"EMP_082B.PRG"
+]
+],
+"n": 3
+},
+{
+"id": "u1159",
+"en": "Ascending Trample ",
+"jp": "<3c1>み登り",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+9
+],
+"where": [
+[
+"emp",
+"EMP_0824.PRG"
+],
+[
+"emp",
+"EMP_0825.PRG"
+],
+[
+"emp",
+"EMP_082B.PRG"
+]
+],
+"n": 3
+},
+{
+"id": "u1161",
+"en": "Serathio",
+"jp": "�xラチオ",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+4
+],
+"where": [
+[
+"emp",
+"EMP_0824.PRG"
+],
+[
+"emp",
+"EMP_0825.PRG"
+],
+[
+"emp",
+"EMP_082B.PRG"
+]
+],
+"n": 3
+},
+{
+"id": "u1162",
+"en": "Tenastorm ",
+"jp": "テナストーム",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+5
+],
+"where": [
+[
+"emp",
+"EMP_0824.PRG"
+],
+[
+"emp",
+"EMP_0825.PRG"
+],
+[
+"emp",
+"EMP_082B.PRG"
+]
+],
+"n": 3
+},
+{
+"id": "u1164",
+"en": "Crossing the River Styx ",
+"jp": "三ど渡し",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+12
+],
+"where": [
+[
+"emp",
+"EMP_0824.PRG"
+],
+[
+"emp",
+"EMP_0825.PRG"
+],
+[
+"emp",
+"EMP_082B.PRG"
+]
+],
+"n": 3
+},
+{
+"id": "u1165",
+"en": "Dispatch to Hell",
+"jp": "迷て<370>り",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+8
+],
+"where": [
+[
+"emp",
+"EMP_0824.PRG"
+],
+[
+"emp",
+"EMP_0825.PRG"
+],
+[
+"emp",
+"EMP_082B.PRG"
+]
+],
+"n": 3
+},
+{
+"id": "u1167",
+"en": "Mist Thread ",
+"jp": "<61f>の糸",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+6
+],
+"where": [
+[
+"emp",
+"EMP_0828.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1168",
+"en": "Drop Slash",
+"jp": "落す斬",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+5
+],
+"where": [
+[
+"emp",
+"EMP_0828.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1170",
+"en": "1000 Needles",
+"jp": "連<2d5><655>",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+6
+],
+"where": [
+[
+"emp",
+"EMP_0828.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1171",
+"en": "Piercing Embrace",
+"jp": "<51c>きしめてあげる",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+8
+],
+"where": [
+[
+"emp",
+"EMP_0828.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1173",
+"en": "Spin Attack ",
+"jp": "<301><666>殺",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+6
+],
+"where": [
+[
+"emp",
+"EMP_0828.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1175",
+"en": "Imbibe",
+"jp": "かっぱ酒を飲む",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+3
+],
+"where": [
+[
+"emp",
+"EMP_0829.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1177",
+"en": "1000 Splits ",
+"jp": "かぶせ<2d5><4a6>",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+6
+],
+"where": [
+[
+"emp",
+"EMP_0829.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1178",
+"en": "Must Dance",
+"jp": "じゃこうの<193>",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+5
+],
+"where": [
+[
+"emp",
+"EMP_0829.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1180",
+"en": "Ogre Eater",
+"jp": "鬼喰らい",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+5
+],
+"where": [
+[
+"emp",
+"EMP_082A.PRG"
+],
+[
+"emp",
+"EMP_082C.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u1181",
+"en": "Ravenous Insects",
+"jp": "<3f4>喰<5ea>",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+8
+],
+"where": [
+[
+"emp",
+"EMP_082A.PRG"
+],
+[
+"emp",
+"EMP_082C.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u1183",
+"en": "Haze- Ten Step",
+"jp": "<110><568><110>　十<2fd>",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+7
+],
+"where": [
+[
+"emp",
+"EMP_0901.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1184",
+"en": "Haze- Spirit Rumble ",
+"jp": "<110><568><110>　神しり",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+10
+],
+"where": [
+[
+"emp",
+"EMP_0901.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1186",
+"en": "Real- Full Moon ",
+"jp": "<110><17f><110>　け<2c7>",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+8
+],
+"where": [
+[
+"emp",
+"EMP_0902.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1187",
+"en": "Real- Possession",
+"jp": "<110><17f><110>　神<339>ろし",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+8
+],
+"where": [
+[
+"emp",
+"EMP_0902.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1189",
+"en": "Thunder Kick",
+"jp": "<3be>し<4a3>",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+6
+],
+"where": [
+[
+"emp",
+"EMP_0903.PRG"
+],
+[
+"emp",
+"EMP_091F.PRG"
+],
+[
+"emp",
+"EMP_0920.PRG"
+]
+],
+"n": 3
+},
+{
+"id": "u1190",
+"en": "Ball Lightning",
+"jp": "<3be><629><5d1>",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+7
+],
+"where": [
+[
+"emp",
+"EMP_0903.PRG"
+],
+[
+"emp",
+"EMP_091F.PRG"
+],
+[
+"emp",
+"EMP_0920.PRG"
+]
+],
+"n": 3
+},
+{
+"id": "u1192",
+"en": "Howling Thunder ",
+"jp": "<686><512><5e9><3be>",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+8
+],
+"where": [
+[
+"emp",
+"EMP_0904.PRG"
+],
+[
+"emp",
+"EMP_0905.PRG"
+],
+[
+"emp",
+"EMP_0905.PRG"
+],
+[
+"emp",
+"EMP_0932.PRG"
+]
+],
+"n": 6
+},
+{
+"id": "u1194",
+"en": "Sirius Drop ",
+"jp": "天<55a>妖落",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+6
+],
+"where": [
+[
+"emp",
+"EMP_0905.PRG"
+],
+[
+"emp",
+"EMP_0933.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u1195",
+"en": "Wolf Spirit ",
+"jp": "<25a><55a>魂",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+6
+],
+"where": [
+[
+"emp",
+"EMP_0905.PRG"
+],
+[
+"emp",
+"EMP_0933.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u1197",
+"en": "Explosive Howl",
+"jp": "<3d7><3ab>！大<686><512>",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+7
+],
+"where": [
+[
+"emp",
+"EMP_0906.PRG"
+],
+[
+"emp",
+"EMP_0934.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u1198",
+"en": "Heavenly Wolf Spirit",
+"jp": "天<25a><55a>魂",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+10
+],
+"where": [
+[
+"emp",
+"EMP_0906.PRG"
+],
+[
+"emp",
+"EMP_0934.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u1200",
+"en": "Howling Storm ",
+"jp": "<686><512><5e9>嵐",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+7
+],
+"where": [
+[
+"emp",
+"EMP_0906.PRG"
+],
+[
+"emp",
+"EMP_0906.PRG"
+],
+[
+"emp",
+"EMP_0934.PRG"
+],
+[
+"emp",
+"EMP_0934.PRG"
+]
+],
+"n": 4
+},
+{
+"id": "u1202",
+"en": "Fan Strike",
+"jp": "<507><6a1><34d>",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+5
+],
+"where": [
+[
+"emp",
+"EMP_0907.PRG"
+],
+[
+"emp",
+"EMP_090A.PRG"
+],
+[
+"emp",
+"EMP_0935.PRG"
+],
+[
+"emp",
+"EMP_0938.PRG"
+]
+],
+"n": 4
+},
+{
+"id": "u1203",
+"en": "Flying Kick ",
+"jp": "<507><69b><4a3>",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+6
+],
+"where": [
+[
+"emp",
+"EMP_0907.PRG"
+],
+[
+"emp",
+"EMP_090A.PRG"
+],
+[
+"emp",
+"EMP_0935.PRG"
+],
+[
+"emp",
+"EMP_0938.PRG"
+]
+],
+"n": 4
+},
+{
+"id": "u1204",
+"en": "Dark Wave ",
+"jp": "<507>迷<3a2>",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+5
+],
+"where": [
+[
+"emp",
+"EMP_0907.PRG"
+],
+[
+"emp",
+"EMP_090A.PRG"
+],
+[
+"emp",
+"EMP_0935.PRG"
+],
+[
+"emp",
+"EMP_0938.PRG"
+]
+],
+"n": 4
+},
+{
+"id": "u1205",
+"en": "Qigong Explosive Revolution ",
+"jp": "気功<3d7>ざ法",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 14,
+"en_tiles": [
+14
+],
+"where": [
+[
+"emp",
+"EMP_0908.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1207",
+"en": "Qigong Falling Dragon ",
+"jp": "気功<339><4f6><1de>",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+11
+],
+"where": [
+[
+"emp",
+"EMP_0908.PRG"
+],
+[
+"emp",
+"EMP_0909.PRG"
+],
+[
+"emp",
+"EMP_0936.PRG"
+],
+[
+"emp",
+"EMP_0937.PRG"
+]
+],
+"n": 4
+},
+{
+"id": "u1208",
+"en": "Qigong Rending Sky",
+"jp": "気功<2b3>天<1de>",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+9
+],
+"where": [
+[
+"emp",
+"EMP_0908.PRG"
+],
+[
+"emp",
+"EMP_0909.PRG"
+],
+[
+"emp",
+"EMP_0936.PRG"
+],
+[
+"emp",
+"EMP_0937.PRG"
+]
+],
+"n": 4
+},
+{
+"id": "u1209",
+"en": "Imperial Edge ",
+"jp": "<507>皇<32f>",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+7
+],
+"where": [
+[
+"emp",
+"EMP_090A.PRG"
+],
+[
+"emp",
+"EMP_0938.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u1211",
+"en": "Ruin's Secret Orders",
+"jp": "破王、密令",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+10
+],
+"where": [
+[
+"emp",
+"EMP_090A.PRG"
+],
+[
+"emp",
+"EMP_0938.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u1212",
+"en": "Vitality From Ruin",
+"jp": "以破王<358><25a>魂",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+9
+],
+"where": [
+[
+"emp",
+"EMP_090A.PRG"
+],
+[
+"emp",
+"EMP_0938.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u1214",
+"en": "Soporific Slash ",
+"jp": "服<618>斬",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+8
+],
+"where": [
+[
+"emp",
+"EMP_090B.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1215",
+"en": "Monochrome Slash",
+"jp": "色<54d>斬",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+8
+],
+"where": [
+[
+"emp",
+"EMP_090B.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1216",
+"en": "Ground Kick ",
+"jp": "地<699><235>殺",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+6
+],
+"where": [
+[
+"emp",
+"EMP_090B.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1217",
+"en": "Demonic Insanity",
+"jp": "天魔狂<1de>",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+8
+],
+"where": [
+[
+"emp",
+"EMP_090B.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1220",
+"en": "Vengiers Dent ",
+"jp": "<a3>ァンジャース・デント",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+7
+],
+"where": [
+[
+"emp",
+"EMP_090F.PRG"
+],
+[
+"emp",
+"EMP_092F.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u1221",
+"en": "Noir Rave ",
+"jp": "うワール・レー<a3>",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+5
+],
+"where": [
+[
+"emp",
+"EMP_090F.PRG"
+],
+[
+"emp",
+"EMP_092F.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u1222",
+"en": "Molteaux Audience ",
+"jp": "モルト・オーディおンス",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+9
+],
+"where": [
+[
+"emp",
+"EMP_090F.PRG"
+],
+[
+"emp",
+"EMP_092F.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u1223",
+"en": "Ram Devolte ",
+"jp": "ラム・デボルテ",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+6
+],
+"where": [
+[
+"emp",
+"EMP_090F.PRG"
+],
+[
+"emp",
+"EMP_092F.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u1225",
+"en": "Zwea Drucken",
+"jp": "ツェァ・ドリュケン",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+6
+],
+"where": [
+[
+"emp",
+"EMP_0910.PRG"
+],
+[
+"emp",
+"EMP_0930.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u1226",
+"en": "Panzerfaust ",
+"jp": "パンツァ・ファかスト",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+6
+],
+"where": [
+[
+"emp",
+"EMP_0910.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1227",
+"en": "Dreck Nebel ",
+"jp": "ドレク・ネーベル",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+6
+],
+"where": [
+[
+"emp",
+"EMP_0910.PRG"
+],
+[
+"emp",
+"EMP_0930.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u1228",
+"en": "Zauber Donar",
+"jp": "ツァかバァ・ドナァ",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+6
+],
+"where": [
+[
+"emp",
+"EMP_0910.PRG"
+],
+[
+"emp",
+"EMP_0930.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u1230",
+"en": "Black Gradation ",
+"jp": "ブラックグラデーション",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+8
+],
+"where": [
+[
+"emp",
+"EMP_0911.PRG"
+],
+[
+"emp",
+"EMP_0931.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u1231",
+"en": "Black Spiral",
+"jp": "ブラックスパイラル",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+6
+],
+"where": [
+[
+"emp",
+"EMP_0911.PRG"
+],
+[
+"emp",
+"EMP_0931.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u1232",
+"en": "Black Revolver",
+"jp": "ブラックリボルバー",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+7
+],
+"where": [
+[
+"emp",
+"EMP_0911.PRG"
+],
+[
+"emp",
+"EMP_0931.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u1233",
+"en": "Black Heaven",
+"jp": "ブラック<6e>ブン",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+6
+],
+"where": [
+[
+"emp",
+"EMP_0911.PRG"
+],
+[
+"emp",
+"EMP_0931.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u1235",
+"en": "Miraculous Light",
+"jp": "<4d8><5a9>の光",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+8
+],
+"where": [
+[
+"emp",
+"EMP_0912.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1236",
+"en": "Ancient Miracle ",
+"jp": "太るの<4d8><5a9>",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+8
+],
+"where": [
+[
+"emp",
+"EMP_0912.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1238",
+"en": "Mist Illusion ",
+"jp": "ミストイリュージョン",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+7
+],
+"where": [
+[
+"emp",
+"EMP_0912.PRG"
+],
+[
+"emp",
+"EMP_0912.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u1239",
+"en": "Strike Illusion ",
+"jp": "ストライクイリュージョン",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+8
+],
+"where": [
+[
+"emp",
+"EMP_0912.PRG"
+],
+[
+"emp",
+"EMP_0912.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u1241",
+"en": "The air hums... ",
+"jp": "大気が震える・・・",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+8
+],
+"where": [
+[
+"emp",
+"EMP_0913.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1243",
+"en": "Bagal Belda ",
+"jp": "バガル・ベルダ",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+6
+],
+"where": [
+[
+"emp",
+"EMP_0914.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1244",
+"en": "Latente Persona ",
+"jp": "ラテンテ・ウルソナ",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+8
+],
+"where": [
+[
+"emp",
+"EMP_0914.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1245",
+"en": "Rokura Ribelta",
+"jp": "ロクラ・リベルタ",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+7
+],
+"where": [
+[
+"emp",
+"EMP_0914.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1246",
+"en": "Solid Suela ",
+"jp": "ソリド・スおラ",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+6
+],
+"where": [
+[
+"emp",
+"EMP_0914.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1248",
+"en": "Fame Clinch ",
+"jp": "フェームクリンチ",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+6
+],
+"where": [
+[
+"emp",
+"EMP_0916.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1249",
+"en": "Earth Rage",
+"jp": "アースデイティーレイジ",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+5
+],
+"where": [
+[
+"emp",
+"EMP_0916.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1251",
+"en": "Meteoric Gold ",
+"jp": "メテオリックゴールド",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+7
+],
+"where": [
+[
+"emp",
+"EMP_0917.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1252",
+"en": "Gold Gathering",
+"jp": "ゴールドギャザリング",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+7
+],
+"where": [
+[
+"emp",
+"EMP_0917.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1255",
+"en": "Heavenly Ruination",
+"jp": "天ど殺",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+9
+],
+"where": [
+[
+"emp",
+"EMP_0919.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1256",
+"en": "Malicious Light ",
+"jp": "邪光殺",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+8
+],
+"where": [
+[
+"emp",
+"EMP_0919.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1258",
+"en": "Otherworld Card: Riotous Fate ",
+"jp": "外<4ce>・乱命",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 15,
+"en_tiles": [
+15
+],
+"where": [
+[
+"emp",
+"EMP_091A.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1259",
+"en": "Spirit Unraveler",
+"jp": "外法・<321>迷魂",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+8
+],
+"where": [
+[
+"emp",
+"EMP_091A.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1261",
+"en": "Shadow Stitcher ",
+"jp": "か<60b>い",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+8
+],
+"where": [
+[
+"emp",
+"EMP_091B.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1262",
+"en": "Earth Slicer",
+"jp": "地刺し",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+6
+],
+"where": [
+[
+"emp",
+"EMP_091B.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1263",
+"en": "Shadow Exit ",
+"jp": "か出",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+6
+],
+"where": [
+[
+"emp",
+"EMP_091B.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1264",
+"en": "Friendly Rip",
+"jp": "友引",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+6
+],
+"where": [
+[
+"emp",
+"EMP_091B.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1266",
+"en": "Ruined Spirit Fire",
+"jp": "荒魂・<1fc><3d8>",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+9
+],
+"where": [
+[
+"emp",
+"EMP_091C.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1267",
+"en": "Ten Whirling Flames ",
+"jp": "た十<687><301><20c>",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+10
+],
+"where": [
+[
+"emp",
+"EMP_091C.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1268",
+"en": "Ten Blazing Strikes ",
+"jp": "た十<687><3ab><1de>",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+10
+],
+"where": [
+[
+"emp",
+"EMP_091C.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1269",
+"en": "Wild Spirit Firelight ",
+"jp": "荒神渡り・<1fc>か",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+11
+],
+"where": [
+[
+"emp",
+"EMP_091C.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1271",
+"en": "Wild Spirit: Ringing Winds",
+"jp": "荒魂・<20f>し",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 13,
+"en_tiles": [
+13
+],
+"where": [
+[
+"emp",
+"EMP_091D.PRG"
+],
+[
+"emp",
+"EMP_0927.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u1272",
+"en": "Wild God: Wind Abandonment",
+"jp": "荒神渡り・<20f>ば",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 13,
+"en_tiles": [
+13
+],
+"where": [
+[
+"emp",
+"EMP_091D.PRG"
+],
+[
+"emp",
+"EMP_0927.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u1273",
+"en": "Kusanagi's Winds of Death ",
+"jp": "草<650>の死<20f>",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 13,
+"en_tiles": [
+13
+],
+"where": [
+[
+"emp",
+"EMP_091D.PRG"
+],
+[
+"emp",
+"EMP_0927.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u1275",
+"en": "Evil Spirit Resonance ",
+"jp": "邪心共し",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+11
+],
+"where": [
+[
+"emp",
+"EMP_091E.PRG"
+],
+[
+"emp",
+"EMP_0929.PRG"
+],
+[
+"emp",
+"EMP_092A.PRG"
+]
+],
+"n": 3
+},
+{
+"id": "u1276",
+"en": "Ambition Shadow Formation ",
+"jp": "ビ気陰<236><32f>",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 13,
+"en_tiles": [
+13
+],
+"where": [
+[
+"emp",
+"EMP_091E.PRG"
+],
+[
+"emp",
+"EMP_0929.PRG"
+],
+[
+"emp",
+"EMP_092A.PRG"
+]
+],
+"n": 3
+},
+{
+"id": "u1277",
+"en": "Hell Rebirth",
+"jp": "魔界ざ生",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+6
+],
+"where": [
+[
+"emp",
+"EMP_091E.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1278",
+"en": "Pillar of the Dead",
+"jp": "<512>魔亡��<4d4>",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+9
+],
+"where": [
+[
+"emp",
+"EMP_091E.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1279",
+"en": "Lightning Grudge",
+"jp": "<3be><1d5><32f>",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+8
+],
+"where": [
+[
+"emp",
+"EMP_091F.PRG"
+],
+[
+"emp",
+"EMP_0920.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u1280",
+"en": "Commanding Soul Resonance ",
+"jp": "<298><2f0>共し魂",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 13,
+"en_tiles": [
+13
+],
+"where": [
+[
+"emp",
+"EMP_091F.PRG"
+],
+[
+"emp",
+"EMP_0920.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u1281",
+"en": "Dream Afterglow Strike",
+"jp": "<1b8><2f8>残光<661>",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+11
+],
+"where": [
+[
+"emp",
+"EMP_0923.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1282",
+"en": "Wild God: Flight",
+"jp": "荒神狂<2fd>・<20f>切り",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+8
+],
+"where": [
+[
+"emp",
+"EMP_0927.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1284",
+"en": "Ten Form: Sword Grip",
+"jp": "十<3cd>邪神る・た<5b1>騒",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+10
+],
+"where": [
+[
+"emp",
+"EMP_0928.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1285",
+"en": "Ten Form: Undeath Sphere",
+"jp": "十<3cd>邪神る・死<321><30b>",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+12
+],
+"where": [
+[
+"emp",
+"EMP_0928.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1286",
+"en": "Death Calling Mirror",
+"jp": "邪神る・う死<257>",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+10
+],
+"where": [
+[
+"emp",
+"EMP_0928.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1287",
+"en": "Sword Grip",
+"jp": "十<3cd>邪神る・た<5b1>騒",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+5
+],
+"where": [
+[
+"emp",
+"EMP_0928.PRG"
+],
+[
+"emp",
+"EMP_0928.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u1288",
+"en": "Undeath Sphere",
+"jp": "十<3cd>邪神る・死<321><30b>",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+7
+],
+"where": [
+[
+"emp",
+"EMP_0928.PRG"
+],
+[
+"emp",
+"EMP_0928.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u1289",
+"en": "Soul-sucking Mirror ",
+"jp": "邪神る・<437><25a><257>",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+10
+],
+"where": [
+[
+"emp",
+"EMP_0928.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1291",
+"en": "Heaven and Earth Nesting Evil ",
+"jp": "天地魔<46a><32f>",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 15,
+"en_tiles": [
+15
+],
+"where": [
+[
+"emp",
+"EMP_0929.PRG"
+],
+[
+"emp",
+"EMP_092A.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u1292",
+"en": "Destruction of Gods and Devils",
+"jp": "神魔<323><236><32f>",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 15,
+"en_tiles": [
+15
+],
+"where": [
+[
+"emp",
+"EMP_0929.PRG"
+],
+[
+"emp",
+"EMP_092A.PRG"
+]
+],
+"n": 2
+},
+{
+"id": "u1294",
+"en": "Shining from the Darkness ",
+"jp": "神像の<323>より生じる<629>めき",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 13,
+"en_tiles": [
+13
+],
+"where": [
+[
+"emp",
+"EMP_092B.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1296",
+"en": "Dark Fire ",
+"jp": "<3e1>迷",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+5
+],
+"where": [
+[
+"emp",
+"EMP_092B.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1297",
+"en": "Awakened Breath of Doom ",
+"jp": "<110>死の息<2db><110>が目覚める",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+12
+],
+"where": [
+[
+"emp",
+"EMP_092B.PRG"
+],
+[
+"emp",
+"EMP_092B.PRG"
+],
+[
+"emp",
+"EMP_092B.PRG"
+],
+[
+"emp",
+"EMP_092B.PRG"
+]
+],
+"n": 4
+},
+{
+"id": "u1299",
+"en": "Dark Water",
+"jp": "氷迷",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+5
+],
+"where": [
+[
+"emp",
+"EMP_092B.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1301",
+"en": "Dark Wind ",
+"jp": "<20f>迷",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+5
+],
+"where": [
+[
+"emp",
+"EMP_092B.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1303",
+"en": "Dark Thunder",
+"jp": "<3be>迷",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+6
+],
+"where": [
+[
+"emp",
+"EMP_092B.PRG"
+]
+],
+"n": 1
+},
+{
+"id": "u1304",
+"en": "Panzer Faust",
+"jp": "パンツァ・ファかスト",
+"kind": "название атаки/действия врага (окно боя)",
+"max_tiles_per_line": 12,
+"en_tiles": [
+6
+],
+"where": [
+[
+"emp",
+"EMP_0930.PRG"
+]
+],
+"n": 1
+}
+]

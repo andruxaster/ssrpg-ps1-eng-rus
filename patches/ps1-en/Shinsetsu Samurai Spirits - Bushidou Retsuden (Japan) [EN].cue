@@ -1,0 +1,12 @@
+FILE "Shinsetsu Samurai Spirits - Bushidou Retsuden (Japan) [EN].bin" BINARY
+  TRACK 01 MODE2/2352
+    INDEX 01 00:00:00
+  TRACK 02 AUDIO
+    INDEX 00 67:26:27
+    INDEX 01 67:28:27
+  TRACK 03 AUDIO
+    INDEX 00 68:32:03
+    INDEX 01 68:34:03
+  TRACK 04 AUDIO
+    INDEX 00 69:56:26
+    INDEX 01 69:58:26

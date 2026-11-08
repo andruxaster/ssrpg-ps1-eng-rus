@@ -1,0 +1,3420 @@
+[
+{
+"id": 2772,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"O-of course it is!"
+],
+"jp": "む・・・無論です！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2773,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Anyone whose heart is not stirred by such a fiery duel...",
+"is no man at all!"
+],
+"jp": "あの熱い果たし合いを見て 心を揺さぶられぬものは / 男子ではありません！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2774,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"...You seem to have a very straightforward nature."
+],
+"jp": "・・・お前さまはずいぶんと まっすぐな御気性のようじゃ",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2775,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Take my advice. Pack your things and go home right now."
+],
+"jp": "悪いことは言わぬ 今すぐ荷物をまとめて帰りなされ",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2776,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Wh-what!? You mean you cannot take me as a pupil!?"
+],
+"jp": "な・・・なんと 私では弟子にできぬ・・・と！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2777,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"That's right.",
+"Hurry home, apologize to your lord and tell him you learned a great deal...",
+"That is what you should report..."
+],
+"jp": "そうじゃ / 早う帰って主人にわびを入れ 私は大変良い勉強をしてきたと / ご報告申し上げることじゃ・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2778,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Oh... so I...",
+"I lack the talent to meet your standards, Master Nicotine..."
+],
+"jp": "おお・・・私には・・・ / 花諷院様のお眼鏡にかなうだけの 天分が・・・ないと・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2779,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Don't misunderstand me!",
+"That's not what I mean..."
+],
+"jp": "考え違いされるな！ / そういうことではない・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2780,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"With enough effort, you could become a master swordsman.",
+"You could likely even earn full mastery of your school."
+],
+"jp": "お前さまはこれからの精進次第で 剣の名人にはなれる / 免許皆伝も恐らくかなうじゃろう",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2781,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"You would not lose to an ordinary swordsman,",
+"and you could serve your lord well with your spear."
+],
+"jp": "並の剣士には負けんじゃろうし / 槍働きで主君に奉公することも できよう",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2782,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"And yet... I cannot... become your pupil..."
+],
+"jp": "それでも・・・弟子には・・・ なれぬと・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2783,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"I understand...",
+"I, Abiko, can become a master, but never a true expert!",
+"If I am unworthy of walking the path of the sword to its end...",
+"then it is the same as falling halfway down that path!"
+],
+"jp": "分かりました・・・ / この我孫子は名人になれても 達人にはなれぬ！ / 剣の道極めるに 分不相応であるというなら / 道半ばにして倒れたると 同じこと！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2784,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"I shall cut open my belly here and at least atone to my lord!"
+],
+"jp": "ここで腹かき切って せめて主人におわび申し上げる！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2785,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Y-you fool!"
+],
+"jp": "た、たわけぃ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2786,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"You still need to learn a bit more about discipline."
+],
+"jp": "お前さまは もう少し精進を学ぶことじゃ",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2787,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Cutting your belly just because things don't go your way...",
+"That's no better than fleeing before the enemy! ...Hm?",
+"Isn't that the very thing a samurai should be ashamed of?"
+],
+"jp": "自分の意にそわぬからといって 腹を切るなど・・・ / 敵前逃亡も同然ではないか！ ・・・ん？ / それこそが武士として 恥じるべきことではないか？",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2788,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"F-fleeing... before the enemy..."
+],
+"jp": "て・・・敵前逃亡 ・・・でござるか",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2789,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"That's right.",
+"And you don't understand the feelings of your lord at all...",
+"the one who gladly sent you off to train..."
+],
+"jp": "そうじゃ / それにお前さまは 快く修行に送り出してくれた / 主人の気持ちを 全く分かっておらん・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2790,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"My lord's..."
+],
+"jp": "御主君の・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2791,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Hmm...",
+"I suspect your lord sent you off gladly not to train in the sword,",
+"but to train in life itself."
+],
+"jp": "ふむ・・・ / 恐らく御主君は、剣の修行ではなく 人生の修行として / お前さまを快く 送り出してくれたのじゃろう",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2792,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Come back a bigger man, he must have thought."
+],
+"jp": "一回り大きくなって 帰って来いよ、と",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2793,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"No... he may even think that if you found a better purpose in life,",
+"that alone would be enough..."
+],
+"jp": "いや、より良い生きがいを 見つけることができたら / それで良しとまで お考えなのかもしれんて・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2794,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Master Nicotine..."
+],
+"jp": "花諷院様・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2795,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"To fail to repay such a great lord,",
+"and waste your life by cutting your belly... THAT is a samurai's shame..."
+],
+"jp": "そのようなご器量の名君に 報いずして / 腹を切ってムダ死にするなど それこそ武士の恥・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2796,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Wouldn't you agree?"
+],
+"jp": "そうではないか？",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2797,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"...I have nothing to say."
+],
+"jp": "・・・一言もありませぬ",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2798,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"So you understand?"
+],
+"jp": "分かってくれたかの？",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2799,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"I, Abiko, was shallow."
+],
+"jp": "この我孫子 浅はかでございました",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2800,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"But still, still I must beg you to take me on as your pupil!"
+],
+"jp": "しかし、しかし弟子入りの儀は 曲げてお願いしたいのでござる！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2801,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Hmm... I suppose it can't be helped."
+],
+"jp": "む・・・是非もないわい",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Я буду признателен за любую помощь."
+}
+]
+},
+{
+"id": 2802,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Then I shall look after you for about a week."
+],
+"jp": "では一週間ばかりお前さまの 身をあずからせていただこう",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Я буду признателен за любую помощь."
+}
+]
+},
+{
+"id": 2803,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Oh...! Then you mean...!"
+],
+"jp": "おおっ・・・それでは！",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Я буду признателен за любую помощь."
+}
+]
+},
+{
+"id": 2804,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Don't jump to conclusions...",
+"I haven't said I'll take you as a pupil yet!"
+],
+"jp": "早合点するでないぞい・・・ / まだ弟子にするとは 言うとらんのからの！",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Я буду признателен за любую помощь."
+}
+]
+},
+{
+"id": 2805,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Good grief..."
+],
+"jp": "やれやれ・・・",
+"choice": null,
+"context": [
+{
+"ru": "Я буду признателен за любую помощь."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 2806,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"496!",
+"497!"
+],
+"jp": "４９６！ / ４９７！",
+"choice": null,
+"context": [
+{
+"ru": "Я буду признателен за любую помощь."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 2807,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"498!",
+"499!"
+],
+"jp": "４９８！ / ４９９！",
+"choice": null,
+"context": [
+{
+"ru": "Я буду признателен за любую помощь."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 2808,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"500!",
+"Whew..."
+],
+"jp": "５００！ / ふう・・・",
+"choice": null,
+"context": [
+{
+"ru": "Я буду признателен за любую помощь."
+},
+{
+"self": true
+},
+{
+"ru": "Понимаю... что ж, видно, ничего не поделаешь..."
+}
+]
+},
+{
+"id": 2809,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Not a wasted motion in those swings... You've trained well, I see."
+],
+"jp": "さすがにムダのない振りじゃ・・・ 修練を積んでおったようじゃのう",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Понимаю... что ж, видно, ничего не поделаешь..."
+}
+]
+},
+{
+"id": 2810,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Master Nicotine... is it not time...",
+"Please, give me even a single word of guidance..."
+],
+"jp": "和狆様・・・そろそろ・・・ / せめて一言でも ご指導をお願いします・・・",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Понимаю... что ж, видно, ничего не поделаешь..."
+}
+]
+},
+{
+"id": 2811,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Fwahahaha...",
+"For now, I have nothing to say to you..."
+],
+"jp": "ふぁふぁふぁ・・・ / 今のところ ワシが言うことは何もない・・・",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Понимаю... что ж, видно, ничего не поделаешь..."
+}
+]
+},
+{
+"id": 2812,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"From today I will do 1000 swings!",
+"501..."
+],
+"jp": "今日からは１０００本振ります！ / ５０１・・・",
+"choice": null,
+"context": [
+{
+"ru": "Понимаю... что ж, видно, ничего не поделаешь..."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 2813,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Ah, stop, stop that!",
+"Didn't I tell you at the start?",
+"Just do your usual practice, the way you always do..."
+],
+"jp": "あー、よしなされよしなされ！ / 最初に言うたじゃろう？ / いつものように いつものケイコをせよと・・・",
+"choice": null,
+"context": [
+{
+"ru": "Понимаю... что ж, видно, ничего не поделаешь..."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 2814,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Yes, but...",
+"Yes, but this is no different from before!"
+],
+"jp": "そうですが・・・ / そうですが、これでは以前と 何も変わりません！",
+"choice": null,
+"context": [
+{
+"ru": "Понимаю... что ж, видно, ничего не поделаешь..."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 2815,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"I don't ask for secret arts right away, but the training you gave Haohmaru and Genjuro...",
+"I wish to undergo Kafuin style training too..."
+],
+"jp": "いきなり奥義とは言いませんが 覇王丸殿や牙神殿に課されたような / 花諷院流の修行を私も・・・",
+"choice": null,
+"context": [
+{
+"ru": "Понимаю... что ж, видно, ничего не поделаешь..."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 2816,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"...I never taught those two anything."
+],
+"jp": "・・・ワシはあやつらに 何も教えとりゃせんよ",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Э-это же...!!"
+}
+]
+},
+{
+"id": 2817,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"B-but..."
+],
+"jp": "そ、そんな・・・",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Э-это же...!!"
+}
+]
+},
+{
+"id": 2818,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"For one thing, there's no such thing as a Kafuin style."
+],
+"jp": "第一、花諷院流など ありゃせんわい",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Э-это же...!!"
+}
+]
+},
+{
+"id": 2819,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Genjuro calls his style Koin Itto-ryu,",
+"and Haohmaru says his is self-taught."
+],
+"jp": "幻十郎めは 古陰一刀流を名乗っとるし / 覇王丸なんぞは 我流と言うとるぞい",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Э-это же...!!"
+}
+]
+},
+{
+"id": 2820,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"I didn't teach them their secret arts either...",
+"They worked those out themselves through great hardship.",
+"Why, I can't even do a Senpu Retsuzan or a Goko Zan."
+],
+"jp": "あやつらの奥義も ワシが教えた物ではない・・・ / あやつら自身が苦心の末に 編み出したものじゃ / 現にワシは旋風裂斬や 五光斬などできんからのう",
+"choice": null,
+"context": [
+{
+"ru": "Э-это же...!!"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 2821,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Disappointed?"
+],
+"jp": "がっかりしたか？",
+"choice": null,
+"context": [
+{
+"ru": "Э-это же...!!"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 2822,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Then... then, Master Nicotine...",
+"what on earth did you pass on to those two?"
+],
+"jp": "それでは・・・ それでは和狆様・・・ / 一体あなた様はあのお方たちに 何を伝授されたのですか・・・",
+"choice": null,
+"context": [
+{
+"ru": "Э-это же...!!"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 2823,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"The essence of the sword? Or the tactics of a duel?",
+"The secrets of strategy?"
+],
+"jp": "剣の極意ですか？ それとも勝負の駆け引き？ / 兵法の秘術？",
+"choice": null,
+"context": [
+{
+"ru": "Э-это же...!!"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 2824,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Master Nicotine!",
+"Please, I beg you, teach that to me!",
+"I know full well how unskilled I am!",
+"But still... still..."
+],
+"jp": "和狆様！ / どうか、どうか私に、それを！ それを教えて下され！ / 自分の未熟はもちろん 承知しております！ / しかし、しかし・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2825,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"...I'm sorry,",
+"but that's not something that can be taught with words..."
+],
+"jp": "・・・気の毒じゃが / それは口でどうこうと 伝えられる物ではない・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2826,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Genjuro never did understand it,",
+"and I wonder if even Haohmaru truly understands..."
+],
+"jp": "幻十郎にはとうとう 分かってもらえなんだし / 覇王丸めも本当に 分かっておるのかどうか・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2827,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Wh-what!? Not even those two!?"
+],
+"jp": "な・・・何と あのお二方を持ってしても！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2828,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"...Abiko."
+],
+"jp": "・・・我孫子よ",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2829,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Y-yes, sir!"
+],
+"jp": "は・・・はっ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2830,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"I knew it... you are...",
+"not a man who belongs in a place like this..."
+],
+"jp": "やはり、お主は・・・ / このような場所にいるべき 男ではない・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2831,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"...I was prepared for it, but actually hearing those words...",
+"it hurts as if I were cut... it hurts so..."
+],
+"jp": "・・・覚悟はしておりましたが いざそのお言葉を聞くと・・・ / 身を斬られるように 痛う、痛うございます・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2832,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"So much that it would be easier to take my own life..."
+],
+"jp": "いっそ、自害して果てた方が 楽になれるぐらいに・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2833,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Abiko!"
+],
+"jp": "我孫子！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2834,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"No, Master Nicotine...",
+"I, Abiko, have grown a little.",
+"I will no longer give up over something like this..."
+],
+"jp": "いえ、和狆様・・・ / 我孫子も少しは 大きくなり申した・・・ / もうこれしきのことで 音を上げたりはいたしませぬ・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2835,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Hm... well said!"
+],
+"jp": "む・・・よくぞ申された！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2836,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"But, before I say farewell,",
+"I ask you to strike down my immaturity just once more...",
+"That is my final request."
+],
+"jp": "ただ、ただお別れを言う前に / この我孫子めの未熟を今一度 打ちすえていただきたい・・・ / 我孫子、最後のお願いでございます",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2837,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"...Abiko... as I said at the start,",
+"you have more talent for the sword than most men."
+],
+"jp": "・・・我孫子よ・・・ 最初にも言うたが / お主には常人に勝る 剣の素養がある",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2838,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"But you are not a man who can only live by the sword."
+],
+"jp": "しかし、お主は 剣にしか生きられぬ男ではない",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2839,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Hmm...",
+"I do not quite grasp your meaning."
+],
+"jp": "むむ・・・ / よく意味が飲み込めませぬ",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2840,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Haohmaru and Genjuro are clumsy men.",
+"...They're idiots.",
+"Flawed men who can only express themselves by swinging a sword."
+],
+"jp": "覇王丸や幻十郎は 不器用なのじゃよ / ・・・バカなのじゃ / 剣を振るうことでしか 自分を語れぬ欠陥人間なのじゃよ",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2841,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"You are not like that.",
+"You're young, so you're still a bit reckless,",
+"but you are earnest and good-natured.",
+"I'm sure everyone will be fond of you..."
+],
+"jp": "お主はそうではない / 若い故、まだまだ向こう見ずな ところもあるが / 一本気で良い気性を持っておる / おそらく皆に 可愛がられることじゃろ・・・",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Большое спасибо..."
+}
+]
+},
+{
+"id": 2842,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Go home, apologize to your lord and serve him once more.",
+"Return to your old dojo, train hard and aim for full mastery.",
+"You can do that. That is the path you should fulfill."
+],
+"jp": "帰って、主人にわびを入れ もう一度奉公せい / 元の道場に帰って修行に励み 皆伝を目指せい / お主にはそれができる それをこそ全うすべきなのじゃ",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Большое спасибо..."
+}
+]
+},
+{
+"id": 2843,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"...In other words, I have no talent...",
+"No, I understand. I shall take my leave."
+],
+"jp": "・・・つまり、素質がないと いうことでござろう・・・ / いや、わかり申した おいとまいたしまする",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Большое спасибо..."
+},
+{
+"ru": "Я вам стольким обязана..."
+}
+]
+},
+{
+"id": 2844,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"W-wait... That's not it..."
+],
+"jp": "ま、待て・・・ そうではない・・・",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Большое спасибо..."
+},
+{
+"ru": "Я вам стольким обязана..."
+}
+]
+},
+{
+"id": 2845,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Oh my, are you leaving already?",
+"Why not have some breakfast before you go?"
+],
+"jp": "まあ、もうお帰りになるの？ / 朝飯でも食べてから お発ちになったら？",
+"choice": null,
+"context": [
+{
+"ru": "Большое спасибо..."
+},
+{
+"ru": "Я вам стольким обязана..."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 2846,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"...The path of the sword is a path of carnage.",
+"To be invincible is to pile up corpses, spill rivers of blood...",
+"and survive..."
+],
+"jp": "・・・剣の道は修羅の道 / 無敵とは、即ち 屍を築き血河を流して / 生き延びることじゃ・・・",
+"choice": null,
+"context": [
+{
+"ru": "Большое спасибо..."
+},
+{
+"ru": "Я вам стольким обязана..."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 2847,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"It is never what you imagine it to be...",
+"some clash of strength between men...",
+"Not at all..."
+],
+"jp": "お主が考えているような / 男と男の 力のぶつかり合いなんぞでは / 決してないのじゃ・・・",
+"choice": null,
+"context": [
+{
+"ru": "Я вам стольким обязана..."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 2848,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Listen, Abiko... please understand...",
+"It's not that you lack talent and so I can't take you."
+],
+"jp": "良いか、我孫子よ・・・ 分かってくれい・・・ / お主に素質がないから 弟子にできないのではない",
+"choice": null,
+"context": [
+{
+"ru": "Я вам стольким обязана..."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 2849,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"It's that I am not worthy to be the master of a man like you."
+],
+"jp": "ワシこそが、お主のような男の 師匠になる資格がないのじゃよ",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2850,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Mister Nicotine, should I make breakfast for just one this morning?"
+],
+"jp": "和狆さ～ん、今朝は朝食 一人分でいいかなぁ？",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2851,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Oh... oh my, yes! Sorry to always trouble you..."
+],
+"jp": "ほう・・・ほうほう！ いつも済まないのう・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2852,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Damn it..."
+],
+"jp": "くそっ・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2853,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Whoa! How strange! Wh-who are you!?"
+],
+"jp": "うわっ！　面妖な！ な、何者だ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2854,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Me...?",
+"I am but a humble Kuroko."
+],
+"jp": "私ですか・・・？ / 私は一介の黒子です",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2855,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"I know what you're thinking!",
+"Nicotine doesn't like me,",
+"so he said something plausible to get rid of me nicely... right?"
+],
+"jp": "あなた、こう思っていますね！ / 和狆め オレが気に入らないものだから / もっともらしいことを言って 体よく追い払ったのだな・・・と",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2856,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"H-how rude! Who are you!?"
+],
+"jp": "ぶ・・・無礼な、何者だ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2857,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"I am but a humble Kuroko.",
+"But Sir Abiko, you are mistaken..."
+],
+"jp": "私は一介の黒子です / しかし我孫子様 それは違いますよ・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2858,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Wha-what? This grows stranger and stranger...",
+"How do you know my name...?"
+],
+"jp": "ぬぬぬぬ？ ますます奇ッ怪な・・・ / どうして私の名を・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2859,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"I am Kuroko. There is nothing I do not know."
+],
+"jp": "私は黒子 分からないことはございません",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2860,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Sir Abiko, please try to grasp Master Nicotine's true intent."
+],
+"jp": "我孫子様、和狆様の真意を くみ取って上げて下さいまし",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2861,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Hmm...! His true intent!?"
+],
+"jp": "むむっ・・・真意だと！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2862,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Not just Haohmaru and Genjuro...",
+"Master Nicotine, too, can only live by the sword...",
+"His lament was also a lament for himself."
+],
+"jp": "覇王丸さんや 幻十郎さんだけでなく / 剣にしか生きられないのは 和狆様とて同じ・・・ / あのなげきは、和狆様自身の なげきでもあったのですよ",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2863,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Master Nicotine did not take Haohmaru and the others as pupils",
+"because he saw their talent for the sword,",
+"nor did he mean to raise great swordsmen."
+],
+"jp": "和狆様が覇王丸さんたちを 弟子になさったのは / 剣の天分を見抜いたからでは ありませんし / 剣豪を育てようとの 意図からでもありません",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2864,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Wh-what!?",
+"You... you too, like Master Nicotine,",
+"mean to talk me around with clever words, don't you?"
+],
+"jp": "な・・・何と！ / 貴様、貴様も和狆殿と同じく / 口先で私を、丸め込もうと 言うのだな？",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2865,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"I have no such intention."
+],
+"jp": "そのような意志はございません",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2866,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"I am only meddling because your talent would be wasted.",
+"Whether you listen or not is up to you."
+],
+"jp": "ただ、私はあなたの素質をおしんで お節介を焼いているまでで / お聞き入れ下さらないのは あなたの御勝手です",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Госпожа Токи? Хм... Я уже слышал это имя..."
+}
+]
+},
+{
+"id": 2867,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"If you don't, it simply means your caliber goes no further than that,",
+"and I will give up on you."
+],
+"jp": "それはそれ、あなたの御器量が そこまで止まりだったということで / あきらめますよ",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Госпожа Токи? Хм... Я уже слышал это имя..."
+}
+]
+},
+{
+"id": 2868,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Hmph...! You dare say that!",
+"...Very well. Go on with your speech!",
+"If your excuses sound suspicious, I'll cut you down!"
+],
+"jp": "ぬぬっ・・・申したな！ / ・・・まあよい 口上の続きを申せ！ / 怪しげな言い訳が続くようだと 手打ちにしてくれるぞ！",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Госпожа Токи? Хм... Я уже слышал это имя..."
+}
+]
+},
+{
+"id": 2869,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"As you wish...",
+"Now, are you aware that long ago, Master Nicotine",
+"was a famous swordsman?"
+],
+"jp": "ご随意に・・・ / さて、和狆様はその昔 名の知れた剣客であったことは / ご存じですかな？",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Госпожа Токи? Хм... Я уже слышал это имя..."
+}
+]
+},
+{
+"id": 2870,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"With his skill and his powers as a sorcerer,",
+"he slew the demons that brought harm to this world."
+],
+"jp": "和狆様はその腕と 呪術師としての力を持って / 現世にあだなす魔物どもを 討ち果たしておられたのです",
+"choice": null,
+"context": [
+{
+"ru": "Госпожа Токи? Хм... Я уже слышал это имя..."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 2871,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"But one day,",
+"he was utterly powerless against a mighty demon,",
+"and was thoroughly beaten..."
+],
+"jp": "しかし、ある日のこと / とある強大な魔物に手も足も出ず / こてんぱんにやられておしまいに なったのですな・・・",
+"choice": null,
+"context": [
+{
+"ru": "Госпожа Токи? Хм... Я уже слышал это имя..."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 2872,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Since then, he has trained at Kokain, deep in the Hida mountains,",
+"praying for the souls of all whose blood he has spilled.",
+"Human blood, demon blood..."
+],
+"jp": "それ以来和狆殿は、この飛騨の山奥 枯華院にて修行をなされ / 今まで自分が流した血の供養を していらっしゃるのです / 人の血、魔物の血・・・",
+"choice": null,
+"context": [
+{
+"ru": "Госпожа Токи? Хм... Я уже слышал это имя..."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 2873,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Humans and demons alike... you say..."
+],
+"jp": "人も、魔物も・・・と 申されるか・・・",
+"choice": null,
+"context": [
+{
+"ru": "Госпожа Токи? Хм... Я уже слышал это имя..."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 2874,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Yes...",
+"This is nothing more than my own guess, but..."
+],
+"jp": "はい・・・ / これは私の勝手な想像にしか 過ぎませんが",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2875,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"perhaps the reason Master Nicotine took those two as pupils..."
+],
+"jp": "和狆様があのお二人を 弟子になさったのは",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2876,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"was an extension of those prayers for the dead,"
+],
+"jp": "ひょっとすると ご供養の延長かも知れず",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2877,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"or perhaps he saw his former self in the two of them,"
+],
+"jp": "かつてのご自分を お二人に見ていたのかも知れず",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Э-это же...!!"
+}
+]
+},
+{
+"id": 2878,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"or perhaps he wished to be there to support them."
+],
+"jp": "彼らの支えになって上げたいと 思ってらしたのかも知れません",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Э-это же...!!"
+}
+]
+},
+{
+"id": 2879,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"The path of the sword Master Nicotine has walked",
+"is not the path of the sword you walked in your dojo."
+],
+"jp": "和狆様が歩んでこられた 剣の道は / あなたが道場で歩んできた 剣の道ではありません",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Э-это же...!!"
+}
+]
+},
+{
+"id": 2880,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"What you were hoping for from Master Nicotine...",
+"was likely something he could never have given you."
+],
+"jp": "あなたが和狆様に ご期待してらっしゃるようなことは / 恐らく和狆様には与えることが お出来にならなかったでしょう",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Э-это же...!!"
+},
+{
+"ru": "Куда это ты?!"
+}
+]
+},
+{
+"id": 2881,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"That's right.",
+"In other words, you were troubling Master Nicotine,",
+"it would seem."
+],
+"jp": "そうです / あなたは、和狆様を困らせて いらっしゃったと / いうわけですな",
+"choice": null,
+"context": [
+{
+"ru": "Э-это же...!!"
+},
+{
+"self": true
+},
+{
+"ru": "Куда это ты?!"
+}
+]
+},
+{
+"id": 2882,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"What a blunder!"
+],
+"jp": "これはしたり！",
+"choice": null,
+"context": [
+{
+"ru": "Э-это же...!!"
+},
+{
+"self": true
+},
+{
+"ru": "Куда это ты?!"
+}
+]
+},
+{
+"id": 2883,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Isn't it obvious!?",
+"I must return to Kokain and apologize for the trouble!"
+],
+"jp": "知れたこと！ / 枯華院に戻って ご迷惑をわびねば！",
+"choice": null,
+"context": [
+{
+"ru": "Э-это же...!!"
+},
+{
+"ru": "Куда это ты?!"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 2884,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"No, no... there's no need for that.",
+"I will pass your feelings on to Master Nicotine myself."
+],
+"jp": "いえいえ・・・ それには及びません / 和狆様には私から我孫子様の お気持ちを伝えておきましょう",
+"choice": null,
+"context": [
+{
+"ru": "Куда это ты?!"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 2885,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Well then... but..."
+],
+"jp": "それでは・・・しかし・・・",
+"choice": null,
+"context": [
+{
+"ru": "Куда это ты?!"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 2886,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"It would be better to meet him again",
+"after you've grown a bit more.",
+"...There's no need to rush."
+],
+"jp": "あなたがもう一回り大きく 成長してから / お会いになる方が よろしいでしょう / ・・・あせることはありません",
+"choice": null,
+"context": [
+{
+"ru": "Куда это ты?!"
+},
+{
+"self": true
+},
+{
+"ru": "Б-благодарю вас! Простите мою бестактность!"
+}
+]
+},
+{
+"id": 2887,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"No... I understand. I'm grateful.",
+"I am truly disgusted with myself."
+],
+"jp": "いや・・・わかり申した かたじけない / つくづく自分がイヤになり申す",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Б-благодарю вас! Простите мою бестактность!"
+}
+]
+},
+{
+"id": 2888,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Unskilled, understanding nothing, yet always so impatient..."
+],
+"jp": "未熟で、何も分かっていないのに 気だけは急いて・・・",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Б-благодарю вас! Простите мою бестактность!"
+}
+]
+},
+{
+"id": 2889,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Now, now, just think of this as part of your training.",
+"Someday you will surely bloom into a great flower.",
+"...I'm sure of it."
+],
+"jp": "なになに、これも修行の内だと 思えばいいのです / あなたは今にきっと大輪の花を 咲かすことができます / ・・・きっとね",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Б-благодарю вас! Простите мою бестактность!"
+}
+]
+},
+{
+"id": 2890,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"I believe I told you...",
+"I am but a humble Kuroko..."
+],
+"jp": "申し上げたはずです・・ / 私は、一介の黒子・・・",
+"choice": null,
+"context": [
+{
+"ru": "Б-благодарю вас! Простите мою бестактность!"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 2891,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"After that, Abiko Motojiro Masaharu",
+"returned to his lord in Shimousa, Matsudo Shigenao,",
+"and served him with all his heart."
+],
+"jp": "その後、我孫子基次郎正晴は / 下総の主君、松戸重直の下に帰参し / 一心に奉公した",
+"choice": null,
+"context": [
+{
+"ru": "Б-благодарю вас! Простите мою бестактность!"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 2892,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"He also trained hard in the Kakushin Muso style, earned full mastery,",
+"and inherited the dojo."
+],
+"jp": "また覚真無双流の修行にも励み 見事免許皆伝を許され / 道場の跡目を継いだ",
+"choice": null,
+"context": [
+{
+"ru": "Б-благодарю вас! Простите мою бестактность!"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 2893,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Cheerful and earnest, Masaharu was trusted by his lord and loved by all.",
+"He lived long and served three generations of the Matsudo,",
+"and was said to be a fine retainer, a pillar of the Matsudo clan."
+],
+"jp": "明朗で一本気な正晴は 主君に頼られ、皆に慕われた / 長寿で松戸三代に仕え / 松戸家の柱石とまで言われる 良臣になったという",
+"choice": null,
+"context": [
+{
+"ru": "Б-благодарю вас! Простите мою бестактность!"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 2894,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Ladies and gentlemen!",
+"A special program just for you who cleared Bushido Retsuden!",
+"Our special program!",
+"It's called 'Here at the Item Shop'!!",
+"Broadcast live, literally, from the South Edo Item Shop!",
+"I, Kuroko, will be your host!"
+],
+"jp": "れでぃーす えんど・ぜんとるめん！ / 見事「武士道烈伝」をクリアされた あなただけにお送りする / スペシャル・プログラム！ / 題して「ここは・道具屋」！！ / 文字通り江戸南道具屋から 公開生中継でお送りいたします / 司会は私、黒子が あい務めさせていただきまする",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Я буду признателен за любую помощь."
+},
+{
+"ru": "Воистину... рад знакомству с вами обоими..."
+}
+]
+},
+{
+"id": 2895,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Today we have a wonderful guest with us."
+],
+"jp": "えー、今日、素晴らしい方を ゲストにお招きしてあります",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Я буду признателен за любую помощь."
+},
+{
+"ru": "Воистину... рад знакомству с вами обоими..."
+}
+]
+},
+{
+"id": 2896,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"An old acquaintance of mine and a comrade who fought Mizuki with me...",
+"Master Kafuin Nicotine!"
+],
+"jp": "私の古くからの知人で 共にミズキと戦った戦友でもある / 花諷院和狆師匠です",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Я буду признателен за любую помощь."
+},
+{
+"ru": "Воистину... рад знакомству с вами обоими..."
+}
+]
+},
+{
+"id": 2897,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Now, in this episode of 'Here at the Item Shop',",
+"our guest Master Nicotine will answer the questions",
+"you sent us about Bushido Retsuden!",
+"What strange and wacky questions will pop up!?",
+"Let's get going!"
+],
+"jp": "さて、今回の「ここは・道具屋」は / みなさんから頂いた 「武士道烈伝」に関する質問に / ゲストの和狆師匠が、バッチリ 答えて下さいます！ / さあて、どのような 珍問・奇問が飛び出すやら！ / それでは 張り切って参りましょう！",
+"choice": null,
+"context": [
+{
+"ru": "Я буду признателен за любую помощь."
+},
+{
+"ru": "Воистину... рад знакомству с вами обоими..."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 2898,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Ahem, now then, our first letter...",
+"From 'Go Tigers Go' of Nishinari, Osaka City.",
+"...Ever since the miasma of hell messed up my head,",
+"I got knocked out by Princess Ushiwaka in one hit.",
+"Those swords on her geta are just too dangerous!",
+"Please tell me anything at all about Princess Ushiwaka!",
+"Also, is there a Princess Ushiwaka fan club?"
+],
+"jp": "あーと、それでは 最初のおたより・・・ / 大阪市西成にお住まいの 「タイガース優勝や」さんから / ・・・わいは魔界の瘴気で 頭をやられてから / イッパツで牛若姫様に ノックアウトされてしまいました / なんちゅうてもゲタにつけてる刀が アブのうてたまりません / 牛若姫様のことを 何でもいいから教えて下さい / あと、牛若姫様の ふぁん倶楽部はないのですか？",
+"choice": null,
+"context": [
+{
+"ru": "Я буду признателен за любую помощь."
+},
+{
+"ru": "Воистину... рад знакомству с вами обоими..."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 2899,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Oh, a passionate question right off the bat...",
+"Well, Master Nicotine, what do you think?"
+],
+"jp": "おお、のっけから 熱い質問ですねぇ・・・ / えーと、和狆様 いかがですか？",
+"choice": null,
+"context": [
+{
+"ru": "Я буду признателен за любую помощь."
+},
+{
+"ru": "Воистину... рад знакомству с вами обоими..."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 2900,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Hmm, I'm rather interested in that woman myself...",
+"I've been reading the shogunate spy records, courtesy of Jubei,",
+"so I'll tell you what I can..."
+],
+"jp": "うむ、ワシもあの女人には 興味があってのう・・・ / 十兵衛殿から公儀隠密の資料を 読ましてもろうとるのじゃが / お答えできる範囲で お教えしよう・・・",
+"choice": null,
+"context": [
+{
+"ru": "Воистину... рад знакомству с вами обоими..."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 2901,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"When the Dark Lord revived Amakusa, as a servant,",
+"he also revived another who died with a grudge against this world:",
+"Lord Minamoto no Yoshitsune.",
+"But few men had a body able to endure Yoshitsune's fierce soul.",
+"There just weren't any...",
+"So he used the body of a woman who adored the revived Amakusa",
+"and gave him everything, as a vessel to bring him back...",
+"That is Princess Ushiwaka."
+],
+"jp": "暗黒神は天草を復活させた際 配下として / やはりこの世に怨念を残して 死んでいった / 源九郎判官義経公をも 復活させたのじゃな / じゃが、義経公の強烈な魂に 耐え得るだけの肉体を持つ男は / なかなかおらんでのう / 仕方がないので 復活した天草四郎に恋いこがれ / 全てを捧げた女人の肉体を 依代として蘇らせたのじゃよ・・・ / それが、牛若姫じゃ",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2902,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"I see...",
+"So her loyalty toward Amakusa belongs to the woman",
+"who became the vessel?"
+],
+"jp": "ははーん・・・ / すると、天草四郎に対する忠誠心は その依代となった女の人のものだと / いうわけですか",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2903,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Yes... the overflowing fighting spirit is Yoshitsune's,",
+"and the love for Amakusa is probably the woman's.",
+"That fervent loyalty made her pride run wild,",
+"so she underestimated Haohmaru and the others and lost again and again.",
+"By the way, the three Kai brothers",
+"were warrior brothers who sold their souls to hell, like Mitsurugi Doko.",
+"Into those brothers were infused the souls",
+"of Yoshitsune's loyal guards, it seems..."
+],
+"jp": "うむ・・・ あふれる闘争心は義経公のもの / 天草に対する愛は そのおなごのものじゃろうな / まあ、その熱烈な忠誠心が 自負心を暴走させ / 結果的に覇王丸たちをあなどって 連敗を重ねることになったのじゃが / ちなみに、界三兄弟は / もともと三剣洞光のように 魔界へ魂を売った豪傑兄弟じゃった / その兄弟に 義経公の忠実な親衛隊の魂を / 転生注入させたものらしい・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2904,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Also, for the gentlemen out there,",
+"her measurements were recorded as 82-54-84."
+],
+"jp": "それから 男性諸子のために申しておくと / スリーサイズは ８２・５４・８４と記されておった",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2905,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Th-the shogunate spies",
+"investigate things like that too?"
+],
+"jp": "こ、公儀隠密とは / そんなことまでお調べに なっているのですか？",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2906,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Yes... of course! Since Lord Ieyasu, the Tokugawa",
+"have held detailed information as the key to ruling the land...",
+"With Jubei's divine eye, seeing through a woman's measurements",
+"is child's play... As expected of Japan's greatest swordsman!",
+"Ho, ho, ho..."
+],
+"jp": "うむ・・・もちろんじゃ 神君家康公以来、徳川家は / 情報の細かさをもって天下運営の 第一とされておるからの・・・ / 十兵衛殿の神眼なら 女人のスリーサイズを見切るなど / 朝飯前・・・ さすがは日の本第一の剣豪じゃ！ / ふぉ、ふぉ、ふぉ・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2907,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"I-I see...",
+"So that's how 250 years of peace in Edo were kept?"
+],
+"jp": "な・・・なるほど・・・ / 江戸２５０年の平和は こうやって保たれてきたのですね？",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2908,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Yes... that's exactly it.",
+"Now, about the fan club...",
+"Sadly, there is no Ushiwaka fan club at the moment.",
+"There is, however, her guard corps, the Jusshitai...",
+"Unfortunately they were cut from the Saturn version,",
+"but they're a group of fanatical youths",
+"who'd happily throw their lives away for Ushiwaka.",
+"If you're interested, sell your soul to Amakusa",
+"and get yourself into the Jusshitai!",
+"Though I hear you must be quite handsome to be admitted.",
+"If you're not confident, then at least a fan club",
+"you could start yourself. Hoho."
+],
+"jp": "うむ・・・ そういうことじゃ / さて ふぁん倶楽部の話じゃが / 残念な事に、今のところ 牛若ふぁん倶楽部は存在せぬ / 牛若姫親衛隊「十死隊」 というものはあるんじゃがのぉ / 残念ながらサターンでは ボツになってしもうたが / 牛若のためなら 平気で命を投げ捨てる / 狂信的な若者たちの集まりじゃ / お前様にその気があるなら 天草に魂を売って / 十死隊のメンバーに 入れてもらうことじゃな！ / ただし、相当の美形でないと 入隊は許されぬらしいぞ / 自信がなければ ふぁん倶楽部ぐらい / 自分で作ることじゃの ふぉふぉ",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2909,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Speaking of fan clubs,",
+"I hear you joined the fan club",
+"of Edo Komachi, Master Nicotine..."
+],
+"jp": "ふぁん倶楽部と言えば / 和狆様は江戸小町さんの ふぁん倶楽部に / お入りになられたとか・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2910,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Hohoho...",
+"Little Komachi is so cute, and she sings so well...",
+"I wanted to join Megumi Matsumoto's fan club too, but",
+"they told me 'Megumi hasn't been born yet in this era,'",
+"and turned me down...",
+"Grumble, grumble..."
+],
+"jp": "ふぉふぉふぉ・・・ / 小町ちゃんは可愛くて 歌も上手じゃからのぉ・・・ / 松本恵ちゃんのふぁん倶楽部にも 入りたかったのじゃが / 「この時代にはまだ、恵ちゃんは 生まれておりません」 / などと言われて 却下されてしもうたワイ・・・・ / ぶつぶつ・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2911,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Also, though he doesn't appear in this Bushido Retsuden,",
+"Ukyo has a fan club too, you know...",
+"Heh heh, actually I'm a member myself..."
+],
+"jp": "あと、今回の「武士道烈伝」には 登場していませんが / 右京さんのふぁん倶楽部も あるんですよ・・・ / てへへへ 実は私も会員でして・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2912,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Um, speaking of Ukyo, we have a question about him...",
+"...from 'Ukyo's Ribbon' of Chiyoda, Tokyo.",
+"Here's the letter.",
+"Ukyo is sick and has little time left, so why does he always",
+"leave his chest exposed?",
+"Hmm, actually I've been wondering about that too...",
+"Master Nicotine, what do you think?"
+],
+"jp": "えーと その右京さんの質問ですが / ・・・東京都千代田の 「右京様のリボン」さんからの / おたよりです / 右京様はご病気で余命わずかなのに どうしていつも / 胸元をはだけておられるのですか？ / うーん、実は私も 気になっていたんですよねぇ・・・ / 和狆様、いかがですか？",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2913,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Genjuro is the same,",
+"but SNK characters basically all show a lot of skin...",
+"Anyway, for all his complaining, Ukyo",
+"is tough enough to walk around the whole world...",
+"Maybe if he doesn't keep his chest open, he'd get cured",
+"of his illness? Hohoho."
+],
+"jp": "幻十郎もそうじゃが / ＳＮＫのキャラは基本的にみな 露出度が高いからのう・・・ / ま、それはさておき右京殿も なんだかんだと言いながら / 歩きで世界一周してしまうほどに 丈夫じゃからな・・・ / 胸前を常日頃から開けておかないと 病気が治ってしまうのかも / 知れないぞ？ ふぉふぉふぉ",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2914,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Hmm, thank you for that very deep answer.",
+"Now, our next letter... from Makuhari City,",
+"a question from 'Rufuku South Edo Branch Servant'.",
+"Ahh, I never noticed that a castle had been built under Edo Castle.",
+"Not at all.",
+"How did they carry out such a huge construction project?",
+"...Hmm... that's a harsh question...",
+"...Master Nicotine, what do you say?"
+],
+"jp": "うーん、大変深い回答 ありがとうございました / さて、次のおたよりをば ・・・幕張市にお住まいの / 「留福江戸南支店奉公人」さん からの質問・・・ / あーっと、私は江戸城の地下に 江戸城が出来ていることなど / 全く気がつきませんでした / あれだけ巨大な土木工事を どうやって進めていたのですか？ / ・・・うーん ・・・これは手厳しい質問ですねぇ / ・・・和狆様 どうでしょうか？",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2915,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"We could just say Amakusa's great magic kept the people from noticing,",
+"but that would end it there, so let's add a twist.",
+"This too is something I heard from the shogunate spies,",
+"but there's a rumor that the Inverted Edo Castle was built",
+"...surprisingly cheaply for how it looked."
+],
+"jp": "天草の巨大な魔力で、江戸の民に 何も気づかせなかったのじゃろう / と言ってしまえばお終いじゃから 少しひねってみるかのぉ / これまた 公儀隠密で聞いた話じゃが / あの逆さ江戸城が、見かけの割に ずいぶんとおチープな作りだった / ・・・という噂があるのじゃ",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2916,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Wh-what!?",
+"The Inverted Edo Castle, said to cost hundreds of billions of yen?"
+],
+"jp": "な、なんと！ / あの総工費、ン百オク円と言われた 逆さ江戸城が？",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2917,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Believe it or not, it was built from... plywood!",
+"In some places, they say",
+"they even used cardboard...",
+"And the Dark Lord's magic",
+"held it up from below so it wouldn't fall apart."
+],
+"jp": "逆さ江戸城の建築材料は 驚くなかれ、ベニヤ板・・・！ / 場所によっては 段ボールを使っているところも / あったとさえ言われておる・・・ / それを暗黒神の魔力で / 壊れないように下から 支えておったというわけなのじゃ",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2918,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Hmm... the Dark Lord's magic...",
+"Truly bottomless..."
+],
+"jp": "う～む・・・暗黒神の魔力 / まさに 底知れない物がありますね・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2919,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"They say Kyoshiro struck a pose and stomped right through the floor...",
+"that's how flimsy it was...",
+"The work itself was rushed and sloppy,",
+"and treasure chests were left lying around everywhere",
+"because they were careless with the materials...",
+"According to Demon A (32), who worked on the site,",
+"it paid 300 yen an hour, with no travel or meal allowance,",
+"so who could blame them..."
+],
+"jp": "狂死郎が見栄を切ったら 底を踏み抜いた / というぐらいじゃからの・・・ / 工事自体も突貫手抜き工事で / ここかしこに 宝箱が打ち捨ててあるのは / 資材管理が いい加減じゃったかららしい・・・ / 工事に携わった魔物Ａさん（３２） の証言では / 時給３００円で、交通費食事代 抜きだったそうじゃから / ムリもないがのぉ・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2920,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"If the rumor is true, then when the Inverted Edo Castle plan failed,",
+"the way Amakusa backed off so easily",
+"makes sense, doesn't it?"
+],
+"jp": "噂が本当なら 逆さ江戸城計画が失敗した時 / 天草が、いやにあっさりと 引き上げたというのも / 納得できますよねぇ",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2921,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Well, it's just a rumor...",
+"The truth is lost in the dark now... Hoho."
+],
+"jp": "まあ、噂じゃからの・・・ / 真実はもう、闇の中じゃ・・・ ふぉふぉ",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2922,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Um, then our next postcard,",
+"from 'Gen-chan LOVE Yasu' of Suita City.",
+"...Gen-chan... ah, that means Genjuro.",
+"Every time he levels up he drinks sake and smashes the cup,",
+"but where does he get those cups?"
+],
+"jp": "えーと、それでは次のおハガキ / 吹田市の 「幻ちゃんＬＯＶＥ・ヤス」さん / ・・・幻ちゃんは・・・って これ幻十郎さんのことですね / レベルアップのたびに 酒を飲んで杯を壊していますけど / あれはどこから出て来るんですか？",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2923,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Uhh... questions like this",
+"should go to Takatsu or Umemoto in the publicity department...",
+"I have no idea...",
+"Well, at any rate, he surely keeps them hidden inside his kimono,",
+"no doubt about that."
+],
+"jp": "んあー・・・こういう質問は / 宣伝課の、たかつさんか うめもとさんにして欲しいのぉ / ワシにゃあわからんよ・・・ / まあ、とりあえずふところの中に 隠しておることだけは / 間違いないじゃろうな",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2924,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Come to think of it, when saving,",
+"he'd say 'You... know any shop with a sale on dishes?'",
+"so he seems to worry about the cost."
+],
+"jp": "そう言えば、セーブの時に / 「貴様・・・食器の安売りを やっている店を知らんか？」とか / 言ってましたから お代は気にしてたみたいですねぇ",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2925,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Hohoho... That Genjuro...",
+"Whenever a level up was near,",
+"he must have hurried to restock!"
+],
+"jp": "ふぉふぉふぉ・・・ 幻十郎のやつめ / きっとレベルアップが近くなったら / 急いで補充しておったに 違いあるまい！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2926,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"I wonder what he did when he was abroad...",
+"Sorry, let's leave that as homework for another time."
+],
+"jp": "外国に行ってた時は どうしてたんでしょうねぇ・・・ / 済みません、これはまたの 宿題と言うことにさせて下さい",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2927,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Well then, let's keep going...",
+"A question from 'Hot Spring Gal' of Beppu City.",
+"Traveling is my hobby,",
+"and this year I really want to go abroad...",
+"But I'd have to sneak out behind the shogunate's back, so it's so hard!",
+"How did all the foreign samurai",
+"get to Japan?",
+"Aha... it's easy to forget,",
+"but in this era Japan is still closed off to the world...",
+"What do you think, Master Nicotine?"
+],
+"jp": "さぁて どんどん行きますよ・・・ / 別府市の「温泉ギャルで～す」さん からの質問・・・ / 私は旅行がシュミなのですが / 今年は思い切って海外旅行に 行きたいんですぅ・・・ / 公儀の目を盗んで密出国しなくちゃ ダメだから、もうタイヘ～ン！ / 外国人のサムライのみなさんは / どうやって日本に やってきたのですか？ / はは～ん・・・ 結構忘れられていることですが / この時代、日本はまだ 鎖国中ですからねぇ・・・ / どうでしょう、和狆様？",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2928,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Galford",
+"stowed away from a port town near San Francisco.",
+"As for Cham Cham,",
+"you'll understand if you play the Jaten Korin chapter.",
+"Charlotte and Sieger",
+"entered at Dejima in Nagasaki with official shogunate permission,",
+"on the condition that they would not preach or trade.",
+"Charlotte came by ship via India,",
+"and Sieger came overland through Siberia.",
+"And I hear Wan-Fu swam across the Sea of Japan."
+],
+"jp": "ガルフォードは / サンフランシスコ近くの港町から 密航したのじゃ / チャムチャムは / 邪天降臨の章を プレイしてもらえば分かる / シャルロットとズィーガーは / 正式に幕府の許可を得て 長崎は出島から入国したのじゃ / ただし、布教と交易はしない という条件での / シャルロットは船でインド経由 / ズィーガーはシベリアの 陸路経由でやってきたのじゃぞ / あと、王虎殿は日本海を 泳いでやってこられたそうじゃ",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2929,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"...So there you have it.",
+"Wow, that's Wan-Fu for you, so bold!",
+"Now then, a question about that very Wan-Fu...",
+"...from Anonymous in Hokkaido.",
+"The other day, my big sister, another girlfriend and I",
+"went to have fun in Kyoto together.",
+"It was my first time in Kyoto and I was so giddy and excited,",
+"when suddenly...",
+"a weird old man spoke to us on the Gojo Bridge!",
+"He called us 'manly men'!",
+"How rude can you get! Hmph!",
+"...So she says.",
+"Master Nicotine, can't Wan-Fu tell men and women apart?"
+],
+"jp": "・・・ということでした / いやぁ、流石は王虎さん 豪快ですねぇ！ / えーと、それでは その王虎さんについての質問 / ・・・北海道のトク名希望さんから / この間、姉さんと もう一人女のお友達とで / 一緒に京へ遊びに行った ときのことなんです / 初めての京できゃぴきゃぴルンルン / していたあたしですが / 五条大橋で変なオジサンに 声をかけられんですぅ / そのオジサン、あたしたちのことを 「漢（おとこ）」だなんて言うの / 何て失礼なヤツなんでしょうか！ ぷんぷん！ / ・・・だそうですが / 和狆様、王虎さんは男女の別が おわかりにならないのでしょうか？",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2930,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Wan-Fu is a big-hearted man... he doesn't care about gender.",
+"To Wan-Fu, the word 'man'",
+"probably means a person of great stature.",
+"Since ancient times, China too",
+"has had plenty of pretty warrior girls and beautiful generals...",
+"So even if Wan-Fu called a woman a 'man',",
+"there's nothing strange about it."
+],
+"jp": "王虎殿は、御器量の大きい方・・・ 性別なんぞにはこだわりは無い / 王虎殿にとって「漢」という言葉は / スケールの大きい「人物」を 意味しているのじゃろう / 古来、中国にも / 美少女戦士や美人将軍は たくさんおった・・・ / だから、王虎殿が女性のことを 「漢」と呼んだとしても / 不思議なことはないのじゃよ",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2931,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"I see. I feel like I've been dodged with fancy learning, but",
+"that's Master Nicotine for you!"
+],
+"jp": "なるほど、なんだか教養の力で はぐらかされたような気もしますが / 流石は和狆様ですね！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2932,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"And now it's time for our 'One Photo!' corner!!",
+"This photo was sent in",
+"by 'Love Hunter from the Future' of Kyoto City.",
+"Inventing is my hobby, but some heartless travelers",
+"mocked my invention and made me furious.",
+"So, for revenge,",
+"I snapped some embarrassing photos of them.",
+"Please, in front of samurai fans across the nation,",
+"put them on display for all to see!",
+"Gahahaha!",
+"...So he says."
+],
+"jp": "さて、次は「一枚の写真！」の コーナーです！！ / 写真をいただきましたのは / 京都市の 「未来から来た愛の狩人」さん / 私は発明がシュミなのですが 心ない旅人に / 自分の発明をけなされて 頭に来ました / そこで復讐のため / そいつらの恥ずかしい写真を 激写してやったのです / どうか全国のサムライファンの 眼前で / さらし者にしてやって下さい / がっはっは / ・・・だそうです",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2933,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Oh ho... this is quite something...",
+"Everyone's sleeping faces, eh?"
+],
+"jp": "ほう・・・ これはなかなか・・・ / みなの寝姿というわけか",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2934,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Well then, let's take a look...",
+"Dim the lights, please."
+],
+"jp": "それでは早速 行ってみましょう・・・ / 照明を暗くして下さい",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2935,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Eek! Where do you think you're touching!?"
+],
+"jp": "いやん！ どこさわってんのよ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2936,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"I-it wasn't me!"
+],
+"jp": "わ・・・ワシじゃないゾ！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2937,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Here it is!",
+"Aha, Haohmaru and Kyoshiro..."
+],
+"jp": "はい、出ました！ / はは～ん、覇王丸さん 狂死郎さんですねぇ・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2938,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"They both sleep so messily..."
+],
+"jp": "どちらも寝相が悪いのぉ・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2939,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Kyoshiro,",
+"you don't even take off your makeup to sleep? A true actor!"
+],
+"jp": "狂死郎さん / 寝るときもメイクを落とさないとは 役者ですね～",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2940,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Now, next up is... whoa!"
+],
+"jp": "さて、次は・・・おっと！",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2941,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Ohhh...",
+"Ukyo and Galford...",
+"Hmm, splendid."
+],
+"jp": "おおお・・・ / 右京さんと ガルフォードさんですか・・・ / うーん、素晴らしい",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "...Да, госпожа!"
+}
+]
+},
+{
+"id": 2942,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Ukyo aside,",
+"Galford, what a pathetic sight..."
+],
+"jp": "右京殿はともかく / ガルフォードめ 何という情けない格好じゃ・・・",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "...Да, госпожа!"
+}
+]
+},
+{
+"id": 2943,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Rumor has it",
+"Galford has low blood pressure and isn't a morning person."
+],
+"jp": "噂によると / ガルフォードさんは、低血圧で 朝が弱いらしいですよ",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "...Да, госпожа!"
+}
+]
+},
+{
+"id": 2944,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"...He still has a long way to go to master ninjutsu..."
+],
+"jp": "・・・忍術を極める道のりは まだまだ遠そうじゃのう",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "...Да, госпожа!"
+}
+]
+},
+{
+"id": 2945,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Genjuro, huh...",
+"Mmm, sleeping hugging his sword. So picaresque, isn't it..."
+],
+"jp": "幻十郎さんですか・・・ / うーん、刀を抱いて眠るとは ピカレスクで良いですよねぇ・・・",
+"choice": null,
+"context": [
+{
+"ru": "...Да, госпожа!"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 2946,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"That Genjuro... no wonder his sword smells..."
+],
+"jp": "幻十郎め・・・ 道理で、刀が臭うはずじゃわ",
+"choice": null,
+"context": [
+{
+"ru": "...Да, госпожа!"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 2947,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Well now, next...",
+"Oh, this is..."
+],
+"jp": "さあて、お次は・・・ / おお、これは・・・",
+"choice": null,
+"context": [
+{
+"ru": "...Да, госпожа!"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 2948,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"The Nako-Rimu sisters and Cham Cham...",
+"Hmm... the futon's in the way..."
+],
+"jp": "ナコリム姉妹に チャムチャムですか・・・ / う～ん・・・ フトンが邪魔ですねぇ・・・",
+"choice": null,
+"context": [
+{
+"ru": "...Да, госпожа!"
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 2949,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Ultimate... curse-breaking... replay secret art...",
+"REWIND!!"
+],
+"jp": "超絶・・・解呪・・・ 再現奥義・・・ / 逆刻！！",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Шарлотта...? Вы уверены?"
+}
+]
+},
+{
+"id": 2950,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Ooooh!",
+"As expected of the everyday-use Kafuin secret art!"
+],
+"jp": "おおお！ / さすがは生活密着型の 花諷院奥義！",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Шарлотта...? Вы уверены?"
+}
+]
+},
+{
+"id": 2951,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Hohohoho..."
+],
+"jp": "ほっほっほっほ・・・",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Шарлотта...? Вы уверены?"
+}
+]
+},
+{
+"id": 2952,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Um, next up is..."
+],
+"jp": "えーと、お次は・・・",
+"choice": null,
+"context": [
+{
+"self": true
+},
+{
+"ru": "Шарлотта...? Вы уверены?"
+}
+]
+},
+{
+"id": 2953,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Splash Fount!"
+],
+"jp": "スプラッシュファーント！",
+"choice": null,
+"context": [
+{
+"ru": "Шарлотта...? Вы уверены?"
+},
+{
+"self": true
+},
+{
+"ru": "Большое спасибо..."
+}
+]
+},
+{
+"id": 2954,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Waah! Lights, lights!"
+],
+"jp": "わー！ 明かり、明かり！",
+"choice": null,
+"context": [
+{
+"ru": "Шарлотта...? Вы уверены?"
+},
+{
+"self": true
+},
+{
+"ru": "Большое спасибо..."
+}
+]
+},
+{
+"id": 2955,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"That was quite an accident, but",
+"we did get a glimpse of the samurai's",
+"unexpected true faces..."
+],
+"jp": "とんだハプニングでしたが / とりあえずサムライのみなさんの 意外な素顔が / かいま見えて しまいましたねぇ・・・",
+"choice": null,
+"context": [
+{
+"ru": "Шарлотта...? Вы уверены?"
+},
+{
+"self": true
+},
+{
+"ru": "Большое спасибо..."
+}
+]
+},
+{
+"id": 2956,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Hohoho...",
+"Scrapped features are as many as the stars,",
+"as they say..."
+],
+"jp": "ふぉふぉふぉ・・・ / ボツになった仕様は 星の数のごとし / というわけじゃな・・・",
+"choice": null,
+"context": [
+{
+"ru": "Шарлотта...? Вы уверены?"
+},
+{
+"self": true
+},
+{
+"ru": "Большое спасибо..."
+}
+]
+},
+{
+"id": 2957,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Now, back to our question corner once again.",
+"...This time let's go with the Youka Doukoku chapter.",
+"...A question from Mr. Sagawa of Ise City.",
+"...I work as a courier, and one of my fellows wandered",
+"into some baffling place called the Demon Road.",
+"What on earth is the Demon Road?"
+],
+"jp": "さて、またまた 質問コーナーに戻ります / ・・・今度は妖花慟哭の章から 行ってみましょう / ・・・伊勢市にお住まいの サガワさんの質問 / ・・・私は飛脚をやっていますが 仲間の一人が魔街道とかいう / 訳の分からない所に 迷い込んでしまいました / 魔街道って、一体何なのですか？",
+"choice": null,
+"context": [
+{
+"ru": "Большое спасибо..."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 2958,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"In truth, just like the demon realm, about the Demon Road",
+"nothing is known for certain.",
+"...The story does give bits and pieces, but..."
+],
+"jp": "実のところ、魔街道については 魔界と同様 / 確かなことは何も分かっておらん / ・・・本編中でも 断片的に情報は示されておるが",
+"choice": null,
+"context": [
+{
+"ru": "Большое спасибо..."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 2959,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"In any case,",
+"it's surely a hyperspace formed between the demon realm and this world...",
+"One theory says that when the Animus Bell sends",
+"negative energy to Mizuki, the warping of space",
+"opens the Demon Road and forms the Gate of Hades... apparently.",
+"Another theory says that, to send demons to the surface,",
+"it's a road opened by Mizuki's hatred...",
+"Well, the Animus Bell creates the Demon Road,",
+"and wherever an Animus Bell is, a Gate of Hades surely appears.",
+"Put the other way, if you follow the Demon Road,",
+"you're sure to reach an Animus Bell."
+],
+"jp": "ともかく / 魔界と現世の間に出来た超空間で あることは間違いない・・・ / 一説によると 邪銅鐸がミヅキの所へ / 負のエネルギーを 転送する時に生じる空間のゆがみが / 魔街道を開き 冥界門を形成する・・・らしい / また、別の説では 魔物たちを地上に送り込むために / ミヅキの怨念が開いた道だとも 言われている・・・ / まあ 邪銅鐸が魔街道を作り / 邪銅鐸のあるところに 必ず冥界門が出来るのは確かじゃろ / 逆に言えば 魔街道を進んでいくと / 必ず邪銅鐸にたどり着くと いうことでもあるのぉ",
+"choice": null,
+"context": [
+{
+"ru": "Большое спасибо..."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 2960,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"I see... then,",
+"now that the samurai have defeated Mizuki..."
+],
+"jp": "なるほど・・・と、すると / サムライのみなさんのご活躍で ミヅキが倒れた今では・・・",
+"choice": null,
+"context": [
+{
+"ru": "Большое спасибо..."
+},
+{
+"self": true
+}
+]
+},
+{
+"id": 2961,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Indeed. The Gate of Hades will close,",
+"and the Demon Road will vanish into another dimension once more..."
+],
+"jp": "左様、冥界門は閉じ / 魔街道はまた異空間の彼方に 消え去ってしまうであろうな・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2962,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"So we'll be saying goodbye to the Mu Labyrinth for a while.",
+"...I wanted to hear the 'Moai Ondo' one more time, too."
+],
+"jp": "それじゃあ ムー迷宮とも当分お別れですよね / ・・・「モアイン音頭」を もう一度聞きたかったのですが",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2963,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Next, from someone living on Block 3 of the demon realm...",
+"Demon B.",
+"In Jaten Korin, the Palenque Stone was in Greenhell,",
+"so why was it in the Sun Temple in Youka Doukoku?",
+"That's the question.",
+"I went and asked the Greenhell elder directly!",
+"According to the elder, since Amakusa took the Palenque Stone so easily,",
+"they moved it into the temple, where demons couldn't touch it,",
+"together with the Tanjir Stone.",
+"But in exchange, the Palenque Stone's glow",
+"no longer reached Greenhell directly,",
+"so everyone fell to Xibalba's magic",
+"...or so he said."
+],
+"jp": "次は魔界の３丁目に 住んでいらっしゃる / 魔物Ｂさんから・・・ / 邪天降臨ではグリーンヘルにあった パレンケストーンですが / 妖花慟哭では、どうして 太陽神殿にあったのですか？ / という質問です / これは、グリーンヘルの長老さんに 直接お聞きしてきました！ / 長老さんによると 天草にパレンケストーンを / 簡単に取られてしまったので 魔物は手が出せない神殿の中に / タンジルストーンとともに 移していたそうです / その代わり パレンケストーンの輝きが / 直接グリーンヘルに とどかなくなったので / シバルバの魔力に みなやられてしまった / ・・・とのことです",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2964,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Protect the Palenque Stone, and the villagers suffer.",
+"Save the villagers, and the Palenque Stone gets taken.",
+"...And if the Palenque Stone is taken,",
+"they'll suffer in the end anyway,",
+"so maybe everyone in Greenhell",
+"was ready to share the Palenque Stone's fate..."
+],
+"jp": "パレンケストーンを 守ろうとすれば村人たちが苦しむ / 村人たちを救おうとすれば パレンケストーンは取られてしまう / ・・・パレンケストーンを 取られてしまえば / 結局 苦しむことになるのじゃから / グリーンヘルのみんなは パレンケストーンと / 心中するつもりで おったのかもな・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2965,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Um, then this is our last question...",
+"Starting with 'Secret Swordsman' of Fuji City,",
+"many of you sent in this question...",
+"...Who exactly was Mizuki?",
+"That's the question..."
+],
+"jp": "えーと それでは最後の質問です・・・ / 富士市にお住まいの 「隠密剣士」さん初め / 多数のみなさんから頂いた質問 / ・・・「羅将神ミヅキ」とは 結局何者だったのか？ / ということですが・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2966,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"Information on this is limited too,",
+"but let me tell you what we know so far...",
+"About 1000 years ago, a baby was abandoned on Oki.",
+"...The poor baby was put on a boat and set adrift at sea,",
+"but this was no ordinary baby..."
+],
+"jp": "これも情報は限られておるが / 今の段階で分かっておることは 話させていただこう・・・ / 今から１０００年ほど前に 隠岐で赤子が捨てられたのじゃ / ・・・哀れな赤子は 船に乗せられて海へ流されたが / その赤子はただの赤子では なかったのじゃな・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2967,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"When you say baby, you don't mean a Red Kuroko, do you?"
+],
+"jp": "赤子と言っても 赤黒子のことではありませんね？",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2968,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"The baby seems to have been born with strange powers.",
+"...With those powers,",
+"the baby understood its cursed fate: hunger, cold, approaching death.",
+"It sensed all of that by instinct, and feared, despaired and hated.",
+"Hatred breeds anger, and anger breeds a scream.",
+"The scream of that dark soul resonated with the Dark Lord...",
+"The baby offered up its own body as a sacrifice,",
+"and sold its soul to the Dark Lord..."
+],
+"jp": "その赤子は生まれながらにして 異能力を持っておったようじゃ / ・・・その異能力で / 赤子は自分の呪われた境遇 飢え、寒さ、近づく死 / それら全てを本能的に悟り 恐怖し、絶望し、憎んだ / 憎しみは怒りを生み 怒りは叫びを生む / 暗い魂の叫びは 暗黒神に共鳴した・・・ / 赤子は自らの肉体を生け贄にして / 暗黒神に魂を 売り渡してしまったのじゃ・・・",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+},
+{
+"id": 2969,
+"file": "FLD/F_MAP.BIN",
+"pages": [
+"The Dark Lord let the baby drift ashore at Mount Osore,",
+"and had good villagers raise the child...",
+"The girl, named Mizuki,",
+"gained the spiritual power of Mount Osore and the Dark Lord's magic,",
+"and became a fearsome being...",
+"When Mizuki turned 13,",
+"she offered the village that raised her as a sacrifice to the Dark Lord,",
+"and as Mizuki, priestess of hell, made a pact of immortality."
+],
+"jp": "暗黒神は赤子を恐山に漂着させ / 善良な村人を使って その赤子を育てさせた・・・ / 「みづき」と名付けられたその娘は / 恐山の霊力と 暗黒神の魔力を身につけ / 恐るべき存在となっていった・・・ / １３歳になったみづきは / 自分を育ててくれたその村を 暗黒神の生け贄に捧げ / 魔界の巫女、羅将神ミヅキとして 不死なるものの契約を結んだのじゃ",
+"choice": null,
+"context": [
+{
+"self": true
+}
+]
+}
+]
